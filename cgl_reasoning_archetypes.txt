@@ -1,0 +1,844 @@
+==============================================================================
+SSC CGL TIER-1 REASONING: QUESTION-GENERATION MODEL (mechanism catalog, v1)
+Source: 2,200 Reasoning PYQs (2023-2025, 88 shifts). Ranked by observed frequency.
+Each archetype names the actual reasoning mechanism: trigger, rule/structure,
+standard + fast routes, option tactics, trap, prerequisite, time, verbatim example.
+Series mechanisms (AP/gap/alternating/shift/xk+-c) are computed from the numbers
+or letter-clusters in the question text. Difficulty/Time are heuristic estimates.
+Reasoning Misc holds cross-section contamination (arithmetic/algebra/probability),
+situational-judgement items, Hindi-contaminated rows and parser rejects.
+==============================================================================
+
+------------------------------------------------------------------------------
+TOPIC 1: Number / Alphabet Series — 382 questions (17.4% of Reasoning)
+------------------------------------------------------------------------------
+
+  1. Mixed-operation series — 99x (26% of topic)
+     Micro-concept : combined rules
+     Trigger       : —
+     Standard      : Try halves/alternation/split
+     Fast          : Option back-fit
+     Options       : Test options in sequence
+     Trap          : Single-rule force
+     Prerequisite  : Multi-rule toolkit | Time: 45–75s
+     Example       : Which of the following numbers will replace the question mark (?) in the given series? 8, 15, 26, ? , 56, 75
+
+  2. Constant-shift alphabet series — 82x (21% of topic)
+     Micro-concept : shift [-6, -6, -6] per step
+     Trigger       : —
+     Standard      : Shift each letter
+     Fast          : Same
+     Options       : Check first-letter options
+     Trap          : Reading as words
+     Prerequisite  : A1Z26 shifts | Time: 20–35s
+     Example       : Which of the following letter-clusters will replace the question mark (?) in the given series to make it logically complete? ZXV, TRP, NLJ, HFD, ?
+
+  3. Alternating alphabet pattern — 38x (10% of topic)
+     Micro-concept : two interleaved rules
+     Trigger       : —
+     Standard      : Split odd/even terms
+     Fast          : Parity check
+     Options       : Check parity fit
+     Trap          : Single rule
+     Prerequisite  : Interleaving | Time: 35–55s
+     Example       : Which of the following letter-clusters will replace the question mark (?) in the given series? UV, OY, IB, EE, ?
+
+  4. Alphabet-position series — 36x (9% of topic)
+     Micro-concept : A1Z26 logic
+     Trigger       : —
+     Standard      : Convert; find numeric rule
+     Fast          : Same
+     Options       : Test numeric fit
+     Trap          : Reading letters
+     Prerequisite  : A1Z26 map | Time: 30–55s
+     Example       : Select the option that represents the letters that, when placed from left to right in the following blanks, will complete the letter-series. C L _ V E C _ _ W E C L O _ _ C _ O _ E
+
+  5. Second-order AP (increasing differences) — 27x (7% of topic)
+     Micro-concept : second diff=2
+     Trigger       : —
+     Standard      : Build difference table
+     Fast          : Last gap + last diff
+     Options       : Check last-gap options
+     Trap          : Constant-diff guess
+     Prerequisite  : Difference tables | Time: 30–50s
+     Example       : Select the number from among the given options that can replace the question mark (?) in the following series. 543, 518, 495, 474, 455, ?
+
+  6. Letter-blank fill series (A_BB…) — 20x (5% of topic)
+     Micro-concept : slot completion
+     Trigger       : —
+     Standard      : Find repeating block; fill
+     Fast          : Block-length test
+     Options       : Test block options
+     Trap          : Left-to-right guess
+     Prerequisite  : Repeating blocks | Time: 30–50s
+     Example       : Select the option that represents the letters that, when sequentially placed from left to right in the blanks below, will complete the letter series. MN _ _ SM _ PO _ _ N _ OSM _ P _ S
+
+  7. General series completion — 19x (5% of topic)
+     Micro-concept : pattern extension
+     Trigger       : —
+     Standard      : List candidates; test
+     Fast          : Option test
+     Options       : Check fit
+     Trap          : Random guess
+     Prerequisite  : Pattern toolkit | Time: 30–60s
+     Example       : Select the figure from among the given option that can replace the question mark (?) in the following series.
+
+  8. Constant-difference series — 16x (4% of topic)
+     Micro-concept : AP with d=-3
+     Trigger       : —
+     Standard      : Add d each step
+     Fast          : Extend one step
+     Options       : Eliminate non-AP options
+     Trap          : Assuming +1
+     Prerequisite  : AP extension | Time: 15–30s
+     Example       : Select the option that can replace the question mark (?) in the following series. FM61, EK58, DI55, CG52, ?
+
+  9. Multiply-add (×k±c) series — 12x (3% of topic)
+     Micro-concept : ×2-1
+     Trigger       : —
+     Standard      : Apply ×k±c
+     Fast          : Same
+     Options       : Test last step
+     Trap          : Pure multiply
+     Prerequisite  : ×k±c test | Time: 30–50s
+     Example       : What should come in place of the question mark (?) in the given series? 9 17 33 65 129 ?
+
+  10. Geometric series — 11x (3% of topic)
+     Micro-concept : ratio=3.0
+     Trigger       : —
+     Standard      : Multiply by ratio
+     Fast          : Same
+     Options       : Eliminate non-multiples
+     Trap          : Adding instead
+     Prerequisite  : Ratio test | Time: 20–35s
+     Example       : Find the missing term in the series. 2, 6, 18, 54, ?
+
+  11. Increasing-shift alphabet series — 8x (2% of topic)
+     Micro-concept : shift grows each step
+     Trigger       : —
+     Standard      : Track shift growth
+     Fast          : Same
+     Options       : Check growth fit
+     Trap          : Constant shift
+     Prerequisite  : Shift growth | Time: 30–50s
+     Example       : Find the missing group: EFG, HIJ, LMN, ?
+
+  12. Squares / cubes pattern — 7x (2% of topic)
+     Micro-concept : perfect powers in order
+     Trigger       : —
+     Standard      : Root sequence; extend
+     Fast          : Root check
+     Options       : Check root fit
+     Trap          : Linear fit
+     Prerequisite  : Power list | Time: 25–40s
+     Example       : Which of the following numbers will replace the question marks (?) in the given series? 4, ?, ?, 49, 121, 169, 289
+
+  13. Alternating (two interleaved) series — 4x (1% of topic)
+     Micro-concept : even/odd positions separate APs
+     Trigger       : —
+     Standard      : Split positions; extend needed one
+     Fast          : Parity check
+     Options       : Check position parity
+     Trap          : Single-sequence fit
+     Prerequisite  : Interleaving | Time: 30–50s
+     Example       : Select the number from among the given options that can replace the question mark (?) in the following series. 176,167,156,147,136, ?
+
+  14. Numeric arrangement / analogy set — 2x (1% of topic)
+     Micro-concept : relation across numbers
+     Trigger       : —
+     Standard      : Test +,−,×,÷, squares on whole numbers
+     Fast          : Try squaring first
+     Options       : Test option sets
+     Trap          : Digit-splitting (banned by SSC)
+     Prerequisite  : Whole-number ops | Time: 35–60s
+     Example       : Complete the pattern: 120, 96, 76.8, 61.44, ?
+
+  15. Additive (Fibonacci-type) series — 1x (0% of topic)
+     Micro-concept : each = sum of previous two
+     Trigger       : —
+     Standard      : Add last two
+     Fast          : Same
+     Options       : Check last-two sum
+     Trap          : Difference fit
+     Prerequisite  : Additive scan | Time: 20–35s
+     Example       : What comes next: 1, 1, 2, 3, 5, 8, 13, 21, ?, ?
+
+------------------------------------------------------------------------------
+TOPIC 2: Mathematical Operators — 228 questions (10.4% of Reasoning)
+------------------------------------------------------------------------------
+
+  1. Sign-swap to balance — 90x (39% of topic)
+     Micro-concept : swap two operators
+     Trigger       : "which two signs interchanged…"
+     Standard      : Try option swaps; evaluate (BODMAS)
+     Fast          : Estimate-then-verify
+     Options       : Kill non-balancing fast
+     Trap          : No-bracket evaluation
+     Prerequisite  : BODMAS | Time: 35–60s
+     Example       : Which two signs should be interchanged to make the given equation correct? 588 ÷ 28 × 32 + 72 – 160 = 760
+
+  2. General operator fill — 64x (28% of topic)
+     Micro-concept : BODMAS trial
+     Trigger       : —
+     Standard      : Try options with BODMAS
+     Fast          : Estimate first
+     Options       : Kill by size
+     Trap          : No-bracket math
+     Prerequisite  : BODMAS | Time: 40–65s
+     Example       : Select the correct combination of mathematical signs to sequentially place from left to right in the blanks below to balance the given equation. 8 _ 27 _ 9 _ 6 _ 5 = 0
+
+  3. Custom-operator substitution — 41x (18% of topic)
+     Micro-concept : symbol remap
+     Trigger       : "< means −, ! means ×…; evaluate"
+     Standard      : Remap symbols; BODMAS evaluate
+     Fast          : Remap inline
+     Options       : Check remap direction
+     Trap          : Original meaning kept
+     Prerequisite  : Remap + BODMAS | Time: 40–65s
+     Example       : If ‘<’ means ‘−’, ‘!’ means ‘×’, ‘>’ means ‘+’ and ‘$’ means ‘÷’, then what is the value of the following expression? 183 > 39 $ 13 ! 6 < 26
+
+  4. Odd operation-pair out — 24x (11% of topic)
+     Micro-concept : common operation
+     Trigger       : "all pairs share op except one"
+     Standard      : Extract op from two pairs; test rest
+     Fast          : Difference/ratio scan
+     Options       : Test candidate odd
+     Trap          : Single-pair rule
+     Prerequisite  : Operation scan | Time: 35–60s
+     Example       : The second number in the given number-pairs is obtained by performing certain mathematical operation(s) on the first number. The same operation(s) is/are followed in all the number-pairs except one. F
+
+  5. Fill-*-with-operators — 4x (2% of topic)
+     Micro-concept : operator placement
+     Trigger       : "256*4*9*3*14 = 51"
+     Standard      : Try option sequences; BODMAS
+     Fast          : Magnitude estimate first
+     Options       : Eliminate by size
+     Trap          : Left-to-right only
+     Prerequisite  : Operator trial | Time: 40–65s
+     Example       : Select the correct combination of mathematical signs that can sequentially replace the * signs and balance the given equation. 256 * 4 * 9 * 3 * 14 = 51
+
+  6. Special-character replacement — 3x (1% of topic)
+     Micro-concept : symbol remap
+     Trigger       : replace special characters with signs
+     Standard      : Map each symbol then apply BODMAS
+     Fast          : Remap inline
+     Options       : Check mapping
+     Trap          : Original meaning kept
+     Prerequisite  : Remap plus BODMAS | Time: 40-65s
+     Example       : Replace the special characters with mathematical signs to make the equation correct: 20 $ 5 # 2 = 10.
+
+  7. Grid/matrix number pattern (?) — 2x (1% of topic)
+     Micro-concept : row-wise rule
+     Trigger       : "rows (a,b,c): find ?"
+     Standard      : Test row ops (+,-,x,squares) on two rows
+     Fast          : Row-sum scan first
+     Options       : Verify on second row
+     Trap          : Column-only view
+     Prerequisite  : Row-rule scan | Time: 45–75s
+     Example       : Study the given pattern carefully and select the number that can replace the question mark (?) in it. First row: 16, 15, 35 Second row: 12, 18, 33 Third row: 8, 17, ? (NOTE: Operations should be perfo
+
+------------------------------------------------------------------------------
+TOPIC 3: Analogy — 220 questions (10.0% of Reasoning)
+------------------------------------------------------------------------------
+
+  1. Number analogy (a:b :: c:?) — 108x (49% of topic)
+     Micro-concept : operation across pair
+     Trigger       : "(55,11,25)-type sets; 5:45::6:?"
+     Standard      : Find op mapping first pair; apply
+     Fast          : Test squares/cubes first
+     Options       : Test options in mapping
+     Trap          : Digit-splitting
+     Prerequisite  : Whole-number ops | Time: 35–60s
+     Example       : Select the set in which the numbers are related in the same way as are the numbers of the following sets. (55, 11, 25) (64,16, 16) (NOTE : Operations should be performed on the whole numbers, without 
+
+  2. General analogy — 43x (20% of topic)
+     Micro-concept : relation mapping
+     Trigger       : —
+     Standard      : Name relation in pair 1; apply
+     Fast          : Relation naming
+     Options       : Eliminate unrelated
+     Trap          : Vague association
+     Prerequisite  : Relation vocabulary | Time: 30–55s
+     Example       : ‘Summer’ is related to ‘Season’ in the same way as ‘Cotton’ is related to ‘________’.
+
+  3. Word analogy (semantic) — 29x (13% of topic)
+     Micro-concept : relation type
+     Trigger       : "Skin:Touch :: Nose:?"
+     Standard      : Name relation (function/part/cause); apply
+     Fast          : Relation naming
+     Options       : Eliminate unrelated
+     Trap          : Association vagueness
+     Prerequisite  : Relation vocabulary | Time: 20–35s
+     Example       : Select the option that is related to the third word in the same way as the second word is related to the first word. (The words must be considered as meaningful English words and must not be related t
+
+  4. Letter/term analogy (positional) — 26x (12% of topic)
+     Micro-concept : positional mapping
+     Trigger       : "HMD:KOE :: BNQ:?"
+     Standard      : Map shifts pair 1; apply to pair 2
+     Fast          : Shift-map once
+     Options       : Check first-letter options
+     Trap          : Reading as words
+     Prerequisite  : A1Z26 shifts | Time: 35–60s
+     Example       : Select the option that is related to the sixth letter-cluster in the same way as the first letter-cluster is related to the second letter-cluster and the third letter-cluster is related to the fourth 
+
+  5. Set/triad analogy — 9x (4% of topic)
+     Micro-concept : common rule across triple
+     Trigger       : "sets (a,b,c) with same rule"
+     Standard      : Extract rule from two given sets
+     Fast          : Test divide/square forms
+     Options       : Test option sets
+     Trap          : Pairwise only
+     Prerequisite  : Rule extraction | Time: 40–65s
+     Example       : Three of the following four triads are alike in a certain way as they are formed by performing same mathematical operations among themselves and thus form a group. Which triad does NOT belong to that 
+
+  6. Word analogy (Hindi stem) — 5x (2% of topic)
+     Micro-concept : relation mapping
+     Trigger       : "…उसी प्रकार संबंधित…"
+     Standard      : Name relation in pair 1 (Hindi); apply
+     Fast          : Relation naming
+     Options       : Eliminate unrelated
+     Trap          : Vague association
+     Prerequisite  : Relation vocabulary | Time: 25–40s
+     Example       : 'खिलना' (Blossom),'मुरझाना' (Wither) से उसी प्रकार संबंधित है, जिस प्रकार 'स्थिर होना' (Stagnate) '________' से संबंधित है। (शब्दोंों को सार्थक हिंंदी शब्द माना जाना चाहिए और शब्‍दों को अक्षरों की संख
+
+------------------------------------------------------------------------------
+TOPIC 4: Coding-Decoding — 207 questions (9.4% of Reasoning)
+------------------------------------------------------------------------------
+
+  1. General code transform — 86x (42% of topic)
+     Micro-concept : encode/decode map
+     Trigger       : —
+     Standard      : Map Q→option transforms
+     Fast          : Position map
+     Options       : Verify mapping
+     Trap          : Assuming shift
+     Prerequisite  : Transform inventory | Time: 35–60s
+     Example       : In a certain code language, ‘sit on chair’ is coded as 'sk mi cn' and ‘the chair broke’ is coded as ‘gm fr mi’. How is ‘chair’ coded in the given language?
+
+  2. Alphanumeric / position-sum coding — 73x (35% of topic)
+     Micro-concept : letters ↔ numbers
+     Trigger       : "ASK→62; TABLE→ELEAT"
+     Standard      : Sum positions / reverse-sum; test
+     Fast          : Position sums first
+     Options       : Verify sums match
+     Trap          : A=0 indexing
+     Prerequisite  : A1Z26 sums | Time: 30–50s
+     Example       : In a certain code language, ‘ASK’ is written as ‘62’ and ‘BYE’ is written as ‘64’. How will ‘CRY’ be written in that language?
+
+  3. Letter transform (mixed shifts) — 26x (13% of topic)
+     Micro-concept : per-position mapping
+     Trigger       : —
+     Standard      : Map every position 1:1; apply
+     Fast          : Ends-first check
+     Options       : Verify full mapping
+     Trap          : Assuming uniform shift
+     Prerequisite  : Position mapping | Time: 40–65s
+     Example       : In a certain code language, ‘TABLE’ is coded as ELEAT and ‘SWING’ is coded as GNLWS. How will ‘FRAME’ be coded in the same language?
+
+  4. Letter-shift transform (uniform) — 16x (8% of topic)
+     Micro-concept : equal shift -2 per letter
+     Trigger       : —
+     Standard      : Compute per-position shift; apply
+     Fast          : First-letter shift only
+     Options       : Verify all positions
+     Trap          : First-letter only
+     Prerequisite  : A1Z26 shifts | Time: 30–50s
+     Example       : In a certain code language, ‘TIZZ’ is written as ‘VKBB’ and ‘QOPH’ is written as ‘SQRJ’. How will ‘CKAU’ be written in that language?
+
+  5. Matrix / code-table coding — 5x (2% of topic)
+     Micro-concept : lookup mapping
+     Trigger       : "code chart given"
+     Standard      : Build map; decode stepwise
+     Fast          : Map once
+     Options       : Check lookups
+     Trap          : Row/col swap
+     Prerequisite  : Table lookup | Time: 40–65s
+     Example       : If TABLE is written as SZAKD, how is CHAIR written?
+
+  6. Rearrangement coding — 1x (0% of topic)
+     Micro-concept : position permutation
+     Trigger       : "TABLE→ELEAT pattern"
+     Standard      : Map positions 1:1; apply
+     Fast          : Position map
+     Options       : Check fixed points
+     Trap          : Assuming shift
+     Prerequisite  : Permutation map | Time: 35–60s
+     Example       : Which of the following is not an anagram of the word "REACT"?
+
+------------------------------------------------------------------------------
+TOPIC 5: Miscellaneous (Reasoning) — 207 questions (9.4% of Reasoning)
+------------------------------------------------------------------------------
+
+  1. Unclassified reasoning item — 207x (100% of topic)
+     Micro-concept : mixed skill
+     Trigger       : "…"
+     Standard      : Classify by stem first
+     Fast          : Same
+     Options       : As applicable
+     Trap          : Misclassification
+     Prerequisite  : Stem patterns | Time: 30–60s
+     Example       : Two numbers are in the ratio 5 : 7 and their sum is 144. Find the numbers.
+
+------------------------------------------------------------------------------
+TOPIC 6: Blood Relations — 176 questions (8.0% of Reasoning)
+------------------------------------------------------------------------------
+
+  1. Direct relation (1–2 links) — 89x (51% of topic)
+     Micro-concept : single-hop map
+     Trigger       : —
+     Standard      : Direct map; check gender
+     Fast          : Same
+     Options       : Verify gender
+     Trap          : Gender flip
+     Prerequisite  : Relation map | Time: 25–40s
+     Example       : Select the Venn diagram that best illustrates the relationship between the following classes. Ticket, Aeroplane, Rail
+
+  2. Coded relation (symbol map) — 69x (39% of topic)
+     Micro-concept : decode then traverse
+     Trigger       : "A+B means…; how related?"
+     Standard      : Substitute meanings; walk the tree
+     Fast          : Draw tree top-down
+     Options       : Check gender markers
+     Trap          : Gender assumption
+     Prerequisite  : Tree drawing | Time: 45–75s
+     Example       : Looking at the family picture, Smriti said, “She is my father’s father-in-law’s wife’s son’s only sister.’ How is the person in the photo related to Smriti’s father?
+
+  3. Chained relation (3+ links) — 18x (10% of topic)
+     Micro-concept : multi-hop traversal
+     Trigger       : —
+     Standard      : Collapse inside-out; track gender
+     Fast          : Innermost-first
+     Options       : Check gender at each hop
+     Trap          : Skipping a hop
+     Prerequisite  : Hop collapsing | Time: 45–70s
+     Example       : Ganesh was taking a walk with his mother’s brother’s father’s granddaughter. Who was he walking with?
+
+------------------------------------------------------------------------------
+TOPIC 7: Syllogism & Conclusions — 161 questions (7.3% of Reasoning)
+------------------------------------------------------------------------------
+
+  1. General syllogism task — 76x (47% of topic)
+     Micro-concept : Venn/test method
+     Trigger       : —
+     Standard      : Diagram or conclusion testing
+     Fast          : Universal-first
+     Options       : Kill false ones
+     Trap          : Leap of logic
+     Prerequisite  : Venn method | Time: 45–75s
+     Example       : Statement: Most students in the class passed the exam. Conclusions: I. Some students failed the exam. II. All students appeared for the exam.
+
+  2. Three-statement syllogism — 32x (20% of topic)
+     Micro-concept : Venn chains
+     Trigger       : "three statements + conclusions I–IV"
+     Standard      : Draw overlapping circles; test each conclusion
+     Fast          : Universal-first diagram
+     Options       : Kill false conclusions
+     Trap          : Middle-term leap
+     Prerequisite  : Venn method | Time: 45–75s
+     Example       : Three statements are given, followed by four conclusions numbered I, II, III and IV. Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of 
+
+  3. Statement–assumption — 18x (11% of topic)
+     Micro-concept : implicit premise
+     Trigger       : "which assumption follows"
+     Standard      : Negation test on options
+     Fast          : Negation test
+     Options       : Eliminate explicit restatements
+     Trap          : Stated-as-assumed
+     Prerequisite  : Negation test | Time: 40–60s
+     Example       : Statement: Online education requires reliable internet access. Assumptions: I. Students have access to the internet. II. Traditional education is outdated.
+
+  4. Standard syllogism (statements + conclusions) — 17x (11% of topic)
+     Micro-concept : Venn chains
+     Trigger       : "statements + conclusions I/II/III"
+     Standard      : Draw overlapping circles; test each conclusion
+     Fast          : Universal-first diagram
+     Options       : Kill absolute-word conclusions
+     Trap          : Middle-term leap
+     Prerequisite  : Venn method | Time: 45–75s
+     Example       : Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the 
+
+  5. Single-statement conclusion — 10x (6% of topic)
+     Micro-concept : direct inference
+     Trigger       : statement plus one conclusion
+     Standard      : Test conclusion against statement only
+     Fast          : Same
+     Options       : Kill overreach
+     Trap          : Outside info
+     Prerequisite  : Strict reading | Time: 30-45s
+     Example       : Read the following statement carefully and identify the conclusion(s) that follow. Statement: All registered voters received voter ID cards. Conclusions: I. Some people received voter ID cards. II. No
+
+  6. Argument / course-of-action — 8x (5% of topic)
+     Micro-concept : strength test
+     Trigger       : "strong vs weak argument"
+     Standard      : Core-issue + desirability test
+     Fast          : Core-issue filter
+     Options       : Kill side-issue options
+     Trap          : Emotional appeal
+     Prerequisite  : Core-issue test | Time: 40–60s
+     Example       : Problem: Rising traffic congestion in metro cities. Course of Action: I. Authorities should promote public transport. II. Private vehicles should be completely banned.
+
+------------------------------------------------------------------------------
+TOPIC 8: Classification / Odd-One-Out — 121 questions (5.5% of Reasoning)
+------------------------------------------------------------------------------
+
+  1. Bare odd-one-out (inspect options) — 64x (53% of topic)
+     Micro-concept : option-driven
+     Trigger       : odd one out with bare stem
+     Standard      : Test number letter word property per option
+     Fast          : Kill three alike
+     Options       : Check all options
+     Trap          : First-option bias
+     Prerequisite  : Property scan | Time: 30-50s
+     Example       : Which of the following is the odd one out?
+
+  2. Group-of-four odd-out (content in options) — 32x (26% of topic)
+     Micro-concept : arithmetic property
+     Trigger       : "odd number-pair out"
+     Standard      : Test divisibility/parity/squares per option
+     Fast          : Parity/divisibility first
+     Options       : Kill three alike
+     Trap          : Single-option focus
+     Prerequisite  : Number properties | Time: 30–50s
+     Example       : Three of the following four letter-clusters are alike in a certain way and one is different. Pick the odd one out.
+
+  3. Letter-cluster classification — 19x (16% of topic)
+     Micro-concept : positional property
+     Trigger       : "odd letter-cluster out"
+     Standard      : Convert to numbers; find property break
+     Fast          : Vowel/consonant + shift scan
+     Options       : Kill three alike
+     Trap          : Reading as words
+     Prerequisite  : A1Z26 + parity | Time: 30–50s
+     Example       : Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the odd letter-cluster.
+
+  4. General odd-one-out — 5x (4% of topic)
+     Micro-concept : property break
+     Trigger       : —
+     Standard      : Test each option for the odd property
+     Fast          : Kill three alike
+     Options       : Check all options
+     Trap          : Single focus
+     Prerequisite  : Property scan | Time: 30–50s
+     Example       : Identify the odd one: 3, 5, 7, 11, 13, 17, 19, 21
+
+  5. Number-based classification — 1x (1% of topic)
+     Micro-concept : arithmetic property
+     Trigger       : "odd number-pair out"
+     Standard      : Test divisibility/parity/squares per option
+     Fast          : Parity/divisibility first
+     Options       : Kill three alike
+     Trap          : Single-option focus
+     Prerequisite  : Number properties | Time: 30–50s
+     Example       : Which of the following number sets is different from the others? (9, 18, 36) (12, 24, 48) (7, 14, 29) (5, 10, 20)
+
+------------------------------------------------------------------------------
+TOPIC 9: Dictionary & Word Formation — 108 questions (4.9% of Reasoning)
+------------------------------------------------------------------------------
+
+  1. Dictionary order — 86x (80% of topic)
+     Micro-concept : letter-by-letter compare
+     Trigger       : "order as in dictionary"
+     Standard      : Compare 1st differing letter
+     Fast          : First-difference only
+     Options       : Sort pairwise
+     Trap          : Whole-word guess
+     Prerequisite  : Lexicographic compare | Time: 25–40s
+     Example       : Select the option that represents the correct order of the given words as they would appear in an English dictionary. 1. Warriors 2. Warehouse 3. Warcraft 4. Warranty 5. Wardrobe 6. Wardenship
+
+  2. Meaningful-word formation — 14x (13% of topic)
+     Micro-concept : anagram search
+     Trigger       : "meaningful words from letters…"
+     Standard      : Fix first letter; test
+     Fast          : Vowel anchor
+     Options       : Try option words
+     Trap          : Non-word acceptance
+     Prerequisite  : Anagram skill | Time: 30–55s
+     Example       : How many meaningful 4-letter English words can be formed using 2nd, 3rd, 4th and 5th letters of the word TEACHER, without repetition?
+
+  3. General order/formation — 7x (6% of topic)
+     Micro-concept : lexicographic/anagram
+     Trigger       : —
+     Standard      : Compare/form stepwise
+     Fast          : First-difference
+     Options       : Pairwise test
+     Trap          : Guessing
+     Prerequisite  : Order basics | Time: 30–50s
+     Example       : Which word cannot be formed from DEMOCRACY?
+
+  4. Alphabet-position gap count — 1x (1% of topic)
+     Micro-concept : A1Z26 spans
+     Trigger       : "letters between first and… in word"
+     Standard      : Convert to numbers; count exclusives
+     Fast          : Number line
+     Options       : Check inclusive/exclusive
+     Trap          : Off-by-one
+     Prerequisite  : Position counting | Time: 25–40s
+     Example       : How many letters in the given word are between the first vowel and the last consonant? “COMMUNICATION”
+
+------------------------------------------------------------------------------
+TOPIC 10: Embedded / Completion / Counting — 101 questions (4.6% of Reasoning)
+------------------------------------------------------------------------------
+
+  1. Figure completion — 47x (47% of topic)
+     Micro-concept : symmetry fill
+     Trigger       : "complete the figure"
+     Standard      : Mirror/rotate given part
+     Fast          : Symmetry fill
+     Options       : Check symmetry fit
+     Trap          : Random fill
+     Prerequisite  : Symmetry | Time: 25–45s
+     Example       : Identify the figure given in the options which when put in place of the question mark (?) will logically complete the series?
+
+  2. Count geometric figures — 34x (34% of topic)
+     Micro-concept : systematic enumeration
+     Trigger       : "how many triangles…"
+     Standard      : Count by size class; sum
+     Fast          : Size-class table
+     Options       : Verify against options
+     Trap          : Double counting
+     Prerequisite  : Class-wise count | Time: 45–75s
+     Example       : How many squares are there in the given figure?
+
+  3. Embedded (hidden) figure — 16x (16% of topic)
+     Micro-concept : part-whole spotting
+     Trigger       : "figure embedded in option"
+     Standard      : Match lines/angles inventory
+     Fast          : Distinctive-part hunt
+     Options       : Eliminate size-mismatch
+     Trap          : Rotated blindness
+     Prerequisite  : Line inventory | Time: 30–50s
+     Example       : Select the option figure which is embedded in the given figure (Rotation is NOT allowed).
+
+  4. General figure task — 4x (4% of topic)
+     Micro-concept : visual analysis
+     Trigger       : —
+     Standard      : Refer figure; apply task rule
+     Fast          : Task rule
+     Options       : As applicable
+     Trap          : Figure blindness
+     Prerequisite  : Visual method | Time: 40–70s
+     Example       : Select the figure that will come in place of the question mark (?) in the following figure series.
+
+------------------------------------------------------------------------------
+TOPIC 11: Figure-Based (Image) — 53 questions (2.4% of Reasoning)
+------------------------------------------------------------------------------
+
+  1. Figure task (needs PDF) — 53x (100% of topic)
+     Micro-concept : visual reasoning
+     Trigger       : "[image content]"
+     Standard      : Refer original PDF figure
+     Fast          : Same
+     Options       : As applicable
+     Trap          : —
+     Prerequisite  : — | Time: 60–90s
+     Example       : [image/figure-based content -- see original PDF]
+
+------------------------------------------------------------------------------
+TOPIC 12: Mirror / Water Images — 52 questions (2.4% of Reasoning)
+------------------------------------------------------------------------------
+
+  1. Mirror image (lateral inversion) — 49x (94% of topic)
+     Micro-concept : left-right flip
+     Trigger       : "mirror image of figure"
+     Standard      : Flip L-R; keep top-bottom
+     Fast          : L-R flip only
+     Options       : Eliminate non-flipped
+     Trap          : Water-flip confusion
+     Prerequisite  : Lateral inversion | Time: 20–35s
+     Example       : Select the correct mirror image of the given figure when the mirror is placed at AB.
+
+  2. General image flip — 3x (6% of topic)
+     Micro-concept : flip rule
+     Trigger       : —
+     Standard      : Apply L-R or T-B flip
+     Fast          : Flip once
+     Options       : Eliminate wrong flips
+     Trap          : Flip confusion
+     Prerequisite  : Flip rules | Time: 20–35s
+     Example       : A transparent sheet with a pattern is given below. Select the option that depicts the pattern that would appear when the given transparent sheet is folded at the middle horizontal line.
+
+------------------------------------------------------------------------------
+TOPIC 13: Dice & Cubes — 49 questions (2.2% of Reasoning)
+------------------------------------------------------------------------------
+
+  1. Standard dice opposite-face — 42x (86% of topic)
+     Micro-concept : adjacent-never-opposite
+     Trigger       : "face opposite 1?"
+     Standard      : Common-face rotation / adjacency elimination
+     Fast          : Adjacency kills opposite
+     Options       : Check adjacency claims
+     Trap          : Opposite adjacency
+     Prerequisite  : Dice nets | Time: 30–50s
+     Example       : Three different positions of the same dice are shown. Find the number on the face opposite the face showing ‘1’.
+
+  2. General dice/cube — 7x (14% of topic)
+     Micro-concept : spatial logic
+     Trigger       : —
+     Standard      : Opposite-face / net analysis
+     Fast          : Net mapping
+     Options       : Check adjacency
+     Trap          : Opposite adjacency
+     Prerequisite  : Spatial rules | Time: 30–55s
+     Example       : A cube is constructed by folding the given sheet along the lines shown. In the cube so formed, what would be the symbol on the opposite side of ‘#’?
+
+------------------------------------------------------------------------------
+TOPIC 14: Attention to Detail — 44 questions (2.0% of Reasoning)
+------------------------------------------------------------------------------
+
+  1. Exact string/address match — 44x (100% of topic)
+     Micro-concept : character scan
+     Trigger       : "address same as given…"
+     Standard      : Chunk-wise compare
+     Fast          : Chunk compare
+     Options       : Diff-scan options
+     Trap          : Skim reading
+     Prerequisite  : Careful scanning | Time: 20–35s
+     Example       : Which of the following addresses are identical to each other: Which of the following addresses are identical? Rohit Sharma, Flat 203, Green Park, Delhi, 110016 Rohit Sharma, Flat-203, Green Park, Delh
+
+------------------------------------------------------------------------------
+TOPIC 15: Paper Folding & Cutting — 30 questions (1.4% of Reasoning)
+------------------------------------------------------------------------------
+
+  1. Fold-punch-unfold trace — 30x (100% of topic)
+     Micro-concept : symmetric replication
+     Trigger       : "folded and cut as shown"
+     Standard      : Replay folds in reverse
+     Fast          : Symmetry replication
+     Options       : Check symmetry axes
+     Trap          : Single-hole answer
+     Prerequisite  : Unfold reversal | Time: 40–65s
+     Example       : A paper is folded and cut as shown below. How will it appear when unfolded?
+
+------------------------------------------------------------------------------
+TOPIC 16: Figure Series — 20 questions (0.9% of Reasoning)
+------------------------------------------------------------------------------
+
+  1. Figure series completion (?) — 20x (100% of topic)
+     Micro-concept : visual rule per step
+     Trigger       : "which figure replaces ?"
+     Standard      : Test rotation/count/shading/element rules stepwise
+     Fast          : One-change scan
+     Options       : Test options in slot
+     Trap          : Single-feature lock
+     Prerequisite  : Visual rules | Time: 50–80s
+     Example       : Which figure should replace the question mark (?) if the following series were to be continued?
+
+------------------------------------------------------------------------------
+TOPIC 17: Direction Sense — 13 questions (0.6% of Reasoning)
+------------------------------------------------------------------------------
+
+  1. General direction-distance — 10x (77% of topic)
+     Micro-concept : path tracking
+     Trigger       : —
+     Standard      : Track N/E/S/W steps; net displacement
+     Fast          : Net vector
+     Options       : Check scale
+     Trap          : Sign error
+     Prerequisite  : Cardinal tracking | Time: 30–50s
+     Example       : Which of the following is/are identical to the address given? 1. Rohit Kumar, Flat 12A, Sunrise Apartments, Andheri East, Mumbai - 400069 2. Rohit Kumar, Flat 12A, Sunrise Apartments, Andheri East, Mu
+
+  2. Turn-and-distance path — 2x (15% of topic)
+     Micro-concept : cardinal tracking
+     Trigger       : "turns left, walks 5 km…"
+     Standard      : Track N/E/S/W; Pythagoras for displacement
+     Fast          : Net displacement sketch
+     Options       : Check turn direction
+     Trap          : Left-right flip
+     Prerequisite  : Cardinal tracking | Time: 35–60s
+     Example       : P is facing South. Q is seated third to the left of P. Who is seated immediately to the right of Q?
+
+  3. Shadow-based direction — 1x (8% of topic)
+     Micro-concept : sun orientation
+     Trigger       : "morning shadow; which direction…"
+     Standard      : Morning shadow = west; map turns
+     Fast          : Shadow rule memory
+     Options       : Check time of day
+     Trap          : Shadow = facing
+     Prerequisite  : Shadow rules | Time: 30–45s
+     Example       : In a certain code, “sun rises in east” is written as “ka lo mi su” “moon rises at night” is written as “pa lo ti ra” “stars in night sky” is written as “mi ra xe zo” “sun and moon shine” is written as
+
+------------------------------------------------------------------------------
+TOPIC 18: Ranking & Order — 8 questions (0.4% of Reasoning)
+------------------------------------------------------------------------------
+
+  1. Rank / position in row — 8x (100% of topic)
+     Micro-concept : ends counting
+     Trigger       : "rank from left/right…"
+     Standard      : Total = L + R − 1 forms
+     Fast          : Ends formula
+     Options       : Check 1-indexing
+     Trap          : Zero-indexing
+     Prerequisite  : Rank formulas | Time: 25–40s
+     Example       : In a row of 60 students, P is 18th from the left and Q is 25th from the right. How many students are between P and Q?
+
+------------------------------------------------------------------------------
+TOPIC 19: Calendar & Clock — 7 questions (0.3% of Reasoning)
+------------------------------------------------------------------------------
+
+  1. Clock hands / angle — 4x (57% of topic)
+     Micro-concept : relative speed 360/11
+     Trigger       : "angle between hands; mirror time"
+     Standard      : Minute angle = 6m; hour = 30h + m/2
+     Fast          : |30h − 11m/2|
+     Options       : Check reflex option
+     Trap          : Hour freeze
+     Prerequisite  : Hand formulas | Time: 30–50s
+     Example       : CLOCK : ENQEM :: TABLE : ?
+
+  2. Calendar / day-date — 2x (29% of topic)
+     Micro-concept : odd-day counting
+     Trigger       : "day of week on date…"
+     Standard      : Odd days mod 7 from reference
+     Fast          : Century/year/month odd-day table
+     Options       : Eliminate by parity
+     Trap          : Year-length slip
+     Prerequisite  : Odd-day method | Time: 40–65s
+     Example       : Which of the following is a leap year?
+
+  3. General calendar/clock — 1x (14% of topic)
+     Micro-concept : cycle math
+     Trigger       : —
+     Standard      : Odd-days / hand formulas
+     Fast          : Formula first
+     Options       : Check options
+     Trap          : Cycle slip
+     Prerequisite  : Cycle formulas | Time: 40–65s
+     Example       : If the 5th day of a month is two days after Wednesday, what day will it be on the 18th of the same month?
+
+------------------------------------------------------------------------------
+TOPIC 20: Seating Arrangement — 7 questions (0.3% of Reasoning)
+------------------------------------------------------------------------------
+
+  1. General arrangement — 6x (86% of topic)
+     Micro-concept : placement logic
+     Trigger       : —
+     Standard      : Fix one; place rest
+     Fast          : Anchor first
+     Options       : Test orders
+     Trap          : Floating start
+     Prerequisite  : Anchoring | Time: 50–80s
+     Example       : Eight persons P, Q, R, S, T, U, V and W live on 8 different floors. Ground floor = 1, top floor = 8. P lives on the lowest floor. Only two persons live between P and Q. R lives on 5th floor. Only one 
+
+  2. Circular arrangement — 1x (14% of topic)
+     Micro-concept : around-table order
+     Trigger       : "around a table facing centre"
+     Standard      : Fix one seat; place clockwise
+     Fast          : Fix + rotate
+     Options       : Test option orders
+     Trap          : Mirror orientation
+     Prerequisite  : Circular placement | Time: 50–80s
+     Example       : Eight people P, Q, R, S, T, U, V, W sit around a circle facing the center. P is second right of Q. R is opposite P. S is immediate left of R. T is third to the right of Q. U is sits to the immediate l
+
+------------------------------------------------------------------------------
+TOPIC 21: Venn Diagram — 6 questions (0.3% of Reasoning)
+------------------------------------------------------------------------------
+
+  1. Venn class diagram — 6x (100% of topic)
+     Micro-concept : set inclusion
+     Trigger       : "Venn for Ticket/Aeroplane/Rail"
+     Standard      : Separate vs overlap vs subset
+     Fast          : Subset-first test
+     Options       : Check overlap logic
+     Trap          : Partial overlap default
+     Prerequisite  : Set relations | Time: 25–40s
+     Example       : The diagram given below has four different shapes, depicting different farmers of a small village, with different assets. The circle represents the farmers who own land of more than 100 yards, the pen

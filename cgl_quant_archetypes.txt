@@ -1,0 +1,2045 @@
+==============================================================================
+SSC CGL TIER-1 QUANT — QUESTION-GENERATION MODEL (archetype catalog)
+Source: 2,200 Quant PYQs (2023-2025, 88 shifts). Ranked by observed frequency.
+Each archetype = one reusable template SSC repeats. Per archetype: how to
+recognise it (trigger), standard + fast routes, option tactics, trap,
+prerequisite, expected time, and one verbatim example.
+==============================================================================
+
+------------------------------------------------------------------------------
+TOPIC 1: Figure-Based (Image) — 334 questions (15.2% of Quant)
+------------------------------------------------------------------------------
+
+  1. Figure-based (needs PDF figure) — 334x (100% of topic)
+     Micro-concept : visual reasoning
+     Trigger       : —
+     Standard      : Refer original PDF figure
+     Fast          : Same
+     Options       : As applicable
+     Trap          : —
+     Prerequisite  : — | Time: 60–90s
+     Example       : [image/figure-based content -- see original PDF]
+
+------------------------------------------------------------------------------
+TOPIC 2: Mensuration — 264 questions (12.0% of Quant)
+------------------------------------------------------------------------------
+
+  1. Cylinder CSA/volume + rolling paper — 96x (36% of topic)
+     Micro-concept : 2πrh / πr²h
+     Trigger       : "CSA given find volume / paper rolled"
+     Standard      : r from CSA, then V; rolled: circumference = side
+     Fast          : V = (CSA/2)×r
+     Options       : Check squaring of r
+     Trap          : Using diameter as r
+     Prerequisite  : Circle formulas | Time: 30–50s
+     Example       : What is the area of the sector of a circle of radius 8 cm and formed by an arc of length 12 cm?
+
+  2. Cube/cuboid TSA/volume + melt-recast + space diagonal — 35x (13% of topic)
+     Micro-concept : volume conserved; diagonal = a√3
+     Trigger       : "TSA given / melted and recast / longest stick"
+     Standard      : Side from TSA/6; volumes equal; stick = space diagonal
+     Fast          : Cube-root shortcuts
+     Options       : Check cube-root sense
+     Trap          : Surface-area conserve error
+     Prerequisite  : Volume conserve | Time: 30–50s
+     Example       : If the total surface area of a cube is 24 sq.units, then what is the volume of the cube?
+
+  3. Pyramid/prism surface & volume — 29x (11% of topic)
+     Micro-concept : (1/3)Bh / Bh
+     Trigger       : "slant height / lateral area…"
+     Standard      : LSA = ½·perimeter·slant; V pyramid = Bh/3
+     Fast          : Draw cross-section triangle
+     Options       : Check /3 factor
+     Trap          : Forgetting ÷3
+     Prerequisite  : Cross-section Δ | Time: 35–60s
+     Example       : A right circular cone has a radius of 9 cm and a height of 40 cm. What is its slant height?
+
+  4. Sphere/cone/sector + circular paths — 24x (9% of topic)
+     Micro-concept : standard curved formulas
+     Trigger       : "hemisphere melted / pathway around / pizza perimeter"
+     Standard      : Volumes equal; path = ring area; sector P = arc + 2r
+     Fast          : Ring = π(R²−r²)
+     Options       : Check radius vs diameter
+     Trap          : Arc-only (missing radii)
+     Prerequisite  : Curved-area forms | Time: 35–60s
+     Example       : A right triangle with sides 3 cm, 4 cm and 5 cm is rotated about the sides of 3 cm to form a cone. The volume of the cone so formed is:
+
+  5. Field/plot & side-relation perimeter — 23x (9% of topic)
+     Micro-concept : A vs P relations
+     Trigger       : "area… length changed… / sides in relation…"
+     Standard      : Set up area/perimeter equations
+     Fast          : Try factor pairs
+     Options       : Check units² vs units
+     Trap          : Perimeter–area swap
+     Prerequisite  : Quadratic setup | Time: 35–55s
+     Example       : A field is 150 m long and 80 wide. How many times (rounded off to 1 decimal place) is its perimeter to the length of its diagonal?
+
+  6. General mensuration computation — 20x (8% of topic)
+     Micro-concept : area/volume formula
+     Trigger       : —
+     Standard      : Pick 2D vs 3D formula; keep units consistent
+     Fast          : Same
+     Options       : Check dimension (²/³)
+     Trap          : r↔d swap
+     Prerequisite  : Formula sheet | Time: 30–50s
+     Example       : If the perimeter of a regular hexagon is 72 cm, what is the side length?
+
+  7. Mid-segment / midpoint area scaling — 9x (3% of topic)
+     Micro-concept : area ×1/4
+     Trigger       : "midpoints joined; area of inner Δ?"
+     Standard      : Inner Δ = 1/4 of outer
+     Fast          : Quarter instant
+     Options       : Check linear vs area scale
+     Trap          : Halving instead of quartering
+     Prerequisite  : Similarity area scale | Time: 25–40s
+     Example       : In ∆ PQR, M, N, and S are the mid-points of sides PQ, PR and QR, respectively. If the area of the ∆ PQR is 46 cm2, what is the area (in cm2) of the quadrilateral MNRQ?
+
+  8. Room whitewash / paint cans — 7x (3% of topic)
+     Micro-concept : 4 walls + ceiling
+     Trigger       : "whitewash walls and ceiling…"
+     Standard      : Area = 2h(l+b) + lb; cans = ÷coverage, round UP
+     Fast          : Exclude floor?
+     Options       : Round cans UP
+     Trap          : Including floor
+     Prerequisite  : Lateral area | Time: 35–55s
+     Example       : The length, breadth and height of a hall are 10 m, 20 m and 15m respectively. Find the cost of whitewashing the walls of the inside of the hall and ceiling at the rate of ₹10.20/m2
+
+  9. Direct formula plug-in (area/volume) — 5x (2% of topic)
+     Micro-concept : standard 2D/3D forms
+     Trigger       : "base 26 height 18: area?"
+     Standard      : Apply A = bh / lb / pir2 / ... directly
+     Fast          : Same one step
+     Options       : Check units squared
+     Trap          : Perimeter formula
+     Prerequisite  : Formula sheet | Time: 15-30s
+     Example       : The area of a parallelogram with base 26 cm and height 18 cm is:
+
+  10. Parallel-line area split (similar) — 4x (2% of topic)
+     Micro-concept : area scale = k2
+     Trigger       : "area ratio 9:40 (triangle:trapezoid)"
+     Standard      : Triangle/total = 9/49; side ratio = sqrt
+     Fast          : Add parts for total
+     Options       : Check triangle vs trapezoid base
+     Trap          : Direct sqrt of 9/40
+     Prerequisite  : Similar-area scale | Time: 40-60s
+     Example       : In ∆MNO, line segment LK is parallel to NO. If the ratio of area of ∆MLK to trapezoid LKNO is 9 : 40, what is the ratio of ML to LN?
+
+  11. Circular segment area — 4x (2% of topic)
+     Micro-concept : sector minus triangle
+     Trigger       : "segment r=10, angle 120"
+     Standard      : Sector (th/360)pir2 minus triangle (1/2)r2 sin th
+     Fast          : Standard 120 values
+     Options       : Check radians
+     Trap          : Sector only
+     Prerequisite  : Segment parts | Time: 40-60s
+     Example       : What is the area of a segment formed by a chord in a circle of radius 10 cm, when the angle subtended at center is 120°?
+
+  12. Similar-figure scaling (perimeter/side/area) — 3x (1% of topic)
+     Micro-concept : linear vs square scale
+     Trigger       : "perimeters 26 and 39, AB=24 -> RS?"
+     Standard      : Side ratio = perimeter ratio; area ratio = square
+     Fast          : Scale directly
+     Options       : Check linear not squared
+     Trap          : Squaring for sides
+     Prerequisite  : Similarity scales | Time: 25-40s
+     Example       : The perimeters of two similar triangles ΔRST and ΔABC are 26 cm and 39 cm, respectively. If AB = 24 cm, then RS is ___.
+
+  13. Circle ratio scaling (C and A) — 2x (1% of topic)
+     Micro-concept : C~r, A~r2
+     Trigger       : "circumferences 4:7, small area 80"
+     Standard      : Area ratio = square of C ratio
+     Fast          : Square the C ratio
+     Options       : Check linear vs square
+     Trap          : Linear scaling
+     Prerequisite  : Scale squares | Time: 25-40s
+     Example       : Two concentric circles have circumferences in ratio 4:7. If smaller circle has area 80 m², what is the approximate area of the larger circle?
+
+  14. Centroid area shares — 2x (1% of topic)
+     Micro-concept : sixths and thirds
+     Trigger       : "medians meet at centroid: area PQO vs PQR"
+     Standard      : Centroid splits median 2:1; each small triangle = 1/6, pairs 1/3
+     Fast          : Sixths instant
+     Options       : Check which piece
+     Trap          : Halving
+     Prerequisite  : Centroid shares | Time: 30-45s
+     Example       : In triangle PQR, medians PX, QY, and RZ intersect at the centroid O. What is the ratio of the area of triangle PQO to the area of triangle PQR?
+
+  15. Equilateral perimeter -> side — 1x (0% of topic)
+     Micro-concept : P = 3a
+     Trigger       : "triangle perimeter 52, all sides?"
+     Standard      : Side = P/3 (if equilateral)
+     Fast          : Same
+     Options       : Check divisibility by 3
+     Trap          : Assuming equilateral
+     Prerequisite  : P = 3a | Time: 15-25s
+     Example       : If a triangle has a perimeter of 52 units, then all its sides have length ________ units.
+
+------------------------------------------------------------------------------
+TOPIC 3: Geometry — 245 questions (11.1% of Quant)
+------------------------------------------------------------------------------
+
+  1. Tangents & common tangents — 42x (17% of topic)
+     Micro-concept : tangent ⟂ radius
+     Trigger       : "tangents from external point / common tangent"
+     Standard      : Right Δ with (distance, radius); DCT=√(d²−(R−r)²); TCT=√(d²−(R+r)²)
+     Fast          : Memorised DCT/TCT forms
+     Options       : Check vs d
+     Trap          : Swapping R−r / R+r
+     Prerequisite  : Tangent-radius ⟂ | Time: 30–50s
+     Example       : When two circles of radii r1 and r2 have their centres at a distance d apart, then length of the common transverse tangent is:
+
+  2. General geometry computation — 42x (17% of topic)
+     Micro-concept : diagram + theorem
+     Trigger       : —
+     Standard      : Draw figure; apply circle/triangle theorem
+     Fast          : Same
+     Options       : Check scale
+     Trap          : Assuming diagram to scale
+     Prerequisite  : Standard theorems | Time: 30–50s
+     Example       : The relation between K1 and K2 for which the system of linear equations K1x + 3y = 8 and 4x + K2y = 16 represents coincident lines, is:
+
+  3. Perpendicular from centre to chord — 36x (15% of topic)
+     Micro-concept : bisected chord
+     Trigger       : "perpendicular drawn to chord…"
+     Standard      : r² = d² + (chord/2)²
+     Fast          : Half-chord triangle
+     Options       : Check r > d
+     Trap          : Full chord in triangle
+     Prerequisite  : Chord bisection | Time: 25–40s
+     Example       : A 15 cm long perpendicular is drawn from the centre of a circle to its 40 cm long chord. Find the radius of the circle.
+
+  4. Triangle congruence / similarity / angle-ratio — 32x (13% of topic)
+     Micro-concept : SSS/SAS/ASA/RHS; angle sum 180
+     Trigger       : "necessary condition / angles 2:3:7"
+     Standard      : Match criterion; angles = 180×part/sum
+     Fast          : Eliminate AAA; angle-sum split
+     Options       : Check correspondence order
+     Trap          : AAA as congruence
+     Prerequisite  : Criteria + angle sum | Time: 25–40s
+     Example       : If m∠C=m∠Z and AC=XZ, then which of the following conditions is necessary for ΔABC and ΔXYZ to be congruent?
+
+  5. Circle theorems (Thales / arcs / circumference) — 27x (11% of topic)
+     Micro-concept : angle chasing on circle
+     Trigger       : "AB diameter; angle subtended; circumferences sum"
+     Standard      : Thales: angle in semicircle = 90; equal arcs equal angles; C = 2pir
+     Fast          : Same one-step theorems
+     Options       : Check diameter vs radius
+     Trap          : Chord as diameter
+     Prerequisite  : Circle theorems | Time: 25-45s
+     Example       : A triangle ABC is made on a circle, where AB is diameter of the circle. If BC is equal to the radius of the circle and ∠ABC = x ∠BAC, then x is :
+
+  6. Medians/centroid/altitude — 14x (6% of topic)
+     Micro-concept : 2:1 centroid split
+     Trigger       : "medians intersect at right angle"
+     Standard      : Centroid divides 2:1; right Δ from pieces
+     Fast          : AG = 2/3 median
+     Options       : Check triangle inequality
+     Trap          : Midpoint = half hypotenuse confusion
+     Prerequisite  : Centroid ratio | Time: 35–55s
+     Example       : If D is the midpoint of BC in △ABC and ∠A = 90⁰, then AD = _______.
+
+  7. Exterior-angle theorem — 10x (4% of topic)
+     Micro-concept : ext = sum of opposites
+     Trigger       : "BC produced to D; find ACD"
+     Standard      : Ext angle = sum of remote interiors
+     Fast          : Same
+     Options       : Check which angle asked
+     Trap          : Linear-pair mixup
+     Prerequisite  : Exterior theorem | Time: 25-40s
+     Example       : The side BC of ∆ABC is produced to a point D. If AC = BC and ∠BAC = 70°, then find the value of ∠ACD − ∠ABC.
+
+  8. Quadrilateral angle chase — 8x (3% of topic)
+     Micro-concept : diagonal properties
+     Trigger       : "rhombus, OA=OC; fraction of angle DOB"
+     Standard      : Use symmetry/diagonal bisection; then fraction
+     Fast          : Same
+     Options       : Check 0-360 range
+     Trap          : Assuming right angle
+     Prerequisite  : Diagonal properties | Time: 35-55s
+     Example       : A quadrilateral PQRS is inscribed in a circle of centre O, such that PQ is a diameter and . Find the value of .
+
+  9. Intersecting chords theorem — 4x (2% of topic)
+     Micro-concept : a×b = c×d
+     Trigger       : "chords MN, PQ intersect at O…"
+     Standard      : MO×ON = PO×OQ
+     Fast          : Same product
+     Options       : Check pairing
+     Trap          : Adding segments
+     Prerequisite  : Chord product | Time: 25–40s
+     Example       : In a circle, two chords MN and PQ intersect at O. If MO = 9 cm, ON = 5 cm and OQ = 6 cm, then the value of OP (in cm) is:
+
+  10. Chord of larger touching smaller circle — 3x (1% of topic)
+     Micro-concept : tangent-chord ⟂ radius
+     Trigger       : "chord of larger touches smaller"
+     Standard      : Half-chord = √(R²−r²); double it
+     Fast          : Right-triangle instant
+     Options       : Check < diameter
+     Trap          : Using diameter as chord
+     Prerequisite  : Pythagoras | Time: 25–40s
+     Example       : Two concentric circles are of radii 10 cm and 6 cm. Find the length of the chord of the larger circle which touches the smaller circle.
+
+  11. Isosceles triangle angles — 3x (1% of topic)
+     Micro-concept : base angles equal
+     Trigger       : "L=118, LM=LN, find N"
+     Standard      : (180 - apex)/2
+     Fast          : Same
+     Options       : Check sum 180
+     Trap          : Equilateral assumption
+     Prerequisite  : Angle sum | Time: 20-30s
+     Example       : In a ΔLMN, ∠L = 118° and LM = LN. Find ∠N.
+
+  12. Triangle validation (triplet / angle-set) — 3x (1% of topic)
+     Micro-concept : Pythagoras + angle sum
+     Trigger       : "which set forms a right triangle / scalene angles"
+     Standard      : Check a2+b2=c2; angles sum 180, all different
+     Fast          : Triplet memory (3-4-5, 5-12-13, 8-15-17)
+     Options       : Check ordering
+     Trap          : Unsorted sides
+     Prerequisite  : Triplets + 180 | Time: 25-40s
+     Example       : In a kite ABCD, longer diagonal BD is drawn. If ∠ABD = 54°and ∠ADB = 50°, then what is the measure (in degrees) of the ∠DCB?
+
+  13. Angle-split equation (k*angles) — 3x (1% of topic)
+     Micro-concept : sum to 180
+     Trigger       : "4P = 5Q = 20R; find Q"
+     Standard      : Express all in one variable; sum 180
+     Fast          : LCM of coefficients
+     Options       : Check sum target
+     Trap          : Wrong total
+     Prerequisite  : Angle sum | Time: 25-40s
+     Example       : In ΔPQR, if 4∠P = 5∠Q = 20∠R, then the value of ∠Q is:
+
+  14. Classify triangle by sides (Pythagoras inequality) — 2x (1% of topic)
+     Micro-concept : c² vs a²+b²
+     Trigger       : "which lengths give obtuse triangle"
+     Standard      : Largest² vs sum of squares
+     Fast          : Sort then square once
+     Options       : Check triangle inequality first
+     Trap          : Assuming right angle
+     Prerequisite  : Pythagoras inequality | Time: 30–45s
+     Example       : Which of the following sets of lengths (in cm) will give three sides of an obtuse-angled triangle?
+
+  15. Collinearity / degenerate triangle — 2x (1% of topic)
+     Micro-concept : sum-check
+     Trigger       : "XY=11, YZ=13, XZ=24; circles through?"
+     Standard      : If longest = sum of other two: collinear -> 0 circles
+     Fast          : Add two small, compare
+     Options       : Eliminate non-degenerate options
+     Trap          : Assuming triangle
+     Prerequisite  : Triangle inequality | Time: 25-40s
+     Example       : X, Y, and Z are three points on a plane with XY = 11 cm, YZ = 13 cm, and XZ = 24 cm. The number of circles that travel through points X, Y, and Z is:
+
+  16. Congruence -> solve for unknowns — 2x (1% of topic)
+     Micro-concept : corresponding parts equal
+     Trigger       : "PQR congruent MON, find x+y"
+     Standard      : Match corresponding angles/sides; solve
+     Fast          : Same
+     Options       : Check correspondence order
+     Trap          : Wrong pairing
+     Prerequisite  : CPCT | Time: 35-55s
+     Example       : If ∆PQR≅∆MON such that ∠PQR = 82°,∠QRP = 47°,∠RPQ = 51°,∠MON = (5y - 8)°,QR = 24 and ON = 3x + y,then find (x + y).
+
+  17. Segment length % change — 2x (1% of topic)
+     Micro-concept : % on lengths
+     Trigger       : "by what % is QR decreased when PR increased"
+     Standard      : New-old over old on the segment
+     Fast          : Same
+     Options       : Check base segment
+     Trap          : Whole-line base
+     Prerequisite  : % change | Time: 30-45s
+     Example       : P and Q are two fixed points 10 cm apart, and R is a point on PQ such that PR = 6 cm. By what percentage is the length of QR decreased when the length of PR is increased by 5%?
+
+  18. Clock angle — 2x (1% of topic)
+     Micro-concept : 0.5°/min & 6°/min
+     Trigger       : "angle turned by minute hand…"
+     Standard      : Minute 6°/min; hour 0.5°/min
+     Fast          : |11m/2 − 30h|
+     Options       : Check ≤180 for smaller
+     Trap          : Hour-hand freeze
+     Prerequisite  : Relative speed | Time: 20–30s
+     Example       : The angle turned by minutes hand in 25 minutes in a clock is:
+
+  19. Equal-chord / overlapping-circle geometry — 2x (1% of topic)
+     Micro-concept : equilateral triangles
+     Trigger       : "chords 7,7 radius 7; common chord of overlap"
+     Standard      : Radii-chord triangles are equilateral; height = a*sqrt3/2
+     Fast          : Equilateral shortcut
+     Options       : Check doubling for common chord
+     Trap          : Radius as chord
+     Prerequisite  : Equilateral height | Time: 30-45s
+     Example       : On a circle of radius 7 units, PQ and QR are chords of length 7 units each. What is the length of the chord PR in units?
+
+  20. Concentric-circle chord relation — 2x (1% of topic)
+     Micro-concept : r2 - d2 shared
+     Trigger       : "line cuts concentric circles; chord difference"
+     Standard      : Half-chord squares differ by R2-r2
+     Fast          : Same difference form
+     Options       : Check halving
+     Trap          : Full chord squares
+     Prerequisite  : Chord squares | Time: 35-55s
+     Example       : A line cuts two concentric circles. The length of chords formed by this line on the circles is 6 cm and 18 cm. Find the difference in the squares of the radii of two circles.
+
+  21. Mutually touching circles — 1x (0% of topic)
+     Micro-concept : centres-triangle / sum-difference
+     Trigger       : "circle of radius r touching two given circles"
+     Standard      : Centre distance = sum (external) or difference (internal) of radii
+     Fast          : Draw centre triangle
+     Options       : Check internal vs external
+     Trap          : Radius vs diameter
+     Prerequisite  : Centre distances | Time: 35-55s
+     Example       : A and B are centres of two circles with radii 2 cm and 1 cm respectively, where AB = 5 cm. C is the centre of another circle of radius r cm, which touches each of the above two circles externally. If 
+
+  22. Triangle-inequality counting — 1x (0% of topic)
+     Micro-concept : sum of two > third
+     Trigger       : "sides 6, 12, x: integer x values?"
+     Standard      : x in (|a-b|, a+b); count integers
+     Fast          : Range endpoints exclusive
+     Options       : Check strict inequality
+     Trap          : Inclusive bounds
+     Prerequisite  : Triangle inequality | Time: 30-45s
+     Example       : In a triangle, the lengths of sides are 6 units, 12 units and x units. How many possible integer values are there for x?
+
+  23. Geometry definition / fact recall — 1x (0% of topic)
+     Micro-concept : terminology
+     Trigger       : "chord extended infinitely becomes..."
+     Standard      : Recall: secant/line
+     Fast          : Same
+     Options       : Check options
+     Trap          : Overthinking
+     Prerequisite  : Definitions | Time: 10-20s
+     Example       : If we extend a chord infinitely on both sides, then the chord becomes a _____________.
+
+  24. Straight-line incidence facts — 1x (0% of topic)
+     Micro-concept : definitions
+     Trigger       : "coinciding lines: intersection points?"
+     Standard      : Coinciding = infinite; parallel = 0; else 1
+     Fast          : Same
+     Options       : Check parallel vs coincide
+     Trap          : One point for all
+     Prerequisite  : Incidence | Time: 10-20s
+     Example       : If two straight lines are coinciding with each other, then the number of points of intersection is/are:
+
+------------------------------------------------------------------------------
+TOPIC 4: Percentages, Ratio & Proportion — 184 questions (8.4% of Quant)
+------------------------------------------------------------------------------
+
+  1. General %/ratio computation — 49x (27% of topic)
+     Micro-concept : base & parts
+     Trigger       : —
+     Standard      : Fix base (100 or parts-sum) first
+     Fast          : Same
+     Options       : Check base
+     Trap          : Wrong base
+     Prerequisite  : Base discipline | Time: 25–40s
+     Example       : The number of yellow, red, and blue pens in a box is in the ratio 2:5:7. If 18 yellow pens, 12 red pens, and some blue pens are added to the box, the ratio of yellow, red, and blue pens becomes 3:6:8.
+
+  2. Ratio expression evaluation — 40x (22% of topic)
+     Micro-concept : homogeneous expression
+     Trigger       : "if m:n = a:b find (xm+yn):(xm−yn)"
+     Standard      : Substitute m=a,n=b directly
+     Fast          : Put values straight in
+     Options       : Plug options back
+     Trap          : Distributing ratio into sum
+     Prerequisite  : Substitution | Time: 20–30s
+     Example       : - 7p - [3q - {8p - (4q - 10p)}] = ?
+
+  3. Income–expenditure–savings / budget split — 23x (12% of topic)
+     Micro-concept : savings residual
+     Trigger       : "spends x%, income rises a%, expenses rise b%"
+     Standard      : New saving = new income − new expense (base 100)
+     Fast          : Work on 100 base
+     Options       : Check sign of change
+     Trap          : Applying % to wrong base
+     Prerequisite  : Base = 100 | Time: 30–45s
+     Example       : A family income is ₹35,000 in a month. The family spends the income on various expenditures, viz., food, health, education, entertainment, and rent. After incurring all the expenditures, 8% is saved e
+
+  4. Election with invalid/unpolled votes — 11x (6% of topic)
+     Micro-concept : valid-vote base
+     Trigger       : "x% did not vote, invalid votes…"
+     Standard      : Valid = total − unpolled − invalid; margin on valid
+     Fast          : Margin% of valid votes
+     Options       : Check candidates sum to valid
+     Trap          : Margin on total votes
+     Prerequisite  : Valid-vote base | Time: 35–55s
+     Example       : In an election, 2% persons enrolled in the voter list did not participate and 500 votes were invalid. Two candidates A and B fought the election, and A defeated B by 200 votes. If 43% of the persons e
+
+  5. Proportion / mean proportional — 10x (5% of topic)
+     Micro-concept : product of extremes
+     Trigger       : "a,b,c,y in proportion / mean of a,b"
+     Standard      : Mean = √(ab); fourth = bc/a
+     Fast          : √(ab) instant
+     Options       : Square-check options
+     Trap          : Arithmetic mean
+     Prerequisite  : Extremes=means | Time: 15–30s
+     Example       : If the four numbers, 39, 117, 17 and y are in proportion, then find the value of y.
+
+  6. Chain ratio join (A:B:C[:D]) — 9x (5% of topic)
+     Micro-concept : LCM join
+     Trigger       : "A:B=6:8, B:C=5:12 → A:B:C"
+     Standard      : Scale so common term LCM matches
+     Fast          : LCM of joined terms
+     Options       : Verify pairwise ratios
+     Trap          : Concatenating without scaling
+     Prerequisite  : LCM join | Time: 20–35s
+     Example       : If A:B = 6 : 8 and B:C = 5 : 12, then A:B:C is:
+
+  7. Divide sum in ratio + expression — 7x (4% of topic)
+     Micro-concept : ratio shares
+     Trigger       : "divides ₹X in a:b:c"
+     Standard      : Share = X×part/sum
+     Fast          : Sum parts first
+     Options       : Verify shares sum to X
+     Trap          : Wrong total parts
+     Prerequisite  : Share formula | Time: 20–35s
+     Example       : A sum of money is divided among P, Q, R and S in the proportion of 4 : 9 : 2 : 3. If Q gets ₹560 more than R, then the share of S is:
+
+  8. Reverse percentage (A is x% of B) — 5x (3% of topic)
+     Micro-concept : base switching
+     Trigger       : "A is x% of B, what % of A is B?"
+     Standard      : Answer = 10000/x
+     Fast          : 10000÷x instant
+     Options       : Eliminate <100 when x<100
+     Trap          : Answering x% back
+     Prerequisite  : Base awareness | Time: 10–20s
+     Example       : If A is 95% of B, then what per cent of A is B?
+
+  9. Successive % increase-decrease (salary/price) — 5x (3% of topic)
+     Micro-concept : chained % change
+     Trigger       : "salary +25% then -12%"
+     Standard      : Net factor = (1+a)(1-b); change on base 100
+     Fast          : Multiply complements
+     Options       : Check sign
+     Trap          : Adding % points
+     Prerequisite  : Complement multiply | Time: 25-40s
+     Example       : The salary of a worker is first increased by 25%, then it is decreased by 12%. The percentage change in his salary is:
+
+  10. Compare % values / ratios — 4x (2% of topic)
+     Micro-concept : evaluate each
+     Trigger       : "which is the least? 12% of 625…"
+     Standard      : Compute each value; compare
+     Fast          : Rough magnitudes first
+     Options       : Eliminate extremes
+     Trap          : Comparing % ignoring base
+     Prerequisite  : Value computation | Time: 30–50s
+     Example       : Which of the following is the lowest ratio?
+
+  11. Coin count from value ratio — 4x (2% of topic)
+     Micro-concept : denomination weighting
+     Trigger       : "₹1,₹5,₹10 in ratio a:b:c, total ₹T"
+     Standard      : Counts = ratio × k via value equation
+     Fast          : Value-per-set × k
+     Options       : Check divisibility
+     Trap          : Counting ratio as coins directly
+     Prerequisite  : Value equation | Time: 30–45s
+     Example       : A money bag contains one rupee, 5 rupee and 10 rupee coins in the ratio of 3 : 5 : 7 respectively. If the total amount in the bag is ₹980,then find the number of coins of ₹10.
+
+  12. Billing / order-mix equation — 4x (2% of topic)
+     Micro-concept : actual vs billed
+     Trigger       : "15 premium + some standard; billed wrongly"
+     Standard      : Set actual vs billed totals; solve count
+     Fast          : Difference method
+     Options       : Check which total
+     Trap          : Swapped prices
+     Prerequisite  : Difference ledger | Time: 40-60s
+     Example       : A firm ordered 15 premium machines and some standard machines. The price of a premium machine was 6 times that of a standard machine. By mistake, the number of premium and standard machines was interc
+
+  13. One-side addition → new ratio — 3x (2% of topic)
+     Micro-concept : ratio shift by count
+     Trigger       : "ratio 2:3, +200 males → 5:6"
+     Standard      : Old and new ratios share a fixed part; equate it
+     Fast          : Scale to equalise fixed part
+     Options       : Test options in both ratios
+     Trap          : Adding count to ratio terms
+     Prerequisite  : Fixed-part equality | Time: 30-45s
+     Example       : The ratio between male and female members in a club is 2 : 3. If the number of male members is increased by 200, the ratio becomes 5 : 6. How many female members are there in the club?
+
+  14. Ratio-difference split — 3x (2% of topic)
+     Micro-concept : parts difference
+     Trigger       : "ratio 2:5, difference 210"
+     Standard      : One part = diff/(parts diff); scale
+     Fast          : Unitary first
+     Options       : Check smaller vs larger
+     Trap          : Wrong part count
+     Prerequisite  : Unitary method | Time: 20-30s
+     Example       : There are y yellow marbles and b blue marbles in a box. 18% of the yellow marbles were added to 24% of the blue marbles, and the total was 30. Three times the number of yellow marbles exceeds two time
+
+  15. % of two unknowns → equation — 2x (1% of topic)
+     Micro-concept : %-weighted sum
+     Trigger       : "18% of yellow + 24% of blue = 30"
+     Standard      : Write % equation(s); solve
+     Fast          : Same
+     Options       : Check integer sense
+     Trap          : Adding % as counts
+     Prerequisite  : % equations | Time: 35-55s
+     Example       : A bag contains 20% red balls, 30% green balls and the rest blue balls. If there are 80 blue balls, what is the total number of balls?
+
+  16. Successive % comparison of quantities — 1x (1% of topic)
+     Micro-concept : %-over relation
+     Trigger       : "area 10% more than…"
+     Standard      : Express both on common base
+     Fast          : 100-base chain
+     Options       : Check direction
+     Trap          : Reversing more/less
+     Prerequisite  : Base chain | Time: 25–40s
+     Example       : Tarun owned a plot of land having an area that was 10% more than the area of the plot owned by Basab, while the area of the plot of land owned by Nakul was 40% more than the area of the plot owned by 
+
+  17. Variation (direct/inverse/square) — 1x (1% of topic)
+     Micro-concept : k-form
+     Trigger       : "diamond varies as square of weight; breaks 4:3:2"
+     Standard      : Value = k x f(weight); loss = original minus pieces
+     Fast          : Same structure
+     Options       : Check ratio parts
+     Trap          : Linear variation
+     Prerequisite  : Variation constant | Time: 40-60s
+     Example       : The cost of a diamond varies directly as the square of its weight. Once, this diamond broke into four pieces with weights in the ratio of 4 : 3 : 2 : 1 .When the pieces were sold, the merchant got ₹63
+
+  18. Target-shortfall % — 1x (1% of topic)
+     Micro-concept : required vs scored
+     Trigger       : "targets 85%, scores 450, misses by 35%"
+     Standard      : Max marks from shortfall; needed increment on scored
+     Fast          : Work backwards from miss
+     Options       : Check base of miss%
+     Trap          : Miss on scored base
+     Prerequisite  : Base discipline | Time: 30-45s
+     Example       : R targets to score 85% marks in exams. He scores 450 marks and misses the target by 35%. How much increment in percentage should be there in his scored marks to meet the target?
+
+  19. Required rent for target return — 1x (1% of topic)
+     Micro-concept : net yield equation
+     Trigger       : "12L property, 10% return after 2500/mo upkeep"
+     Standard      : Required annual = 10% of cost + 12 x upkeep; /12
+     Fast          : Monthly = (10%P + upkeep)/12
+     Options       : Check upkeep sign
+     Trap          : Ignoring upkeep
+     Prerequisite  : Yield equation | Time: 35-55s
+     Example       : A landlord bought a property for ₹12,00,000. He wants to earn a 10% annual return on his investment after paying ₹2,500 per month for maintenance. What should be the monthly rent he charges?
+
+  20. Constant addition → new ratio — 1x (1% of topic)
+     Micro-concept : ratio shift
+     Trigger       : "in ratio a:b, adding k gives c:d"
+     Standard      : Cross-solve the two ratios
+     Fast          : Difference-of-cross-products
+     Options       : Test options in both ratios
+     Trap          : Adding to ratio terms directly
+     Prerequisite  : Cross-multiplication | Time: 30–45s
+     Example       : Two numbers are in the ratio 5:7. If 9 is added to each, the new ratio becomes 8:11. What are the original numbers?
+
+------------------------------------------------------------------------------
+TOPIC 5: Profit & Loss — 168 questions (7.6% of Quant)
+------------------------------------------------------------------------------
+
+  1. Successive discounts → single equivalent — 29x (17% of topic)
+     Micro-concept : two discounts back-to-back
+     Trigger       : "two successive discounts of x% and y%"
+     Standard      : D = x + y − xy/100
+     Fast          : Complement multiply, e.g. 0.8×0.75
+     Options       : Rarely useful
+     Trap          : Adding the two % directly
+     Prerequisite  : Percentage basics | Time: 20–30s
+     Example       : Applied to a bill for ₹50,000, the difference between a discount of 40% and two successive discounts of 36% and 4%,is :
+
+  2. Cost build-up then profit% — 28x (17% of topic)
+     Micro-concept : overheads added to CP
+     Trigger       : "invests … spends on transport … sells for"
+     Standard      : True CP = sum of all costs; P% on that
+     Fast          : Same
+     Options       : Bracket the answer
+     Trap          : Forgetting overheads
+     Prerequisite  : CP definition | Time: 25–35s
+     Example       : A seller sold 19 cookies for ₹95 instead of 20 cookies in one kg, cheating a customer. What is the gain (in ₹) if the seller bought the cookies for ₹76?
+
+  3. Discount on marked price — 26x (15% of topic)
+     Micro-concept : MP→SP discount%
+     Trigger       : "MP ₹M sold for ₹S"
+     Standard      : D% = (M−S)/M ×100
+     Fast          : Same single step
+     Options       : Eliminate absurd %
+     Trap          : Base = SP instead of MP
+     Prerequisite  : Percentage on base | Time: 15–25s
+     Example       : The marked price of a microwave oven is ₹15,990 and it is sold for ₹12,792. What is the rate of discount offered?
+
+  4. General P&L computation — 26x (15% of topic)
+     Micro-concept : CP/SP/MP/discount relation
+     Trigger       : —
+     Standard      : Identify which of CP/SP/MP/% is asked; apply base formula
+     Fast          : Same
+     Options       : Eliminate impossible %
+     Trap          : Wrong base for %
+     Prerequisite  : P% = P/CP×100 | Time: 25–40s
+     Example       : A grocer professes to sell rice at the cost price, but uses a fake weight of 870 g for 1 kg. Find his profit percentage (correct to two decimal places).
+
+  5. Bulk buy, staggered sell — 9x (5% of topic)
+     Micro-concept : lot-wise revenue
+     Trigger       : "1600 mangoes at ₹120/dozen; 900 at ₹15…"
+     Standard      : Total CP vs total SP across lots
+     Fast          : Per-unit CP first
+     Options       : Bracket total
+     Trap          : Leftover lot miscount
+     Prerequisite  : Unit costing | Time: 40–60s
+     Example       : A shopkeeper bought certain number of apples for Rs.3,600. He sold one-fifth of them at a loss of 10%, one-fourth of the remaining apples at a loss of 5%, and two-third of the rest at a profit of 15%.
+
+  6. Dishonest dealer / faulty weight — 7x (4% of topic)
+     Micro-concept : false-weight profit
+     Trigger       : "940 gm in place of 1 kg + 4% profit"
+     Standard      : Effective = (claim/actual)×(1+price profit) − 1
+     Fast          : Error fraction × price factor
+     Options       : Not useful
+     Trap          : Adding the two % directly
+     Prerequisite  : Error fraction | Time: 30–45s
+     Example       : A shopkeeper uses 940 gm weight in place of one kg weight. He sells it at 4% profit. What will be the actual profit percentage? (rounded off to two decimal places)
+
+  7. MP–discount–profit link (vary discount) — 7x (4% of topic)
+     Micro-concept : SP constant logic
+     Trigger       : "18% discount still 30% profit; 12% discount → ?"
+     Standard      : Fix SP from first case; re-derive
+     Fast          : SP = MP(1−d) = CP(1+p)
+     Options       : Check profit direction
+     Trap          : Recomputing CP wrongly
+     Prerequisite  : SP bridge | Time: 35–55s
+     Example       : A manufacturer offers a product to a retailer at a 25% discount on the marked price. An additional shipping charge of 8% is applied. The retailer sells for Rs. 2400 more, earning a 35% profit. What wa
+
+  8. SP + discount% back to MP — 6x (4% of topic)
+     Micro-concept : MP = SP/(1-d)
+     Trigger       : "SP 1792 after 20% discount: MP?"
+     Standard      : MP = SP/(1 - d)
+     Fast          : Divide by complement
+     Options       : Check MP > SP
+     Trap          : Discount on SP
+     Prerequisite  : Complement division | Time: 20-30s
+     Example       : If the selling price of an article is ₹1,792 after a 20% discount, then the marked price of the article is:
+
+  9. Markup with offer — 6x (4% of topic)
+     Micro-concept : MP then deal
+     Trigger       : "marks up y%, Bilal 2y% with offer"
+     Standard      : MP = CP(1+m); apply offer to MP
+     Fast          : Same sequence
+     Options       : Check offer base
+     Trap          : Markup on SP
+     Prerequisite  : Markup chain | Time: 35-55s
+     Example       : Amit and Bilal buy goods for ₹1,500 and ₹2,000, respectively. Amit marks his goods up by y%, while Bilal marks his goods up by 2y% and offers a discount of y%. If both make the same profit, then find 
+
+  10. MP above CP, sell at no-profit-no-loss — 5x (3% of topic)
+     Micro-concept : MP–CP–SP chain
+     Trigger       : "x% more than CP … no profit no loss"
+     Standard      : less% = 100x/(100+x)
+     Fast          : 1 − 100/(100+x)
+     Options       : Not useful
+     Trap          : Answering x% itself
+     Prerequisite  : MP/CP/SP relation | Time: 20–30s
+     Example       : The marked price of mustard oil is 25% more than its cost price. At what percentage less than the marked price should it be sold to have no profit and no loss?
+
+  11. Buy-get-free discount scheme — 2x (1% of topic)
+     Micro-concept : free-article discount
+     Trigger       : "Buy 3 get 4 free"
+     Standard      : Discount% = free/total ×100
+     Fast          : Same; count total articles
+     Options       : Not useful
+     Trap          : Using paid articles as base
+     Prerequisite  : Fractions→% | Time: 20–30s
+     Example       : A shopkeeper offers the following two discount schemes. A) Buy 3 get 4 free B) Buy 5 get 6 free Which scheme has the maximum discount percentage?
+
+  12. Two-lot profit split (alligation on %) — 2x (1% of topic)
+     Micro-concept : profit alligation
+     Trigger       : "part at 10%, rest at 40%, overall 20%"
+     Standard      : Alligation on profit % gives quantity ratio
+     Fast          : Distance from mean = ratio
+     Options       : Check ratio direction
+     Trap          : Mean of the %
+     Prerequisite  : Alligation | Time: 30-45s
+     Example       : A merchant has 1000 kg of sugar, part of which he sells at a 10% profit and the rest at a 40% profit. He gains 20% on the whole. The quantity sold at 40% profit is:
+
+  13. Fixed-price then cut (profit on CP) — 2x (1% of topic)
+     Micro-concept : two-step pricing
+     Trigger       : "fixed 16% above CP, sells 12% below fixed"
+     Standard      : SP = CP(1+m)(1-d); profit on CP
+     Fast          : Complement multiply
+     Options       : Check profit base
+     Trap          : Discount on CP
+     Prerequisite  : Two-step factor | Time: 30-45s
+     Example       : A shopkeeper sells rice at the rate of ₹44 per kg whose cost price is ₹40 per kg. Not satisfied with this, he tries to increase his profit by removing 200 grams of rice from each packet. What is the s
+
+  14. Equal profit and loss at two SPs — 2x (1% of topic)
+     Micro-concept : CP is the mean
+     Trigger       : "profit at 2400 = loss at 2000: CP?"
+     Standard      : CP = (SP1 + SP2)/2
+     Fast          : Mean instant
+     Options       : Check between the SPs
+     Trap          : Mean of %
+     Prerequisite  : Midpoint logic | Time: 15-25s
+     Example       : The marked price of 55 items was equal to the cost price of 99 items. The selling price of 56 items was equal to the marked price of 35 items. Calculate the profit or loss percentage from the sale of 
+
+  15. Gain on one, loss on other (same SP) — 2x (1% of topic)
+     Micro-concept : two articles, equal SP
+     Trigger       : "two articles at same SP, ±x%"
+     Standard      : Net loss% = (x/10)² when x equal; else compute both
+     Fast          : (x/10)² instant
+     Options       : Useful to check sign
+     Trap          : Assuming no loss when % equal
+     Prerequisite  : SP constant logic | Time: 25–35s
+     Example       : A man buys 8 shirts for Rs. 4,000 and sells 6 of them for Rs. 3,900. If he discards the remaining 2 shirts, what is his overall gain or loss?
+
+  16. Successive % change on price — 1x (1% of topic)
+     Micro-concept : compounded change
+     Trigger       : "decreased 10% then increased 20% → ₹540"
+     Standard      : Net factor = (1−a)(1+b); original = final/factor
+     Fast          : Multiply complements
+     Options       : Back-solve from options
+     Trap          : Net = b−a
+     Prerequisite  : Complement multiply | Time: 25–40s
+     Example       : The cost price of an article is decreased by 10% and then increased by 20%. If the final price is ₹540, then the original cost price is:
+
+  17. Repeated % hike on salary — 1x (1% of topic)
+     Micro-concept : successive factors
+     Trigger       : "salary +50% then +50%: gain%"
+     Standard      : Net = (1+a)(1+b) - 1
+     Fast          : a+b+ab/100
+     Options       : Check > sum
+     Trap          : Adding % points
+     Prerequisite  : Successive factors | Time: 20-30s
+     Example       : Ravi's salary was increased by 50%. After some time, his new salary was also increased by 50%. Find his gain percentage of salary.
+
+  18. Price-drop buys extra quantity — 1x (1% of topic)
+     Micro-concept : constant budget
+     Trigger       : "price cut by Rs.2, buys 4 more apples"
+     Standard      : Original x count: P*x = (P-d)*(x+n)
+     Fast          : Same budget equation
+     Options       : Check integer sense
+     Trap          : Adding instead of solving
+     Prerequisite  : Budget equation | Time: 35-55s
+     Example       : Naman bought few apples for ₹720 from a shop. He negotiated the price and the shopkeeper reduced it by ₹2 per apple. Due to this Naman could buy four more apples than what he had bought earlier. How m
+
+  19. Cost rises, SP fixed (margin squeeze) — 1x (1% of topic)
+     Micro-concept : re-based margin
+     Trigger       : "profit 320% of cost; cost +10%, SP same"
+     Standard      : New profit on new cost; margin% recomputed
+     Fast          : Track SP constant
+     Options       : Check profit direction
+     Trap          : Old cost base
+     Prerequisite  : Re-basing | Time: 35-55s
+     Example       : The profit gained on selling a certain product is 320% of the cost. If the cost increases by 10% but the selling price remains constant, then what percentage of the selling price is the profit (correc
+
+  20. Profit% to CP:SP ratio — 1x (1% of topic)
+     Micro-concept : CP:SP from margin
+     Trigger       : "sold at 250% profit: CP:SP?"
+     Standard      : SP = CP(1+p); ratio = 1:(1+p)
+     Fast          : Same form
+     Options       : Check order CP first
+     Trap          : Inverted ratio
+     Prerequisite  : SP expansion | Time: 15-25s
+     Example       : An article is sold at a profit of 250%. What is the ratio of its cost price to selling price?
+
+  21. Chain profit through dealers — 1x (1% of topic)
+     Micro-concept : successive margins
+     Trigger       : "two hands, total 40%, first 30%"
+     Standard      : (1+p1)(1+p2) = 1+P; solve
+     Fast          : Same product form
+     Options       : Check on original cost
+     Trap          : Adding margins
+     Prerequisite  : Margin product | Time: 30-45s
+     Example       : An article passing through two hands is sold at a total profit of 40% of the original cost price. If the first dealer makes a profit of 30%, then the profit percentage made by the second dealer is:
+
+  22. CP-MP-discount-profit link — 1x (1% of topic)
+     Micro-concept : SP bridge
+     Trigger       : "20% discount, 10% gain: CP:MP?"
+     Standard      : SP = MP(1-d) = CP(1+p); solve ratio
+     Fast          : CP:MP = (1-d):(1+p)
+     Options       : Check CP<MP
+     Trap          : Discount on CP
+     Prerequisite  : SP bridge | Time: 30-45s
+     Example       : An article marked for ₹275 is sold at 5% discount. The seller still gains 4.5%. What did he pay for it?
+
+  23. Sequential spending of remainder — 1x (1% of topic)
+     Micro-concept : shrinking base
+     Trigger       : "30% rent, 60% of rest...; saves 7056"
+     Standard      : Remainder chain multiply; savings fraction -> total
+     Fast          : Remainder product
+     Options       : Check remainder vs total
+     Trap          : All on original
+     Prerequisite  : Remainder chain | Time: 35-55s
+     Example       : Vipul spends 30% of his monthly income on rent, 60% of the remaining on groceries, and 40% of the remaining on others. If he saves ₹ 7056 in a month, then how much (in ₹) does he spend on groceries?
+
+  24. Range profit (min-max lots) — 1x (1% of topic)
+     Micro-concept : extremes
+     Trigger       : "bought 200-260, sold 250-300: max profit?"
+     Standard      : Max profit = max SP - min CP (relative % on CP)
+     Fast          : Extremes pair
+     Options       : Check % base
+     Trap          : Mean values
+     Prerequisite  : Extreme pairing | Time: 30-45s
+     Example       : If books bought at prices ranging from ₹200 to ₹260 are sold at prices ranging from ₹250 to 300, what is the greatest possible profit that might be made in selling 25 books?
+
+------------------------------------------------------------------------------
+TOPIC 6: Algebra & Equations — 156 questions (7.1% of Quant)
+------------------------------------------------------------------------------
+
+  1. Expression simplification / linear solve — 77x (49% of topic)
+     Micro-concept : direct evaluation
+     Trigger       : "find the value of …"
+     Standard      : BODMAS/substitution stepwise
+     Fast          : Look for cancelling pairs
+     Options       : Estimate magnitude
+     Trap          : Sign/decimal slip
+     Prerequisite  : BODMAS | Time: 25–45s
+     Example       : What value of 'y' will satisfy the following equation?
+
+  2. Surds & odd-one-out values — 45x (29% of topic)
+     Micro-concept : square & compare
+     Trigger       : "value of (√27+√3)²−…"
+     Standard      : Expand / square both sides
+     Fast          : Decimal equivalents
+     Options       : Eliminate by size
+     Trap          : Comparing without squaring
+     Prerequisite  : Squaring | Time: 25–40s
+     Example       : The value of which of the following is different from the other options?
+
+  3. Word problem → equations / AP — 11x (7% of topic)
+     Micro-concept : translate to equations
+     Trigger       : "notes/ages/items story"
+     Standard      : Variables + simultaneous solve / AP sum
+     Fast          : Total-difference tricks
+     Options       : Plug options into story
+     Trap          : One equation short
+     Prerequisite  : Framing equations | Time: 40–70s
+     Example       : If the sum of three numbers is 18 and the sum of their squares is 36, then find the difference between the sum of their cubes and three times of their product.
+
+  4. x + 1/x identities & powers — 7x (4% of topic)
+     Micro-concept : reciprocal identities
+     Trigger       : "x+1/x = k, find x³+1/x³"
+     Standard      : Square/cube repeatedly; x²+1/x² = k²−2
+     Fast          : k²−2 / k³−3k memorised
+     Options       : Verify by squaring back
+     Trap          : Sign error in −2/−3k
+     Prerequisite  : Identity expansion | Time: 25–40s
+     Example       : If x = √11, determine the value of x + 1/x.
+
+  5. Cube identity a³+b³+c³−3abc — 6x (4% of topic)
+     Micro-concept : zero-sum cubes
+     Trigger       : "a+b+c=0 … cubes"
+     Standard      : = 3abc (+ adjustment term)
+     Fast          : If sum zero → 3abc
+     Options       : Check zero-sum first
+     Trap          : Expanding cubes
+     Prerequisite  : Identity recall | Time: 20–35s
+     Example       : Let a + b = 2c, then which of the following expressions is true?
+
+  6. Coordinate geometry: line slope / equation — 5x (3% of topic)
+     Micro-concept : y = mx + c
+     Trigger       : "line through (2,3) slope 4"
+     Standard      : m = (y2-y1)/(x2-x1); use point-slope
+     Fast          : Two-point form directly
+     Options       : Check sign of slope
+     Trap          : Intercept-swap
+     Prerequisite  : Point-slope form | Time: 25-40s
+     Example       : What is the equation of a line passing through (0,4) with slope -2?
+
+  7. Linear system: parallel / infinite / no solution — 4x (3% of topic)
+     Micro-concept : coefficient ratios
+     Trigger       : "parallel / infinite solutions, find k"
+     Standard      : a1/a2 = b1/b2 (≠/= c1/c2)
+     Fast          : Ratio equality setup
+     Options       : Test k in ratios
+     Trap          : Mixing = and ≠ cases
+     Prerequisite  : Ratio conditions | Time: 30–45s
+     Example       : For which of the following values of a and b do the given equations, have NO solution? x - ay = 2 - a (1 - a)x + 6y = a + b
+
+  8. Simultaneous linear equations — 1x (1% of topic)
+     Micro-concept : elimination
+     Trigger       : "solve x+y+z=12 …"
+     Standard      : Eliminate one variable at a time
+     Fast          : Add/subtract to kill a variable
+     Options       : Plug options into all equations
+     Trap          : Using only two equations
+     Prerequisite  : Elimination | Time: 40–70s
+     Example       : Find the values of x, y and z, so as to satisfy the equations given below: x + y + z = 12; x + y – z = 6; x – y + z = 4
+
+------------------------------------------------------------------------------
+TOPIC 7: Trigonometry & Heights — 139 questions (6.3% of Quant)
+------------------------------------------------------------------------------
+
+  1. General trig computation — 52x (37% of topic)
+     Micro-concept : identities/values
+     Trigger       : —
+     Standard      : Reduce to standard angles or identities
+     Fast          : Same
+     Options       : Check 0/1 options
+     Trap          : Radian–degree mix
+     Prerequisite  : Std values | Time: 25–45s
+     Example       : If ,then A = ________, where 3A is an acute angle.
+
+  2. Heights & distances (tower/ladder/pole) — 18x (13% of topic)
+     Micro-concept : tan = h/d
+     Trigger       : "angle of depression / pole slanted 30°…"
+     Standard      : Draw Δ; tan for each sight line
+     Fast          : 30°→1/√3, 45°→1, 60°→√3
+     Options       : Check nearer = larger angle
+     Trap          : Same-side subtraction miss
+     Prerequisite  : Std tan values | Time: 35–60s
+     Example       : A pole 10 m long rests slantly against a vertical wall AB making an angle 30° with the horizontal (ground). Find how far the foot of the pole is from the wall (in metres).
+
+  3. Complementary / homogeneous trig — 16x (12% of topic)
+     Micro-concept : sin(90−θ)=cosθ; ÷cos
+     Trigger       : "sin25°sin65°−cos25°cos65° / (3sinθ−cosθ)/(cosθ+sinθ)"
+     Standard      : Pair complements; divide by cosθ → tan
+     Fast          : Spot cos(A+B)/sin(A−B)
+     Options       : Test 0/1 options
+     Trap          : Degree arithmetic slip
+     Prerequisite  : Complement pairs | Time: 20–35s
+     Example       : If {(3 sin θ – cos θ) / (cos θ + sin θ)} = 1, then the value of cot θ is:
+
+  4. Standard-value & single-variable conversion — 15x (11% of topic)
+     Micro-concept : sec²−tan²=1; std values
+     Trigger       : "tanα→secα / cosec30−cos60 / cos(40+x)=sin30"
+     Standard      : sec=√(1+tan²); sin30=½, cos60=½; complementary solve
+     Fast          : Memorised table
+     Options       : Square-check options
+     Trap          : Sign/root slip
+     Prerequisite  : Value table + identities | Time: 20–30s
+     Example       : If tan α = 6, then sec α equals to:
+
+  5. Co-terminal angles & radian conversion — 14x (10% of topic)
+     Micro-concept : mod 360; π=180°
+     Trigger       : "tan(−1125°) / radians to degrees"
+     Standard      : Add/sub 360°; ×180/π
+     Fast          : 1125 = 3×360+45
+     Options       : Check quadrant sign
+     Trap          : Forgetting sign of angle
+     Prerequisite  : ASTC/quadrant | Time: 20–30s
+     Example       : Find the value of tan (−1125°).
+
+  6. Secant-tangent power of a point — 8x (6% of topic)
+     Micro-concept : external segments product
+     Trigger       : "secant from outside point intersects circle"
+     Standard      : Whole secant x external part = tangent squared
+     Fast          : Same product form
+     Options       : Check segment pairing
+     Trap          : Adding segments
+     Prerequisite  : Power of a point | Time: 35-55s
+     Example       : R is a point outside a circle and is 18 cm away from its centre. A secant drawn from the point R intersects the circle at points A and B in such a way that RA = 7 cm and AB = 5 cm. The radius of the c
+
+  7. sec-tan pair conversion — 6x (4% of topic)
+     Micro-concept : sec2-tan2 = 1
+     Trigger       : "sec + tan = x; find sin"
+     Standard      : (sec-tan) = 1/x; solve pair
+     Fast          : Reciprocal pair trick
+     Options       : Check x nonzero
+     Trap          : Squaring blindly
+     Prerequisite  : Reciprocal pair | Time: 30-45s
+     Example       : If secθ + tanθ = x, then find sinθ.
+
+  8. Homogeneous cubic trig identity — 2x (1% of topic)
+     Micro-concept : divide by cos-cubed
+     Trigger       : "asin3X + bcos3X = sinXcosX..."
+     Standard      : Use second equation in first; reduce to tan
+     Fast          : Same substitution
+     Options       : Check 0/90 exclusion
+     Trap          : Degree-radian mix
+     Prerequisite  : Homogeneous divide | Time: 50-80s
+     Example       : If asin3 X + bcos3 X = sinXcosX and asinX = bcosX, then find the value of a2 + b2, provided that x is neither 0° nor 90°.
+
+  9. Double-angle chain — 2x (1% of topic)
+     Micro-concept : cos2 = 1 - sin2
+     Trigger       : "cosA + cos2A = 1; find sin2A + sin4A"
+     Standard      : Replace cos2A, factor sin2A(1 + ...)
+     Fast          : Same substitution
+     Options       : Check power bookkeeping
+     Trap          : Degree doubling error
+     Prerequisite  : Double-angle forms | Time: 40-60s
+     Example       : If cos A + cos2A = 1 then sin2A + sin4A is equal to:
+
+  10. tan(A-B) expansion form — 2x (1% of topic)
+     Micro-concept : tan difference
+     Trigger       : "tan72 - tan27 - tan72*tan27"
+     Standard      : Equals tan(72-27) = tan45 = 1 pattern
+     Fast          : Spot A-B inside
+     Options       : Check sign
+     Trap          : Computing separately
+     Prerequisite  : tan(A-B) | Time: 25-40s
+     Example       : Find the value of tan 72° − tan 27° − tan 72° tan 27°.
+
+  11. Trig ordering / bounds in (0,90) — 1x (1% of topic)
+     Micro-concept : monotonic segments
+     Trigger       : "0<t<90, which is true?"
+     Standard      : Test with 30/45/60 values
+     Fast          : Memorised sin/cos/tan at 30-45-60
+     Options       : Eliminate absurd
+     Trap          : Assuming linearity
+     Prerequisite  : Standard values | Time: 30-45s
+     Example       : Let 0° < t < 90°. Then which of the followings is true?
+
+  12. Angle where sin = cos — 1x (1% of topic)
+     Micro-concept : 45-degree fact
+     Trigger       : "at what angle are sin and cos equal?"
+     Standard      : tan = 1 gives 45 deg (acute)
+     Fast          : Recall tan45 = 1
+     Options       : Check quadrant
+     Trap          : 0-degree guess
+     Prerequisite  : tan45 | Time: 10-20s
+     Example       : At what angle θ, the value of sin (θ) and cos (θ) will have the same value?
+
+  13. Spherical-coordinate identity — 1x (1% of topic)
+     Micro-concept : sums to r-squared
+     Trigger       : "x = r cos t...; x2+y2+z2?"
+     Standard      : Group sin2+cos2 = 1 twice; result r squared
+     Fast          : Spot the 1s
+     Options       : Check power of r
+     Trap          : Expanding blindly
+     Prerequisite  : Pythagorean identity | Time: 30-45s
+     Example       : Let x = r cos (t), y = r sin (t) cos (u), z = r sin (t)sin (u). Then the value of x2 + y2 + z2 is ___.
+
+  14. Complementary equation solve — 1x (1% of topic)
+     Micro-concept : sin = cos(90-.)
+     Trigger       : "sin(48+k) = cos13, acute: k?"
+     Standard      : 48+k+13 = 90
+     Fast          : Sum to 90
+     Options       : Check acute validity
+     Trap          : Equating angles
+     Prerequisite  : Complement sum | Time: 20-30s
+     Example       : If (48°+ k) is an acute angle and sin(48°+ k) = cos13°, what is the value of k(in °)?
+
+------------------------------------------------------------------------------
+TOPIC 8: Time, Speed & Distance — 117 questions (5.3% of Quant)
+------------------------------------------------------------------------------
+
+  1. Delayed-start chase (catch-up) — 45x (38% of topic)
+     Micro-concept : head-start pursuit
+     Trigger       : "thief discovered after 1 hr / 600 m ahead"
+     Standard      : Gap = v_thief×delay (or given); T_catch = gap/(v_chase − v_thief)
+     Fast          : Gap ÷ relative speed
+     Options       : Check chase faster than thief
+     Trap          : Using absolute speed
+     Prerequisite  : Relative speed | Time: 30–45s
+     Example       : An electronic store owner allows two successive discounts of 20% and 25% on each item. The store has a reward points scheme which enables a customer to get free shopping worth ₹0.10 on every 1 reward 
+
+  2. Circular track meeting — 16x (14% of topic)
+     Micro-concept : relative speed on loop
+     Trigger       : "circular track, same/opposite direction"
+     Standard      : Opp: L/(v1+v2); same: L/|v1−v2|; at-start: LCM of round times
+     Fast          : LCM for start-meetings
+     Options       : Eliminate < single lap time
+     Trap          : Wrong relative-speed sign
+     Prerequisite  : Relative speed | Time: 30–50s
+     Example       : Two runners, Sony and Mony, start running on a circular track of length 200 m at speeds of 18 and 24 km/h, respectively, in the same direction. After how much time from the start will they meet again 
+
+  3. Average speed multi-leg journey — 15x (13% of topic)
+     Micro-concept : harmonic, not arithmetic
+     Trigger       : "travels a@x, b@y, returns at z"
+     Standard      : Total dist / total time
+     Fast          : For equal legs: 2xy/(x+y)
+     Options       : Bracket near slowest leg
+     Trap          : Simple mean of speeds
+     Prerequisite  : Harmonic mean | Time: 35–55s
+     Example       : As part of his journey, a person travels 120 km at 80 km/h, the next 100 km at 40 km/h, and comes back to the starting point at 75 km/h. The average speed of the person throughout the journey (approxi
+
+  4. Boat upstream–downstream — 15x (13% of topic)
+     Micro-concept : still ± current
+     Trigger       : "upstream/downstream speeds"
+     Standard      : u = still − stream; d = still + stream
+     Fast          : Add/subtract to get still & stream
+     Options       : Check u<d
+     Trap          : Adding instead of subtracting
+     Prerequisite  : Two-equation solve | Time: 30–45s
+     Example       : A boat covers a distance of 12 km in 1 hour upstream and in 45 minutes downstream. Find the speed of the boat and the stream (in km/h).
+
+  5. General speed–distance computation — 6x (5% of topic)
+     Micro-concept : v = d/t
+     Trigger       : —
+     Standard      : Write v=d/t with consistent units
+     Fast          : Same
+     Options       : Check unit sanity
+     Trap          : km/h vs m/s mix
+     Prerequisite  : ×5/18 conversion | Time: 25–40s
+     Example       : The overall average marks for all students in a school is 72. Science stream students have an average of 85, while Arts stream students have an average of 65. If there are 25 Science students, determi
+
+  6. km/h to m/s conversion drill — 5x (4% of topic)
+     Micro-concept : x5/18
+     Trigger       : "90 kmph: distance in 120 s?"
+     Standard      : Convert to m/s first, then multiply
+     Fast          : x5/18 instant
+     Options       : Check seconds vs hours
+     Trap          : Hour carryover
+     Prerequisite  : Unit conversion | Time: 20-30s
+     Example       : The speed of a train is 90 kmph. Find the distance covered by the train in 120 seconds.
+
+  7. Two-body meet / overtake (linear road) — 4x (3% of topic)
+     Micro-concept : relative speed
+     Trigger       : "cars from A and B, same direction, different speeds"
+     Standard      : Same dir: gap/(v1-v2); towards: gap/(v1+v2)
+     Fast          : Gap over relative speed
+     Options       : Check who is faster
+     Trap          : Wrong relative sign
+     Prerequisite  : Relative speed | Time: 30-45s
+     Example       : Places A and B are 20 km apart on the highway. A car starts from A and another from B at the same time. If the cars travel in the same direction at different speeds, they meet in one hour. If they tra
+
+  8. To-and-fro meeting point — 2x (2% of topic)
+     Micro-concept : combined distance = 2D
+     Trigger       : "reaches Q first and returns; where do they meet?"
+     Standard      : Total covered = 2D at meeting; split by speed ratio
+     Fast          : Meet dist from start = 2D*v_slow/(v1+v2)
+     Options       : Check < D
+     Trap          : Single-trip logic
+     Prerequisite  : 2D split by speeds | Time: 40-60s
+     Example       : Akshara and Siddharth travel from point P to Q, a distance of 72 km at a rate of 8 km/h and 10 km/h, respectively. Siddharth reaches Q first and returns immediately and meets Akshara at R. Find the di
+
+  9. Unit-rate scaling (speed x time) — 2x (2% of topic)
+     Micro-concept : d = v x t
+     Trigger       : "1.2 km in 1 min; distance in 2h15m?"
+     Standard      : Rate per minute x total minutes; convert units
+     Fast          : Per-minute first
+     Options       : Check hour-minute mix
+     Trap          : Wrong unit carry
+     Prerequisite  : Unit consistency | Time: 20-30s
+     Example       : A train covers 1.2 km in 1 minute. How far will it travel in 2 hours 15 minutes?
+
+  10. Early-late arrival speed-distance — 2x (2% of topic)
+     Micro-concept : time-gap equation
+     Trigger       : "60 km/h early 1.5h; 40 late 1h: distance?"
+     Standard      : D(1/v1 - 1/v2) = gap; solve
+     Fast          : Same gap form
+     Options       : Check gap sum
+     Trap          : Adding gaps wrongly
+     Prerequisite  : Gap equation | Time: 40-60s
+     Example       : A person travels between two towns. At 60 km/h, he arrives 1.5 hours early. At 40 km/h, he arrives 1 hour late. What is the distance between the towns?
+
+  11. Train crossing platform — 1x (1% of topic)
+     Micro-concept : lengths add up
+     Trigger       : "clear a platform completely"
+     Standard      : T = (L_train + L_platform)/v; convert km/h→m/s (×5/18)
+     Fast          : Lengths sum first, then convert
+     Options       : Check unit sanity
+     Trap          : Using train length only; missing ×5/18
+     Prerequisite  : Unit conversion | Time: 15–25s
+     Example       : A train 900 m long is running at 108 km/h. How long will it take to clear a 900 m long platform completely?
+
+  12. Race head-start / beaten-by distance — 1x (1% of topic)
+     Micro-concept : effective race length
+     Trigger       : "20 s head-start, beaten by 135 m"
+     Standard      : Loser time/distance adjusted; compare on equal terms
+     Fast          : Convert head-start to distance
+     Options       : Check who gets start
+     Trap          : Full-length for both
+     Prerequisite  : Effective distance | Time: 35-55s
+     Example       : Atul gives Vishu a head-start of 20 seconds in a 900 m race and beats him by 135 m. While running the same race again Atul gives a start of 189 m and beats him by 8 seconds. In how much time can Vishu
+
+  13. Required speed for a target time — 1x (1% of topic)
+     Micro-concept : v = D/T
+     Trigger       : "24 km/h takes 5h; speed to finish in 3h?"
+     Standard      : D fixed; v2 = D/T2; increase = v2 - v1
+     Fast          : Same
+     Options       : Check increase vs total
+     Trap          : Averaging speeds
+     Prerequisite  : Fixed distance | Time: 20-30s
+     Example       : A traveller goes from City P to Q at 24 km/h in 5 hours. To complete it in 3 hours, by how much should speed increase?
+
+  14. Fraction-of-journey timing — 1x (1% of topic)
+     Micro-concept : elapsed vs total
+     Trigger       : "5h20m done, 2/3 complete: total/speed?"
+     Standard      : Total time = elapsed/fraction; speed = D/T
+     Fast          : Scale elapsed up
+     Options       : Check fraction done vs left
+     Trap          : Full time as elapsed
+     Prerequisite  : Fraction scaling | Time: 30-45s
+     Example       : A runner has to cover a distance of 100 km. After running for 5 hours and 20 minutes, he finds that he has completed 2/3rd of the total distance. What is his speed in km/h?
+
+  15. Speed ratio with one absolute — 1x (1% of topic)
+     Micro-concept : ratio scaling
+     Trigger       : "speed ratio 5:6; truck 450km/5h"
+     Standard      : Absolute speed of one; scale ratio
+     Fast          : Unitary on ratio
+     Options       : Check ratio order
+     Trap          : Swapped ratio
+     Prerequisite  : Ratio unitary | Time: 25-40s
+     Example       : The ratio of the speeds of a train and a truck is 5 : 6. If the truck covers a distance of 450 km in 5 hours, what is the speed of the train in km/h?
+
+------------------------------------------------------------------------------
+TOPIC 9: Time & Work — 111 questions (5.0% of Quant)
+------------------------------------------------------------------------------
+
+  1. Pipes fill/empty tank — 44x (40% of topic)
+     Micro-concept : inlet/outlet rates
+     Trigger       : "pipe X fills in h1, Y in h2"
+     Standard      : Net rate = sum (inlet +; outlet −)
+     Fast          : LCM capacity method
+     Options       : Eliminate >min single time
+     Trap          : Adding times
+     Prerequisite  : Negative work | Time: 30–45s
+     Example       : Three pipes P, Q and R can fill a cistern in 40 minutes, 80 minutes and 120 minutes, respectively. Initially, all the pipes are opened. After how much time (in minutes) should the pipes Q and R be tur
+
+  2. Combined work → individual time — 18x (16% of topic)
+     Micro-concept : harmonic combine
+     Trigger       : "together in T, A alone in a → B alone?"
+     Standard      : 1/b = 1/T − 1/a
+     Fast          : ab/(a−b) form
+     Options       : Check > T
+     Trap          : Subtracting days
+     Prerequisite  : Reciprocal rates | Time: 25–40s
+     Example       : Raju and Rajat working together take 5 days to complete a piece of work. If Raju alone can do this work in 7 days, how long would Rajat take to complete the same work?
+
+  3. Men–women–boys equivalence groups — 11x (10% of topic)
+     Micro-concept : group efficiency
+     Trigger       : "4 women or 6 boys…; 5 women…?"
+     Standard      : Equate groups → per-head rates; total units
+     Fast          : Unit method via LCM
+     Options       : Test day-counts
+     Trap          : Adding days instead of rates
+     Prerequisite  : Rate = 1/days | Time: 40–60s
+     Example       : 8 men can complete a work in 45 days. 8 women can complete the same work in 18 days. In how many days will 5 men and 8 women, together, complete the same work?
+
+  4. Wage sharing by work done — 10x (9% of topic)
+     Micro-concept : pay ∝ work share
+     Trigger       : "hired for ₹…; R's payment?"
+     Standard      : Share ∝ efficiency (1/days)
+     Fast          : Ratio of (1/d_i)
+     Options       : Check ratio sums
+     Trap          : Equal split
+     Prerequisite  : Ratio shares | Time: 30–45s
+     Example       : 5 women and 9 girls earn a total of ₹18,720 in 9 days, while 9 women and 16 girls earn a total of ₹ 52,080 in 14 days. How much will 12 women and 7 girls together earn (in ₹) in 13 days?
+
+  5. Efficiency ratio → days — 7x (6% of topic)
+     Micro-concept : efficiency↔time inverse
+     Trigger       : "P is k× efficient / finishes d days earlier"
+     Standard      : Days ratio = inverse of efficiency
+     Fast          : Product/difference shortcut
+     Options       : Check ratio direction
+     Trap          : Direct (not inverse) ratio
+     Prerequisite  : Efficiency inverse law | Time: 25–40s
+     Example       : P is two times more efficient than Q. P is able to complete a piece of work in 40 days less than Q. Working together, the whole number of days taken by them to complete the work is: (Round off to the 
+
+  6. Partner leaves/works-part-then-rest — 6x (5% of topic)
+     Micro-concept : mid-way exit / partial work
+     Trigger       : "Q leaves after n days / A works 15 days then B finishes"
+     Standard      : Work done till exit + rest by one
+     Fast          : Fraction done = n×(combined rate)
+     Options       : Check completion fractions
+     Trap          : Full combined days
+     Prerequisite  : Work fractions | Time: 30–45s
+     Example       : A can finish a work in 60 days. He works at it for 15 days and then B alone finishes the remaining work in 48 days. In how much time can A and B working together finish the work?
+
+  7. Alternate-day working — 4x (4% of topic)
+     Micro-concept : A/B alternate shifts
+     Trigger       : "work on alternate basis starting with A"
+     Standard      : 2-day cycle output; full cycles + remainder
+     Fast          : Cycle = day1+day2 output
+     Options       : Rarely
+     Trap          : Assuming equal days each
+     Prerequisite  : LCM of days | Time: 35–50s
+     Example       : A can complete a piece of work in 25 days while B can complete the same work in 30 days. They work on alternate basis, starting with A. Both A and B follow this pattern for 5 days and then A leaves th
+
+  8. Shrinking/expanding workforce — 3x (3% of topic)
+     Micro-concept : daily dropout schedule
+     Trigger       : "n men left after each day"
+     Standard      : Sum arithmetic series of man-days
+     Fast          : AP sum of workers
+     Options       : Not useful
+     Trap          : Fixed workforce assumption
+     Prerequisite  : AP sum | Time: 45–70s
+     Example       : A group of men decided to do a job in 13 days but 9 men left the work after each day. The work, as a result, got completed in 16 days. How many men were initially in the group?
+
+  9. General work computation — 3x (3% of topic)
+     Micro-concept : rate × time
+     Trigger       : —
+     Standard      : Total work = LCM of days; divide by combined rate
+     Fast          : LCM method
+     Options       : Check rate addition
+     Trap          : Adding days
+     Prerequisite  : Rate = 1/days | Time: 35–55s
+     Example       : The ratio of boys to girls initial in a college is 5 : 6. If 40 boys leave the college and 50 girls join the college, the ratio will become 8 : 11. Find the number of girls (initial) in the college.
+
+  10. Periodic assistance schedule — 1x (1% of topic)
+     Micro-concept : cycle output
+     Trigger       : "Y and Z join X every third day"
+     Standard      : n-day cycle output; cycles + remainder
+     Fast          : Cycle sum first
+     Options       : Check who works day 1
+     Trap          : Averaging daily
+     Prerequisite  : Cycle method | Time: 40-60s
+     Example       : X, Y, and Z can complete a project in 20, 40, and 60 days respectively. X works every day, while Y and Z join X every third day. How long will it take to finish the project?
+
+  11. Partial-days team system — 1x (1% of topic)
+     Micro-concept : rate x days ledger
+     Trigger       : "X 6 days, Y 8 days, Z 12 days finish it"
+     Standard      : Total = sum(rate_i x days_i); invert for alone-days
+     Fast          : Ledger then invert
+     Options       : Check full completion
+     Trap          : Averaging days
+     Prerequisite  : Work ledger | Time: 50-80s
+     Example       : X and Y complete a task in 14 days, Y and Z in 18 days. X works 6 days, Y works 8 days, Z works 12 days to complete it. How many days for Z alone(approximate)?
+
+  12. Three-worker team / assisted work — 1x (1% of topic)
+     Micro-concept : combined rate
+     Trigger       : "P,Q,R 24/36/72 days; P with help"
+     Standard      : Combined rate for assisted stretch + solo rest
+     Fast          : LCM team method
+     Options       : Check help window
+     Trap          : Full-team whole time
+     Prerequisite  : Team LCM | Time: 40-60s
+     Example       : P, Q, and R can complete a certain work in 24, 36, and 72 days, respectively. How many days will it take for P to finish the work if he receives help from Q and R every fourth day?
+
+  13. Fractional work completion % — 1x (1% of topic)
+     Micro-concept : man-days ratio
+     Trigger       : "% work by 50 workers in 5d?"
+     Standard      : Done = (M2D2)/(M1D1) of whole
+     Fast          : Man-day ratio
+     Options       : Check whole reference
+     Trap          : Day count only
+     Prerequisite  : Man-day fraction | Time: 25-40s
+     Example       : 25 workers can do a piece of work in 40 days. Find the percentage amount of work done by 50 workers in 5 days.
+
+  14. Workforce cut mid-work — 1x (1% of topic)
+     Micro-concept : done + rest ledger
+     Trigger       : "10 workers 16d; fires 2 after 4d"
+     Standard      : Done fraction + rest at new rate
+     Fast          : Ledger done/rest
+     Options       : Check rest days
+     Trap          : Original rate for rest
+     Prerequisite  : Rest ledger | Time: 40-60s
+     Example       : A contractor hires 10 workers who can complete a task in 16 days. After 4 days, he fires 2 workers. How many more days will the remaining workers take to complete the task?
+
+------------------------------------------------------------------------------
+TOPIC 10: Simple & Compound Interest — 111 questions (5.0% of Quant)
+------------------------------------------------------------------------------
+
+  1. Direct SI unknowns (A, P, T given) — 26x (23% of topic)
+     Micro-concept : single-point rate
+     Trigger       : "₹9000 → ₹10200 in 4 yrs, rate?"
+     Standard      : R = 100×I/(P×T)
+     Fast          : I/P per year as %
+     Options       : Eliminate by size
+     Trap          : Using amount as interest
+     Prerequisite  : R = 100I/PT | Time: 15–25s
+     Example       : If the simple interest at the same interest rate on ₹500 for 4 years and ₹700 for 2 years, combined together, is ₹280, then what is the rate of interest?
+
+  2. CI amount/rate/time (standard) — 25x (23% of topic)
+     Micro-concept : CI growth
+     Trigger       : "amounts to ₹A in n yrs at r% CI"
+     Standard      : A = P(1+r/100)^n; solve for unknown
+     Fast          : 2-yr effective = 2r + r²/100
+     Options       : Back-solve P from options
+     Trap          : Using SI formula
+     Prerequisite  : Powers of (1+r/100) | Time: 30–45s
+     Example       : An amount is said to triple in 6 years with compound interest. How many years will it take for the amount to grow to 27 times its original value?
+
+  3. General interest computation — 13x (12% of topic)
+     Micro-concept : SI/CI relation
+     Trigger       : —
+     Standard      : Write A = P + I; pick SI or CI growth
+     Fast          : Same
+     Options       : Check SI-vs-CI size
+     Trap          : CI treated as SI
+     Prerequisite  : A = P(1+r/100)^n | Time: 30–45s
+     Example       : A woman invests ₹20,000. She lends one part to A for 2 years at 8% per annum SI and the rest to B for 2 years at 12% per annum SI. If the total interest from both is ₹4,160, find the amount lent to A.
+
+  4. Sum split at two rates — 11x (10% of topic)
+     Micro-concept : split-principal SI
+     Trigger       : "divided/lent in two parts at r1% and r2%"
+     Standard      : P1·r1 + P2·r2 = 100·I; P1+P2 = P
+     Fast          : Assume-all-at-one-rate then adjust
+     Options       : Test options for total interest
+     Trap          : Applying rate to full sum
+     Prerequisite  : Weighted interest | Time: 35–50s
+     Example       : S deposits a total of ₹50,000 in two accounts which give 8% and 12% simple interest annually, respectively. After one year, he gets a total ₹5,200. How much money does he deposit in the account with a
+
+  5. Amount = k× principal in n years — 10x (9% of topic)
+     Micro-concept : SI multiplier form
+     Trigger       : "becomes k times in n years"
+     Standard      : (k−1)×100/n = R%
+     Fast          : (k−1)/n as %
+     Options       : Eliminate R giving wrong multiple
+     Trap          : Using k instead of (k−1)
+     Prerequisite  : Interest = A − P | Time: 15–25s
+     Example       : At what rate percent per annum simple interest, a sum of money triples itself in 16 years?
+
+  6. SI as fraction of / compared with principal — 6x (5% of topic)
+     Micro-concept : SI–P relation
+     Trigger       : "SI is ₹X less than principal"
+     Standard      : Write SI = P ∓ X with SI = PRT/100; solve
+     Fast          : Same; two equations
+     Options       : Not useful
+     Trap          : Confusing amount with principal
+     Prerequisite  : SI formula | Time: 30–45s
+     Example       : The simple interest on a certain sum at the rate of 12.5% per annum for 6 years is ₹13,500 less than the principal. Find the simple interest.
+
+  7. Borrow-invest spread / partial repayment — 4x (4% of topic)
+     Micro-concept : net position
+     Trigger       : "borrowed at 8%, invested; repays part yearly"
+     Standard      : Track principal after each repayment; interest on outstanding
+     Fast          : Year-by-year ledger
+     Options       : Check outstanding vs repaid
+     Trap          : Interest on original
+     Prerequisite  : Ledger method | Time: 50-80s
+     Example       : S borrowed some amount from R and promised to pay him 8% interest. Then S invested the borrowed amount in a scheme, upon which he earned a profit of 5% after paying R, the principal amount with intere
+
+  8. Direct SI unknown (T or R, single point) — 4x (4% of topic)
+     Micro-concept : SI = PRT/100
+     Trigger       : "8400 to 11928 at 7%: years?"
+     Standard      : I = A-P; T = 100I/(PR)
+     Fast          : Per-year interest first
+     Options       : Eliminate by size
+     Trap          : Using amount as interest
+     Prerequisite  : SI rearranged | Time: 20-30s
+     Example       : How many years will it take for ₹8,400 to amount to ₹11,928 at a simple interest rate of 7% per annum?
+
+  9. Two amounts, two times → rate/principal — 3x (3% of topic)
+     Micro-concept : SI two-point data
+     Trigger       : "₹A in n1 yrs, ₹B in n2 yrs at SI"
+     Standard      : Yearly interest = ΔA/Δn; P = A − I×n
+     Fast          : Difference ÷ year-gap
+     Options       : Check linearity
+     Trap          : Treating as CI
+     Prerequisite  : SI = P·R·T/100 | Time: 30–40s
+     Example       : A sum becomes ₹7,200 in 2 years and ₹8,640 in 3 years at compound interest. What is the original principal?
+
+  10. Capital + SI profit share — 2x (2% of topic)
+     Micro-concept : share on capital+interest
+     Trigger       : "M,N invest 80k/120k; profit incl 8% SI"
+     Standard      : Interest per capital first; split residual by agreement
+     Fast          : Ledger per partner
+     Options       : Check interest base
+     Trap          : Equal split
+     Prerequisite  : Partner ledger | Time: 50-80s
+     Example       : M and N invest ₹80,000 and ₹1,20,000 respectively. After one year, profit including 8% simple interest on capital is ₹30,000. What is M's share?
+
+  11. Equivalent-interest equation — 1x (1% of topic)
+     Micro-concept : two-scenario equality
+     Trigger       : "produce the same interest as…"
+     Standard      : Set P1R1T1 = P2R2T2; solve unknown
+     Fast          : Cancel common factors first
+     Options       : Not useful
+     Trap          : Equating amounts not interest
+     Prerequisite  : SI equality | Time: 25–40s
+     Example       : In what time will ₹10,000 at 4% per annum, produce the same interest as ₹8,000 does in 4 years at 5% simple interest?
+
+  12. Rate scaled, recompute amount — 1x (1% of topic)
+     Micro-concept : rate multiplier
+     Trigger       : "rate becomes 1.8 times, amount in 5 yrs?"
+     Standard      : Find original R first, scale, recompute
+     Fast          : Same sequence
+     Options       : Check scaling direction
+     Trap          : Scaling the amount directly
+     Prerequisite  : Rate extraction | Time: 40–60s
+     Example       : ₹8,500 becomes ₹11,050 in 6 years at a certain rate of simple interest. If the rate becomes 1.8 times of itself, the amount of the same principal in 5 years will be:
+
+  13. Early settlement / present worth — 1x (1% of topic)
+     Micro-concept : discount on debt
+     Trigger       : "9810 due in 1 yr, settle after 6 mo"
+     Standard      : Present worth = A/(1+RT/100)
+     Fast          : Same
+     Options       : Check time fraction
+     Trap          : Full amount
+     Prerequisite  : Present worth | Time: 35-55s
+     Example       : What annual instalment will discharge a debt of ₹26,160 due in 4 years at 6% simple interest p.a.?
+
+  14. Deposit-invest spread return — 1x (1% of topic)
+     Micro-concept : rate arbitrage
+     Trigger       : "bank pays 6%, earns 30000 per 300000"
+     Standard      : Net = invest return minus deposit cost
+     Fast          : Per-lakh scaling
+     Options       : Check direction
+     Trap          : Adding rates
+     Prerequisite  : Spread logic | Time: 35-55s
+     Example       : In a bank, 6% interest is given on the deposited amount. The bank then invests the money in the stock market and is able to earn ₹30,000 for every ₹3,00,000. How much money is the bank earning finally
+
+  15. Rate gap to interest gap — 1x (1% of topic)
+     Micro-concept : delta-R form
+     Trigger       : "+7% rate gives 1512 more"
+     Standard      : Gap = P x delta-R x T/100
+     Fast          : Same single step
+     Options       : Check gap sign
+     Trap          : Gap as total
+     Prerequisite  : Delta form | Time: 25-40s
+     Example       : The difference between the simple interests on the principal of ₹500 at an interest rate of 5% per annum for 3 years and 4% per annum for 4 years is:
+
+  16. Annual instalment to clear debt (SI) — 1x (1% of topic)
+     Micro-concept : instalment formula
+     Trigger       : "instalment to discharge 26160 in 4 yrs at 6%"
+     Standard      : Instalment = 100A/(100T + RT(T-1)/2)
+     Fast          : Memorised denominator form
+     Options       : Check < A/T
+     Trap          : Equal split A/T
+     Prerequisite  : Instalment formula | Time: 45-70s
+     Example       : A customer pays ₹975 in instalments. The payment is done each month ₹5 less than the previous month. If the first instalment is ₹100, how much time will be taken to pay the entire amount?
+
+  17. Interest-on-interest chain — 1x (1% of topic)
+     Micro-concept : SI reinvested
+     Trigger       : "interest Q invested again yields R"
+     Standard      : Apply SI twice in sequence
+     Fast          : Same; track P→Q→R
+     Options       : Not useful
+     Trap          : Compounding instead of SI
+     Prerequisite  : Sequential SI | Time: 35–50s
+     Example       : Suppose ₹P is invested, and after 3 years at 10% simple interest, it yields ₹Q interest. If ₹Q is then invested for 3 years at 10% simple interest, it yields ₹R interest. Which of the following is tru
+
+------------------------------------------------------------------------------
+TOPIC 11: Average & Age — 86 questions (3.9% of Quant)
+------------------------------------------------------------------------------
+
+  1. Member joins/leaves / split-group average — 26x (30% of topic)
+     Micro-concept : entrant effect; subgroup totals
+     Trigger       : "teacher joins, avg rises / rest is 74"
+     Standard      : Subgroup totals Σ(avg_i×n_i) ÷ N
+     Fast          : Entrant = old_avg + (n+1)×rise
+     Options       : Sanity vs group range
+     Trap          : Mean of subgroup avgs
+     Prerequisite  : Weighted total | Time: 25–40s
+     Example       : A group of 30 students appeared in a test. The average score of 12 students is 62, and that of the rest is 62. What is the average score of the group?
+
+  2. Average of a number set (with conditions) — 13x (15% of topic)
+     Micro-concept : list & total
+     Trigger       : "average of primes between 50–76 / 10th number…"
+     Standard      : List values, total ÷ count
+     Fast          : Pair extremes
+     Options       : Check count
+     Trap          : Miscounting terms
+     Prerequisite  : Listing + total | Time: 35–60s
+     Example       : Find the average of the prime numbers lying between 50 and 76.
+
+  3. Age multiplier past/future — 12x (14% of topic)
+     Micro-concept : age equations
+     Trigger       : "n years ago was k times…"
+     Standard      : Set present ages, shift both sides
+     Fast          : Difference stays constant trick
+     Options       : Check ages positive
+     Trap          : Shifting one side only
+     Prerequisite  : Age difference constant | Time: 30–45s
+     Example       : The present age of Rahim is five times the present age of his daughter, Savita. Seven years from now, Rahim will be three times as old as Savita. What is the present age (in years) of Rahim?
+
+  4. General average/age computation — 8x (9% of topic)
+     Micro-concept : total = avg × n
+     Trigger       : —
+     Standard      : Convert to totals, then solve
+     Fast          : Same
+     Options       : Check range
+     Trap          : Mean of avgs
+     Prerequisite  : Total method | Time: 30–45s
+     Example       : In an entrance test with 180 questions, there are three sections: Physics (40 questions), Chemistry (70 questions), and Biology (70 questions). A student answered 75% of Physics, 55% of Chemistry, and
+
+  5. Group average / subgroup mix — 7x (8% of topic)
+     Micro-concept : weighted average
+     Trigger       : "group avg with subgroup avgs"
+     Standard      : Total = Σ(avg_i × n_i)
+     Fast          : Alligation on avgs
+     Options       : Check within range
+     Trap          : Simple mean of avgs
+     Prerequisite  : Weighted mean | Time: 30–45s
+     Example       : In a group of 60 workers, the average monthly income per worker is ₹28,000. If 20 junior workers average ₹18,000 each, what is the average monthly income (in ₹) for the senior workers?
+
+  6. Average of squares formula — 5x (6% of topic)
+     Micro-concept : standard result
+     Trigger       : "average of squares of first n naturals"
+     Standard      : (n+1)(2n+1)/6
+     Fast          : Memorised form
+     Options       : Check magnitude ~n²/3
+     Trap          : Using sum instead of avg
+     Prerequisite  : Formula recall | Time: 15–25s
+     Example       : The average of the squares of the first 45 natural numbers is
+
+  7. Average of a divisible-number range — 4x (5% of topic)
+     Micro-concept : AP mean
+     Trigger       : "avg of integers 150-300 divisible by 13"
+     Standard      : (first + last)/2 for AP
+     Fast          : First+last over 2
+     Options       : Check endpoint inclusion
+     Trap          : Listing all
+     Prerequisite  : AP mean | Time: 30-45s
+     Example       : What is the average of all integers between 150 and 300 that are exactly divisible by 13?
+
+  8. Runs needed to raise average (cricket) — 3x (3% of topic)
+     Micro-concept : new-average equation
+     Trigger       : "average x in n innings, raise to y"
+     Standard      : Needed = y×(n+1) − x×n
+     Fast          : Standard form directly
+     Options       : Check > current avg
+     Trap          : Need = gap only
+     Prerequisite  : Average definition | Time: 25–40s
+     Example       : Ram has an average score of 65 runs in 19 innings in cricket matches. Find out how many runs are to be scored by him in the 20th innings to raise the average score to 67.
+
+  9. Excluded-extreme average — 2x (2% of topic)
+     Micro-concept : total minus extreme
+     Trigger       : "avg 72 in 12; without highest avg 70"
+     Standard      : Extreme = total - new_total
+     Fast          : Difference x n trick
+     Options       : Check which extreme
+     Trap          : Recounting n
+     Prerequisite  : Total method | Time: 25-40s
+     Example       : A student's average score in 12 exams is 72. If his highest score is excluded, the average becomes 70. What is his highest score?
+
+  10. Wrong-entry average correction — 2x (2% of topic)
+     Micro-concept : total correction
+     Trigger       : "entered as X instead of Y"
+     Standard      : Correct avg = old ± (Y−X)/n
+     Fast          : Difference ÷ n adjust
+     Options       : Check direction of shift
+     Trap          : Recomputing full total wrongly
+     Prerequisite  : Total = avg×n | Time: 20–30s
+     Example       : The average height of 50 students was calculated as 170 cm. Later, it was found that the height of one student was misread as 178 cm instead of 158 cm. Find the correct average height.
+
+  11. Simple average of a list — 1x (1% of topic)
+     Micro-concept : sum / count
+     Trigger       : "marks in 6 subjects; average?"
+     Standard      : Sum all, divide by count
+     Fast          : Pair to round numbers
+     Options       : Check count
+     Trap          : Wrong divisor
+     Prerequisite  : Mean definition | Time: 20-35s
+     Example       : A student studying in 6th class scored the following marks in 6 subjects. The maximum marks for each subject are 100. What are the average marks scored by the student?
+
+  12. AP-spaced ages — 1x (1% of topic)
+     Micro-concept : arithmetic progression
+     Trigger       : "6 children 2 yrs apart, sum 90: eldest?"
+     Standard      : Middle term = avg; step outward by interval
+     Fast          : Avg = middle term
+     Options       : Check eldest > avg
+     Trap          : Equal split
+     Prerequisite  : AP middle | Time: 30-45s
+     Example       : The sum of the ages of 6 children born at the interval of two years each is 90 years. What is the age (in years) of the eldest child?
+
+  13. Outlier vs group average — 1x (1% of topic)
+     Micro-concept : total gap method
+     Trigger       : "avg of six is 42; seventh is 36 more than average of all"
+     Standard      : Let overall avg = x; total equation
+     Fast          : Outlier gap spreads over n
+     Options       : Check outlier side
+     Trap          : Adding gap directly
+     Prerequisite  : Gap spreading | Time: 35-55s
+     Example       : In a team of seven members, the average age of six of the members is 42 years while the age of the seventh member of the team is 36 years more than the average age of all the seven members taken toget
+
+  14. Overlapping-period averages — 1x (1% of topic)
+     Micro-concept : double-counted days
+     Trigger       : "avg first 16 days, avg last 16 days of Jan"
+     Standard      : Totals add; subtract month total for overlap
+     Fast          : Overlap = sum minus month
+     Options       : Check day counts
+     Trap          : Simple mean of avgs
+     Prerequisite  : Overlap logic | Time: 40-60s
+     Example       : The average temperature of a city for the first sixteen days of January is 22°C, and the average temperature for the last sixteen days of the same month is 26°C. If the average temperature for the ent
+
+------------------------------------------------------------------------------
+TOPIC 12: Mixture & Alligation — 74 questions (3.4% of Quant)
+------------------------------------------------------------------------------
+
+  1. Mixing ratio for target price — 19x (26% of topic)
+     Micro-concept : alligation
+     Trigger       : "in what ratio to get ₹…"
+     Standard      : Alligation cross-difference
+     Fast          : Cheap–mean–dear cross
+     Options       : Test ratio options on mean
+     Trap          : Reversed ratio order
+     Prerequisite  : Alligation | Time: 25–40s
+     Example       : In what ratio must water be mixed with milk, costing₹32 per litre, in order to get a mixture costing₹28 per litre?
+
+  2. Two-container ratio combine — 13x (18% of topic)
+     Micro-concept : cross-total method
+     Trigger       : "two containers with A:B ratios; combine?"
+     Standard      : Assume convenient totals (LCM); add components
+     Fast          : LCM total trick
+     Options       : Check totals equal
+     Trap          : Adding ratios directly
+     Prerequisite  : Common-total method | Time: 40-60s
+     Example       : Two different quantities of the same solution having ingredients A and B are stored in two different containers. In the first container, there are 252 litre of A and 441 litre of B. In the second cont
+
+  3. General mixture computation — 12x (16% of topic)
+     Micro-concept : weighted mean
+     Trigger       : —
+     Standard      : Weighted average of components
+     Fast          : Alligation cross
+     Options       : Check mean in range
+     Trap          : Unweighted mean
+     Prerequisite  : Weighted mean | Time: 30–45s
+     Example       : An 84-litre mixture has milk and water in the ratio 5:2. If 21 litres of the mixture is removed and 12 litres of pure milk is added, what is the new ratio of milk to water?
+
+  4. Weighted mean price of mixture — 8x (11% of topic)
+     Micro-concept : total value / total qty
+     Trigger       : "5kg@4 + 3kg@6: mixture CP?"
+     Standard      : Mean = (q1p1+q2p2)/(q1+q2)
+     Fast          : Same single step
+     Options       : Check mean within range
+     Trap          : Simple mean of prices
+     Prerequisite  : Weighted mean | Time: 25-40s
+     Example       : A merchant mixes two varieties of sugar of 5 kg and 3 kg, which costs him ₹4 and ₹6 per kg, respectively. What is the cost price (in ₹) of the mixture per kg?
+
+  5. Dilution to a target ratio — 6x (8% of topic)
+     Micro-concept : solute constant
+     Trigger       : "32L 5:3; add water to reach 5:4?"
+     Standard      : Milk qty fixed; scale ratio to it
+     Fast          : Fix solute, scale
+     Options       : Check total change
+     Trap          : Adding to both parts
+     Prerequisite  : Solute invariance | Time: 30-45s
+     Example       : There is a 32 l mixture of milk and water. The ratio of milk and water in this mixture is 5 : 3. How many litres of water should be added to this mixture so that the resultant mixture has 50% water in
+
+  6. Dilution / replacement % — 4x (5% of topic)
+     Micro-concept : successive dilution
+     Trigger       : "drawn, replaced by water; new %"
+     Standard      : Final qty = P×((P−n)/P)^k; % on new total
+     Fast          : Complement fraction powers
+     Options       : Check monotonic decrease
+     Trap          : Linear subtraction
+     Prerequisite  : Successive powers | Time: 35–55s
+     Example       : A 40-litre mixture contains 25% alcohol and 75% water. If 10 litres of water are added to the mixture, the percentage of alcohol in the new mixture is:
+
+  7. Two-way mix: find unknown component price — 2x (3% of topic)
+     Micro-concept : mean equation
+     Trigger       : "15kg@10 + 5kg@?: mean 30"
+     Standard      : Unknown = (mean x total minus known value)/qty
+     Fast          : Balance above/below mean
+     Options       : Check costlier > mean
+     Trap          : Mean of prices
+     Prerequisite  : Balance method | Time: 30-45s
+     Example       : 15 kg of ₹10 per kg wheat is mixed with 5 kg of another type of wheat to get a mixture costing ₹30 per kg. Find the price (per kg) of the costlier wheat.
+
+  8. Replace-with-pure to target ratio — 2x (3% of topic)
+     Micro-concept : solute invariance
+     Trigger       : "80L 7:1; replace some with pure milk"
+     Standard      : Solute fixed; new total = solute/target fraction
+     Fast          : Fix solute first
+     Options       : Check total change
+     Trap          : Fixed total
+     Prerequisite  : Solute invariance | Time: 35-55s
+     Example       : An 80-litre mixture contains milk and water in the ratio 7:1. Some quantity of this mixture is removed and replaced with pure milk. If the final ratio of milk to water becomes 15:1, how many litres of
+
+  9. Bulk lots blended: mean price — 2x (3% of topic)
+     Micro-concept : total value / total qty
+     Trigger       : "18kg@320 + 28kg@260 mixed"
+     Standard      : Mean = total value/total qty
+     Fast          : Same
+     Options       : Check weight totals
+     Trap          : Simple mean
+     Prerequisite  : Weighted mean | Time: 30-45s
+     Example       : A spice merchant bought 18 kg of Turmeric at ₹320/kg and 28 kg of Coriander at ₹260/kg. He mixed them. Due to market conditions, he had to sell the mixture at ₹290/kg. Calculate the loss or gain.
+
+  10. Three-way mixture (find unknown) — 1x (1% of topic)
+     Micro-concept : multi-component mean
+     Trigger       : "mixed with a third variety in 2:1:2"
+     Standard      : Weighted mean equation → solve unknown price
+     Fast          : Total value ÷ total qty
+     Options       : Check mean within range
+     Trap          : Ignoring third component
+     Prerequisite  : Weighted mean | Time: 35–55s
+     Example       : The concentrations of three acids, A, B, and C, are specified as 20%, 30%, and 40%, respectively. They are blended in a ratio of 3 : 5 : a, yielding a solution with a concentration of 30%. What is the
+
+  11. Compare two mixtures — 1x (1% of topic)
+     Micro-concept : milk-fraction compare
+     Trigger       : "adds 6L water to 10L milk vs 4L to 8L"
+     Standard      : Milk fraction each; cross-compare
+     Fast          : Common-denominator compare
+     Options       : Test options
+     Trap          : Comparing water instead
+     Prerequisite  : Fraction compare | Time: 30–45s
+     Example       : If one man adds 6 litres of water to 10 litres of milk and another man adds 4 litres of water to 8 litres of milk. Find the ratio of milk in the two mixtures.
+
+  12. Mixture blended then sold at profit — 1x (1% of topic)
+     Micro-concept : mean then margin
+     Trigger       : "80/160 blend sold 140 at 25% margin"
+     Standard      : Mean CP = SP/(1+margin); alligate ratio
+     Fast          : Back out mean first
+     Options       : Check margin on CP
+     Trap          : Margin on SP
+     Prerequisite  : Mean back-out | Time: 40-60s
+     Example       : Two spices priced at ₹80 per kg and ₹160 per kg are blended. They are sold at ₹140 per kg, achieving a profit margin of 25%. What is the ratio of the two spices in the mixture?
+
+  13. Find qty for target gain on mix — 1x (1% of topic)
+     Micro-concept : mean with margin
+     Trigger       : "30kg@40 + ?@52 for 20% gain"
+     Standard      : Target mean = SP/(1+g); solve qty
+     Fast          : Balance method
+     Options       : Check margin base
+     Trap          : Gain on SP
+     Prerequisite  : Mean with margin | Time: 40-60s
+     Example       : How many kilograms of wheat costing ₹52 per kg must be mixed with 30 kg of wheat costing ₹40 per kg so that a 20% gain may be obtained by selling the mixture at ₹54 per kg?
+
+  14. Loss-based mix ratio — 1x (1% of topic)
+     Micro-concept : CP back-out
+     Trigger       : "36@10% loss + 48@20% loss: mix ratio?"
+     Standard      : CP_i = SP_i/(1-loss_i); ratio as asked
+     Fast          : Back out CPs first
+     Options       : Check loss base
+     Trap          : Mixing SPs directly
+     Prerequisite  : CP back-out | Time: 40-60s
+     Example       : A trader sells one variety of sugar at ₹36 per kg, incurring a 10% loss, and another variety at ₹48 per kg, incurring a 20% loss. If he mixes the two varieties in equal quantities and sells the mixtur
+
+  15. Drain then add components — 1x (1% of topic)
+     Micro-concept : mixture update
+     Trigger       : "x litres drained, then added"
+     Standard      : Remove proportionally, then add
+     Fast          : Track one component only
+     Options       : Check totals
+     Trap          : Adding before draining
+     Prerequisite  : Proportional removal | Time: 35–55s
+     Example       : A tank contains liquids A, B, and C in the ratio 8:6:4. 30 liters of the mixture are drained out, after which 12 liters of A and 8 liters of C are added. In the final mixture, the quantity of A is 20 
+
+------------------------------------------------------------------------------
+TOPIC 13: Data Interpretation — 74 questions (3.4% of Quant)
+------------------------------------------------------------------------------
+
+  1. Read chart/table + compute — 73x (99% of topic)
+     Micro-concept : mean/max/share
+     Trigger       : "study the chart and answer…"
+     Standard      : Extract values; mean/max/ratio as asked
+     Fast          : Eyeball largest first
+     Options       : Eliminate misread series
+     Trap          : Wrong row/column
+     Prerequisite  : Careful reading | Time: 40–70s
+     Example       : Study the given pie-chart and answer the question that follows. The pie-chart shows the expenditure incurred in the preparation of a book by a publisher, under various heads. What is the difference be
+
+  2. General chart reading — 1x (1% of topic)
+     Micro-concept : extract + compute
+     Trigger       : —
+     Standard      : Read values carefully, then compute
+     Fast          : Same
+     Options       : Eliminate misreads
+     Trap          : Wrong series
+     Prerequisite  : Careful reading | Time: 40–70s
+     Example       : From a sample of 250 data scientists, determine the ratio of those proficient in Python to those proficient in R. Category Number of Data Scientists Proficient in Python and R 50 Proficient in Python 
+
+------------------------------------------------------------------------------
+TOPIC 14: Miscellaneous (Quant) — 50 questions (2.3% of Quant)
+------------------------------------------------------------------------------
+
+  1. Unclassified quant problem — 50x (100% of topic)
+     Micro-concept : mixed skill
+     Trigger       : —
+     Standard      : Classify by keywords first, then solve
+     Fast          : Same
+     Options       : As applicable
+     Trap          : Misclassification
+     Prerequisite  : Topic basics | Time: 40–70s
+     Example       : 1
+
+------------------------------------------------------------------------------
+TOPIC 15: Number System — 49 questions (2.2% of Quant)
+------------------------------------------------------------------------------
+
+  1. Divisibility by 8/9/11/99 + digit find — 28x (57% of topic)
+     Micro-concept : divisibility tests
+     Trigger       : "divisible by 8/11/99; find *"
+     Standard      : Last-3-digits / alternating-sum / 9+11 combo
+     Fast          : Alternating sum for 11
+     Options       : Test options by rule
+     Trap          : Wrong test (e.g. sum for 11)
+     Prerequisite  : Divisibility rules | Time: 20–40s
+     Example       : Which of the following numbers is divisible by 8?
+
+  2. Remainder / modular (incl. polynomial) — 12x (24% of topic)
+     Micro-concept : mod arithmetic
+     Trigger       : "remainder when a^n±b divided by m"
+     Standard      : Reduce base mod m; cyclicity; (x−a) factor
+     Fast          : Cyclicity 4 for powers
+     Options       : Check < divisor
+     Trap          : Full division attempt
+     Prerequisite  : Mod reduction | Time: 25–45s
+     Example       : What will be the remainder when (265)4081+9 is divided by 266?
+
+  3. Perfect-square / divisibility-complement — 5x (10% of topic)
+     Micro-concept : square squeeze; remainder gap
+     Trigger       : "to be added so 99 divides"
+     Standard      : Gap = m − (N mod m); squeeze squares
+     Fast          : Memorised squares to 30²
+     Options       : Check square-ness
+     Trap          : Off-by-one bounds
+     Prerequisite  : Squares / mod gap | Time: 25–40s
+     Example       : Find the smallest number to be added to 999, so that 99 divides the sum exactly.
+
+  4. HCF/LCM / number facts — 2x (4% of topic)
+     Micro-concept : gcd–lcm / series
+     Trigger       : "paved with same-size tiles / sum of first n"
+     Standard      : HCF for tiling; n(n+1)/2
+     Fast          : HCF = tile side
+     Options       : Check factor relations
+     Trap          : LCM↔HCF swap
+     Prerequisite  : HCF/LCM | Time: 25–45s
+     Example       : A rectangular courtyard is 4m 95cm long and 16m 65cm broad. It is to be paved with the square tiles of the same size. Find the least number of such square tiles required to pave the rectangular courty
+
+  5. Digit puzzle (place values) — 1x (2% of topic)
+     Micro-concept : positional constraints
+     Trigger       : "abba divisible by 4…"
+     Standard      : Expand place values, apply rule
+     Fast          : Enumerate constrained digit
+     Options       : Test options fast
+     Trap          : Ignoring a<b style bounds
+     Prerequisite  : Place value | Time: 30–50s
+     Example       : If 321y72 is a multiple of 6, where y is a digit, what is the least value of y?
+
+  6. Division algorithm (D = d·q + r) — 1x (2% of topic)
+     Micro-concept : D–d–q–r relation
+     Trigger       : "divisor is k times quotient…"
+     Standard      : Express all in r, solve
+     Fast          : Chain-substitute
+     Options       : Verify D = dq+r
+     Trap          : Mixing multiplier direction
+     Prerequisite  : Dividend formula | Time: 25–40s
+     Example       : When the square of a positive number is subtracted from 2531 and the resulting value is divided by 11, the quotient is 221. What is the number?
+
+------------------------------------------------------------------------------
+TOPIC 16: Partnership & Share — 21 questions (1.0% of Quant)
+------------------------------------------------------------------------------
+
+  1. Rental/profit share by usage×time — 17x (81% of topic)
+     Micro-concept : share ∝ usage·time
+     Trigger       : "M uses 12 cows for 4 months…"
+     Standard      : Convert to common unit; share ∝ unit-months
+     Fast          : Cow→goat conversion first
+     Options       : Check converted totals
+     Trap          : Adding months across units
+     Prerequisite  : Equivalent units | Time: 45–70s
+     Example       : A, B and C invested money in a business such that 2 times A's share, 4 times B's share and 6 times C's share are all equal. If they earned ₹44,000, find the share of A.
+
+  2. Staggered entry/exit capital share — 2x (10% of topic)
+     Micro-concept : capital x time
+     Trigger       : "Amit 1.5L; Rajesh joins after 5mo; Amit withdraws 60k"
+     Standard      : Share proportional to sum of (capital x months) tranches
+     Fast          : Month-tranche ledger
+     Options       : Check withdrawal timing
+     Trap          : Full-period capital
+     Prerequisite  : Tranche ledger | Time: 50-80s
+     Example       : Amit invested ₹1,50,000 in a business. After 5 months, Rajesh joined with ₹1,20,000. After 2 more months, Amit withdrew ₹60,000. Find their profit ratio at the end of the year.
+
+  3. Time extraction from capital-profit ratios — 1x (5% of topic)
+     Micro-concept : P = C x T inversion
+     Trigger       : "C:D 7:9 capital, 14:15 profit, D 10mo: C months?"
+     Standard      : T ratio = P ratio / C ratio
+     Fast          : Ratio division directly
+     Options       : Check ratio order
+     Trap          : Capital-only split
+     Prerequisite  : P = C x T | Time: 35-55s
+     Example       : C and D invested in a business in the ratio 7:9. Their profit ratio was 14:15. If D invested his money for 10 months, for how many months did C invest?
+
+  4. Multi-partner firm with mid-term entry — 1x (5% of topic)
+     Micro-concept : capital x time with entry
+     Trigger       : "A,B,C invest; new terms after 3 months"
+     Standard      : Tranche ledger per partner
+     Fast          : Same
+     Options       : Check entry month
+     Trap          : Full-period all
+     Prerequisite  : Tranche ledger | Time: 50-80s
+     Example       : An investment is made in a business. In the first year, it gains 25%, in the second year, it loses 20%, and in the third year, it gains 10%. What is the overall gain or loss percentage?
+
+------------------------------------------------------------------------------
+TOPIC 17: Simplification & Approximation — 17 questions (0.8% of Quant)
+------------------------------------------------------------------------------
+
+  1. Decimal/rounding/number-facts — 11x (65% of topic)
+     Micro-concept : place-value care
+     Trigger       : "rounded to n decimals / terminating?"
+     Standard      : Compute then round at END
+     Fast          : Round only final
+     Options       : Check decimal shift
+     Trap          : Early rounding
+     Prerequisite  : Place value | Time: 30–50s
+     Example       : 0.2 + 0.02 + 0.002 = ?
+
+  2. Bracket (BODMAS) simplification — 3x (18% of topic)
+     Micro-concept : innermost-first
+     Trigger       : "simplify nested brackets"
+     Standard      : Innermost bracket first
+     Fast          : Sign flip on minus-bracket
+     Options       : Estimate sign/size
+     Trap          : 'of' before ÷×
+     Prerequisite  : BODMAS order | Time: 30–50s
+     Example       : 100÷10-[-2+{-9+(3-6 of 2)}]= ________.
+
+  3. Compare/order fractions — 3x (18% of topic)
+     Micro-concept : cross-multiply
+     Trigger       : "which fraction largest / arrange…"
+     Standard      : Cross-multiply pairs / common denominator
+     Fast          : Decimal equivalents
+     Options       : Eliminate extremes
+     Trap          : Comparing numerators
+     Prerequisite  : Cross products | Time: 25–40s
+     Example       : Which of the following fractions is the largest?

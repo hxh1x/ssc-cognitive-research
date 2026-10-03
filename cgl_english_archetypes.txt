@@ -1,0 +1,747 @@
+==============================================================================
+SSC CGL TIER-1 ENGLISH — QUESTION-GENERATION MODEL (archetype catalog, v1)
+Source: 2,200 English PYQs (2023-2025, 88 shifts). Ranked by observed frequency.
+Each archetype = one reusable template SSC repeats: trigger, micro-concept,
+standard + fast routes, option tactics, trap, prerequisite, time, verbatim example.
+Difficulty/Language/Recognition/Time are heuristic estimates, not measurements.
+Error-focus labels (SVA/tense/article/prep/pronoun) are heuristic cues from the
+sentence text, not answer-key-derived truth.
+==============================================================================
+
+------------------------------------------------------------------------------
+TOPIC 1: Cloze Passage — 262 questions (11.9% of English)
+------------------------------------------------------------------------------
+
+  1. Cloze vocabulary blank — 212x (81% of topic)
+     Micro-concept : passage coherence + semantics
+     Trigger       : —
+     Standard      : Read ±1 sentence; meaning fit
+     Fast          : Flow + local fit
+     Options       : Eliminate flow-breakers
+     Trap          : Isolated choice
+     Prerequisite  : Local coherence | Time: 20–30s
+     Example       : Select the most appropriate option to fill in blank no. 2.
+
+  2. Cloze grammar blank (preposition) — 32x (12% of topic)
+     Micro-concept : passage coherence + grammar
+     Trigger       : —
+     Standard      : Read ±1 sentence; grammar fit
+     Fast          : Flow + local fit
+     Options       : Eliminate flow-breakers
+     Trap          : Isolated choice
+     Prerequisite  : Local coherence | Time: 20–30s
+     Example       : Select the most appropriate option to fill in blank no. 1.
+
+  3. Cloze grammar blank (verb/tense) — 16x (6% of topic)
+     Micro-concept : passage coherence + grammar
+     Trigger       : —
+     Standard      : Read ±1 sentence; grammar fit
+     Fast          : Flow + local fit
+     Options       : Eliminate flow-breakers
+     Trap          : Isolated choice
+     Prerequisite  : Local coherence | Time: 20–30s
+     Example       : Select the most appropriate option to fill in blank 2.
+
+  4. Cloze grammar blank (article) — 2x (1% of topic)
+     Micro-concept : passage coherence + grammar
+     Trigger       : —
+     Standard      : Read ±1 sentence; grammar fit
+     Fast          : Flow + local fit
+     Options       : Eliminate flow-breakers
+     Trap          : Isolated choice
+     Prerequisite  : Local coherence | Time: 20–30s
+     Example       : Select the most appropriate option to fill in blank number 1.
+
+------------------------------------------------------------------------------
+TOPIC 2: Sentence Improvement — 207 questions (9.4% of English)
+------------------------------------------------------------------------------
+
+  1. General sentence correction — 157x (76% of topic)
+     Micro-concept : grammar + style
+     Trigger       : —
+     Standard      : Diagnose error type; apply rule
+     Fast          : Error-type first
+     Options       : Test corrected options
+     Trap          : Sound-only pick
+     Prerequisite  : Diagnosis | Time: 30–45s
+     Example       : Select the most appropriate option that can substitute the underlined segment in the given sentence. The fact that God created man in his personal view by giving him an intellectual spirit elevates hi
+
+  2. Agreement correction in context — 34x (16% of topic)
+     Micro-concept : SVA in sentence
+     Trigger       : "boys and teacher wants…"
+     Standard      : Find subject head; fix verb
+     Fast          : Subject hunt
+     Options       : Test verb options
+     Trap          : Nearest noun
+     Prerequisite  : SVA | Time: 25–40s
+     Example       : Select the most appropriate option that can substitute the underlined segment in the given sentence. We must remember that what we teach our children is what we inculcate in them.
+
+  3. No-improvement check — 6x (3% of topic)
+     Micro-concept : verify correctness
+     Trigger       : "if no substitution required…"
+     Standard      : Attempt correction; if none needed pick no-change
+     Fast          : Error-hunt first
+     Options       : Check no-change option last
+     Trap          : Forced change
+     Prerequisite  : Full check | Time: 30-45s
+     Example       : Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select ‘No substitution’. I’ve got a lot of homeworks this weekend.
+
+  4. Adjective→adverb correction — 5x (2% of topic)
+     Micro-concept : manner adverbs
+     Trigger       : "ran quick / sings good…"
+     Standard      : Manner slot needs -ly adverb
+     Fast          : -ly reflex
+     Options       : Check manner slots
+     Trap          : Adjective kept
+     Prerequisite  : Adverb slots | Time: 20-35s
+     Example       : Select the option that corrects the error in the given sentence. She sings good.
+
+  5. Subjunctive / conditional correction — 3x (1% of topic)
+     Micro-concept : unreal past
+     Trigger       : "If I was the queen…"
+     Standard      : Unreal if → were; would in result
+     Fast          : were-for-was reflex
+     Options       : Check was/were options
+     Trap          : Keeping was
+     Prerequisite  : Subjunctive | Time: 25–40s
+     Example       : Select the option that will improve the underlined part of the given sentence. If I was the queen, I would give a handsome sum towards education.
+
+  6. Tense-sequence correction — 2x (1% of topic)
+     Micro-concept : sequence of tenses
+     Trigger       : "When I saw him, I will ask…"
+     Standard      : Past reporting → past/would in clause
+     Fast          : Backshift reflex
+     Options       : Check time clauses
+     Trap          : Keeping will
+     Prerequisite  : Backshifting | Time: 25–40s
+     Example       : Select the option that will improve the underlined part of the given sentence. When I saw him, I will ask him to return the book he borrowed.
+
+------------------------------------------------------------------------------
+TOPIC 3: One-Word Substitution — 202 questions (9.2% of English)
+------------------------------------------------------------------------------
+
+  1. Definition → single word — 97x (48% of topic)
+     Micro-concept : definition vocabulary
+     Trigger       : "one-word substitute for group of words"
+     Standard      : Map key noun in definition; recall word
+     Fast          : Root-word hints
+     Options       : Eliminate POS-mismatch
+     Trap          : Near-synonym trap
+     Prerequisite  : Root/prefix clues | Time: 20–35s
+     Example       : Select the option that can be used as a one-word substitute for the given group of words. A thing fit to eat.
+
+  2. General word substitute — 76x (38% of topic)
+     Micro-concept : vocabulary
+     Trigger       : —
+     Standard      : Recall or root-decode
+     Fast          : Root hints
+     Options       : Eliminate POS-mismatch
+     Trap          : Near-synonym
+     Prerequisite  : Roots | Time: 20–35s
+     Example       : Select the option that can be used as a one-word substitute for the underlined segment. My father always tells amusing and true stories from his childhood at bedtime.
+
+  3. Underlined/bracketed-word substitute (in context) — 29x (14% of topic)
+     Micro-concept : contextual synonym
+     Trigger       : "substitute the underlined word…"
+     Standard      : Meaning in this sentence, not dictionary-first
+     Fast          : Context test
+     Options       : Eliminate off-tone options
+     Trap          : Dictionary-first pick
+     Prerequisite  : Context fit | Time: 25–40s
+     Example       : Select the most appropriate option that can substitute the underlined word in the given sentence. She had an ability to persuade others.
+
+------------------------------------------------------------------------------
+TOPIC 4: Reading Comprehension — 178 questions (8.1% of English)
+------------------------------------------------------------------------------
+
+  1. Factual retrieval from passage — 51x (29% of topic)
+     Micro-concept : locate-and-match
+     Trigger       : "according to the passage…"
+     Standard      : Locate the sentence; match option wording
+     Fast          : Scan for keywords first
+     Options       : Eliminate out-of-passage options
+     Trap          : Outside knowledge
+     Prerequisite  : Scanning | Time: 40–60s
+     Example       : As per the passage, wisdom is mainly developed through: Read the following passage and answer the questions based on the passage: Education and wisdom are frequently treated as interchangeable in ever
+
+  2. Vocabulary-in-passage — 41x (23% of topic)
+     Micro-concept : contextual meaning
+     Trigger       : "word X in para N means…"
+     Standard      : Substitute each option into the sentence
+     Fast          : Tone + grammar fit
+     Options       : Eliminate wrong-POS options
+     Trap          : Dictionary-first meaning
+     Prerequisite  : Context substitution | Time: 30–45s
+     Example       : What key distinction does the passage primarily highlight? Read the following passage and answer the questions based on the passage: Education and wisdom are frequently treated as interchangeable in e
+
+  3. Author attitude / tone / description — 26x (15% of topic)
+     Micro-concept : tone detection
+     Trigger       : "author describes X as… / tone…"
+     Standard      : Adjectives + connotation across passage
+     Fast          : Charge (+/-/neutral) first
+     Options       : Eliminate opposite-charge tone
+     Trap          : Single-word evidence
+     Prerequisite  : Tone charge | Time: 45–70s
+     Example       : Why does the author describe social media as a “double-edged” force in democracy? Read the following passage and answer the questions based on the passage: The rapid expansion of social media has resh
+
+  4. Inference from passage — 20x (11% of topic)
+     Micro-concept : read-between-lines
+     Trigger       : "what can be inferred…"
+     Standard      : Combine 2+ sentences; avoid extremes
+     Fast          : Reject extreme options fast
+     Options       : Eliminate too-strong options
+     Trap          : Over-inference
+     Prerequisite  : Evidence pairing | Time: 50–75s
+     Example       : Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence. (O) attitude is (P) or tendency in individuals (Q) a broad-based behaviour (
+
+  5. Main idea / title — 18x (10% of topic)
+     Micro-concept : whole-passage gist
+     Trigger       : "main idea / best title…"
+     Standard      : First+last para; repeated concept
+     Fast          : Skim topic sentences
+     Options       : Eliminate too-narrow options
+     Trap          : Detail as answer
+     Prerequisite  : Gist reading | Time: 40–60s
+     Example       : What was one major unintended drawback linked to the CoWIN registration system? Read the passage and answer the following questions. India’s COVID-19 vaccination programme—vast in ambition and reach—h
+
+  6. Reason/cause-effect inference — 13x (7% of topic)
+     Micro-concept : why/how linkage
+     Trigger       : "why/how…; what role/reason…"
+     Standard      : Link claim to evidence sentences
+     Fast          : Evidence pairing
+     Options       : Eliminate unevidenced
+     Trap          : Single-sentence answer
+     Prerequisite  : Linkage reading | Time: 50-75s
+     Example       : What key democratic role of social media is highlighted in the passage? Read the following passage and answer the questions based on the passage: The rapid expansion of social media has reshaped democ
+
+  7. Factual detail retrieval — 8x (4% of topic)
+     Micro-concept : locate-and-match
+     Trigger       : "what/which/who… (factual)"
+     Standard      : Locate the sentence; match wording
+     Fast          : Keyword scan
+     Options       : Eliminate out-of-passage
+     Trap          : Outside knowledge
+     Prerequisite  : Scanning | Time: 40-60s
+     Example       : Which idea, introduced through therapy, became the starting point of Meera’s emotional recovery? Read the passage and answer the following questions. For seventeen-year-old Meera, adolescence did not 
+
+  8. General passage question — 1x (1% of topic)
+     Micro-concept : passage evidence
+     Trigger       : —
+     Standard      : Find textual evidence for option
+     Fast          : Evidence scan
+     Options       : Eliminate unevidenced
+     Trap          : Memory answering
+     Prerequisite  : Text evidence | Time: 45–70s
+     Example       : Identify the tense and voice used in the sentence: "The development of submersibles and remotely operated vehicles enabled researchers to venture into the hadal zones..." Read the passage and answer t
+
+------------------------------------------------------------------------------
+TOPIC 5: Active / Passive Voice — 176 questions (8.0% of English)
+------------------------------------------------------------------------------
+
+  1. Standard active→passive (simple tenses) — 59x (34% of topic)
+     Micro-concept : object-front template
+     Trigger       : "express in passive (present/past simple)"
+     Standard      : Object front + be + V3; keep tense
+     Fast          : Tense-lock template
+     Options       : Match tense+V3
+     Trap          : Tense shift
+     Prerequisite  : Voice templates | Time: 30-45s
+     Example       : Select the option that expresses the given sentence in passive voice. He won’t receive any better choice than this from anywhere.
+
+  2. Passive → active — 36x (20% of topic)
+     Micro-concept : agent recovery
+     Trigger       : "…in active voice"
+     Standard      : Agent becomes subject; restore verb
+     Fast          : Find by-agent first
+     Options       : Match agent-subject options
+     Trap          : Keeping passive verb
+     Prerequisite  : Agent mapping | Time: 30–45s
+     Example       : Select the option that expresses the given sentence in active voice. The growing population of India will have been controlled by the Indian government by 2040.
+
+  3. Modal/future → passive — 30x (17% of topic)
+     Micro-concept : modal + be + V3
+     Trigger       : "will announce… → passive"
+     Standard      : Object front; will be + V3; by-agent optional
+     Fast          : Template will-be-V3
+     Options       : Match V3 across options
+     Trap          : Dropping be
+     Prerequisite  : Modal passive | Time: 30–45s
+     Example       : Select the option that expresses the given sentence in passive voice. The company's board of directors will announce the financial results at the annual meeting tomorrow.
+
+  4. Past (was/were) → passive — 25x (14% of topic)
+     Micro-concept : was/were + V3
+     Trigger       : "packed by Mary…"
+     Standard      : was/were + V3; keep tense
+     Fast          : Tense-lock check
+     Options       : Eliminate tense-shifted options
+     Trap          : Tense shift
+     Prerequisite  : Past passive | Time: 30–45s
+     Example       : Select the option that expresses the given sentence in passive voice. The magazine house was expecting unpublished authors for their forthcoming exclusive issue on new trends.
+
+  5. Interrogative voice conversion — 17x (10% of topic)
+     Micro-concept : question skeleton kept
+     Trigger       : "…? → voice"
+     Standard      : Keep ?-word order; convert main verb only
+     Fast          : Convert, keep skeleton
+     Options       : Eliminate statement forms
+     Trap          : Reordering randomly
+     Prerequisite  : Q-structure | Time: 35–55s
+     Example       : Select the option that expresses the given sentence in active voice. Was the bag packed by Mary?
+
+  6. General voice conversion — 9x (5% of topic)
+     Micro-concept : voice transform
+     Trigger       : —
+     Standard      : Identify tense; apply template
+     Fast          : Template match
+     Options       : Match V3/tense
+     Trap          : Tense drift
+     Prerequisite  : Voice templates | Time: 30–50s
+     Example       : Select the sentence that is expressed in passive voice.
+
+------------------------------------------------------------------------------
+TOPIC 6: Para Jumbles — 168 questions (7.6% of English)
+------------------------------------------------------------------------------
+
+  1. Full ABCD order (no anchors) — 166x (99% of topic)
+     Micro-concept : sequence logic
+     Trigger       : "arrange A–D into coherent paragraph"
+     Standard      : Find opening (intro) sentence; chain pronoun/linking clues
+     Fast          : Opening-sentence test
+     Options       : Try option orders at first link
+     Trap          : Chronology assumption
+     Prerequisite  : Connectors/reference | Time: 50–80s
+     Example       : Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph. A. In Bihar and Central India, in particular, every d
+
+  2. S1–S6 anchored order — 2x (1% of topic)
+     Micro-concept : fixed ends
+     Trigger       : "S1 and S6 fixed; order the middle"
+     Standard      : Link S1→first and last→S6; bridge middle
+     Fast          : Anchor both ends first
+     Options       : Test options at junctions
+     Trap          : Ignoring anchors
+     Prerequisite  : Link devices | Time: 45–70s
+     Example       : Sentences of a paragraph are given below. While the first and the last sentences (S1 and S6) are in the correct order, the sentences in between are jumbled up and named P, Q, R, S. Arrange the sentenc
+
+------------------------------------------------------------------------------
+TOPIC 7: Antonyms — 158 questions (7.2% of English)
+------------------------------------------------------------------------------
+
+  1. Isolated-word antonym — 110x (70% of topic)
+     Micro-concept : direct opposite
+     Trigger       : "antonym of: servile…"
+     Standard      : Recall; prefix (un-/in-/dis-) flip
+     Fast          : Prefix flip
+     Options       : Eliminate synonyms
+     Trap          : Near-synonym
+     Prerequisite  : Opposite bank | Time: 15–25s
+     Example       : Select the most appropriate ANTONYM of the word ‘Optimistic’ from the given sentence. After the incident, Radha prepared herself to stay positive even in gloomy days.
+
+  2. Antonym (isolated or in context) — 44x (28% of topic)
+     Micro-concept : contextual opposite
+     Trigger       : "antonym of underlined word…"
+     Standard      : Opposite that fits the sentence
+     Fast          : Prefix-flip + context
+     Options       : Eliminate synonyms
+     Trap          : Sign error
+     Prerequisite  : Opposite bank | Time: 25–40s
+     Example       : Select the most appropriate ANTONYM of the underlined word. Her dog can climb under the fence.
+
+  3. General antonym task — 4x (3% of topic)
+     Micro-concept : opposites
+     Trigger       : —
+     Standard      : Recall opposite; verify sign
+     Fast          : Prefix flip
+     Options       : Eliminate synonyms
+     Trap          : Sign error
+     Prerequisite  : Opposite bank | Time: 20–35s
+     Example       : Select the most appropriate ANTONYM of the following word. Forbid
+
+------------------------------------------------------------------------------
+TOPIC 8: Error Detection — 150 questions (6.8% of English)
+------------------------------------------------------------------------------
+
+  1. Tense / time-marker error — 65x (43% of topic)
+     Micro-concept : tense consistency
+     Trigger       : "since/for/will + verb form"
+     Standard      : Match marker to required form (since+perfect; will+base)
+     Fast          : Marker→form table
+     Options       : Check time words first
+     Trap          : Default present tense
+     Prerequisite  : Marker-form map | Time: 30–50s
+     Example       : The following sentence has been split into four segments. Identify the segment that contains an error. Neetu have been / waiting for me / since 10 o’clock / in the morning.
+
+  2. Pronoun / relative-pronoun error — 42x (28% of topic)
+     Micro-concept : antecedent match
+     Trigger       : "who/whom/which/its…"
+     Standard      : Antecedent number/case; who vs whom
+     Fast          : Antecedent hunt
+     Options       : Check each pronoun
+     Trap          : Skipping antecedent
+     Prerequisite  : Pronoun rules | Time: 30–45s
+     Example       : Select the most appropriate option that can substitute the underlined segment in the given sentence. The commanders entered by force into terrorists’ camp.
+
+  3. Subject–verb agreement — 36x (24% of topic)
+     Micro-concept : agreement triggers
+     Trigger       : "each/neither/one of… + verb"
+     Standard      : Map true subject; ignore intervening phrases
+     Fast          : Bracket the intervener
+     Options       : Test singular/plural swap
+     Trap          : Nearest-noun agreement
+     Prerequisite  : SVA triggers | Time: 30–50s
+     Example       : The following sentence has been divided into parts. One of them may contain an error. Select the part that contains the error from the given options. If you don’t find any error, mark ‘No error’ as yo
+
+  4. Preposition collocation error — 4x (3% of topic)
+     Micro-concept : fixed collocations
+     Trigger       : "discuss about / comprise of…"
+     Standard      : Recall correct collocation; strip wrong prep
+     Fast          : Memorised wrong-list
+     Options       : Check verb+prep pairs
+     Trap          : Literal translation
+     Prerequisite  : Collocation list | Time: 25–40s
+     Example       : Find the part of the sentence that contains an error: The research division (1)/ consists specialists (2)/ in analytics, forecasting, and strategy (3)/ across multiple sectors. (4)/
+
+  5. Error location (mixed focus) — 3x (2% of topic)
+     Micro-concept : error inventory
+     Trigger       : —
+     Standard      : Check verbs, then preps/articles/pronouns in order
+     Fast          : Verb-first scan
+     Options       : Eliminate clean segments
+     Trap          : Reading for meaning
+     Prerequisite  : Error checklist | Time: 30–50s
+     Example       : Sentences with spelling errors are given. Select the sentence with NO error.
+
+------------------------------------------------------------------------------
+TOPIC 9: Synonyms — 139 questions (6.3% of English)
+------------------------------------------------------------------------------
+
+  1. Isolated/bracketed-word synonym — 110x (79% of topic)
+     Micro-concept : marked word
+     Trigger       : "synonym of word in brackets…"
+     Standard      : Direct synonym recall
+     Fast          : Same
+     Options       : Eliminate antonyms
+     Trap          : Sign flip
+     Prerequisite  : Vocab recall | Time: 15–25s
+     Example       : Select the most appropriate synonym of the given word. Zealous
+
+  2. Synonym (isolated or in context) — 25x (18% of topic)
+     Micro-concept : contextual synonym
+     Trigger       : "synonym of underlined word…"
+     Standard      : Fit in sentence; then match
+     Fast          : Context filter
+     Options       : Eliminate off-tone
+     Trap          : Isolated meaning
+     Prerequisite  : Context fit | Time: 25–40s
+     Example       : Select the most appropriate synonym of the underlined word. The Department of Educational Policy is committed to the study of educational policy, analyse, and evaluate educational programmes, to ident
+
+  3. General synonym task — 3x (2% of topic)
+     Micro-concept : vocabulary
+     Trigger       : —
+     Standard      : Recall; test fit
+     Fast          : Context filter
+     Options       : Eliminate antonyms
+     Trap          : Sign flip
+     Prerequisite  : Vocab recall | Time: 20–35s
+     Example       : Select the most appropriate synonym of the word in bold. The city has immense coal piers.
+
+  4. Pick synonym from a sentence — 1x (1% of topic)
+     Micro-concept : usage matching
+     Trigger       : "synonym … from the sentence"
+     Standard      : Scan sentence for same-meaning word
+     Fast          : Same-POS scan
+     Options       : Check exact fit
+     Trap          : First similar word
+     Prerequisite  : POS matching | Time: 30–45s
+     Example       : Select the most appropriate synonym of the given word from the sentence. Ready She was preparing dinner in an organised manner using well-equipped tools while listening to the radio.
+
+------------------------------------------------------------------------------
+TOPIC 10: Fill in the Blanks — 139 questions (6.3% of English)
+------------------------------------------------------------------------------
+
+  1. Single-blank vocabulary fit — 85x (61% of topic)
+     Micro-concept : collocation/semantics
+     Trigger       : —
+     Standard      : Fit + collocation check
+     Fast          : Collocation memory
+     Options       : Eliminate grammar-misfits
+     Trap          : Grammar-only pick
+     Prerequisite  : Collocation bank | Time: 20–30s
+     Example       : Select the most appropriate option to fill in the blank. She is _________ a peacock in the blue satin saree.
+
+  2. Spelling-in-blank — 22x (16% of topic)
+     Micro-concept : spelling + fit
+     Trigger       : "fill with the correctly spelt word"
+     Standard      : Spelling check first, then fit
+     Fast          : Same order
+     Options       : Eliminate misspelt first
+     Trap          : Fit-first ignoring spelling
+     Prerequisite  : Spelling rules | Time: 20–30s
+     Example       : Select the correctly spelt word to fill in the blank. The transistors are used as the main _________, which are built into computer chips.
+
+  3. Single-blank verb/tense form — 14x (10% of topic)
+     Micro-concept : tense/verb form
+     Trigger       : —
+     Standard      : Tense marker + subject agreement
+     Fast          : Marker check
+     Options       : Eliminate tense-misfits
+     Trap          : Meaning-only pick
+     Prerequisite  : Tense markers | Time: 20–30s
+     Example       : Select the most appropriate option to fill in the blank. She reminds me always that I ________ to be a little more careful.
+
+  4. Homonym blank (sound-alike choice) — 10x (7% of topic)
+     Micro-concept : homophone discrimination
+     Trigger       : "appropriate homonym/homophone to fill"
+     Standard      : Test each homonym meaning in the sentence
+     Fast          : Kill by meaning-fit; sound carries no clue
+     Options       : Eliminate wrong-meaning options
+     Trap          : Choosing by sound
+     Prerequisite  : Homophone pairs | Time: 20–30s
+     Example       : Select the most appropriate homonym to fill in the blank. The hunter dogs followed the hyena’s ________.
+
+  5. Single-blank preposition — 4x (3% of topic)
+     Micro-concept : prep collocation
+     Trigger       : —
+     Standard      : Verb/noun + prep collocation
+     Fast          : Collocation memory
+     Options       : Eliminate non-collocating
+     Trap          : Meaning-only pick
+     Prerequisite  : Prep collocations | Time: 15–25s
+     Example       : Select the most appropriate option to fill in the blank. Ram went to _____ an ice cream.
+
+  6. Single-blank article — 4x (3% of topic)
+     Micro-concept : a/an/the rules
+     Trigger       : —
+     Standard      : Sound + specificity test
+     Fast          : Sound test
+     Options       : Eliminate by sound
+     Trap          : Meaning-only pick
+     Prerequisite  : Article rules | Time: 15–25s
+     Example       : Fill in the blanks with the appropriate article. In ______ era of unprecedented digital connectivity and ______ proliferation of unverified information, critical thinking has become an indispensable c
+
+------------------------------------------------------------------------------
+TOPIC 11: Spellings — 134 questions (6.1% of English)
+------------------------------------------------------------------------------
+
+  1. Choose correct spelling — 45x (34% of topic)
+     Micro-concept : recall spelling
+     Trigger       : "correct spelling of…"
+     Standard      : Recall; syllable sounding
+     Fast          : Sound-it-out
+     Options       : Eliminate odd doubles
+     Trap          : Visual similarity
+     Prerequisite  : Spelling memory | Time: 15–25s
+     Example       : Select the correct spelling of the underline word. They denied having any associasion with the terrorists.
+
+  2. Isolated misspelt-word pick — 40x (30% of topic)
+     Micro-concept : word-list recall
+     Trigger       : "select the incorrectly spelt word"
+     Standard      : Recall each; odd-one-out
+     Fast          : Same
+     Options       : Eliminate known-good
+     Trap          : Guessing
+     Prerequisite  : Word memory | Time: 15–25s
+     Example       : In the following sentence, four words are underlined, out of which one word is incorrectly spelt. Identify the INCORRECTLY spelt word. A lot of spontanity is required from the speaker in an extempore 
+
+  3. General spelling task — 23x (17% of topic)
+     Micro-concept : spelling memory
+     Trigger       : —
+     Standard      : Scan/recall each form
+     Fast          : Doubles first
+     Options       : Eliminate known-good
+     Trap          : Guessing
+     Prerequisite  : Spelling memory | Time: 15–30s
+     Example       : Select the sentence that contains a spelling error.
+
+  4. Find/correct misspelt word in sentence — 19x (14% of topic)
+     Micro-concept : scan spelling
+     Trigger       : "incorrectly spelt word in sentence"
+     Standard      : Scan each word; double-letter/vowel traps
+     Fast          : Suspect doubles first
+     Options       : Check flagged words only
+     Trap          : First-look pass
+     Prerequisite  : Spelling patterns | Time: 20–30s
+     Example       : Select the INCORRECTLY spelt word in the given sentence. The village beggars, no longer ill at ease in the gathering of gliterring dignitaries, sat in their assigned rows and joked with vegetarian Bra
+
+  5. Pick error-free sentence — 4x (3% of topic)
+     Micro-concept : whole-string check
+     Trigger       : "sentence with NO spelling error"
+     Standard      : Verify every content word in each option
+     Fast          : Find one error to kill option
+     Options       : Kill options with one error
+     Trap          : Partial check
+     Prerequisite  : Full scan | Time: 30-45s
+     Example       : Select the sentence that contains no spelling errors.
+
+  6. Choose correctly-spelled sentence/term — 3x (2% of topic)
+     Micro-concept : whole-string check
+     Trigger       : "correctly spelled sentence"
+     Standard      : Check each content word
+     Fast          : Same scan
+     Options       : Compare across options
+     Trap          : Partial check
+     Prerequisite  : Full scan | Time: 25–40s
+     Example       : Select the correctly spelled sentence.
+
+------------------------------------------------------------------------------
+TOPIC 12: Idioms & Phrases — 124 questions (5.6% of English)
+------------------------------------------------------------------------------
+
+  1. Standalone idiom meaning — 106x (85% of topic)
+     Micro-concept : idiom recall
+     Trigger       : "meaning of: to kick the bucket"
+     Standard      : Direct recall; guess via image
+     Fast          : Image-guess
+     Options       : Eliminate literal options
+     Trap          : Literal reading
+     Prerequisite  : Idiom bank | Time: 15–25s
+     Example       : Select the most appropriate meaning of the given idiom. Lily-livered
+
+  2. Idiom in sentence context — 18x (15% of topic)
+     Micro-concept : contextual idiom
+     Trigger       : "meaning of underlined idiom…"
+     Standard      : Use sentence context + literal absurdity filter
+     Fast          : Absurd-literal reject
+     Options       : Eliminate literal options
+     Trap          : Literal reading
+     Prerequisite  : Idiom bank | Time: 20–35s
+     Example       : Select the most appropriate meaning of the underlined idiom in the given sentence. Pooja tried to explain the problem, but soon she tied herself up in knots.
+
+------------------------------------------------------------------------------
+TOPIC 13: Direct / Indirect Speech — 95 questions (4.3% of English)
+------------------------------------------------------------------------------
+
+  1. Reported statement (default) — 79x (83% of topic)
+     Micro-concept : said→told/that + backshift
+     Trigger       : "direct↔indirect statement"
+     Standard      : Reporting verb + that + backshift tense/pronoun
+     Fast          : Backshift chain
+     Options       : Check backshift + pronoun
+     Trap          : Tense-only change
+     Prerequisite  : Statement map | Time: 35-55s
+     Example       : A sentence is provided in indirect speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding direct speech. He said that he would attend the me
+
+  2. Reported question — 11x (12% of topic)
+     Micro-concept : asked + if/wh
+     Trigger       : "…?" → indirect"
+     Standard      : Said→asked; ? → if/wh + assertive order
+     Fast          : Assertive-order check
+     Options       : Eliminate ?-order options
+     Trap          : Keeping ? order
+     Prerequisite  : Q-reporting | Time: 35–55s
+     Example       : A sentence is provided in direct speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding indirect speech. He asked me, “Did you submit your h
+
+  3. Reported imperative — 4x (4% of topic)
+     Micro-concept : order/request + to
+     Trigger       : "please/order… → indirect"
+     Standard      : Said→ordered/requested; to + base verb
+     Fast          : to-verb reflex
+     Options       : Check reporting verb fit
+     Trap          : Using said + to
+     Prerequisite  : Imperative reporting | Time: 30–50s
+     Example       : A sentence is provided in direct speech. From the four given options, choose the one that most accurately conveys the sentence in its corresponding indirect speech. He said to her, “Please shut the do
+
+  4. Reported exclamation — 1x (1% of topic)
+     Micro-concept : exclaimed + that
+     Trigger       : "what a…! → indirect"
+     Standard      : Exclaimed with joy/sorrow + that-clause
+     Fast          : Emotion-word first
+     Options       : Check that-clause
+     Trap          : Keeping ! form
+     Prerequisite  : Exclamation map | Time: 35–55s
+     Example       : A sentence is provided in direct speech. Choose the option that most accurately represents it in indirect speech. Rita said, "Hurrah! We have won the tournament."
+
+------------------------------------------------------------------------------
+TOPIC 14: Homonyms & Vocabulary — 55 questions (2.5% of English)
+------------------------------------------------------------------------------
+
+  1. Correct homonym use (choose sentence) — 44x (80% of topic)
+     Micro-concept : usage discrimination
+     Trigger       : "sentence containing the homonym of…"
+     Standard      : Test meaning in each sentence
+     Fast          : Meaning test per option
+     Options       : Eliminate wrong-use sentences
+     Trap          : Sound match
+     Prerequisite  : Usage knowledge | Time: 30–45s
+     Example       : Select the sentence containing the homonym of the highlighted word: The choir began the canon at the conductor’s signal.
+
+  2. Word meaning (direct) — 9x (16% of topic)
+     Micro-concept : definition vocabulary
+     Trigger       : "meaning of: taintless…"
+     Standard      : Recall; root-word decode
+     Fast          : Root decode
+     Options       : Eliminate off-POS
+     Trap          : Confusable pick
+     Prerequisite  : Roots | Time: 20–30s
+     Example       : Select the most appropriate meaning of the underlined word. Solomon’s reputation as an accountant is taintless .
+
+  3. General word-meaning task — 2x (4% of topic)
+     Micro-concept : vocabulary
+     Trigger       : —
+     Standard      : Recall meaning; test use
+     Fast          : Context test
+     Options       : Eliminate off-POS
+     Trap          : Sound match
+     Prerequisite  : Roots | Time: 20–35s
+     Example       : Select the most appropriate meaning of the phrase in bold. Your so-called friend has cooked your goose.
+
+------------------------------------------------------------------------------
+TOPIC 15: Tenses & Grammar — 8 questions (0.4% of English)
+------------------------------------------------------------------------------
+
+  1. Choose grammatical sentence — 3x (38% of topic)
+     Micro-concept : error spotting ×4
+     Trigger       : "grammatically correct sentence"
+     Standard      : Find the error in three options
+     Fast          : One-difference scan
+     Options       : Compare options pairwise
+     Trap          : Reading for meaning
+     Prerequisite  : Error inventory | Time: 35–55s
+     Example       : Select the grammatically correct sentence.
+
+  2. Article misuse location — 3x (38% of topic)
+     Micro-concept : article rules
+     Trigger       : "article used incorrectly"
+     Standard      : Check each a/an/the
+     Fast          : Sound-test first
+     Options       : Check flagged segment
+     Trap          : Skipping articles
+     Prerequisite  : Article rules | Time: 25–40s
+     Example       : The following sentence has been divided into four segments. Identify the segment in which the article has been used INCORRECTLY. UNESCO works to / strengthen an intellectual / and moral solidarity / o
+
+  3. General grammar task — 2x (25% of topic)
+     Micro-concept : grammar rules
+     Trigger       : —
+     Standard      : Apply rule set
+     Fast          : Rule match
+     Options       : Compare options
+     Trap          : Meaning reading
+     Prerequisite  : Grammar rules | Time: 30–50s
+     Example       : Select the sentence in which the ‘-ing’ form of verb expresses the continuity of an action/event.
+
+------------------------------------------------------------------------------
+TOPIC 16: Sentence Rearrangement — 4 questions (0.2% of English)
+------------------------------------------------------------------------------
+
+  1. P–Q–R–S part order — 4x (100% of topic)
+     Micro-concept : phrase sequencing
+     Trigger       : "parts P,Q,R,S in jumbled order"
+     Standard      : Find grammatical joints (subject-verb-object); test orders
+     Fast          : Fix SVO spine first
+     Options       : Try options at joints
+     Trap          : Meaning-first guessing
+     Prerequisite  : Clause joints | Time: 40–60s
+     Example       : In the given question, a statement divided into different segments is given. Rearrange all the segments to form a coherent statement. O: its first constitution P: and soon got himself elected Q: the a
+
+------------------------------------------------------------------------------
+TOPIC 17: Figure-Based (Image) — 1 questions (0.0% of English)
+------------------------------------------------------------------------------
+
+  1. Figure-based (needs PDF figure) — 1x (100% of topic)
+     Micro-concept : visual
+     Trigger       : —
+     Standard      : Refer original PDF figure
+     Fast          : Same
+     Options       : As applicable
+     Trap          : —
+     Prerequisite  : — | Time: 60–90s
+     Example       : [image/figure-based content -- see original PDF]

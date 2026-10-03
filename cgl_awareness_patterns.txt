@@ -1,0 +1,417 @@
+==============================================================================
+SSC CGL TIER-1 GENERAL AWARENESS: FACT-TAXONOMY MODEL (v1)
+Source: 2,200 GA PYQs (2023-2025, 88 shifts).
+GA is NOT forced into Quant-style archetypes. Each entry follows:
+Domain -> Topic -> Subtopic -> Fact_Type -> Question_Form -> Entity -> Relationship -> Distractor.
+Frequencies are measured counts. Entity recurrence below lists only entities
+measured 4+ times. Difficulty/Time are heuristic estimates, not measurements.
+Static vs Current = explicit year-mention (2019-2026) in the stem.
+Known limits: keyword taxonomy (boundary fuzz at domain edges, e.g. temple-
+architecture vs religious history); scheme-vs-ministry attribution follows the
+stem focus; Hindi-contaminated rows are unrecoverable; assertion rows with bare
+stems are classified from option text and marked via their form.
+==============================================================================
+
+------------------------------------------------------------------------------
+DOMAIN 1: Current-Affairs-Misc — 293 questions (13.3% of GA)
+------------------------------------------------------------------------------
+  Subtopic 1: General Current Affairs & GK — 281x
+  Subtopic 2: Appointments & Office-holders — 11x
+  Subtopic 3: Reports & Indices in News — 1x
+  Top fact types: General-factual 211x, Person-anchored 20x, Term-anchored 20x, Year-anchored 13x, Superlative/First-record 10x
+  Forms: Direct factual 236x, Statement-based 33x, Fill-up 23x, Matching 1x
+  Distractors: Same-category short entities 187x, Mixed phrases 80x, Statement options 13x, Numeric options 13x
+  Static/Current: Static 264x, Current 29x
+  Examples:
+    - [Person-anchored / Direct factual] Who is the Administrative Head of the Indian Audit and Accounts Department?
+    - [Term-anchored / Fill-up] The consumption of fixed capital is also known as _________.
+    - [General-factual / Direct factual] Which of the following states is NOT a part of the Tapi Basin?
+
+------------------------------------------------------------------------------
+DOMAIN 2: Art-Culture — 271 questions (12.3% of GA)
+------------------------------------------------------------------------------
+  Subtopic 1: Music & Instruments — 123x
+  Subtopic 2: General Art & Culture — 58x
+  Subtopic 3: Festivals & Fairs — 57x
+  Subtopic 4: Classical Dance — 33x
+  Top fact types: General-factual 171x, Person-anchored 23x, Award-anchored 21x, Year-anchored 16x, Place-anchored 16x
+  Forms: Direct factual 219x, Fill-up 29x, Statement-based 14x, Matching 9x
+  Distractors: Same-category short entities 222x, Mixed phrases 38x, Numeric options 7x, Statement options 4x
+  Static/Current: Static 249x, Current 22x
+  Examples:
+    - [General-factual / Direct factual] Which of the following festivals is associated with the term ‘ties of protection’?
+    - [Award-anchored / Fill-up] In October 2021, 19-year-old ________ won the silver medal at the World Wrestling Championship.
+    - [Year-anchored / Direct factual] In 2018, Google Doodle celebrated the 100th birthday of Mrinalini Sarabhai. She is an exponent of which of the following dance forms?
+
+------------------------------------------------------------------------------
+DOMAIN 3: Polity — 268 questions (12.2% of GA)
+------------------------------------------------------------------------------
+  Subtopic 1: Articles of Constitution — 61x
+  Subtopic 2: Constitutional & Statutory Bodies — 58x
+  Subtopic 3: General Polity — 40x
+  Subtopic 4: President & Executive — 25x
+  Subtopic 5: Parliament & Legislature — 24x
+  Subtopic 6: Judiciary — 10x
+  Subtopic 7: Local Governance — 10x
+  Subtopic 8: Amendments & Landmark Cases — 9x
+  Subtopic 9: Elections & Representation — 8x
+  Subtopic 10: Directive Principles — 7x
+  Subtopic 11: Fundamental Rights — 7x
+  Subtopic 12: Preamble, Citizenship & Symbols — 4x
+  Subtopic 13: Schedules, Languages & Reservation — 4x
+  Subtopic 14: Emergency Provisions — 1x
+  Top fact types: General-factual 135x, Article-anchored 65x, Person-anchored 21x, Year-anchored 11x, Superlative/First-record 10x
+  Forms: Direct factual 202x, Fill-up 32x, Statement-based 32x, Matching 2x
+  Distractors: Same-category short entities 172x, Mixed phrases 64x, Numeric options 19x, Statement options 13x
+  Static/Current: Static 228x, Current 40x
+  Examples:
+    - [Superlative/First-record / Fill-up] ________ emerged as the poorest state as per the first-ever Multi-dimensional Poverty Index (MPI) prepared by Niti Aayog and launched in November 2021
+    - [Person-anchored / Direct factual] Who received the Nobel Prize in 1901 for ‘recognition of the extraordinary services rendered by the discovery of the laws of chemical dynamics and osm
+    - [General-factual / Direct factual] Which of the following Articles of the Indian Constitution are related to citizenship?
+
+------------------------------------------------------------------------------
+DOMAIN 4: Sports — 256 questions (11.6% of GA)
+------------------------------------------------------------------------------
+  Subtopic 1: Olympics & Multi-sport — 100x
+  Subtopic 2: General Sports — 82x
+  Subtopic 3: Cricket — 36x
+  Subtopic 4: Chess, Badminton & Tennis — 14x
+  Subtopic 5: Football & Hockey — 13x
+  Subtopic 6: Combat & Other Sports — 6x
+  Subtopic 7: Athletics — 5x
+  Top fact types: General-factual 125x, Year-anchored 28x, Superlative/First-record 27x, Person-anchored 25x, Place-anchored 16x
+  Forms: Direct factual 183x, Statement-based 42x, Fill-up 22x, Matching 9x
+  Distractors: Same-category short entities 152x, Mixed phrases 65x, Numeric options 34x, Statement options 5x
+  Static/Current: Static 201x, Current 55x
+  Examples:
+    - [General-factual / Direct factual] The length of the badminton court for singles is:
+    - [General-factual / Direct factual] Which of the following countries was the host of AFC Women's Asia Cup Football–2022?
+    - [General-factual / Direct factual] In which of the following States/Union Territories were the 36th National Games held?
+
+------------------------------------------------------------------------------
+DOMAIN 5: Economy — 199 questions (9.0% of GA)
+------------------------------------------------------------------------------
+  Subtopic 1: Banking, RBI & Finance — 57x
+  Subtopic 2: General Economy — 32x
+  Subtopic 3: National Income, Budget & Taxation — 31x
+  Subtopic 4: Inflation, Poverty & Food Security — 25x
+  Subtopic 5: Industry, MSME & Reforms — 25x
+  Subtopic 6: Trade & External Sector — 16x
+  Subtopic 7: Planning & NITI Aayog — 13x
+  Top fact types: General-factual 138x, Term-anchored 14x, Superlative/First-record 12x, Person-anchored 8x, Place-anchored 7x
+  Forms: Direct factual 144x, Statement-based 34x, Fill-up 18x, Matching 3x
+  Distractors: Same-category short entities 107x, Mixed phrases 70x, Numeric options 13x, Statement options 7x, Figure options 2x
+  Static/Current: Static 175x, Current 24x
+  Examples:
+    - [Award-anchored / Direct factual] When did Linus Carl Pauling receive the Nobel Prize in Chemistry for ‘his research into the nature of the chemical bond and its applications to the el
+    - [General-factual / Direct factual] In which two consecutive years was there no chief guest at the Republic Day celebrations of India?
+    - [General-factual / Fill-up] Fisher’s quantity theory is explained by his famous equation given as ________.
+
+------------------------------------------------------------------------------
+DOMAIN 6: Geography — 174 questions (7.9% of GA)
+------------------------------------------------------------------------------
+  Subtopic 1: States, Capitals & Census — 46x
+  Subtopic 2: Mountains & Physiography — 34x
+  Subtopic 3: General Geography — 30x
+  Subtopic 4: Rivers & Drainage — 27x
+  Subtopic 5: Soils, Climate & Vegetation — 24x
+  Subtopic 6: Lakes & Water Bodies — 13x
+  Top fact types: General-factual 107x, Place-anchored 19x, Superlative/First-record 19x, Term-anchored 10x, Year-anchored 7x
+  Forms: Direct factual 144x, Statement-based 23x, Fill-up 5x, Matching 2x
+  Distractors: Same-category short entities 123x, Mixed phrases 36x, Numeric options 10x, Statement options 5x
+  Static/Current: Static 162x, Current 12x
+  Examples:
+    - [General-factual / Direct factual] On the basis of tribal population (2011), identify the option that arranges the following states in ascending order. A. Madhya Pradesh B. Maharashtra 
+    - [General-factual / Direct factual] Which scientist thought of the concept of steady state of the universe?
+    - [Place-anchored / Direct factual] The Kanchenjunga peak is located in which sub-division of Himalaya from the following?
+
+------------------------------------------------------------------------------
+DOMAIN 7: History-Ancient — 130 questions (5.9% of GA)
+------------------------------------------------------------------------------
+  Subtopic 1: Indus Valley — 61x
+  Subtopic 2: Gupta & Post-Gupta Kingdoms — 31x
+  Subtopic 3: Mauryan Age — 16x
+  Subtopic 4: General Ancient History — 9x
+  Subtopic 5: Buddhism & Jainism — 8x
+  Subtopic 6: Vedic & Mahajanapadas — 5x
+  Top fact types: General-factual 96x, Person-anchored 8x, Term-anchored 6x, Place-anchored 5x, Objective-anchored 5x
+  Forms: Direct factual 97x, Statement-based 18x, Fill-up 12x, Matching 3x
+  Distractors: Same-category short entities 87x, Mixed phrases 35x, Statement options 5x, Numeric options 3x
+  Static/Current: Static 128x, Current 2x
+  Examples:
+    - [Term-anchored / Direct factual] The Vedic Aryans lived in the area called Sapt-Sindhu, which means area drained by seven rivers. One of the rivers among the seven is Jhelum. What was
+    - [General-factual / Fill-up] In Chola administration, ________ was the assembly in the villages which were inhabited predominantly by the Brahmanas.
+    - [General-factual / Direct factual] In which industrial policy was the investment limit for tiny industry/unit increased to ₹2 lakh?
+
+------------------------------------------------------------------------------
+DOMAIN 8: History-Modern — 121 questions (5.5% of GA)
+------------------------------------------------------------------------------
+  Subtopic 1: General Modern History — 62x
+  Subtopic 2: Freedom Struggle & Leaders — 21x
+  Subtopic 3: Gandhian Movements — 16x
+  Subtopic 4: British Acts & Land Revenue — 12x
+  Subtopic 5: Revolt of 1857 — 5x
+  Subtopic 6: Revolutionaries & Extremists — 5x
+  Top fact types: General-factual 70x, Person-anchored 17x, Year-anchored 11x, Book-anchored 7x, Term-anchored 4x
+  Forms: Direct factual 101x, Statement-based 12x, Fill-up 8x
+  Distractors: Same-category short entities 80x, Mixed phrases 27x, Numeric options 9x, Statement options 5x
+  Static/Current: Static 115x, Current 6x
+  Examples:
+    - [General-factual / Fill-up] Ryotwari system of revenue collection in India, introduced by the British, was based on the _______.
+    - [General-factual / Direct factual] ‘Back to Vedas’ was the slogan of which Reform Movement?
+    - [Person-anchored / Fill-up] The Viceroy who took keen interest in the restoration and protection of historical monuments was _____________.
+
+------------------------------------------------------------------------------
+DOMAIN 9: Institutions-Schemes — 113 questions (5.1% of GA)
+------------------------------------------------------------------------------
+  Subtopic 1: Government Schemes & Missions — 47x
+  Subtopic 2: General Institutions & Schemes — 35x
+  Subtopic 3: HQ & Founding Facts — 11x
+  Subtopic 4: Bodies & Organisations — 9x
+  Subtopic 5: Reports, Indices & Surveys — 7x
+  Subtopic 6: Summits & Conferences — 4x
+  Top fact types: General-factual 54x, Year-anchored 19x, Person-anchored 14x, Place-anchored 11x, Superlative/First-record 5x
+  Forms: Direct factual 103x, Fill-up 6x, Statement-based 3x, Matching 1x
+  Distractors: Same-category short entities 66x, Mixed phrases 32x, Numeric options 13x, Statement options 2x
+  Static/Current: Static 89x, Current 24x
+  Examples:
+    - [Superlative/First-record / Direct factual] Which of the following is the largest pan-India scheme to strengthen health care infrastructure across the country with focus on primary, secondary an
+    - [Year-anchored / Direct factual] Which of the following was established in Bombay in 1875?
+    - [General-factual / Direct factual] The ‘Jal Kranti Abhiyan’ was launched by which government during the financial year 2015-2016?
+
+------------------------------------------------------------------------------
+DOMAIN 10: Physics — 102 questions (4.6% of GA)
+------------------------------------------------------------------------------
+  Subtopic 1: Magnetism, Modern Physics & Space — 27x
+  Subtopic 2: General Physics — 26x
+  Subtopic 3: Optics — 19x
+  Subtopic 4: Electricity & Electronics — 18x
+  Subtopic 5: Mechanics — 7x
+  Subtopic 6: Sound & Waves — 3x
+  Subtopic 7: Heat & Measurement — 2x
+  Top fact types: General-factual 77x, Year-anchored 6x, Superlative/First-record 6x, Term-anchored 5x, Place-anchored 3x
+  Forms: Direct factual 83x, Statement-based 10x, Fill-up 7x, Matching 2x
+  Distractors: Same-category short entities 70x, Mixed phrases 27x, Statement options 3x, Numeric options 2x
+  Static/Current: Static 99x, Current 3x
+  Examples:
+    - [General-factual / Direct factual] Which of the following is used as a cooling medium for the Large Hadron Collider (LHC) and the superconducting magnets in MRI scanners and NMR spectro
+    - [General-factual / Fill-up] ___________ is the process of complete or incomplete oxidation or hydrolysis of fats and oils when exposed to air, light, moisture, or bacterial actio
+    - [Year-anchored / Direct factual] Which of the following committees was constituted to study the issues and concerns in the Micro Finance Institution in 2010?
+
+------------------------------------------------------------------------------
+DOMAIN 11: Chemistry — 81 questions (3.7% of GA)
+------------------------------------------------------------------------------
+  Subtopic 1: General Chemistry — 32x
+  Subtopic 2: Elements, Metals & Alloys — 18x
+  Subtopic 3: Gases — 12x
+  Subtopic 4: Acids, Bases & Salts — 11x
+  Subtopic 5: Reactions & Concepts — 7x
+  Subtopic 6: Applied Chemistry — 1x
+  Top fact types: General-factual 51x, Term-anchored 6x, Superlative/First-record 5x, Year-anchored 5x, Person-anchored 4x
+  Forms: Direct factual 67x, Fill-up 8x, Statement-based 6x
+  Distractors: Same-category short entities 59x, Mixed phrases 15x, Numeric options 4x, Statement options 3x
+  Static/Current: Static 78x, Current 3x
+  Examples:
+    - [Quantity-anchored / Direct factual] What will be the atomic number of an element X which is placed in period 2 and group 17?
+    - [General-factual / Direct factual] Pectin, which is responsible for the firmness and softness of fruits, is mainly composed of which acid unit?
+    - [General-factual / Direct factual] Iron mines in Jharkhand attributed to the rise of which of the following kingdoms in ancient India?
+
+------------------------------------------------------------------------------
+DOMAIN 12: Biology — 59 questions (2.7% of GA)
+------------------------------------------------------------------------------
+  Subtopic 1: General Biology — 28x
+  Subtopic 2: Ecology & Diversity — 9x
+  Subtopic 3: Human Body & Health — 9x
+  Subtopic 4: Cell & Genetics — 8x
+  Subtopic 5: Plant Physiology — 5x
+  Top fact types: General-factual 42x, Term-anchored 7x, Quantity-anchored 3x, Superlative/First-record 2x, Person-anchored 2x
+  Forms: Direct factual 53x, Statement-based 4x, Fill-up 2x
+  Distractors: Same-category short entities 48x, Mixed phrases 7x, Numeric options 3x, Statement options 1x
+  Static/Current: Static 57x, Current 2x
+  Examples:
+    - [General-factual / Direct factual] Name a reproductive strategy in which parasites take advantage of the care of other individuals of the same species or different species to raise thei
+    - [General-factual / Direct factual] Sporophyte stage is dominant in which plant group?
+    - [Term-anchored / Direct factual] Which cells, also called neurilemma cells, are the main glial cells in the PNS and play an essential role in the survival and functions of neurons?
+
+------------------------------------------------------------------------------
+DOMAIN 13: History-Medieval — 53 questions (2.4% of GA)
+------------------------------------------------------------------------------
+  Subtopic 1: Mughals — 28x
+  Subtopic 2: Delhi Sultanate — 9x
+  Subtopic 3: Vijayanagara & Deccan — 7x
+  Subtopic 4: Bhakti & Sufi — 5x
+  Subtopic 5: Marathas — 2x
+  Subtopic 6: General Medieval History — 1x
+  Subtopic 7: Rajputs — 1x
+  Top fact types: General-factual 33x, Person-anchored 8x, Year-anchored 6x, Founder-anchored 2x, Place-anchored 2x
+  Forms: Direct factual 40x, Fill-up 7x, Statement-based 5x, Matching 1x
+  Distractors: Same-category short entities 41x, Mixed phrases 11x, Numeric options 1x
+  Static/Current: Static 52x, Current 1x
+  Examples:
+    - [Award-anchored / Direct factual] Ms Bhakti Pradip Kulkarni was conferred with the Arjuna Award 2022 for her outstanding contribution in which of the following sports?
+    - [General-factual / Fill-up] The Amara-Nayakas were ________ in Vijayanagara Empire.
+    - [General-factual / Fill-up] While historians use the term Vijayanagara Empire and contemporaries of this empire described it as the_______________.
+
+------------------------------------------------------------------------------
+DOMAIN 14: Books — 45 questions (2.0% of GA)
+------------------------------------------------------------------------------
+  Subtopic 1: General Books & Authors — 25x
+  Subtopic 2: Ancient & Classical Texts — 10x
+  Subtopic 3: Fiction — 5x
+  Subtopic 4: Drama — 2x
+  Subtopic 5: Poetry — 2x
+  Subtopic 6: Memoirs & Biographies — 1x
+  Top fact types: Book-anchored 20x, Person-anchored 13x, General-factual 9x, Term-anchored 1x, Year-anchored 1x
+  Forms: Direct factual 35x, Fill-up 6x, Statement-based 3x, Matching 1x
+  Distractors: Same-category short entities 32x, Mixed phrases 9x, Statement options 3x, Numeric options 1x
+  Static/Current: Static 42x, Current 3x
+  Examples:
+    - [Person-anchored / Direct factual] Who among the following was the author of the play ‘Mrichchhakatika’?
+    - [Book-anchored / Matching] Which of the following books is INCORRECTLY paired with its respective author?
+    - [General-factual / Fill-up] The Vedangas are Hindu auxiliary disciplines that originated in ancient times and are linked to the study of the Vedas. These are _________ in number.
+
+------------------------------------------------------------------------------
+DOMAIN 15: Awards — 21 questions (1.0% of GA)
+------------------------------------------------------------------------------
+  Subtopic 1: International Awards — 8x
+  Subtopic 2: General Awards — 8x
+  Subtopic 3: Civilian Honours (Padma/Bharat Ratna) — 2x
+  Subtopic 4: Film & Literary Awards — 2x
+  Subtopic 5: Sports Awards — 1x
+  Top fact types: Award-anchored 11x, Person-anchored 4x, Year-anchored 3x, Place-anchored 2x, General-factual 1x
+  Forms: Direct factual 16x, Statement-based 3x, Fill-up 2x
+  Distractors: Same-category short entities 13x, Mixed phrases 7x, Numeric options 1x
+  Static/Current: Static 15x, Current 6x
+  Examples:
+    - [Person-anchored / Direct factual] Who among the following was a poet who won Nobel Prize for literature in 1913?
+    - [Award-anchored / Fill-up] Lata Mangeshkar was honoured with the Bharat Ratna in the year ________.
+    - [Place-anchored / Direct factual] Which state government honoured Vani Jairam with the MS Subbulakshmi Award for 2019?
+
+------------------------------------------------------------------------------
+DOMAIN 16: Figure-Based (Image) — 14 questions (0.6% of GA)
+------------------------------------------------------------------------------
+  Subtopic 1: Figure-based (needs PDF) — 14x
+  Top fact types: General-factual 14x
+  Forms: Image-based 14x
+  Distractors: Same-category short entities 10x, Statement options 2x, Numeric options 1x, Mixed phrases 1x
+  Static/Current: Static 14x
+  Examples:
+    - [General-factual / Image-based] [image/figure-based content -- see original PDF]
+    - [General-factual / Image-based] [image/figure-based content -- see original PDF]
+    - [General-factual / Image-based] [image/figure-based content -- see original PDF]
+
+==============================================================================
+APPENDIX A: REPEATED ENTITIES (measured >=4x)
+==============================================================================
+    32x  President
+    25x  Constitution
+    23x  Parliament
+    19x  Census
+    19x  Government
+    17x  Olympic
+    15x  British
+    14x  Delhi
+    13x  Maharashtra
+    13x  Assam
+    12x  Governor
+    12x  Index
+    11x  Ministry
+    11x  Rajasthan
+    11x  Rajya Sabha
+    10x  Olympics
+     9x  Green Revolution
+     9x  Humayun
+     9x  Uttar Pradesh
+     9x  Mughal
+     8x  Bharatiya Nyaya Sanhita
+     8x  Gujarat
+     7x  Odisha
+     7x  February
+     7x  Asian Games
+     7x  March
+     7x  Scheme
+     7x  Regarding
+     6x  Nobel Prize
+     6x  January
+     6x  Commonwealth Games
+     6x  Bengal
+     6x  August
+     6x  Kathak
+     6x  Akbar
+     6x  Gupta
+     6x  Award
+     6x  Babur
+     6x  Money Bill
+     6x  Column
+     5x  November
+     5x  Bharatanatyam
+     5x  Women
+     5x  Madhya Pradesh
+     5x  Bombay
+     5x  Jharkhand
+     5x  Tamil Nadu
+     5x  Padma Bhushan
+     5x  British India
+     5x  Padma Shri
+     5x  Championship
+     5x  Mahatma Gandhi
+     5x  Hindustani
+     5x  Mauryan
+     5x  Kerala
+     5x  Schedule
+     5x  Board
+     5x  Choose
+     5x  Mission
+     5x  House
+     5x  Mathura
+     5x  Lok Sabha
+     5x  Harappan
+     5x  Centre
+     5x  Yakshagana
+     5x  Inter
+     5x  Aditya
+     5x  Booker Prize
+     5x  Vijayanagara
+     5x  Blank
+     4x  Sangeet Natak Akademi
+     4x  North
+     4x  Olympic Games
+     4x  Buddhist
+     4x  Khelo India University
+     4x  Viceroy
+     4x  September
+     4x  Sri Lanka
+     4x  Himalayas
+     4x  Himachal Pradesh
+
+==============================================================================
+APPENDIX B: YEARS MENTIONED (measured)
+==============================================================================
+    61x  2022
+    48x  2023
+    45x  2021
+    33x  2024
+    30x  2025
+    18x  2011
+    18x  2020
+     9x  2019
+     7x  1980
+     7x  1991
+     5x  2001
+     5x  1947
+     5x  1956
+     4x  2018
+     4x  2002
+     4x  1924
+     4x  2014
+     4x  1952
+     3x  2010
+     3x  2005
+
+==============================================================================
+APPENDIX C: FORM / FACT-TYPE / DISTRACTOR MIX (measured)
+==============================================================================
+  Question forms: Direct factual 1723x, Statement-based 242x, Fill-up 187x, Matching 34x, Image-based 14x
+  Fact types: General-factual 1334x, Person-anchored 175x, Year-anchored 138x, Superlative/First-record 111x, Place-anchored 102x, Term-anchored 90x, Article-anchored 67x, Award-anchored 54x, Book-anchored 43x, Quantity-anchored 41x, Objective-anchored 29x, Founder-anchored 10x, Instrument-anchored 6x
+  Distractor types: Same-category short entities 1469x, Mixed phrases 524x, Numeric options 134x, Statement options 71x, Figure options 2x
+  Static/Current: Static 1968x, Current 232x

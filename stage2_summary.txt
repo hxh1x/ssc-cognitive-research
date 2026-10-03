@@ -1,0 +1,83 @@
+==============================================================================
+STAGE 2 EVIDENCE LAYER — SIDE-BY-SIDE COMPARISON (v1, frozen)
+Quant: v1 frozen. English/Reasoning/GA: v1 built per subject-specific taxonomy.
+No study plan. No 2027 predictions. No subjective importance ranking.
+Difficulty/Calculation/Language/Recognition/Time = heuristic estimates,
+NOT IRT measurements. Error-focus and series-mechanism labels are computed
+cues from question text, not answer-key-derived truth.
+==============================================================================
+
+------------------------------------------------------------------------------
+Quantitative Aptitude — cgl_quant_pattern_db.csv + cgl_quant_archetypes.txt
+------------------------------------------------------------------------------
+Total questions: 2200 | Columns: 20 | Unique IDs: True | Empty critical fields: 0
+Specific archetype: 1584 (72.0%) | Generic/fallback: 282 | Image-based: 334 | Misc-topic bucket: 50
+Topics/domains: {'Figure-Based (Image)': 334, 'Mensuration': 264, 'Geometry': 245, 'Percentages, Ratio & Proportion': 184, 'Profit & Loss': 168, 'Algebra & Equations': 156, 'Trigonometry & Heights': 139, 'Time, Speed & Distance': 117, 'Time & Work': 111, 'Simple & Compound Interest': 111, 'Average & Age': 86, 'Mixture & Alligation': 74, 'Data Interpretation': 74, 'Miscellaneous (Quant)': 50, 'Number System': 49, 'Partnership & Share': 21, 'Simplification & Approximation': 17}
+
+------------------------------------------------------------------------------
+English Comprehension — cgl_english_pattern_db.csv + cgl_english_archetypes.txt
+------------------------------------------------------------------------------
+Total questions: 2200 | Columns: 19 | Unique IDs: True | Empty critical fields: 0
+Specific archetype: 1922 (87.4%) | Generic/fallback: 277 | Image-based: 1 | Misc-topic bucket: 0
+Topics/domains: {'Cloze Passage': 262, 'Sentence Improvement': 207, 'One-Word Substitution': 202, 'Reading Comprehension': 178, 'Active / Passive Voice': 176, 'Para Jumbles': 168, 'Antonyms': 158, 'Error Detection': 150, 'Synonyms': 139, 'Fill in the Blanks': 139, 'Spellings': 134, 'Idioms & Phrases': 124, 'Direct / Indirect Speech': 95, 'Homonyms & Vocabulary': 55, 'Tenses & Grammar': 8, 'Sentence Rearrangement': 4, 'Figure-Based (Image)': 1}
+
+------------------------------------------------------------------------------
+General Intelligence and Reasoning — cgl_reasoning_pattern_db.csv + cgl_reasoning_archetypes.txt
+------------------------------------------------------------------------------
+Total questions: 2200 | Columns: 19 | Unique IDs: True | Empty critical fields: 0
+Specific archetype: 1662 (75.5%) | Generic/fallback: 485 | Image-based: 53 | Misc-topic bucket: 207
+Topics/domains: {'Number / Alphabet Series': 382, 'Mathematical Operators': 228, 'Analogy': 220, 'Coding-Decoding': 207, 'Miscellaneous (Reasoning)': 207, 'Blood Relations': 176, 'Syllogism & Conclusions': 161, 'Classification / Odd-One-Out': 121, 'Dictionary & Word Formation': 108, 'Embedded / Completion / Counting': 101, 'Figure-Based (Image)': 53, 'Mirror / Water Images': 52, 'Dice & Cubes': 49, 'Attention to Detail': 44, 'Paper Folding & Cutting': 30, 'Figure Series': 20, 'Direction Sense': 13, 'Ranking & Order': 8, 'Calendar & Clock': 7, 'Seating Arrangement': 7, 'Venn Diagram': 6}
+
+------------------------------------------------------------------------------
+General Awareness — cgl_awareness_pattern_db.csv + cgl_awareness_patterns.txt
+------------------------------------------------------------------------------
+Total questions: 2200 | Columns: 21 | Unique IDs: True | Empty critical fields: 0
+Domain-assigned: 2200 (100% by construction) | Specific subtopic: 1437 (65.3%) | General-subtopic fallback: 763 | Image-based: 14
+Unrecoverable/garbage: Hindi-contaminated rows ~16; bare-stem Assertion rows 47 (classified from option text)
+Forms: Direct factual 1723x, Statement-based 242x, Fill-up 187x, Matching 34x, Image-based 14x
+Topics/domains: {'Current Affairs & Misc GK': 293, 'Art & Culture': 271, 'Polity': 268, 'Sports': 256, 'Economy': 199, 'Geography': 174, 'Ancient History': 130, 'Modern History': 121, 'Institutions, Schemes & Reports': 113, 'Physics': 102, 'Chemistry': 81, 'Biology': 59, 'Medieval History': 53, 'Books': 45, 'Awards': 21, 'Figure-Based (Image)': 14}
+
+==============================================================================
+COVERAGE COMPARISON (specific-tag rate)
+==============================================================================
+  Quantitative Aptitude                  1584/2200 ( 72.0%)
+  English Comprehension                  1922/2200 ( 87.4%)
+  General Intelligence and Reasoning     1662/2200 ( 75.5%)
+  General Awareness                      subtopic-split 1437/2200 ( 65.3%) [domain model, no archetypes]
+
+==============================================================================
+QUALITY CONTROL PER SUBJECT
+==============================================================================
+Quant: 2200 rows / 20 cols / unique QNT-IDs / 0 empty. 50-row random spot
+  check done during build; fixed: enrolled->rolled, stream->still-water,
+  cost-of->Mensuration guard, trig-boundary overfire, SI/T&W/TSD gaps.
+  Residual generics concentrate in Geometry theorems, Trig identities, P&L
+  variants. Misc(50) = symbol-stripped/garbage rows.
+English: 2200 rows / 19 cols / unique ENG-IDs / 0 empty. 50-row random spot
+  check: 43/50 specific. Fixed: BLANKTYPE leak, isolated-word stems,
+  OWS/Idiom routing before Fill, RC tone-vs-main-idea, spelling boundaries.
+  Error-focus labels are heuristic cues, not key-derived truth. Misc = 0-1.
+Reasoning: 2200 rows / 19 cols / unique REA-IDs / 0 empty. 50-row random
+  spot check: 33/50 specific. Fixed: Hindi analogy stems, quoted-pair shift
+  analysis, single-letter series, squares-before-2nd-order, secant routing.
+  Misc(207) = cross-section contamination (ratio/algebra/arithmetic/SI/
+  mixture/probability), situational-judgement items, Hindi rows, rejects.
+GA: 2200 rows / 21 cols / unique GA-IDs / 0 empty. 50-row random spot check
+  done; fixed ~15 substring traps (writ/written, ear/year, gas/Vedangas,
+  ester/western, son/family, ter/after-water, rna/tournament, urs/suraksha,
+  raksha/suraksha, aryan/Haryana, rolled/enrolled, stream/students).
+  Assertion rows with bare stems classified from option text. Scheme-vs-
+  ministry and temple-vs-history edges follow stem focus (documented fuzz).
+
+==============================================================================
+KNOWN LIMITATIONS (all subjects)
+==============================================================================
+1. Rule-based keyword taxonomy: boundary fuzz at topic edges; ~13-27% of
+   non-image rows sit in generic-but-correct or misc buckets.
+2. Difficulty/load/time fields are deterministic heuristics, not measurements.
+3. Option text was used for blank-subtyping (English), coding-digit checks
+   (Reasoning), distractor typing (GA), and degenerate-stem rescue (GA
+   assertions). Original wording preserved verbatim; nothing silently fixed.
+4. Image-based rows (Quant 334, Reasoning 53, GA 14, English 1) need the PDFs.
+5. Recurrence/frequency claims rest only on measured counts in the DBs.
+6. Quant taxonomy frozen as v1; no further deepening performed per instruction.

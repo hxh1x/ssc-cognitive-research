@@ -1,0 +1,683 @@
+Concept_ID,Subject,Topic,Subtopic,Micro_Concept,Learning_Order,Status,Understanding,Basic_Application,Variation,Mixed_Application,Timed_Master,PYQs_Available,Prerequisite_Status,Notes
+E-EXT-POS,English,,,Parts of speech,7,NOT STARTED,,,,,,0,,FOUNDATIONAL | unlocks 5
+E-EXT-READ,English,,,Basic reading comprehension,8,NOT STARTED,,,,,,0,,FOUNDATIONAL | unlocks 3
+E-EXT-ROOTS,English,,,"Word roots, prefixes & suffixes",9,NOT STARTED,,,,,,0,,FOUNDATIONAL | unlocks 4
+E-EXT-SENT,English,,,Sentence & clause structure,10,NOT STARTED,,,,,,0,,FOUNDATIONAL | unlocks 4
+E-EXT-COHES,English,,,Cohesive devices,11,NOT STARTED,,,,,,0,,FOUNDATIONAL | unlocks 2
+E-EXT-VERB,English,,,"Verb forms (V1/V2/V3, modals)",12,NOT STARTED,,,,,,0,,FOUNDATIONAL | unlocks 4
+E-M-CLOZE-PA-CLOZE-VOCA-PASSAGE-CO,English,Cloze Passage,Cloze vocabulary blank,passage coherence + semantics,95,NOT STARTED,,,,,,212,,RECALL | unlocks 1
+E-M-PARA-JUM-FULL-ABCD--SEQUENCE-L,English,Para Jumbles,Full ABCD order,sequence logic,96,NOT STARTED,,,,,,166,,DERIVED | unlocks 1
+E-M-SENTENCE-GENERAL-SE-GRAMMAR-ST,English,Sentence Improvement,General sentence correction,grammar + style,97,NOT STARTED,,,,,,157,,DERIVED | unlocks 1
+E-M-ANTONYMS-ISOLATED-W-DIRECT-OPP,English,Antonyms,Isolated-word antonym,direct opposite,98,NOT STARTED,,,,,,110,,RECALL | unlocks 1
+E-M-SYNONYMS-ISOLATED-B-MARKED-WOR,English,Synonyms,Isolated/bracketed-word synonym,marked word,99,NOT STARTED,,,,,,110,,RECALL | unlocks 1
+E-M-IDIOMS-P-STANDALONE-IDIOM-RECA,English,Idioms & Phrases,Standalone idiom meaning,idiom recall,100,NOT STARTED,,,,,,106,,RECALL | unlocks 1
+E-M-ONE-WORD-DEFINITION-DEFINITION,English,One-Word Substitution,Definition → single word,definition vocabulary,101,NOT STARTED,,,,,,97,,RECALL | unlocks 1
+E-M-FILL-IN--SINGLE-BLA-COLLOCATIO,English,Fill in the Blanks,Single-blank vocabulary fit,collocation/semantics,102,NOT STARTED,,,,,,85,,RECALL | unlocks 1
+E-M-DIRECT-I-REPORTED-S-SAIDTOLD-T,English,Direct / Indirect Speech,Reported statement,said→told/that + backshift,103,NOT STARTED,,,,,,79,,DERIVED | unlocks 1
+E-M-ONE-WORD-GENERAL-WO-VOCABULARY,English,One-Word Substitution,General word substitute,vocabulary,104,NOT STARTED,,,,,,76,,DERIVED | unlocks 1
+E-M-ERROR-DE-TENSE-TIME-TENSE-CONS,English,Error Detection,Tense / time-marker error,tense consistency,105,NOT STARTED,,,,,,65,,DERIVED | unlocks 1
+E-M-ACTIVE-P-STANDARD-A-OBJECT-FRO,English,Active / Passive Voice,Standard active→passive,object-front template,106,NOT STARTED,,,,,,59,,DERIVED | unlocks 1
+E-M-READING--FACTUAL-RE-LOCATE-AND,English,Reading Comprehension,Factual retrieval from passage,locate-and-match,107,NOT STARTED,,,,,,51,,DERIVED | unlocks 1
+E-M-CLOZE-PA-CLOZE-GRAM-PASSAGE-CO,English,Cloze Passage,Cloze grammar blank,passage coherence + grammar,108,NOT STARTED,,,,,,50,,DERIVED | unlocks 3
+E-M-SPELLING-CHOOSE-COR-RECALL-SPE,English,Spellings,Choose correct spelling,recall spelling,109,NOT STARTED,,,,,,45,,RECALL | unlocks 1
+E-M-ANTONYMS-ANTONYM-CONTEXTUAL,English,Antonyms,Antonym,contextual opposite,110,NOT STARTED,,,,,,44,,RECALL | unlocks 1
+E-M-HOMONYMS-CORRECT-HO-USAGE-DISC,English,Homonyms & Vocabulary,Correct homonym use,usage discrimination,111,NOT STARTED,,,,,,44,,RECALL | unlocks 1
+E-M-ERROR-DE-PRONOUN-RE-ANTECEDENT,English,Error Detection,Pronoun / relative-pronoun error,antecedent match,112,NOT STARTED,,,,,,42,,DERIVED | unlocks 1
+E-M-READING--VOCABULARY-CONTEXTUAL,English,Reading Comprehension,Vocabulary-in-passage,contextual meaning,113,NOT STARTED,,,,,,41,,RECALL | unlocks 1
+E-M-SPELLING-ISOLATED-M-WORD-LIST-,English,Spellings,Isolated misspelt-word pick,word-list recall,114,NOT STARTED,,,,,,40,,DERIVED | unlocks 1
+E-M-ACTIVE-P-PASSIVE-AC-AGENT-RECO,English,Active / Passive Voice,Passive → active,agent recovery,115,NOT STARTED,,,,,,36,,DERIVED | unlocks 1
+E-M-ERROR-DE-SUBJECT-AGREEMENT-,English,Error Detection,Subject,agreement triggers,116,NOT STARTED,,,,,,36,,DERIVED | unlocks 1
+E-M-SENTENCE-AGREEMENT--SVA-IN-SEN,English,Sentence Improvement,Agreement correction in context,SVA in sentence,117,NOT STARTED,,,,,,34,,DERIVED | unlocks 1
+E-M-ACTIVE-P-MODAL-FUTU-MODAL-BE-V,English,Active / Passive Voice,Modal/future → passive,modal + be + V3,118,NOT STARTED,,,,,,30,,DERIVED | unlocks 1
+E-M-ONE-WORD-UNDERLINED-CONTEXTUAL,English,One-Word Substitution,Underlined/bracketed-word substitute,contextual synonym,119,NOT STARTED,,,,,,29,,DERIVED | unlocks 1
+E-M-READING--AUTHOR-ATT-TONE-DETEC,English,Reading Comprehension,Author attitude / tone / description,tone detection,120,NOT STARTED,,,,,,26,,DERIVED | unlocks 1
+E-M-ACTIVE-P-PAST-WAS-WERE-V,English,Active / Passive Voice,Past,was/were + V3,121,NOT STARTED,,,,,,25,,DERIVED | unlocks 1
+E-M-SYNONYMS-SYNONYM-CONTEXTUAL,English,Synonyms,Synonym,contextual synonym,122,NOT STARTED,,,,,,25,,RECALL | unlocks 1
+E-M-SPELLING-GENERAL-SP-SPELLING-M,English,Spellings,General spelling task,spelling memory,123,NOT STARTED,,,,,,23,,RECALL | unlocks 1
+E-M-FILL-IN--SPELLING-I-SPELLING-F,English,Fill in the Blanks,Spelling-in-blank,spelling + fit,124,NOT STARTED,,,,,,22,,RECALL | unlocks 1
+E-M-READING--INFERENCE--READ-BETWE,English,Reading Comprehension,Inference from passage,read-between-lines,125,NOT STARTED,,,,,,20,,DERIVED | unlocks 1
+E-M-SPELLING-FIND-CORRE-SCAN-SPELL,English,Spellings,Find/correct misspelt word in sentence,scan spelling,126,NOT STARTED,,,,,,19,,DERIVED | unlocks 1
+E-M-IDIOMS-P-IDIOM-IN-S-CONTEXTUAL,English,Idioms & Phrases,Idiom in sentence context,contextual idiom,127,NOT STARTED,,,,,,18,,RECALL | unlocks 1
+E-M-READING--MAIN-IDEA--WHOLE-PASS,English,Reading Comprehension,Main idea / title,whole-passage gist,128,NOT STARTED,,,,,,18,,DERIVED | unlocks 1
+E-M-ACTIVE-P-INTERROGAT-QUESTION-S,English,Active / Passive Voice,Interrogative voice conversion,question skeleton kept,129,NOT STARTED,,,,,,17,,DERIVED | unlocks 1
+E-M-FILL-IN--SINGLE-BLA-TENSE-VERB,English,Fill in the Blanks,Single-blank verb/tense form,tense/verb form,130,NOT STARTED,,,,,,14,,DERIVED | unlocks 1
+E-M-READING--REASON-CAU-WHY-HOW-LI,English,Reading Comprehension,Reason/cause-effect inference,why/how linkage,131,NOT STARTED,,,,,,13,,DERIVED | unlocks 1
+E-M-DIRECT-I-REPORTED-Q-ASKED-IF-W,English,Direct / Indirect Speech,Reported question,asked + if/wh,132,NOT STARTED,,,,,,11,,DERIVED | unlocks 1
+E-M-FILL-IN--HOMONYM-BL-HOMOPHONE-,English,Fill in the Blanks,Homonym blank,homophone discrimination,133,NOT STARTED,,,,,,10,,RECALL | unlocks 1
+E-M-ACTIVE-P-GENERAL-VO-VOICE-TRAN,English,Active / Passive Voice,General voice conversion,voice transform,134,NOT STARTED,,,,,,9,,DERIVED | unlocks 1
+E-M-HOMONYMS-WORD-MEANI-DEFINITION,English,Homonyms & Vocabulary,Word meaning,definition vocabulary,135,NOT STARTED,,,,,,9,,RECALL | unlocks 1
+E-M-READING--FACTUAL-DE-LOCATE-AND,English,Reading Comprehension,Factual detail retrieval,locate-and-match,136,NOT STARTED,,,,,,8,,DERIVED | unlocks 1
+E-M-SENTENCE-NO-IMPROVE-VERIFY-COR,English,Sentence Improvement,No-improvement check,verify correctness,137,NOT STARTED,,,,,,6,,DERIVED | unlocks 1
+E-M-SENTENCE-ADJECTIVEA-MANNER-ADV,English,Sentence Improvement,Adjective→adverb correction,manner adverbs,138,NOT STARTED,,,,,,5,,DERIVED | unlocks 1
+E-M-ANTONYMS-GENERAL-AN-OPPOSITES,English,Antonyms,General antonym task,opposites,139,NOT STARTED,,,,,,4,,RECALL | unlocks 1
+E-M-DIRECT-I-REPORTED-I-ORDER-REQU,English,Direct / Indirect Speech,Reported imperative,order/request + to,140,NOT STARTED,,,,,,4,,DERIVED | unlocks 1
+E-M-ERROR-DE-PREPOSITIO-FIXED-COLL,English,Error Detection,Preposition collocation error,fixed collocations,141,NOT STARTED,,,,,,4,,DERIVED | unlocks 1
+E-M-FILL-IN--SINGLE-BLA-A-AN-THE-R,English,Fill in the Blanks,Single-blank article,a/an/the rules,142,NOT STARTED,,,,,,4,,DERIVED | unlocks 1
+E-M-FILL-IN--SINGLE-BLA-PREP-COLLO,English,Fill in the Blanks,Single-blank preposition,prep collocation,143,NOT STARTED,,,,,,4,,DERIVED | unlocks 1
+E-M-SENTENCE-P-PHRASE-SEQ,English,Sentence Rearrangement,P,phrase sequencing,144,NOT STARTED,,,,,,4,,DERIVED | unlocks 1
+E-M-SPELLING-PICK-ERROR-WHOLE-STRI,English,Spellings,Pick error-free sentence,whole-string check,145,NOT STARTED,,,,,,4,,DERIVED | unlocks 1
+E-M-ERROR-DE-ERROR-LOCA-ERROR-INVE,English,Error Detection,Error location,error inventory,146,NOT STARTED,,,,,,3,,DERIVED | unlocks 1
+E-M-SENTENCE-SUBJUNCTIV-UNREAL-PAS,English,Sentence Improvement,Subjunctive / conditional correction,unreal past,147,NOT STARTED,,,,,,3,,DERIVED | unlocks 1
+E-M-SPELLING-CHOOSE-COR-WHOLE-STRI,English,Spellings,Choose correctly-spelled sentence/term,whole-string check,148,NOT STARTED,,,,,,3,,RECALL | unlocks 1
+E-M-SYNONYMS-GENERAL-SY-VOCABULARY,English,Synonyms,General synonym task,vocabulary,149,NOT STARTED,,,,,,3,,RECALL | unlocks 1
+E-M-TENSES-G-ARTICLE-MI-ARTICLE-RU,English,Tenses & Grammar,Article misuse location,article rules,150,NOT STARTED,,,,,,3,,DERIVED | unlocks 1
+E-M-TENSES-G-CHOOSE-GRA-ERROR-SPOT,English,Tenses & Grammar,Choose grammatical sentence,error spotting ×4,151,NOT STARTED,,,,,,3,,DERIVED | unlocks 1
+E-M-HOMONYMS-GENERAL-WO-VOCABULARY,English,Homonyms & Vocabulary,General word-meaning task,vocabulary,152,NOT STARTED,,,,,,2,,DERIVED | unlocks 1
+E-M-PARA-JUM-S1-FIXED-ENDS,English,Para Jumbles,S1,fixed ends,153,NOT STARTED,,,,,,2,,DERIVED | unlocks 1
+E-M-SENTENCE-TENSE-SEQU-SEQUENCE-O,English,Sentence Improvement,Tense-sequence correction,sequence of tenses,154,NOT STARTED,,,,,,2,,DERIVED | unlocks 1
+E-M-TENSES-G-GENERAL-GR-GRAMMAR-RU,English,Tenses & Grammar,General grammar task,grammar rules,155,NOT STARTED,,,,,,2,,DERIVED | unlocks 1
+E-M-DIRECT-I-REPORTED-E-EXCLAIMED-,English,Direct / Indirect Speech,Reported exclamation,exclaimed + that,156,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+E-M-FIGURE-B-FIGURE-BAS-VISUAL,English,Figure-Based (Image),Figure-based,visual,157,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+E-M-READING--GENERAL-PA-PASSAGE-EV,English,Reading Comprehension,General passage question,passage evidence,158,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+E-M-SYNONYMS-PICK-SYNON-USAGE-MATC,English,Synonyms,Pick synonym from a sentence,usage matching,159,NOT STARTED,,,,,,1,,RECALL | unlocks 1
+G-EXT-MAP,GA,,,Map literacy,15,NOT STARTED,,,,,,0,,FOUNDATIONAL | unlocks 1
+G-EXT-TIMELINE,GA,,,Timeline literacy,17,NOT STARTED,,,,,,0,,FOUNDATIONAL | unlocks 2
+G-M-GENERAL-CU-GENERAL-FACT,GA,Current Affairs & Misc GK,General Current Affairs & GK,General-factual,132,NOT STARTED,,,,,,207,,RECALL | unlocks 4
+G-M-MUSIC-INST-GENERAL-FACT,GA,Art & Culture,Music & Instruments,General-factual,133,NOT STARTED,,,,,,73,,RECALL | unlocks 4
+G-M-ARTICLES-O-ARTICLE-ANCH,GA,Polity,Articles of Constitution,Article-anchored,134,NOT STARTED,,,,,,51,,RECALL | unlocks 3
+G-M-GENERAL-SP-GENERAL-FACT,GA,Sports,General Sports,General-factual,135,NOT STARTED,,,,,,46,,RECALL | unlocks 4
+G-M-FESTIVALS--GENERAL-FACT,GA,Art & Culture,Festivals & Fairs,General-factual,136,NOT STARTED,,,,,,44,,RECALL | unlocks 3
+G-M-INDUS-VALL-GENERAL-FACT,GA,Ancient History,Indus Valley,General-factual,137,NOT STARTED,,,,,,44,,RECALL | unlocks 3
+G-M-GENERAL-MO-GENERAL-FACT,GA,Modern History,General Modern History,General-factual,138,NOT STARTED,,,,,,42,,RECALL | unlocks 3
+G-M-OLYMPICS-M-GENERAL-FACT,GA,Sports,Olympics & Multi-sport,General-factual,139,NOT STARTED,,,,,,42,,RECALL | unlocks 4
+G-M-BANKING-RB-GENERAL-FACT,GA,Economy,"Banking, RBI & Finance",General-factual,140,NOT STARTED,,,,,,39,,RECALL | unlocks 3
+G-M-GENERAL-AR-GENERAL-FACT,GA,Art & Culture,General Art & Culture,General-factual,141,NOT STARTED,,,,,,37,,RECALL | unlocks 3
+G-M-GENERAL-PO-GENERAL-FACT,GA,Polity,General Polity,General-factual,142,NOT STARTED,,,,,,29,,RECALL | unlocks 3
+G-M-CONSTITUTI-GENERAL-FACT,GA,Polity,Constitutional & Statutory Bodies,General-factual,143,NOT STARTED,,,,,,25,,RECALL | unlocks 3
+G-M-GOVERNMENT-GENERAL-FACT,GA,"Institutions, Schemes & Reports",Government Schemes & Missions,General-factual,144,NOT STARTED,,,,,,25,,RECALL | unlocks 3
+G-M-GUPTA-POST-GENERAL-FACT,GA,Ancient History,Gupta & Post-Gupta Kingdoms,General-factual,145,NOT STARTED,,,,,,25,,RECALL | unlocks 4
+G-M-NATIONAL-I-GENERAL-FACT,GA,Economy,"National Income, Budget & Taxation",General-factual,146,NOT STARTED,,,,,,25,,RECALL | unlocks 3
+G-M-MOUNTAINS--GENERAL-FACT,GA,Geography,Mountains & Physiography,General-factual,147,NOT STARTED,,,,,,24,,RECALL | unlocks 3
+G-M-STATES-CAP-GENERAL-FACT,GA,Geography,"States, Capitals & Census",General-factual,148,NOT STARTED,,,,,,24,,RECALL | unlocks 3
+G-M-MAGNETISM--GENERAL-FACT,GA,Physics,"Magnetism, Modern Physics & Space",General-factual,149,NOT STARTED,,,,,,23,,RECALL | unlocks 2
+G-M-GENERAL-BI-GENERAL-FACT,GA,Biology,General Biology,General-factual,150,NOT STARTED,,,,,,22,,RECALL | unlocks 3
+G-M-GENERAL-EC-GENERAL-FACT,GA,Economy,General Economy,General-factual,151,NOT STARTED,,,,,,21,,RECALL | unlocks 4
+G-M-GENERAL-CU-TERM-ANCHORE,GA,Current Affairs & Misc GK,General Current Affairs & GK,Term-anchored,152,NOT STARTED,,,,,,20,,RECALL | unlocks 2
+G-M-OLYMPICS-M-SUPERLATIVE-,GA,Sports,Olympics & Multi-sport,Superlative/First-record,153,NOT STARTED,,,,,,20,,RECALL | unlocks 3
+G-M-CRICKET-GENERAL-FACT,GA,Sports,Cricket,General-factual,154,NOT STARTED,,,,,,19,,RECALL | unlocks 4
+G-M-GENERAL-CU-OTHER-GENERA,GA,Current Affairs & Misc GK,General Current Affairs & GK,Other General Current Affairs & GK facts,155,NOT STARTED,,,,,,19,,RECALL | unlocks 1
+G-M-GENERAL-PH-GENERAL-FACT,GA,Physics,General Physics,General-factual,156,NOT STARTED,,,,,,19,,RECALL | unlocks 4
+G-M-SOILS-CLIM-GENERAL-FACT,GA,Geography,"Soils, Climate & Vegetation",General-factual,157,NOT STARTED,,,,,,19,,RECALL | unlocks 2
+G-M-GENERAL-GE-GENERAL-FACT,GA,Geography,General Geography,General-factual,158,NOT STARTED,,,,,,18,,RECALL | unlocks 2
+G-M-CLASSICAL--GENERAL-FACT,GA,Art & Culture,Classical Dance,General-factual,159,NOT STARTED,,,,,,17,,RECALL | unlocks 4
+G-M-GENERAL-BO-BOOK-ANCHORE,GA,Books,General Books & Authors,Book-anchored,160,NOT STARTED,,,,,,17,,RECALL | unlocks 4
+G-M-GENERAL-IN-GENERAL-FACT,GA,"Institutions, Schemes & Reports",General Institutions & Schemes,General-factual,161,NOT STARTED,,,,,,17,,RECALL | unlocks 2
+G-M-INFLATION--GENERAL-FACT,GA,Economy,"Inflation, Poverty & Food Security",General-factual,162,NOT STARTED,,,,,,17,,RECALL | unlocks 3
+G-M-MUGHALS-GENERAL-FACT,GA,Medieval History,Mughals,General-factual,163,NOT STARTED,,,,,,17,,RECALL | unlocks 4
+G-M-PARLIAMENT-GENERAL-FACT,GA,Polity,Parliament & Legislature,General-factual,164,NOT STARTED,,,,,,16,,RECALL | unlocks 3
+G-M-PRESIDENT--GENERAL-FACT,GA,Polity,President & Executive,General-factual,165,NOT STARTED,,,,,,16,,RECALL | unlocks 3
+G-M-INDUSTRY-M-GENERAL-FACT,GA,Economy,"Industry, MSME & Reforms",General-factual,166,NOT STARTED,,,,,,15,,RECALL | unlocks 3
+G-M-RIVERS-DRA-GENERAL-FACT,GA,Geography,Rivers & Drainage,General-factual,167,NOT STARTED,,,,,,15,,RECALL | unlocks 3
+G-M-ELECTRICIT-GENERAL-FACT,GA,Physics,Electricity & Electronics,General-factual,168,NOT STARTED,,,,,,14,,RECALL | unlocks 3
+G-M-FIGURE-BAS-GENERAL-FACT,GA,Figure-Based (Image),Figure-based (needs PDF),General-factual,169,NOT STARTED,,,,,,14,,RECALL | unlocks 1
+G-M-GENERAL-CH-GENERAL-FACT,GA,Chemistry,General Chemistry,General-factual,170,NOT STARTED,,,,,,14,,RECALL | unlocks 3
+G-M-MUSIC-INST-PERSON-ANCHO,GA,Art & Culture,Music & Instruments,Person-anchored,171,NOT STARTED,,,,,,14,,RECALL | unlocks 1
+G-M-TRADE-EXTE-GENERAL-FACT,GA,Economy,Trade & External Sector,General-factual,172,NOT STARTED,,,,,,14,,RECALL | unlocks 3
+G-M-GENERAL-CU-YEAR-ANCHORE,GA,Current Affairs & Misc GK,General Current Affairs & GK,Year-anchored,173,NOT STARTED,,,,,,13,,RECALL | unlocks 2
+G-M-MUSIC-INST-OTHER-MUSIC-,GA,Art & Culture,Music & Instruments,Other Music & Instruments facts,174,NOT STARTED,,,,,,13,,RECALL | unlocks 3
+G-M-OLYMPICS-M-PERSON-ANCHO,GA,Sports,Olympics & Multi-sport,Person-anchored,175,NOT STARTED,,,,,,13,,RECALL | unlocks 1
+G-M-ELEMENTS-M-GENERAL-FACT,GA,Chemistry,"Elements, Metals & Alloys",General-factual,176,NOT STARTED,,,,,,12,,RECALL | unlocks 3
+G-M-GENERAL-CU-PERSON-ANCHO,GA,Current Affairs & Misc GK,General Current Affairs & GK,Person-anchored,177,NOT STARTED,,,,,,12,,RECALL | unlocks 2
+G-M-MAURYAN-AG-GENERAL-FACT,GA,Ancient History,Mauryan Age,General-factual,178,NOT STARTED,,,,,,12,,RECALL | unlocks 3
+G-M-ACIDS-BASE-GENERAL-FACT,GA,Chemistry,"Acids, Bases & Salts",General-factual,179,NOT STARTED,,,,,,11,,RECALL | unlocks 2
+G-M-GENERAL-SP-OTHER-GENERA,GA,Sports,General Sports,Other General Sports facts,180,NOT STARTED,,,,,,11,,RECALL | unlocks 2
+G-M-GOVERNMENT-YEAR-ANCHORE,GA,"Institutions, Schemes & Reports",Government Schemes & Missions,Year-anchored,181,NOT STARTED,,,,,,11,,RECALL | unlocks 1
+G-M-OPTICS-GENERAL-FACT,GA,Physics,Optics,General-factual,182,NOT STARTED,,,,,,11,,RECALL | unlocks 3
+G-M-RIVERS-DRA-PLACE-ANCHOR,GA,Geography,Rivers & Drainage,Place-anchored,183,NOT STARTED,,,,,,11,,RECALL | unlocks 1
+G-M-BRITISH-AC-GENERAL-FACT,GA,Modern History,British Acts & Land Revenue,General-factual,184,NOT STARTED,,,,,,10,,RECALL | unlocks 3
+G-M-CONSTITUTI-PERSON-ANCHO,GA,Polity,Constitutional & Statutory Bodies,Person-anchored,185,NOT STARTED,,,,,,10,,RECALL | unlocks 1
+G-M-GENERAL-CU-SUPERLATIVE-,GA,Current Affairs & Misc GK,General Current Affairs & GK,Superlative/First-record,186,NOT STARTED,,,,,,10,,RECALL | unlocks 1
+G-M-MUSIC-INST-AWARD-ANCHOR,GA,Art & Culture,Music & Instruments,Award-anchored,187,NOT STARTED,,,,,,10,,RECALL | unlocks 2
+G-M-OLYMPICS-M-OTHER-OLYMPI,GA,Sports,Olympics & Multi-sport,Other Olympics & Multi-sport facts,188,NOT STARTED,,,,,,10,,RECALL | unlocks 2
+G-M-OLYMPICS-M-YEAR-ANCHORE,GA,Sports,Olympics & Multi-sport,Year-anchored,189,NOT STARTED,,,,,,10,,RECALL | unlocks 2
+G-M-GENERAL-SP-PLACE-ANCHOR,GA,Sports,General Sports,Place-anchored,190,NOT STARTED,,,,,,9,,RECALL | unlocks 2
+G-M-ARTICLES-O-GENERAL-FACT,GA,Polity,Articles of Constitution,General-factual,191,NOT STARTED,,,,,,8,,RECALL | unlocks 1
+G-M-CONSTITUTI-OTHER-CONSTI,GA,Polity,Constitutional & Statutory Bodies,Other Constitutional & Statutory Bodies facts,192,NOT STARTED,,,,,,8,,RECALL | unlocks 3
+G-M-ECOLOGY-DI-GENERAL-FACT,GA,Biology,Ecology & Diversity,General-factual,193,NOT STARTED,,,,,,8,,RECALL | unlocks 2
+G-M-GASES-GENERAL-FACT,GA,Chemistry,Gases,General-factual,194,NOT STARTED,,,,,,8,,RECALL | unlocks 3
+G-M-GENERAL-SP-YEAR-ANCHORE,GA,Sports,General Sports,Year-anchored,195,NOT STARTED,,,,,,8,,RECALL | unlocks 2
+G-M-LOCAL-GOVE-GENERAL-FACT,GA,Polity,Local Governance,General-factual,196,NOT STARTED,,,,,,8,,RECALL | unlocks 1
+G-M-MUSIC-INST-YEAR-ANCHORE,GA,Art & Culture,Music & Instruments,Year-anchored,197,NOT STARTED,,,,,,8,,RECALL | unlocks 3
+G-M-AMENDMENTS-GENERAL-FACT,GA,Polity,Amendments & Landmark Cases,General-factual,198,NOT STARTED,,,,,,7,,RECALL | unlocks 2
+G-M-ANCIENT-CL-GENERAL-FACT,GA,Books,Ancient & Classical Texts,General-factual,199,NOT STARTED,,,,,,7,,RECALL | unlocks 2
+G-M-APPOINTMEN-PERSON-ANCHO,GA,Current Affairs & Misc GK,Appointments & Office-holders,Person-anchored,200,NOT STARTED,,,,,,7,,RECALL | unlocks 1
+G-M-CHESS-BADM-GENERAL-FACT,GA,Sports,"Chess, Badminton & Tennis",General-factual,201,NOT STARTED,,,,,,7,,RECALL | unlocks 1
+G-M-CONSTITUTI-YEAR-ANCHORE,GA,Polity,Constitutional & Statutory Bodies,Year-anchored,202,NOT STARTED,,,,,,7,,RECALL | unlocks 2
+G-M-FESTIVALS--PLACE-ANCHOR,GA,Art & Culture,Festivals & Fairs,Place-anchored,203,NOT STARTED,,,,,,7,,RECALL | unlocks 1
+G-M-FREEDOM-ST-GENERAL-FACT,GA,Modern History,Freedom Struggle & Leaders,General-factual,204,NOT STARTED,,,,,,7,,RECALL | unlocks 2
+G-M-GANDHIAN-M-GENERAL-FACT,GA,Modern History,Gandhian Movements,General-factual,205,NOT STARTED,,,,,,7,,RECALL | unlocks 1
+G-M-GENERAL-AN-GENERAL-FACT,GA,Ancient History,General Ancient History,General-factual,206,NOT STARTED,,,,,,7,,RECALL | unlocks 3
+G-M-GENERAL-BO-PERSON-ANCHO,GA,Books,General Books & Authors,Person-anchored,207,NOT STARTED,,,,,,7,,RECALL | unlocks 1
+G-M-LAKES-WATE-GENERAL-FACT,GA,Geography,Lakes & Water Bodies,General-factual,208,NOT STARTED,,,,,,7,,RECALL | unlocks 2
+G-M-PLANNING-N-GENERAL-FACT,GA,Economy,Planning & NITI Aayog,General-factual,209,NOT STARTED,,,,,,7,,RECALL | unlocks 3
+G-M-STATES-CAP-SUPERLATIVE-,GA,Geography,"States, Capitals & Census",Superlative/First-record,210,NOT STARTED,,,,,,7,,RECALL | unlocks 1
+G-M-BANKING-RB-TERM-ANCHORE,GA,Economy,"Banking, RBI & Finance",Term-anchored,211,NOT STARTED,,,,,,6,,RECALL | unlocks 2
+G-M-BODIES-ORG-GENERAL-FACT,GA,"Institutions, Schemes & Reports",Bodies & Organisations,General-factual,212,NOT STARTED,,,,,,6,,RECALL | unlocks 2
+G-M-FOOTBALL-H-GENERAL-FACT,GA,Sports,Football & Hockey,General-factual,213,NOT STARTED,,,,,,6,,RECALL | unlocks 2
+G-M-GENERAL-AR-AWARD-ANCHOR,GA,Art & Culture,General Art & Culture,Award-anchored,214,NOT STARTED,,,,,,6,,RECALL | unlocks 2
+G-M-GENERAL-AR-YEAR-ANCHORE,GA,Art & Culture,General Art & Culture,Year-anchored,215,NOT STARTED,,,,,,6,,RECALL | unlocks 2
+G-M-GENERAL-IN-PLACE-ANCHOR,GA,"Institutions, Schemes & Reports",General Institutions & Schemes,Place-anchored,216,NOT STARTED,,,,,,6,,RECALL | unlocks 1
+G-M-JUDICIARY-GENERAL-FACT,GA,Polity,Judiciary,General-factual,217,NOT STARTED,,,,,,6,,RECALL | unlocks 2
+G-M-MECHANICS-GENERAL-FACT,GA,Physics,Mechanics,General-factual,218,NOT STARTED,,,,,,6,,RECALL | unlocks 3
+G-M-VIJAYANAGA-GENERAL-FACT,GA,Medieval History,Vijayanagara & Deccan,General-factual,219,NOT STARTED,,,,,,6,,RECALL | unlocks 3
+G-M-BANKING-RB-OTHER-BANKIN,GA,Economy,"Banking, RBI & Finance","Other Banking, RBI & Finance facts",220,NOT STARTED,,,,,,5,,RECALL | unlocks 3
+G-M-BUDDHISM-J-GENERAL-FACT,GA,Ancient History,Buddhism & Jainism,General-factual,221,NOT STARTED,,,,,,5,,RECALL | unlocks 1
+G-M-CLASSICAL--AWARD-ANCHOR,GA,Art & Culture,Classical Dance,Award-anchored,222,NOT STARTED,,,,,,5,,RECALL | unlocks 1
+G-M-CLASSICAL--PERSON-ANCHO,GA,Art & Culture,Classical Dance,Person-anchored,223,NOT STARTED,,,,,,5,,RECALL | unlocks 1
+G-M-CRICKET-OTHER-CRICKE,GA,Sports,Cricket,Other Cricket facts,224,NOT STARTED,,,,,,5,,RECALL | unlocks 3
+G-M-DIRECTIVE--GENERAL-FACT,GA,Polity,Directive Principles,General-factual,225,NOT STARTED,,,,,,5,,RECALL | unlocks 3
+G-M-ELECTIONS--GENERAL-FACT,GA,Polity,Elections & Representation,General-factual,226,NOT STARTED,,,,,,5,,RECALL | unlocks 2
+G-M-FREEDOM-ST-PERSON-ANCHO,GA,Modern History,Freedom Struggle & Leaders,Person-anchored,227,NOT STARTED,,,,,,5,,RECALL | unlocks 1
+G-M-FUNDAMENTA-GENERAL-FACT,GA,Polity,Fundamental Rights,General-factual,228,NOT STARTED,,,,,,5,,RECALL | unlocks 3
+G-M-GENERAL-AW-AWARD-ANCHOR,GA,Awards,General Awards,Award-anchored,229,NOT STARTED,,,,,,5,,RECALL | unlocks 2
+G-M-GENERAL-CH-SUPERLATIVE-,GA,Chemistry,General Chemistry,Superlative/First-record,230,NOT STARTED,,,,,,5,,RECALL | unlocks 1
+G-M-GENERAL-IN-PERSON-ANCHO,GA,"Institutions, Schemes & Reports",General Institutions & Schemes,Person-anchored,231,NOT STARTED,,,,,,5,,RECALL | unlocks 1
+G-M-GENERAL-MO-OTHER-GENERA,GA,Modern History,General Modern History,Other General Modern History facts,232,NOT STARTED,,,,,,5,,RECALL | unlocks 1
+G-M-GENERAL-MO-PERSON-ANCHO,GA,Modern History,General Modern History,Person-anchored,233,NOT STARTED,,,,,,5,,RECALL | unlocks 2
+G-M-GENERAL-MO-YEAR-ANCHORE,GA,Modern History,General Modern History,Year-anchored,234,NOT STARTED,,,,,,5,,RECALL | unlocks 2
+G-M-HQ-FOUNDIN-PERSON-ANCHO,GA,"Institutions, Schemes & Reports",HQ & Founding Facts,Person-anchored,235,NOT STARTED,,,,,,5,,RECALL | unlocks 1
+G-M-HUMAN-BODY-GENERAL-FACT,GA,Biology,Human Body & Health,General-factual,236,NOT STARTED,,,,,,5,,RECALL | unlocks 1
+G-M-INDUS-VALL-OBJECTIVE-AN,GA,Ancient History,Indus Valley,Objective-anchored,237,NOT STARTED,,,,,,5,,RECALL | unlocks 2
+G-M-INFLATION--OTHER-INFLAT,GA,Economy,"Inflation, Poverty & Food Security","Other Inflation, Poverty & Food Security facts",238,NOT STARTED,,,,,,5,,RECALL | unlocks 2
+G-M-MUSIC-INST-PLACE-ANCHOR,GA,Art & Culture,Music & Instruments,Place-anchored,239,NOT STARTED,,,,,,5,,RECALL | unlocks 1
+G-M-OLYMPICS-M-QUANTITY-ANC,GA,Sports,Olympics & Multi-sport,Quantity-anchored,240,NOT STARTED,,,,,,5,,RECALL | unlocks 1
+G-M-PRESIDENT--ARTICLE-ANCH,GA,Polity,President & Executive,Article-anchored,241,NOT STARTED,,,,,,5,,RECALL | unlocks 1
+G-M-REACTIONS--GENERAL-FACT,GA,Chemistry,Reactions & Concepts,General-factual,242,NOT STARTED,,,,,,5,,RECALL | unlocks 2
+G-M-APPOINTMEN-GENERAL-FACT,GA,Current Affairs & Misc GK,Appointments & Office-holders,General-factual,243,NOT STARTED,,,,,,4,,RECALL | unlocks 2
+G-M-CELL-GENET-GENERAL-FACT,GA,Biology,Cell & Genetics,General-factual,244,NOT STARTED,,,,,,4,,RECALL | unlocks 1
+G-M-CELL-GENET-OTHER-CELL-G,GA,Biology,Cell & Genetics,Other Cell & Genetics facts,245,NOT STARTED,,,,,,4,,RECALL | unlocks 1
+G-M-CONSTITUTI-PLACE-ANCHOR,GA,Polity,Constitutional & Statutory Bodies,Place-anchored,246,NOT STARTED,,,,,,4,,RECALL | unlocks 2
+G-M-CONSTITUTI-SUPERLATIVE-,GA,Polity,Constitutional & Statutory Bodies,Superlative/First-record,247,NOT STARTED,,,,,,4,,RECALL | unlocks 3
+G-M-CRICKET-PERSON-ANCHO,GA,Sports,Cricket,Person-anchored,248,NOT STARTED,,,,,,4,,RECALL | unlocks 1
+G-M-CRICKET-YEAR-ANCHORE,GA,Sports,Cricket,Year-anchored,249,NOT STARTED,,,,,,4,,RECALL | unlocks 2
+G-M-DELHI-SULT-GENERAL-FACT,GA,Medieval History,Delhi Sultanate,General-factual,250,NOT STARTED,,,,,,4,,RECALL | unlocks 1
+G-M-ELECTRICIT-OTHER-ELECTR,GA,Physics,Electricity & Electronics,Other Electricity & Electronics facts,251,NOT STARTED,,,,,,4,,RECALL | unlocks 1
+G-M-FESTIVALS--SUPERLATIVE-,GA,Art & Culture,Festivals & Fairs,Superlative/First-record,252,NOT STARTED,,,,,,4,,RECALL | unlocks 2
+G-M-FOOTBALL-H-YEAR-ANCHORE,GA,Sports,Football & Hockey,Year-anchored,253,NOT STARTED,,,,,,4,,RECALL | unlocks 2
+G-M-FREEDOM-ST-YEAR-ANCHORE,GA,Modern History,Freedom Struggle & Leaders,Year-anchored,254,NOT STARTED,,,,,,4,,RECALL | unlocks 2
+G-M-GANDHIAN-M-PERSON-ANCHO,GA,Modern History,Gandhian Movements,Person-anchored,255,NOT STARTED,,,,,,4,,RECALL | unlocks 1
+G-M-GASES-OTHER-GASES-,GA,Chemistry,Gases,Other Gases facts,256,NOT STARTED,,,,,,4,,RECALL | unlocks 1
+G-M-GENERAL-AR-OTHER-GENERA,GA,Art & Culture,General Art & Culture,Other General Art & Culture facts,257,NOT STARTED,,,,,,4,,RECALL | unlocks 1
+G-M-GENERAL-BI-TERM-ANCHORE,GA,Biology,General Biology,Term-anchored,258,NOT STARTED,,,,,,4,,RECALL | unlocks 2
+G-M-GENERAL-CH-OTHER-GENERA,GA,Chemistry,General Chemistry,Other General Chemistry facts,259,NOT STARTED,,,,,,4,,RECALL | unlocks 1
+G-M-GENERAL-IN-YEAR-ANCHORE,GA,"Institutions, Schemes & Reports",General Institutions & Schemes,Year-anchored,260,NOT STARTED,,,,,,4,,RECALL | unlocks 1
+G-M-GENERAL-PO-PERSON-ANCHO,GA,Polity,General Polity,Person-anchored,261,NOT STARTED,,,,,,4,,RECALL | unlocks 1
+G-M-GENERAL-SP-BOOK-ANCHORE,GA,Sports,General Sports,Book-anchored,262,NOT STARTED,,,,,,4,,RECALL | unlocks 3
+G-M-GENERAL-SP-PERSON-ANCHO,GA,Sports,General Sports,Person-anchored,263,NOT STARTED,,,,,,4,,RECALL | unlocks 1
+G-M-INDUS-VALL-OTHER-INDUS-,GA,Ancient History,Indus Valley,Other Indus Valley facts,264,NOT STARTED,,,,,,4,,RECALL | unlocks 1
+G-M-LAKES-WATE-SUPERLATIVE-,GA,Geography,Lakes & Water Bodies,Superlative/First-record,265,NOT STARTED,,,,,,4,,RECALL | unlocks 1
+G-M-MOUNTAINS--PLACE-ANCHOR,GA,Geography,Mountains & Physiography,Place-anchored,266,NOT STARTED,,,,,,4,,RECALL | unlocks 1
+G-M-MOUNTAINS--SUPERLATIVE-,GA,Geography,Mountains & Physiography,Superlative/First-record,267,NOT STARTED,,,,,,4,,RECALL | unlocks 2
+G-M-MUGHALS-PERSON-ANCHO,GA,Medieval History,Mughals,Person-anchored,268,NOT STARTED,,,,,,4,,RECALL | unlocks 1
+G-M-MUGHALS-YEAR-ANCHORE,GA,Medieval History,Mughals,Year-anchored,269,NOT STARTED,,,,,,4,,RECALL | unlocks 2
+G-M-NATIONAL-I-SUPERLATIVE-,GA,Economy,"National Income, Budget & Taxation",Superlative/First-record,270,NOT STARTED,,,,,,4,,RECALL | unlocks 2
+G-M-PARLIAMENT-OTHER-PARLIA,GA,Polity,Parliament & Legislature,Other Parliament & Legislature facts,271,NOT STARTED,,,,,,4,,RECALL | unlocks 2
+G-M-PLANNING-N-OTHER-PLANNI,GA,Economy,Planning & NITI Aayog,Other Planning & NITI Aayog facts,272,NOT STARTED,,,,,,4,,RECALL | unlocks 2
+G-M-PRESIDENT--OTHER-PRESID,GA,Polity,President & Executive,Other President & Executive facts,273,NOT STARTED,,,,,,4,,RECALL | unlocks 2
+G-M-REPORTS-IN-GENERAL-FACT,GA,"Institutions, Schemes & Reports","Reports, Indices & Surveys",General-factual,274,NOT STARTED,,,,,,4,,RECALL | unlocks 1
+G-M-STATES-CAP-OTHER-STATES,GA,Geography,"States, Capitals & Census","Other States, Capitals & Census facts",275,NOT STARTED,,,,,,4,,RECALL | unlocks 1
+G-M-STATES-CAP-TERM-ANCHORE,GA,Geography,"States, Capitals & Census",Term-anchored,276,NOT STARTED,,,,,,4,,RECALL | unlocks 1
+G-M-STATES-CAP-YEAR-ANCHORE,GA,Geography,"States, Capitals & Census",Year-anchored,277,NOT STARTED,,,,,,4,,RECALL | unlocks 1
+G-M-ANCIENT-CL-OTHER-ANCIEN,GA,Books,Ancient & Classical Texts,Other Ancient & Classical Texts facts,278,NOT STARTED,,,,,,3,,RECALL | unlocks 1
+G-M-ATHLETICS-GENERAL-FACT,GA,Sports,Athletics,General-factual,279,NOT STARTED,,,,,,3,,RECALL | unlocks 1
+G-M-BANKING-RB-SUPERLATIVE-,GA,Economy,"Banking, RBI & Finance",Superlative/First-record,280,NOT STARTED,,,,,,3,,RECALL | unlocks 2
+G-M-BHAKTI-SUF-OTHER-BHAKTI,GA,Medieval History,Bhakti & Sufi,Other Bhakti & Sufi facts,281,NOT STARTED,,,,,,3,,RECALL | unlocks 2
+G-M-BODIES-ORG-OTHER-BODIES,GA,"Institutions, Schemes & Reports",Bodies & Organisations,Other Bodies & Organisations facts,282,NOT STARTED,,,,,,3,,RECALL | unlocks 1
+G-M-CHESS-BADM-PERSON-ANCHO,GA,Sports,"Chess, Badminton & Tennis",Person-anchored,283,NOT STARTED,,,,,,3,,RECALL | unlocks 1
+G-M-CHESS-BADM-SUPERLATIVE-,GA,Sports,"Chess, Badminton & Tennis",Superlative/First-record,284,NOT STARTED,,,,,,3,,RECALL | unlocks 1
+G-M-DELHI-SULT-PERSON-ANCHO,GA,Medieval History,Delhi Sultanate,Person-anchored,285,NOT STARTED,,,,,,3,,RECALL | unlocks 1
+G-M-GENERAL-AR-PERSON-ANCHO,GA,Art & Culture,General Art & Culture,Person-anchored,286,NOT STARTED,,,,,,3,,RECALL | unlocks 1
+G-M-GENERAL-AW-OTHER-GENERA,GA,Awards,General Awards,Other General Awards facts,287,NOT STARTED,,,,,,3,,RECALL | unlocks 1
+G-M-GENERAL-CH-AWARD-ANCHOR,GA,Chemistry,General Chemistry,Award-anchored,288,NOT STARTED,,,,,,3,,RECALL | unlocks 2
+G-M-GENERAL-CH-PERSON-ANCHO,GA,Chemistry,General Chemistry,Person-anchored,289,NOT STARTED,,,,,,3,,RECALL | unlocks 2
+G-M-GENERAL-CH-YEAR-ANCHORE,GA,Chemistry,General Chemistry,Year-anchored,290,NOT STARTED,,,,,,3,,RECALL | unlocks 1
+G-M-GENERAL-EC-OBJECTIVE-AN,GA,Economy,General Economy,Objective-anchored,291,NOT STARTED,,,,,,3,,RECALL | unlocks 1
+G-M-GENERAL-EC-PLACE-ANCHOR,GA,Economy,General Economy,Place-anchored,292,NOT STARTED,,,,,,3,,RECALL | unlocks 1
+G-M-GENERAL-GE-SUPERLATIVE-,GA,Geography,General Geography,Superlative/First-record,293,NOT STARTED,,,,,,3,,RECALL | unlocks 2
+G-M-GENERAL-GE-TERM-ANCHORE,GA,Geography,General Geography,Term-anchored,294,NOT STARTED,,,,,,3,,RECALL | unlocks 1
+G-M-GENERAL-GE-YEAR-ANCHORE,GA,Geography,General Geography,Year-anchored,295,NOT STARTED,,,,,,3,,RECALL | unlocks 2
+G-M-GENERAL-MO-BOOK-ANCHORE,GA,Modern History,General Modern History,Book-anchored,296,NOT STARTED,,,,,,3,,RECALL | unlocks 2
+G-M-GENERAL-PH-YEAR-ANCHORE,GA,Physics,General Physics,Year-anchored,297,NOT STARTED,,,,,,3,,RECALL | unlocks 2
+G-M-GENERAL-PO-ARTICLE-ANCH,GA,Polity,General Polity,Article-anchored,298,NOT STARTED,,,,,,3,,RECALL | unlocks 2
+G-M-GOVERNMENT-OBJECTIVE-AN,GA,"Institutions, Schemes & Reports",Government Schemes & Missions,Objective-anchored,299,NOT STARTED,,,,,,3,,RECALL | unlocks 2
+G-M-GOVERNMENT-OTHER-GOVERN,GA,"Institutions, Schemes & Reports",Government Schemes & Missions,Other Government Schemes & Missions facts,300,NOT STARTED,,,,,,3,,RECALL | unlocks 2
+G-M-GOVERNMENT-SUPERLATIVE-,GA,"Institutions, Schemes & Reports",Government Schemes & Missions,Superlative/First-record,301,NOT STARTED,,,,,,3,,RECALL | unlocks 1
+G-M-HQ-FOUNDIN-YEAR-ANCHORE,GA,"Institutions, Schemes & Reports",HQ & Founding Facts,Year-anchored,302,NOT STARTED,,,,,,3,,RECALL | unlocks 2
+G-M-INDUS-VALL-TERM-ANCHORE,GA,Ancient History,Indus Valley,Term-anchored,303,NOT STARTED,,,,,,3,,RECALL | unlocks 2
+G-M-INDUS-VALL-YEAR-ANCHORE,GA,Ancient History,Indus Valley,Year-anchored,304,NOT STARTED,,,,,,3,,RECALL | unlocks 1
+G-M-INFLATION--PERSON-ANCHO,GA,Economy,"Inflation, Poverty & Food Security",Person-anchored,305,NOT STARTED,,,,,,3,,RECALL | unlocks 1
+G-M-INTERNATIO-AWARD-ANCHOR,GA,Awards,International Awards,Award-anchored,306,NOT STARTED,,,,,,3,,RECALL | unlocks 1
+G-M-INTERNATIO-PERSON-ANCHO,GA,Awards,International Awards,Person-anchored,307,NOT STARTED,,,,,,3,,RECALL | unlocks 1
+G-M-MAGNETISM--SUPERLATIVE-,GA,Physics,"Magnetism, Modern Physics & Space",Superlative/First-record,308,NOT STARTED,,,,,,3,,RECALL | unlocks 1
+G-M-MAURYAN-AG-PERSON-ANCHO,GA,Ancient History,Mauryan Age,Person-anchored,309,NOT STARTED,,,,,,3,,RECALL | unlocks 2
+G-M-MUGHALS-OTHER-MUGHAL,GA,Medieval History,Mughals,Other Mughals facts,310,NOT STARTED,,,,,,3,,RECALL | unlocks 2
+G-M-PLANT-PHYS-GENERAL-FACT,GA,Biology,Plant Physiology,General-factual,311,NOT STARTED,,,,,,3,,RECALL | unlocks 1
+G-M-REVOLT-OF--PERSON-ANCHO,GA,Modern History,Revolt of 1857,Person-anchored,312,NOT STARTED,,,,,,3,,RECALL | unlocks 1
+G-M-SCHEDULES--GENERAL-FACT,GA,Polity,"Schedules, Languages & Reservation",General-factual,313,NOT STARTED,,,,,,3,,RECALL | unlocks 2
+G-M-STATES-CAP-QUANTITY-ANC,GA,Geography,"States, Capitals & Census",Quantity-anchored,314,NOT STARTED,,,,,,3,,RECALL | unlocks 1
+G-M-VEDIC-MAHA-GENERAL-FACT,GA,Ancient History,Vedic & Mahajanapadas,General-factual,315,NOT STARTED,,,,,,3,,RECALL | unlocks 1
+G-M-AMENDMENTS-OTHER-AMENDM,GA,Polity,Amendments & Landmark Cases,Other Amendments & Landmark Cases facts,316,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-ARTICLES-O-YEAR-ANCHORE,GA,Polity,Articles of Constitution,Year-anchored,317,NOT STARTED,,,,,,2,,RECALL | unlocks 2
+G-M-ATHLETICS-OTHER-ATHLET,GA,Sports,Athletics,Other Athletics facts,318,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-BANKING-RB-AWARD-ANCHOR,GA,Economy,"Banking, RBI & Finance",Award-anchored,319,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-BANKING-RB-PERSON-ANCHO,GA,Economy,"Banking, RBI & Finance",Person-anchored,320,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-BHAKTI-SUF-GENERAL-FACT,GA,Medieval History,Bhakti & Sufi,General-factual,321,NOT STARTED,,,,,,2,,RECALL | unlocks 2
+G-M-BRITISH-AC-OTHER-BRITIS,GA,Modern History,British Acts & Land Revenue,Other British Acts & Land Revenue facts,322,NOT STARTED,,,,,,2,,RECALL | unlocks 2
+G-M-BUDDHISM-J-PERSON-ANCHO,GA,Ancient History,Buddhism & Jainism,Person-anchored,323,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-CIVILIAN-H-AWARD-ANCHOR,GA,Awards,Civilian Honours (Padma/Bharat Ratna),Award-anchored,324,NOT STARTED,,,,,,2,,RECALL | unlocks 2
+G-M-CLASSICAL--OTHER-CLASSI,GA,Art & Culture,Classical Dance,Other Classical Dance facts,325,NOT STARTED,,,,,,2,,RECALL | unlocks 2
+G-M-CLASSICAL--PLACE-ANCHOR,GA,Art & Culture,Classical Dance,Place-anchored,326,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-CLASSICAL--YEAR-ANCHORE,GA,Art & Culture,Classical Dance,Year-anchored,327,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-COMBAT-OTH-GENERAL-FACT,GA,Sports,Combat & Other Sports,General-factual,328,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-COMBAT-OTH-QUANTITY-ANC,GA,Sports,Combat & Other Sports,Quantity-anchored,329,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-COMBAT-OTH-YEAR-ANCHORE,GA,Sports,Combat & Other Sports,Year-anchored,330,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-CRICKET-QUANTITY-ANC,GA,Sports,Cricket,Quantity-anchored,331,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-CRICKET-SUPERLATIVE-,GA,Sports,Cricket,Superlative/First-record,332,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-DELHI-SULT-OTHER-DELHI-,GA,Medieval History,Delhi Sultanate,Other Delhi Sultanate facts,333,NOT STARTED,,,,,,2,,RECALL | unlocks 2
+G-M-DIRECTIVE--ARTICLE-ANCH,GA,Polity,Directive Principles,Article-anchored,334,NOT STARTED,,,,,,2,,RECALL | unlocks 2
+G-M-DRAMA-PERSON-ANCHO,GA,Books,Drama,Person-anchored,335,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-ELECTIONS--PERSON-ANCHO,GA,Polity,Elections & Representation,Person-anchored,336,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-ELEMENTS-M-QUANTITY-ANC,GA,Chemistry,"Elements, Metals & Alloys",Quantity-anchored,337,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-ELEMENTS-M-TERM-ANCHORE,GA,Chemistry,"Elements, Metals & Alloys",Term-anchored,338,NOT STARTED,,,,,,2,,RECALL | unlocks 2
+G-M-ELEMENTS-M-YEAR-ANCHORE,GA,Chemistry,"Elements, Metals & Alloys",Year-anchored,339,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-FESTIVALS--OTHER-FESTIV,GA,Art & Culture,Festivals & Fairs,Other Festivals & Fairs facts,340,NOT STARTED,,,,,,2,,RECALL | unlocks 2
+G-M-FICTION-BOOK-ANCHORE,GA,Books,Fiction,Book-anchored,341,NOT STARTED,,,,,,2,,RECALL | unlocks 2
+G-M-FICTION-PERSON-ANCHO,GA,Books,Fiction,Person-anchored,342,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-FILM-LITER-OTHER-FILM-L,GA,Awards,Film & Literary Awards,Other Film & Literary Awards facts,343,NOT STARTED,,,,,,2,,RECALL | unlocks 2
+G-M-FOOTBALL-H-TERM-ANCHORE,GA,Sports,Football & Hockey,Term-anchored,344,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-FREEDOM-ST-BOOK-ANCHORE,GA,Modern History,Freedom Struggle & Leaders,Book-anchored,345,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-FREEDOM-ST-PLACE-ANCHOR,GA,Modern History,Freedom Struggle & Leaders,Place-anchored,346,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-FUNDAMENTA-OTHER-FUNDAM,GA,Polity,Fundamental Rights,Other Fundamental Rights facts,347,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-GANDHIAN-M-AWARD-ANCHOR,GA,Modern History,Gandhian Movements,Award-anchored,348,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-GANDHIAN-M-YEAR-ANCHORE,GA,Modern History,Gandhian Movements,Year-anchored,349,NOT STARTED,,,,,,2,,RECALL | unlocks 2
+G-M-GENERAL-AN-OTHER-GENERA,GA,Ancient History,General Ancient History,Other General Ancient History facts,350,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-GENERAL-AR-SUPERLATIVE-,GA,Art & Culture,General Art & Culture,Superlative/First-record,351,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-GENERAL-BI-OTHER-GENERA,GA,Biology,General Biology,Other General Biology facts,352,NOT STARTED,,,,,,2,,RECALL | unlocks 2
+G-M-GENERAL-EC-PERSON-ANCHO,GA,Economy,General Economy,Person-anchored,353,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-GENERAL-EC-YEAR-ANCHORE,GA,Economy,General Economy,Year-anchored,354,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-GENERAL-GE-PERSON-ANCHO,GA,Geography,General Geography,Person-anchored,355,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-GENERAL-IN-OBJECTIVE-AN,GA,"Institutions, Schemes & Reports",General Institutions & Schemes,Objective-anchored,356,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-GENERAL-MO-TERM-ANCHORE,GA,Modern History,General Modern History,Term-anchored,357,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-GENERAL-PH-OTHER-GENERA,GA,Physics,General Physics,Other General Physics facts,358,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-GENERAL-PH-SUPERLATIVE-,GA,Physics,General Physics,Superlative/First-record,359,NOT STARTED,,,,,,2,,RECALL | unlocks 2
+G-M-GENERAL-PO-OTHER-GENERA,GA,Polity,General Polity,Other General Polity facts,360,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-GENERAL-PO-SUPERLATIVE-,GA,Polity,General Polity,Superlative/First-record,361,NOT STARTED,,,,,,2,,RECALL | unlocks 2
+G-M-GOVERNMENT-PERSON-ANCHO,GA,"Institutions, Schemes & Reports",Government Schemes & Missions,Person-anchored,362,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-GUPTA-POST-BOOK-ANCHORE,GA,Ancient History,Gupta & Post-Gupta Kingdoms,Book-anchored,363,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-GUPTA-POST-OTHER-GUPTA-,GA,Ancient History,Gupta & Post-Gupta Kingdoms,Other Gupta & Post-Gupta Kingdoms facts,364,NOT STARTED,,,,,,2,,RECALL | unlocks 2
+G-M-GUPTA-POST-PERSON-ANCHO,GA,Ancient History,Gupta & Post-Gupta Kingdoms,Person-anchored,365,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-HEAT-MEASU-GENERAL-FACT,GA,Physics,Heat & Measurement,General-factual,366,NOT STARTED,,,,,,2,,RECALL | unlocks 2
+G-M-HQ-FOUNDIN-PLACE-ANCHOR,GA,"Institutions, Schemes & Reports",HQ & Founding Facts,Place-anchored,367,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-HUMAN-BODY-OTHER-HUMAN-,GA,Biology,Human Body & Health,Other Human Body & Health facts,368,NOT STARTED,,,,,,2,,RECALL | unlocks 2
+G-M-HUMAN-BODY-QUANTITY-ANC,GA,Biology,Human Body & Health,Quantity-anchored,369,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-INDUS-VALL-PLACE-ANCHOR,GA,Ancient History,Indus Valley,Place-anchored,370,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-INDUSTRY-M-OBJECTIVE-AN,GA,Economy,"Industry, MSME & Reforms",Objective-anchored,371,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-INDUSTRY-M-OTHER-INDUST,GA,Economy,"Industry, MSME & Reforms","Other Industry, MSME & Reforms facts",372,NOT STARTED,,,,,,2,,RECALL | unlocks 2
+G-M-INDUSTRY-M-PLACE-ANCHOR,GA,Economy,"Industry, MSME & Reforms",Place-anchored,373,NOT STARTED,,,,,,2,,RECALL | unlocks 2
+G-M-INDUSTRY-M-SUPERLATIVE-,GA,Economy,"Industry, MSME & Reforms",Superlative/First-record,374,NOT STARTED,,,,,,2,,RECALL | unlocks 2
+G-M-INDUSTRY-M-YEAR-ANCHORE,GA,Economy,"Industry, MSME & Reforms",Year-anchored,375,NOT STARTED,,,,,,2,,RECALL | unlocks 2
+G-M-INTERNATIO-OTHER-INTERN,GA,Awards,International Awards,Other International Awards facts,376,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-JUDICIARY-OTHER-JUDICI,GA,Polity,Judiciary,Other Judiciary facts,377,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-JUDICIARY-PERSON-ANCHO,GA,Polity,Judiciary,Person-anchored,378,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-LAKES-WATE-OTHER-LAKES-,GA,Geography,Lakes & Water Bodies,Other Lakes & Water Bodies facts,379,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-LOCAL-GOVE-OTHER-LOCAL-,GA,Polity,Local Governance,Other Local Governance facts,380,NOT STARTED,,,,,,2,,RECALL | unlocks 2
+G-M-MARATHAS-GENERAL-FACT,GA,Medieval History,Marathas,General-factual,381,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-MOUNTAINS--OTHER-MOUNTA,GA,Geography,Mountains & Physiography,Other Mountains & Physiography facts,382,NOT STARTED,,,,,,2,,RECALL | unlocks 2
+G-M-NATIONAL-I-OTHER-NATION,GA,Economy,"National Income, Budget & Taxation","Other National Income, Budget & Taxation facts",383,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-OPTICS-OTHER-OPTICS,GA,Physics,Optics,Other Optics facts,384,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-OPTICS-PLACE-ANCHOR,GA,Physics,Optics,Place-anchored,385,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-OPTICS-TERM-ANCHORE,GA,Physics,Optics,Term-anchored,386,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-OPTICS-YEAR-ANCHORE,GA,Physics,Optics,Year-anchored,387,NOT STARTED,,,,,,2,,RECALL | unlocks 2
+G-M-PARLIAMENT-ARTICLE-ANCH,GA,Polity,Parliament & Legislature,Article-anchored,388,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-PARLIAMENT-SUPERLATIVE-,GA,Polity,Parliament & Legislature,Superlative/First-record,389,NOT STARTED,,,,,,2,,RECALL | unlocks 2
+G-M-PLANNING-N-SUPERLATIVE-,GA,Economy,Planning & NITI Aayog,Superlative/First-record,390,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-PLANT-PHYS-OTHER-PLANT-,GA,Biology,Plant Physiology,Other Plant Physiology facts,391,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-POETRY-OTHER-POETRY,GA,Books,Poetry,Other Poetry facts,392,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-PREAMBLE-C-GENERAL-FACT,GA,Polity,"Preamble, Citizenship & Symbols",General-factual,393,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-PREAMBLE-C-OTHER-PREAMB,GA,Polity,"Preamble, Citizenship & Symbols","Other Preamble, Citizenship & Symbols facts",394,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-REACTIONS--TERM-ANCHORE,GA,Chemistry,Reactions & Concepts,Term-anchored,395,NOT STARTED,,,,,,2,,RECALL | unlocks 2
+G-M-REPORTS-IN-PLACE-ANCHOR,GA,"Institutions, Schemes & Reports","Reports, Indices & Surveys",Place-anchored,396,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-REVOLT-OF--GENERAL-FACT,GA,Modern History,Revolt of 1857,General-factual,397,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-REVOLUTION-BOOK-ANCHORE,GA,Modern History,Revolutionaries & Extremists,Book-anchored,398,NOT STARTED,,,,,,2,,RECALL | unlocks 2
+G-M-REVOLUTION-GENERAL-FACT,GA,Modern History,Revolutionaries & Extremists,General-factual,399,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-SOILS-CLIM-PERSON-ANCHO,GA,Geography,"Soils, Climate & Vegetation",Person-anchored,400,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-SOILS-CLIM-TERM-ANCHORE,GA,Geography,"Soils, Climate & Vegetation",Term-anchored,401,NOT STARTED,,,,,,2,,RECALL | unlocks 2
+G-M-SOUND-WAVE-GENERAL-FACT,GA,Physics,Sound & Waves,General-factual,402,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-SUMMITS-CO-GENERAL-FACT,GA,"Institutions, Schemes & Reports",Summits & Conferences,General-factual,403,NOT STARTED,,,,,,2,,RECALL | unlocks 1
+G-M-SUMMITS-CO-OTHER-SUMMIT,GA,"Institutions, Schemes & Reports",Summits & Conferences,Other Summits & Conferences facts,404,NOT STARTED,,,,,,2,,RECALL | unlocks 2
+G-M-TRADE-EXTE-TERM-ANCHORE,GA,Economy,Trade & External Sector,Term-anchored,405,NOT STARTED,,,,,,2,,RECALL | unlocks 2
+G-M-VEDIC-MAHA-TERM-ANCHORE,GA,Ancient History,Vedic & Mahajanapadas,Term-anchored,406,NOT STARTED,,,,,,2,,RECALL | unlocks 2
+G-M-APPLIED-CH-OTHER-APPLIE,GA,Chemistry,Applied Chemistry,Other Applied Chemistry facts,407,NOT STARTED,,,,,,1,,RECALL | unlocks 1
+G-M-BUDDHISM-J-OTHER-BUDDHI,GA,Ancient History,Buddhism & Jainism,Other Buddhism & Jainism facts,408,NOT STARTED,,,,,,1,,RECALL | unlocks 1
+G-M-CHESS-BADM-OTHER-CHESS-,GA,Sports,"Chess, Badminton & Tennis","Other Chess, Badminton & Tennis facts",409,NOT STARTED,,,,,,1,,RECALL | unlocks 1
+G-M-ECOLOGY-DI-OTHER-ECOLOG,GA,Biology,Ecology & Diversity,Other Ecology & Diversity facts,410,NOT STARTED,,,,,,1,,RECALL | unlocks 1
+G-M-ELECTIONS--OTHER-ELECTI,GA,Polity,Elections & Representation,Other Elections & Representation facts,411,NOT STARTED,,,,,,1,,RECALL | unlocks 1
+G-M-EMERGENCY--OTHER-EMERGE,GA,Polity,Emergency Provisions,Other Emergency Provisions facts,412,NOT STARTED,,,,,,1,,RECALL | unlocks 1
+G-M-FICTION-OTHER-FICTIO,GA,Books,Fiction,Other Fiction facts,413,NOT STARTED,,,,,,1,,RECALL | unlocks 1
+G-M-FOOTBALL-H-OTHER-FOOTBA,GA,Sports,Football & Hockey,Other Football & Hockey facts,414,NOT STARTED,,,,,,1,,RECALL | unlocks 1
+G-M-FREEDOM-ST-OTHER-FREEDO,GA,Modern History,Freedom Struggle & Leaders,Other Freedom Struggle & Leaders facts,415,NOT STARTED,,,,,,1,,RECALL | unlocks 1
+G-M-GANDHIAN-M-OTHER-GANDHI,GA,Modern History,Gandhian Movements,Other Gandhian Movements facts,416,NOT STARTED,,,,,,1,,RECALL | unlocks 1
+G-M-GENERAL-BO-OTHER-GENERA,GA,Books,General Books & Authors,Other General Books & Authors facts,417,NOT STARTED,,,,,,1,,RECALL | unlocks 1
+G-M-GENERAL-EC-OTHER-GENERA,GA,Economy,General Economy,Other General Economy facts,418,NOT STARTED,,,,,,1,,RECALL | unlocks 1
+G-M-GENERAL-GE-OTHER-GENERA,GA,Geography,General Geography,Other General Geography facts,419,NOT STARTED,,,,,,1,,RECALL | unlocks 1
+G-M-GENERAL-IN-OTHER-GENERA,GA,"Institutions, Schemes & Reports",General Institutions & Schemes,Other General Institutions & Schemes facts,420,NOT STARTED,,,,,,1,,RECALL | unlocks 1
+G-M-GENERAL-ME-OTHER-GENERA,GA,Medieval History,General Medieval History,Other General Medieval History facts,421,NOT STARTED,,,,,,1,,RECALL | unlocks 1
+G-M-HQ-FOUNDIN-OTHER-HQ-FOU,GA,"Institutions, Schemes & Reports",HQ & Founding Facts,Other HQ & Founding Facts facts,422,NOT STARTED,,,,,,1,,RECALL | unlocks 1
+G-M-MAGNETISM--OTHER-MAGNET,GA,Physics,"Magnetism, Modern Physics & Space","Other Magnetism, Modern Physics & Space facts",423,NOT STARTED,,,,,,1,,RECALL | unlocks 1
+G-M-MAURYAN-AG-OTHER-MAURYA,GA,Ancient History,Mauryan Age,Other Mauryan Age facts,424,NOT STARTED,,,,,,1,,RECALL | unlocks 1
+G-M-MECHANICS-OTHER-MECHAN,GA,Physics,Mechanics,Other Mechanics facts,425,NOT STARTED,,,,,,1,,RECALL | unlocks 1
+G-M-MEMOIRS-BI-OTHER-MEMOIR,GA,Books,Memoirs & Biographies,Other Memoirs & Biographies facts,426,NOT STARTED,,,,,,1,,RECALL | unlocks 1
+G-M-RAJPUTS-OTHER-RAJPUT,GA,Medieval History,Rajputs,Other Rajputs facts,427,NOT STARTED,,,,,,1,,RECALL | unlocks 1
+G-M-REPORTS-IN-OTHER-REPORT,GA,Current Affairs & Misc GK,Reports & Indices in News,Other Reports & Indices in News facts,428,NOT STARTED,,,,,,1,,RECALL | unlocks 1
+G-M-REPORTS-IN-OTHER-REPORT-2,GA,"Institutions, Schemes & Reports","Reports, Indices & Surveys","Other Reports, Indices & Surveys facts",429,NOT STARTED,,,,,,1,,RECALL | unlocks 1
+G-M-REVOLUTION-OTHER-REVOLU,GA,Modern History,Revolutionaries & Extremists,Other Revolutionaries & Extremists facts,430,NOT STARTED,,,,,,1,,RECALL | unlocks 1
+G-M-RIVERS-DRA-OTHER-RIVERS,GA,Geography,Rivers & Drainage,Other Rivers & Drainage facts,431,NOT STARTED,,,,,,1,,RECALL | unlocks 1
+G-M-SCHEDULES--OTHER-SCHEDU,GA,Polity,"Schedules, Languages & Reservation","Other Schedules, Languages & Reservation facts",432,NOT STARTED,,,,,,1,,RECALL | unlocks 1
+G-M-SOILS-CLIM-OTHER-SOILS-,GA,Geography,"Soils, Climate & Vegetation","Other Soils, Climate & Vegetation facts",433,NOT STARTED,,,,,,1,,RECALL | unlocks 1
+G-M-SOUND-WAVE-OTHER-SOUND-,GA,Physics,Sound & Waves,Other Sound & Waves facts,434,NOT STARTED,,,,,,1,,RECALL | unlocks 1
+G-M-SPORTS-AWA-OTHER-SPORTS,GA,Awards,Sports Awards,Other Sports Awards facts,435,NOT STARTED,,,,,,1,,RECALL | unlocks 1
+G-M-VIJAYANAGA-OTHER-VIJAYA,GA,Medieval History,Vijayanagara & Deccan,Other Vijayanagara & Deccan facts,436,NOT STARTED,,,,,,1,,RECALL | unlocks 1
+Q-EXT-ARITH,Quant,,,Arithmetic operations,8,NOT STARTED,,,,,,0,,FOUNDATIONAL | unlocks 10
+Q-EXT-AP,Quant,,,Arithmetic progression basics,9,NOT STARTED,,,,,,0,,FOUNDATIONAL | unlocks 3
+Q-EXT-BODMAS,Quant,,,BODMAS order of operations,10,NOT STARTED,,,,,,0,,FOUNDATIONAL | unlocks 2
+Q-EXT-FRAC,Quant,,,Fractions & decimals,11,NOT STARTED,,,,,,0,,FOUNDATIONAL | unlocks 6
+Q-EXT-ALGMANIP,Quant,,,Algebraic manipulation,12,NOT STARTED,,,,,,0,,FOUNDATIONAL | unlocks 4
+Q-EXT-EQN,Quant,,,Solving linear equations,13,NOT STARTED,,,,,,0,,FOUNDATIONAL | unlocks 7
+Q-EXT-COORD,Quant,,,Coordinate plane basics,14,NOT STARTED,,,,,,0,,FOUNDATIONAL | unlocks 1
+Q-EXT-GEOBASIC,Quant,,,Basic geometry,15,NOT STARTED,,,,,,0,,FOUNDATIONAL | unlocks 4
+Q-EXT-PLACEVAL,Quant,,,Place value & decimals,16,NOT STARTED,,,,,,0,,FOUNDATIONAL | unlocks 2
+Q-EXT-POW,Quant,,,"Squares, cubes & roots table",17,NOT STARTED,,,,,,0,,FOUNDATIONAL | unlocks 3
+Q-EXT-PYTH,Quant,,,Pythagoras theorem,18,NOT STARTED,,,,,,0,,FOUNDATIONAL | unlocks 4
+Q-EXT-READ,Quant,,,Reading tables & charts,19,NOT STARTED,,,,,,0,,FOUNDATIONAL | unlocks 1
+Q-EXT-TRIGRAT,Quant,,,Standard trigonometric ratios & values,20,NOT STARTED,,,,,,0,,FOUNDATIONAL | unlocks 2
+Q-EXT-UNITS,Quant,,,Units & conversions,21,NOT STARTED,,,,,,0,,FOUNDATIONAL | unlocks 3
+Q-M-FIGURE-B-FIGURE-BAS-VISUAL-REA,Quant,Figure-Based (Image),Figure-based,visual reasoning,236,NOT STARTED,,,,,,334,,DERIVED | unlocks 1
+Q-M-MENSURAT-CYLINDER-C-2RH-R2H,Quant,Mensuration,Cylinder CSA/volume + rolling paper,2πrh / πr²h,237,NOT STARTED,,,,,,96,,DERIVED | unlocks 1
+Q-M-ALGEBRA--EXPRESSION-DIRECT-EVA,Quant,Algebra & Equations,Expression simplification / linear solve,direct evaluation,238,NOT STARTED,,,,,,77,,DERIVED | unlocks 1
+Q-M-DATA-INT-READ-CHART-MEAN-MAX-S,Quant,Data Interpretation,Read chart/table + compute,mean/max/share,239,NOT STARTED,,,,,,73,,APPLICATION | unlocks 1
+Q-M-TRIGONOM-GENERAL-TR-IDENTITIES,Quant,Trigonometry & Heights,General trig computation,identities/values,240,NOT STARTED,,,,,,52,,DERIVED | unlocks 1
+Q-M-MISCELLA-UNCLASSIFI-MIXED-SKIL,Quant,Miscellaneous (Quant),Unclassified quant problem,mixed skill,241,NOT STARTED,,,,,,50,,DERIVED | unlocks 1
+Q-M-PERCENTA-GENERAL-RA-BASE-PARTS,Quant,"Percentages, Ratio & Proportion",General %/ratio computation,base & parts,242,NOT STARTED,,,,,,49,,DERIVED | unlocks 1
+Q-M-ALGEBRA--SURDS-ODD--SQUARE-COM,Quant,Algebra & Equations,Surds & odd-one-out values,square & compare,243,NOT STARTED,,,,,,45,,DERIVED | unlocks 1
+Q-M-TIME-SPE-DELAYED-ST-HEAD-START,Quant,"Time, Speed & Distance",Delayed-start chase,head-start pursuit,244,NOT STARTED,,,,,,45,,APPLICATION | unlocks 1
+Q-M-TIME-WOR-PIPES-FILL-INLET-OUTL,Quant,Time & Work,Pipes fill/empty tank,inlet/outlet rates,245,NOT STARTED,,,,,,44,,DERIVED | unlocks 1
+Q-M-GEOMETRY-GENERAL-GE-DIAGRAM-TH,Quant,Geometry,General geometry computation,diagram + theorem,246,NOT STARTED,,,,,,42,,DERIVED | unlocks 1
+Q-M-GEOMETRY-TANGENTS-C-TANGENT-RA,Quant,Geometry,Tangents & common tangents,tangent ⟂ radius,247,NOT STARTED,,,,,,42,,DERIVED | unlocks 1
+Q-M-PERCENTA-RATIO-EXPR-HOMOGENEOU,Quant,"Percentages, Ratio & Proportion",Ratio expression evaluation,homogeneous expression,248,NOT STARTED,,,,,,40,,DERIVED | unlocks 1
+Q-M-GEOMETRY-PERPENDICU-BISECTED-C,Quant,Geometry,Perpendicular from centre to chord,bisected chord,249,NOT STARTED,,,,,,36,,DERIVED | unlocks 1
+Q-M-MENSURAT-CUBE-CUBOI-VOLUME-CON,Quant,Mensuration,Cube/cuboid TSA/volume + melt-recast + space diagonal,volume conserved; diagonal = a√3,250,NOT STARTED,,,,,,35,,DERIVED | unlocks 1
+Q-M-GEOMETRY-TRIANGLE-C-SSS-SAS-AS,Quant,Geometry,Triangle congruence / similarity / angle-ratio,SSS/SAS/ASA/RHS; angle sum 180,251,NOT STARTED,,,,,,32,,DERIVED | unlocks 1
+Q-M-MENSURAT-PYRAMID-PR-1-3-BH-BH,Quant,Mensuration,Pyramid/prism surface & volume,(1/3)Bh / Bh,252,NOT STARTED,,,,,,29,,DERIVED | unlocks 1
+Q-M-PROFIT-L-SUCCESSIVE-TWO-DISCOU,Quant,Profit & Loss,Successive discounts,two discounts back-to-back,253,NOT STARTED,,,,,,29,,COMBINATIONAL | unlocks 1
+Q-M-NUMBER-S-DIVISIBILI-DIVISIBILI,Quant,Number System,Divisibility by 8/9/11/99 + digit find,divisibility tests,254,NOT STARTED,,,,,,28,,DERIVED | unlocks 1
+Q-M-PROFIT-L-COST-BUILD-OVERHEADS-,Quant,Profit & Loss,Cost build-up then profit%,overheads added to CP,255,NOT STARTED,,,,,,28,,DERIVED | unlocks 1
+Q-M-GEOMETRY-CIRCLE-THE-ANGLE-CHAS,Quant,Geometry,Circle theorems,angle chasing on circle,256,NOT STARTED,,,,,,27,,DERIVED | unlocks 1
+Q-M-AVERAGE--MEMBER-JOI-ENTRANT-EF,Quant,Average & Age,Member joins/leaves / split-group average,entrant effect; subgroup totals,257,NOT STARTED,,,,,,26,,COMBINATIONAL | unlocks 1
+Q-M-PROFIT-L-DISCOUNT-O-MPSP-DISCO,Quant,Profit & Loss,Discount on marked price,MP→SP discount%,258,NOT STARTED,,,,,,26,,DERIVED | unlocks 1
+Q-M-PROFIT-L-GENERAL-P--CP-SP-MP-D,Quant,Profit & Loss,General P&L computation,CP/SP/MP/discount relation,259,NOT STARTED,,,,,,26,,DERIVED | unlocks 1
+Q-M-SIMPLE-C-DIRECT-SI--SINGLE-POI,Quant,Simple & Compound Interest,Direct SI unknowns,single-point rate,260,NOT STARTED,,,,,,26,,COMBINATIONAL | unlocks 1
+Q-M-SIMPLE-C-CI-AMOUNT--CI-GROWTH,Quant,Simple & Compound Interest,CI amount/rate/time,CI growth,261,NOT STARTED,,,,,,25,,DERIVED | unlocks 1
+Q-M-MENSURAT-SPHERE-CON-STANDARD-C,Quant,Mensuration,Sphere/cone/sector + circular paths,standard curved formulas,262,NOT STARTED,,,,,,24,,APPLICATION | unlocks 1
+Q-M-MENSURAT-FIELD-PLOT-A-VS-P-REL,Quant,Mensuration,Field/plot & side-relation perimeter,A vs P relations,263,NOT STARTED,,,,,,23,,DERIVED | unlocks 1
+Q-M-PERCENTA-INCOMEEXPE-SAVINGS-RE,Quant,"Percentages, Ratio & Proportion",Income–expenditure–savings / budget split,savings residual,264,NOT STARTED,,,,,,23,,COMBINATIONAL | unlocks 1
+Q-M-MENSURAT-GENERAL-ME-AREA-VOLUM,Quant,Mensuration,General mensuration computation,area/volume formula,265,NOT STARTED,,,,,,20,,DERIVED | unlocks 1
+Q-M-MIXTURE--MIXING-RAT-ALLIGATION,Quant,Mixture & Alligation,Mixing ratio for target price,alligation,266,NOT STARTED,,,,,,19,,DERIVED | unlocks 1
+Q-M-TIME-WOR-COMBINED-W-HARMONIC-C,Quant,Time & Work,Combined work,harmonic combine,267,NOT STARTED,,,,,,18,,COMBINATIONAL | unlocks 1
+Q-M-TRIGONOM-HEIGHTS-DI-TAN-H-D,Quant,Trigonometry & Heights,Heights & distances,tan = h/d,268,NOT STARTED,,,,,,18,,DERIVED | unlocks 1
+Q-M-PARTNERS-RENTAL-PRO-SHARE-USAG,Quant,Partnership & Share,Rental/profit share by usage×time,share ∝ usage·time,269,NOT STARTED,,,,,,17,,DERIVED | unlocks 1
+Q-M-TIME-SPE-CIRCULAR-T-RELATIVE-S,Quant,"Time, Speed & Distance",Circular track meeting,relative speed on loop,270,NOT STARTED,,,,,,16,,APPLICATION | unlocks 1
+Q-M-TRIGONOM-COMPLEMENT-SIN-90-COS,Quant,Trigonometry & Heights,Complementary / homogeneous trig,sin(90−θ)=cosθ; ÷cos,271,NOT STARTED,,,,,,16,,DERIVED | unlocks 1
+Q-M-TIME-SPE-AVERAGE-SP-HARMONIC-N,Quant,"Time, Speed & Distance",Average speed multi-leg journey,"harmonic, not arithmetic",272,NOT STARTED,,,,,,15,,COMBINATIONAL | unlocks 1
+Q-M-TIME-SPE-BOAT-UPSTR-STILL-CURR,Quant,"Time, Speed & Distance",Boat upstream–downstream,still ± current,273,NOT STARTED,,,,,,15,,APPLICATION | unlocks 1
+Q-M-TRIGONOM-STANDARD-V-SEC2TAN2-1,Quant,Trigonometry & Heights,Standard-value & single-variable conversion,sec²−tan²=1; std values,274,NOT STARTED,,,,,,15,,DERIVED | unlocks 1
+Q-M-GEOMETRY-MEDIANS-CE-2-1-CENTRO,Quant,Geometry,Medians/centroid/altitude,2:1 centroid split,275,NOT STARTED,,,,,,14,,DERIVED | unlocks 1
+Q-M-TRIGONOM-CO-TERMINA-MOD-360-18,Quant,Trigonometry & Heights,Co-terminal angles & radian conversion,mod 360; π=180°,276,NOT STARTED,,,,,,14,,DERIVED | unlocks 1
+Q-M-AVERAGE--AVERAGE-OF-LIST-TOTAL,Quant,Average & Age,Average of a number set,list & total,277,NOT STARTED,,,,,,13,,DERIVED | unlocks 1
+Q-M-MIXTURE--TWO-CONTAI-CROSS-TOTA,Quant,Mixture & Alligation,Two-container ratio combine,cross-total method,278,NOT STARTED,,,,,,13,,COMBINATIONAL | unlocks 1
+Q-M-SIMPLE-C-GENERAL-IN-SI-CI-RELA,Quant,Simple & Compound Interest,General interest computation,SI/CI relation,279,NOT STARTED,,,,,,13,,DERIVED | unlocks 1
+Q-M-AVERAGE--AGE-MULTIP-AGE-EQUATI,Quant,Average & Age,Age multiplier past/future,age equations,280,NOT STARTED,,,,,,12,,COMBINATIONAL | unlocks 1
+Q-M-MIXTURE--GENERAL-MI-WEIGHTED-M,Quant,Mixture & Alligation,General mixture computation,weighted mean,281,NOT STARTED,,,,,,12,,DERIVED | unlocks 1
+Q-M-NUMBER-S-REMAINDER--MOD-ARITHM,Quant,Number System,Remainder / modular,mod arithmetic,282,NOT STARTED,,,,,,12,,DERIVED | unlocks 1
+Q-M-ALGEBRA--WORD-PROBL-TRANSLATE-,Quant,Algebra & Equations,Word problem,translate to equations,283,NOT STARTED,,,,,,11,,DERIVED | unlocks 1
+Q-M-PERCENTA-ELECTION-W-VALID-VOTE,Quant,"Percentages, Ratio & Proportion",Election with invalid/unpolled votes,valid-vote base,284,NOT STARTED,,,,,,11,,DERIVED | unlocks 1
+Q-M-SIMPLE-C-SUM-SPLIT--SPLIT-PRIN,Quant,Simple & Compound Interest,Sum split at two rates,split-principal SI,285,NOT STARTED,,,,,,11,,COMBINATIONAL | unlocks 1
+Q-M-SIMPLIFI-DECIMAL-RO-PLACE-VALU,Quant,Simplification & Approximation,Decimal/rounding/number-facts,place-value care,286,NOT STARTED,,,,,,11,,DERIVED | unlocks 1
+Q-M-TIME-WOR-MENWOMENBO-GROUP-EFFI,Quant,Time & Work,Men–women–boys equivalence groups,group efficiency,287,NOT STARTED,,,,,,11,,DERIVED | unlocks 1
+Q-M-GEOMETRY-EXTERIOR-A-EXT-SUM-OF,Quant,Geometry,Exterior-angle theorem,ext = sum of opposites,288,NOT STARTED,,,,,,10,,DERIVED | unlocks 1
+Q-M-PERCENTA-PROPORTION-PRODUCT-OF,Quant,"Percentages, Ratio & Proportion",Proportion / mean proportional,product of extremes,289,NOT STARTED,,,,,,10,,DERIVED | unlocks 1
+Q-M-SIMPLE-C-AMOUNT-K-P-SI-MULTIPL,Quant,Simple & Compound Interest,Amount = k× principal in n years,SI multiplier form,290,NOT STARTED,,,,,,10,,DERIVED | unlocks 1
+Q-M-TIME-WOR-WAGE-SHARI-PAY-WORK-S,Quant,Time & Work,Wage sharing by work done,pay ∝ work share,291,NOT STARTED,,,,,,10,,DERIVED | unlocks 1
+Q-M-MENSURAT-MID-SEGMEN-AREA-1-4,Quant,Mensuration,Mid-segment / midpoint area scaling,area ×1/4,292,NOT STARTED,,,,,,9,,DERIVED | unlocks 1
+Q-M-PERCENTA-CHAIN-RATI-LCM-JOIN,Quant,"Percentages, Ratio & Proportion",Chain ratio join,LCM join,293,NOT STARTED,,,,,,9,,COMBINATIONAL | unlocks 1
+Q-M-PROFIT-L-BULK-BUY-S-LOT-WISE-R,Quant,Profit & Loss,"Bulk buy, staggered sell",lot-wise revenue,294,NOT STARTED,,,,,,9,,COMBINATIONAL | unlocks 1
+Q-M-AVERAGE--GENERAL-AV-TOTAL-AVG-,Quant,Average & Age,General average/age computation,total = avg × n,295,NOT STARTED,,,,,,8,,DERIVED | unlocks 1
+Q-M-GEOMETRY-QUADRILATE-DIAGONAL-P,Quant,Geometry,Quadrilateral angle chase,diagonal properties,296,NOT STARTED,,,,,,8,,APPLICATION | unlocks 1
+Q-M-MIXTURE--WEIGHTED-M-TOTAL-VALU,Quant,Mixture & Alligation,Weighted mean price of mixture,total value / total qty,297,NOT STARTED,,,,,,8,,DERIVED | unlocks 1
+Q-M-TRIGONOM-SECANT-TAN-EXTERNAL-S,Quant,Trigonometry & Heights,Secant-tangent power of a point,external segments product,298,NOT STARTED,,,,,,8,,DERIVED | unlocks 1
+Q-M-ALGEBRA--X-1-X-IDEN-RECIPROCAL,Quant,Algebra & Equations,x + 1/x identities & powers,reciprocal identities,299,NOT STARTED,,,,,,7,,DERIVED | unlocks 1
+Q-M-AVERAGE--GROUP-AVER-WEIGHTED-A,Quant,Average & Age,Group average / subgroup mix,weighted average,300,NOT STARTED,,,,,,7,,DERIVED | unlocks 1
+Q-M-MENSURAT-ROOM-WHITE-4-WALLS-CE,Quant,Mensuration,Room whitewash / paint cans,4 walls + ceiling,301,NOT STARTED,,,,,,7,,APPLICATION | unlocks 1
+Q-M-PERCENTA-DIVIDE-SUM-RATIO-SHAR,Quant,"Percentages, Ratio & Proportion",Divide sum in ratio + expression,ratio shares,302,NOT STARTED,,,,,,7,,DERIVED | unlocks 1
+Q-M-PROFIT-L-DISHONEST--FALSE-WEIG,Quant,Profit & Loss,Dishonest dealer / faulty weight,false-weight profit,303,NOT STARTED,,,,,,7,,DERIVED | unlocks 1
+Q-M-PROFIT-L-MPDISCOUNT-SP-CONSTAN,Quant,Profit & Loss,MP–discount–profit link,SP constant logic,304,NOT STARTED,,,,,,7,,COMBINATIONAL | unlocks 1
+Q-M-TIME-WOR-EFFICIENCY-EFFICIENCY,Quant,Time & Work,Efficiency ratio,efficiency↔time inverse,305,NOT STARTED,,,,,,7,,DERIVED | unlocks 1
+Q-M-ALGEBRA--CUBE-IDENT-ZERO-SUM-C,Quant,Algebra & Equations,Cube identity a³+b³+c³−3abc,zero-sum cubes,306,NOT STARTED,,,,,,6,,DERIVED | unlocks 1
+Q-M-MIXTURE--DILUTION-T-SOLUTE-CON,Quant,Mixture & Alligation,Dilution to a target ratio,solute constant,307,NOT STARTED,,,,,,6,,DERIVED | unlocks 1
+Q-M-PROFIT-L-MARKUP-WIT-MP-THEN-DE,Quant,Profit & Loss,Markup with offer,MP then deal,308,NOT STARTED,,,,,,6,,DERIVED | unlocks 1
+Q-M-PROFIT-L-SP-DISCOUN-MP-SP-1-D,Quant,Profit & Loss,SP + discount% back to MP,MP = SP/(1-d),309,NOT STARTED,,,,,,6,,COMBINATIONAL | unlocks 1
+Q-M-SIMPLE-C-SI-AS-FRAC-SIP-RELATI,Quant,Simple & Compound Interest,SI as fraction of / compared with principal,SI–P relation,310,NOT STARTED,,,,,,6,,DERIVED | unlocks 1
+Q-M-TIME-SPE-GENERAL-SP-V-D-T,Quant,"Time, Speed & Distance",General speed–distance computation,v = d/t,311,NOT STARTED,,,,,,6,,DERIVED | unlocks 1
+Q-M-TIME-WOR-PARTNER-LE-MID-WAY-EX,Quant,Time & Work,Partner leaves/works-part-then-rest,mid-way exit / partial work,312,NOT STARTED,,,,,,6,,DERIVED | unlocks 1
+Q-M-TRIGONOM-SEC-TAN-PA-SEC2-TAN2-,Quant,Trigonometry & Heights,sec-tan pair conversion,sec2-tan2 = 1,313,NOT STARTED,,,,,,6,,DERIVED | unlocks 1
+Q-M-ALGEBRA--COORDINATE-Y-MX-C,Quant,Algebra & Equations,Coordinate geometry: line slope / equation,y = mx + c,314,NOT STARTED,,,,,,5,,DERIVED | unlocks 1
+Q-M-AVERAGE--AVERAGE-OF-STANDARD-R,Quant,Average & Age,Average of squares formula,standard result,315,NOT STARTED,,,,,,5,,DERIVED | unlocks 1
+Q-M-MENSURAT-DIRECT-FOR-STANDARD-2,Quant,Mensuration,Direct formula plug-in,standard 2D/3D forms,316,NOT STARTED,,,,,,5,,DERIVED | unlocks 1
+Q-M-NUMBER-S-PERFECT-SQ-SQUARE-SQU,Quant,Number System,Perfect-square / divisibility-complement,square squeeze; remainder gap,317,NOT STARTED,,,,,,5,,DERIVED | unlocks 1
+Q-M-PERCENTA-REVERSE-PE-BASE-SWITC,Quant,"Percentages, Ratio & Proportion",Reverse percentage,base switching,318,NOT STARTED,,,,,,5,,DERIVED | unlocks 1
+Q-M-PERCENTA-SUCCESSIVE-CHAINED-CH,Quant,"Percentages, Ratio & Proportion",Successive % increase-decrease,chained % change,319,NOT STARTED,,,,,,5,,COMBINATIONAL | unlocks 1
+Q-M-PROFIT-L-MP-ABOVE-C-MPCPSP-CHA,Quant,Profit & Loss,"MP above CP, sell at no-profit-no-loss",MP–CP–SP chain,320,NOT STARTED,,,,,,5,,DERIVED | unlocks 1
+Q-M-TIME-SPE-KM-H-TO-M--X5-18,Quant,"Time, Speed & Distance",km/h to m/s conversion drill,x5/18,321,NOT STARTED,,,,,,5,,DERIVED | unlocks 1
+Q-M-ALGEBRA--LINEAR-SYS-COEFFICIEN,Quant,Algebra & Equations,Linear system: parallel / infinite / no solution,coefficient ratios,322,NOT STARTED,,,,,,4,,DERIVED | unlocks 1
+Q-M-AVERAGE--AVERAGE-OF-AP-MEAN,Quant,Average & Age,Average of a divisible-number range,AP mean,323,NOT STARTED,,,,,,4,,DERIVED | unlocks 1
+Q-M-GEOMETRY-INTERSECTI-AB-CD,Quant,Geometry,Intersecting chords theorem,a×b = c×d,324,NOT STARTED,,,,,,4,,DERIVED | unlocks 1
+Q-M-MENSURAT-CIRCULAR-S-SECTOR-MIN,Quant,Mensuration,Circular segment area,sector minus triangle,325,NOT STARTED,,,,,,4,,APPLICATION | unlocks 1
+Q-M-MENSURAT-PARALLEL-L-AREA-SCALE,Quant,Mensuration,Parallel-line area split,area scale = k2,326,NOT STARTED,,,,,,4,,COMBINATIONAL | unlocks 1
+Q-M-MIXTURE--DILUTION-R-SUCCESSIVE,Quant,Mixture & Alligation,Dilution / replacement %,successive dilution,327,NOT STARTED,,,,,,4,,DERIVED | unlocks 1
+Q-M-PERCENTA-BILLING-OR-ACTUAL-VS-,Quant,"Percentages, Ratio & Proportion",Billing / order-mix equation,actual vs billed,328,NOT STARTED,,,,,,4,,DERIVED | unlocks 1
+Q-M-PERCENTA-COIN-COUNT-DENOMINATI,Quant,"Percentages, Ratio & Proportion",Coin count from value ratio,denomination weighting,329,NOT STARTED,,,,,,4,,DERIVED | unlocks 1
+Q-M-PERCENTA-COMPARE-VA-EVALUATE-E,Quant,"Percentages, Ratio & Proportion",Compare % values / ratios,evaluate each,330,NOT STARTED,,,,,,4,,DERIVED | unlocks 1
+Q-M-SIMPLE-C-BORROW-INV-NET-POSITI,Quant,Simple & Compound Interest,Borrow-invest spread / partial repayment,net position,331,NOT STARTED,,,,,,4,,COMBINATIONAL | unlocks 1
+Q-M-SIMPLE-C-DIRECT-SI--SI-PRT-100,Quant,Simple & Compound Interest,Direct SI unknown,SI = PRT/100,332,NOT STARTED,,,,,,4,,COMBINATIONAL | unlocks 1
+Q-M-TIME-SPE-TWO-BODY-M-RELATIVE-S,Quant,"Time, Speed & Distance",Two-body meet / overtake,relative speed,333,NOT STARTED,,,,,,4,,DERIVED | unlocks 1
+Q-M-TIME-WOR-ALTERNATE--A-B-ALTERN,Quant,Time & Work,Alternate-day working,A/B alternate shifts,334,NOT STARTED,,,,,,4,,DERIVED | unlocks 1
+Q-M-AVERAGE--RUNS-NEEDE-NEW-AVERAG,Quant,Average & Age,Runs needed to raise average,new-average equation,335,NOT STARTED,,,,,,3,,DERIVED | unlocks 1
+Q-M-GEOMETRY-ANGLE-SPLI-SUM-TO-180,Quant,Geometry,Angle-split equation,sum to 180,336,NOT STARTED,,,,,,3,,COMBINATIONAL | unlocks 1
+Q-M-GEOMETRY-CHORD-OF-L-TANGENT-CH,Quant,Geometry,Chord of larger touching smaller circle,tangent-chord ⟂ radius,337,NOT STARTED,,,,,,3,,DERIVED | unlocks 1
+Q-M-GEOMETRY-ISOSCELES--BASE-ANGLE,Quant,Geometry,Isosceles triangle angles,base angles equal,338,NOT STARTED,,,,,,3,,DERIVED | unlocks 1
+Q-M-GEOMETRY-TRIANGLE-V-PYTHAGORAS,Quant,Geometry,Triangle validation,Pythagoras + angle sum,339,NOT STARTED,,,,,,3,,DERIVED | unlocks 1
+Q-M-MENSURAT-SIMILAR-FI-LINEAR-VS-,Quant,Mensuration,Similar-figure scaling,linear vs square scale,340,NOT STARTED,,,,,,3,,DERIVED | unlocks 1
+Q-M-PERCENTA-ONE-SIDE-A-RATIO-SHIF,Quant,"Percentages, Ratio & Proportion",One-side addition,ratio shift by count,341,NOT STARTED,,,,,,3,,DERIVED | unlocks 1
+Q-M-PERCENTA-RATIO-DIFF-PARTS-DIFF,Quant,"Percentages, Ratio & Proportion",Ratio-difference split,parts difference,342,NOT STARTED,,,,,,3,,COMBINATIONAL | unlocks 1
+Q-M-SIMPLE-C-TWO-AMOUNT-SI-TWO-POI,Quant,Simple & Compound Interest,"Two amounts, two times",SI two-point data,343,NOT STARTED,,,,,,3,,DERIVED | unlocks 1
+Q-M-SIMPLIFI-BRACKET-INNERMOST-,Quant,Simplification & Approximation,Bracket,innermost-first,344,NOT STARTED,,,,,,3,,DERIVED | unlocks 1
+Q-M-SIMPLIFI-COMPARE-OR-CROSS-MULT,Quant,Simplification & Approximation,Compare/order fractions,cross-multiply,345,NOT STARTED,,,,,,3,,DERIVED | unlocks 1
+Q-M-TIME-WOR-GENERAL-WO-RATE-TIME,Quant,Time & Work,General work computation,rate × time,346,NOT STARTED,,,,,,3,,DERIVED | unlocks 1
+Q-M-TIME-WOR-SHRINKING--DAILY-DROP,Quant,Time & Work,Shrinking/expanding workforce,daily dropout schedule,347,NOT STARTED,,,,,,3,,DERIVED | unlocks 1
+Q-M-AVERAGE--EXCLUDED-E-TOTAL-MINU,Quant,Average & Age,Excluded-extreme average,total minus extreme,348,NOT STARTED,,,,,,2,,DERIVED | unlocks 1
+Q-M-AVERAGE--WRONG-ENTR-TOTAL-CORR,Quant,Average & Age,Wrong-entry average correction,total correction,349,NOT STARTED,,,,,,2,,DERIVED | unlocks 1
+Q-M-GEOMETRY-CLASSIFY-T-C2-VS-A2-B,Quant,Geometry,Classify triangle by sides,c² vs a²+b²,350,NOT STARTED,,,,,,2,,DERIVED | unlocks 1
+Q-M-GEOMETRY-CLOCK-ANGL-0-5-MIN-6-,Quant,Geometry,Clock angle,0.5°/min & 6°/min,351,NOT STARTED,,,,,,2,,DERIVED | unlocks 1
+Q-M-GEOMETRY-COLLINEARI-SUM-CHECK,Quant,Geometry,Collinearity / degenerate triangle,sum-check,352,NOT STARTED,,,,,,2,,DERIVED | unlocks 1
+Q-M-GEOMETRY-CONCENTRIC-R2-D2-SHAR,Quant,Geometry,Concentric-circle chord relation,r2 - d2 shared,353,NOT STARTED,,,,,,2,,DERIVED | unlocks 1
+Q-M-GEOMETRY-CONGRUENCE-CORRESPOND,Quant,Geometry,Congruence -> solve for unknowns,corresponding parts equal,354,NOT STARTED,,,,,,2,,COMBINATIONAL | unlocks 1
+Q-M-GEOMETRY-EQUAL-CHOR-EQUILATERA,Quant,Geometry,Equal-chord / overlapping-circle geometry,equilateral triangles,355,NOT STARTED,,,,,,2,,DERIVED | unlocks 1
+Q-M-GEOMETRY-SEGMENT-LE-ON-LENGTHS,Quant,Geometry,Segment length % change,% on lengths,356,NOT STARTED,,,,,,2,,DERIVED | unlocks 1
+Q-M-MENSURAT-CENTROID-A-SIXTHS-AND,Quant,Mensuration,Centroid area shares,sixths and thirds,357,NOT STARTED,,,,,,2,,DERIVED | unlocks 1
+Q-M-MENSURAT-CIRCLE-RAT-C-R-A-R2,Quant,Mensuration,Circle ratio scaling,"C~r, A~r2",358,NOT STARTED,,,,,,2,,DERIVED | unlocks 1
+Q-M-MIXTURE--BULK-LOTS--TOTAL-VALU,Quant,Mixture & Alligation,Bulk lots blended: mean price,total value / total qty,359,NOT STARTED,,,,,,2,,COMBINATIONAL | unlocks 1
+Q-M-MIXTURE--REPLACE-WI-SOLUTE-INV,Quant,Mixture & Alligation,Replace-with-pure to target ratio,solute invariance,360,NOT STARTED,,,,,,2,,DERIVED | unlocks 1
+Q-M-MIXTURE--TWO-WAY-MI-MEAN-EQUAT,Quant,Mixture & Alligation,Two-way mix: find unknown component price,mean equation,361,NOT STARTED,,,,,,2,,COMBINATIONAL | unlocks 1
+Q-M-NUMBER-S-HCF-LCM-NU-GCDLCM-SER,Quant,Number System,HCF/LCM / number facts,gcd–lcm / series,362,NOT STARTED,,,,,,2,,DERIVED | unlocks 1
+Q-M-PARTNERS-STAGGERED--CAPITAL-X-,Quant,Partnership & Share,Staggered entry/exit capital share,capital x time,363,NOT STARTED,,,,,,2,,COMBINATIONAL | unlocks 1
+Q-M-PERCENTA-OF-TWO-UNK-WEIGHTED-S,Quant,"Percentages, Ratio & Proportion",% of two unknowns,%-weighted sum,364,NOT STARTED,,,,,,2,,COMBINATIONAL | unlocks 1
+Q-M-PROFIT-L-BUY-GET-FR-FREE-ARTIC,Quant,Profit & Loss,Buy-get-free discount scheme,free-article discount,365,NOT STARTED,,,,,,2,,DERIVED | unlocks 1
+Q-M-PROFIT-L-EQUAL-PROF-CP-IS-THE-,Quant,Profit & Loss,Equal profit and loss at two SPs,CP is the mean,366,NOT STARTED,,,,,,2,,DERIVED | unlocks 1
+Q-M-PROFIT-L-FIXED-PRIC-TWO-STEP-P,Quant,Profit & Loss,Fixed-price then cut,two-step pricing,367,NOT STARTED,,,,,,2,,DERIVED | unlocks 1
+Q-M-PROFIT-L-GAIN-ON-ON-TWO-ARTICL,Quant,Profit & Loss,"Gain on one, loss on other","two articles, equal SP",368,NOT STARTED,,,,,,2,,DERIVED | unlocks 1
+Q-M-PROFIT-L-TWO-LOT-PR-PROFIT-ALL,Quant,Profit & Loss,Two-lot profit split,profit alligation,369,NOT STARTED,,,,,,2,,COMBINATIONAL | unlocks 1
+Q-M-SIMPLE-C-CAPITAL-SI-SHARE-ON-C,Quant,Simple & Compound Interest,Capital + SI profit share,share on capital+interest,370,NOT STARTED,,,,,,2,,DERIVED | unlocks 1
+Q-M-TIME-SPE-EARLY-LATE-TIME-GAP-E,Quant,"Time, Speed & Distance",Early-late arrival speed-distance,time-gap equation,371,NOT STARTED,,,,,,2,,DERIVED | unlocks 1
+Q-M-TIME-SPE-TO-AND-FRO-COMBINED-D,Quant,"Time, Speed & Distance",To-and-fro meeting point,combined distance = 2D,372,NOT STARTED,,,,,,2,,COMBINATIONAL | unlocks 1
+Q-M-TIME-SPE-UNIT-RATE--D-V-X-T,Quant,"Time, Speed & Distance",Unit-rate scaling,d = v x t,373,NOT STARTED,,,,,,2,,DERIVED | unlocks 1
+Q-M-TRIGONOM-DOUBLE-ANG-COS2-1-SIN,Quant,Trigonometry & Heights,Double-angle chain,cos2 = 1 - sin2,374,NOT STARTED,,,,,,2,,COMBINATIONAL | unlocks 1
+Q-M-TRIGONOM-HOMOGENEOU-DIVIDE-BY-,Quant,Trigonometry & Heights,Homogeneous cubic trig identity,divide by cos-cubed,375,NOT STARTED,,,,,,2,,DERIVED | unlocks 1
+Q-M-TRIGONOM-TAN-TAN-DIFFER,Quant,Trigonometry & Heights,tan,tan difference,376,NOT STARTED,,,,,,2,,DERIVED | unlocks 1
+Q-M-ALGEBRA--SIMULTANEO-ELIMINATIO,Quant,Algebra & Equations,Simultaneous linear equations,elimination,377,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-AVERAGE--AP-SPACED--ARITHMETIC,Quant,Average & Age,AP-spaced ages,arithmetic progression,378,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-AVERAGE--OUTLIER-VS-TOTAL-GAP-,Quant,Average & Age,Outlier vs group average,total gap method,379,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-AVERAGE--OVERLAPPIN-DOUBLE-COU,Quant,Average & Age,Overlapping-period averages,double-counted days,380,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-AVERAGE--SIMPLE-AVE-SUM-COUNT,Quant,Average & Age,Simple average of a list,sum / count,381,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-DATA-INT-GENERAL-CH-EXTRACT-CO,Quant,Data Interpretation,General chart reading,extract + compute,382,NOT STARTED,,,,,,1,,APPLICATION | unlocks 1
+Q-M-GEOMETRY-GEOMETRY-D-TERMINOLOG,Quant,Geometry,Geometry definition / fact recall,terminology,383,NOT STARTED,,,,,,1,,RECALL | unlocks 1
+Q-M-GEOMETRY-MUTUALLY-T-CENTRES-TR,Quant,Geometry,Mutually touching circles,centres-triangle / sum-difference,384,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-GEOMETRY-STRAIGHT-L-DEFINITION,Quant,Geometry,Straight-line incidence facts,definitions,385,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-GEOMETRY-TRIANGLE-I-SUM-OF-TWO,Quant,Geometry,Triangle-inequality counting,sum of two > third,386,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-MENSURAT-EQUILATERA-P-3A,Quant,Mensuration,Equilateral perimeter -> side,P = 3a,387,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-MIXTURE--COMPARE-TW-MILK-FRACT,Quant,Mixture & Alligation,Compare two mixtures,milk-fraction compare,388,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-MIXTURE--DRAIN-THEN-MIXTURE-UP,Quant,Mixture & Alligation,Drain then add components,mixture update,389,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-MIXTURE--FIND-QTY-F-MEAN-WITH-,Quant,Mixture & Alligation,Find qty for target gain on mix,mean with margin,390,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-MIXTURE--LOSS-BASED-CP-BACK-OU,Quant,Mixture & Alligation,Loss-based mix ratio,CP back-out,391,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-MIXTURE--MIXTURE-BL-MEAN-THEN-,Quant,Mixture & Alligation,Mixture blended then sold at profit,mean then margin,392,NOT STARTED,,,,,,1,,COMBINATIONAL | unlocks 1
+Q-M-MIXTURE--THREE-WAY--MULTI-COMP,Quant,Mixture & Alligation,Three-way mixture,multi-component mean,393,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-NUMBER-S-DIGIT-PUZZ-POSITIONAL,Quant,Number System,Digit puzzle,positional constraints,394,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-NUMBER-S-DIVISION-A-DDQR-RELAT,Quant,Number System,Division algorithm,D–d–q–r relation,395,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-PARTNERS-MULTI-PART-CAPITAL-X-,Quant,Partnership & Share,Multi-partner firm with mid-term entry,capital x time with entry,396,NOT STARTED,,,,,,1,,COMBINATIONAL | unlocks 1
+Q-M-PARTNERS-TIME-EXTRA-P-C-X-T-IN,Quant,Partnership & Share,Time extraction from capital-profit ratios,P = C x T inversion,397,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-PERCENTA-CONSTANT-A-RATIO-SHIF,Quant,"Percentages, Ratio & Proportion",Constant addition,ratio shift,398,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-PERCENTA-REQUIRED-R-NET-YIELD-,Quant,"Percentages, Ratio & Proportion",Required rent for target return,net yield equation,399,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-PERCENTA-SUCCESSIVE-OVER-RELAT,Quant,"Percentages, Ratio & Proportion",Successive % comparison of quantities,%-over relation,400,NOT STARTED,,,,,,1,,COMBINATIONAL | unlocks 1
+Q-M-PERCENTA-TARGET-SHO-REQUIRED-V,Quant,"Percentages, Ratio & Proportion",Target-shortfall %,required vs scored,401,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-PERCENTA-VARIATION-K-FORM,Quant,"Percentages, Ratio & Proportion",Variation,k-form,402,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-PROFIT-L-CHAIN-PROF-SUCCESSIVE,Quant,Profit & Loss,Chain profit through dealers,successive margins,403,NOT STARTED,,,,,,1,,COMBINATIONAL | unlocks 1
+Q-M-PROFIT-L-COST-RISES-RE-BASED-M,Quant,Profit & Loss,"Cost rises, SP fixed",re-based margin,404,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-PROFIT-L-CP-MP-DISC-SP-BRIDGE,Quant,Profit & Loss,CP-MP-discount-profit link,SP bridge,405,NOT STARTED,,,,,,1,,COMBINATIONAL | unlocks 1
+Q-M-PROFIT-L-PRICE-DROP-CONSTANT-B,Quant,Profit & Loss,Price-drop buys extra quantity,constant budget,406,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-PROFIT-L-PROFIT-TO--CP-SP-FROM,Quant,Profit & Loss,Profit% to CP:SP ratio,CP:SP from margin,407,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-PROFIT-L-RANGE-PROF-EXTREMES,Quant,Profit & Loss,Range profit,extremes,408,NOT STARTED,,,,,,1,,COMBINATIONAL | unlocks 1
+Q-M-PROFIT-L-REPEATED-H-SUCCESSIVE,Quant,Profit & Loss,Repeated % hike on salary,successive factors,409,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-PROFIT-L-SEQUENTIAL-SHRINKING-,Quant,Profit & Loss,Sequential spending of remainder,shrinking base,410,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-PROFIT-L-SUCCESSIVE-COMPOUNDED,Quant,Profit & Loss,Successive % change on price,compounded change,411,NOT STARTED,,,,,,1,,COMBINATIONAL | unlocks 1
+Q-M-SIMPLE-C-ANNUAL-INS-INSTALMENT,Quant,Simple & Compound Interest,Annual instalment to clear debt,instalment formula,412,NOT STARTED,,,,,,1,,APPLICATION | unlocks 1
+Q-M-SIMPLE-C-DEPOSIT-IN-RATE-ARBIT,Quant,Simple & Compound Interest,Deposit-invest spread return,rate arbitrage,413,NOT STARTED,,,,,,1,,COMBINATIONAL | unlocks 1
+Q-M-SIMPLE-C-EARLY-SETT-DISCOUNT-O,Quant,Simple & Compound Interest,Early settlement / present worth,discount on debt,414,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-SIMPLE-C-EQUIVALENT-TWO-SCENAR,Quant,Simple & Compound Interest,Equivalent-interest equation,two-scenario equality,415,NOT STARTED,,,,,,1,,COMBINATIONAL | unlocks 1
+Q-M-SIMPLE-C-INTEREST-O-SI-REINVES,Quant,Simple & Compound Interest,Interest-on-interest chain,SI reinvested,416,NOT STARTED,,,,,,1,,COMBINATIONAL | unlocks 1
+Q-M-SIMPLE-C-RATE-GAP-T-DELTA-R-FO,Quant,Simple & Compound Interest,Rate gap to interest gap,delta-R form,417,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-SIMPLE-C-RATE-SCALE-RATE-MULTI,Quant,Simple & Compound Interest,"Rate scaled, recompute amount",rate multiplier,418,NOT STARTED,,,,,,1,,COMBINATIONAL | unlocks 1
+Q-M-TIME-SPE-FRACTION-O-ELAPSED-VS,Quant,"Time, Speed & Distance",Fraction-of-journey timing,elapsed vs total,419,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-TIME-SPE-RACE-HEAD--EFFECTIVE-,Quant,"Time, Speed & Distance",Race head-start / beaten-by distance,effective race length,420,NOT STARTED,,,,,,1,,APPLICATION | unlocks 1
+Q-M-TIME-SPE-REQUIRED-S-V-D-T,Quant,"Time, Speed & Distance",Required speed for a target time,v = D/T,421,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-TIME-SPE-SPEED-RATI-RATIO-SCAL,Quant,"Time, Speed & Distance",Speed ratio with one absolute,ratio scaling,422,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-TIME-SPE-TRAIN-CROS-LENGTHS-AD,Quant,"Time, Speed & Distance",Train crossing platform,lengths add up,423,NOT STARTED,,,,,,1,,APPLICATION | unlocks 1
+Q-M-TIME-WOR-FRACTIONAL-MAN-DAYS-R,Quant,Time & Work,Fractional work completion %,man-days ratio,424,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-TIME-WOR-PARTIAL-DA-RATE-X-DAY,Quant,Time & Work,Partial-days team system,rate x days ledger,425,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-TIME-WOR-PERIODIC-A-CYCLE-OUTP,Quant,Time & Work,Periodic assistance schedule,cycle output,426,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-TIME-WOR-THREE-WORK-COMBINED-R,Quant,Time & Work,Three-worker team / assisted work,combined rate,427,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-TIME-WOR-WORKFORCE--DONE-REST-,Quant,Time & Work,Workforce cut mid-work,done + rest ledger,428,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-TRIGONOM-ANGLE-WHER-45-DEGREE-,Quant,Trigonometry & Heights,Angle where sin = cos,45-degree fact,429,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-TRIGONOM-COMPLEMENT-SIN-COS-90,Quant,Trigonometry & Heights,Complementary equation solve,sin = cos(90-.),430,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-TRIGONOM-SPHERICAL--SUMS-TO-R-,Quant,Trigonometry & Heights,Spherical-coordinate identity,sums to r-squared,431,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+Q-M-TRIGONOM-TRIG-ORDER-MONOTONIC-,Quant,Trigonometry & Heights,Trig ordering / bounds in,monotonic segments,432,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+R-EXT-A1Z26,Reasoning,,,Alphabet positions (A1Z26),6,NOT STARTED,,,,,,0,,FOUNDATIONAL | unlocks 6
+R-EXT-ARITH,Reasoning,,,Arithmetic for reasoning patterns,7,NOT STARTED,,,,,,0,,FOUNDATIONAL | unlocks 4
+R-EXT-BODMAS,Reasoning,,,BODMAS evaluation,8,NOT STARTED,,,,,,0,,FOUNDATIONAL | unlocks 3
+R-EXT-CALBASIC,Reasoning,,,Calendar basics,9,NOT STARTED,,,,,,0,,FOUNDATIONAL | unlocks 1
+R-EXT-CARD,Reasoning,,,Cardinal directions & turns,10,NOT STARTED,,,,,,0,,FOUNDATIONAL | unlocks 1
+R-EXT-CLOCKFACE,Reasoning,,,Clock-face basics,11,NOT STARTED,,,,,,0,,FOUNDATIONAL | unlocks 1
+R-EXT-CUBENET,Reasoning,,,Cube nets,12,NOT STARTED,,,,,,0,,FOUNDATIONAL | unlocks 1
+R-EXT-PARDIV,Reasoning,,,Parity & divisibility basics,13,NOT STARTED,,,,,,0,,FOUNDATIONAL | unlocks 2
+R-EXT-SPAT,Reasoning,,,Spatial visualization,14,NOT STARTED,,,,,,0,,FOUNDATIONAL | unlocks 5
+R-EXT-STMLOG,Reasoning,,,Statement-conclusion logic,15,NOT STARTED,,,,,,0,,FOUNDATIONAL | unlocks 3
+R-EXT-SUNSHAD,Reasoning,,,Sun-shadow orientation,16,NOT STARTED,,,,,,0,,FOUNDATIONAL | unlocks 1
+R-EXT-VOCAB,Reasoning,,,General English vocabulary,17,NOT STARTED,,,,,,0,,FOUNDATIONAL | unlocks 2
+R-M-MISCELLA-UNCLASSIFI-MIXED-SKIL,Reasoning,Miscellaneous (Reasoning),Unclassified reasoning item,mixed skill,113,NOT STARTED,,,,,,207,,DERIVED | unlocks 1
+R-M-ANALOGY-NUMBER-ANA-OPERATION-,Reasoning,Analogy,Number analogy,operation across pair,114,NOT STARTED,,,,,,108,,DERIVED | unlocks 1
+R-M-NUMBER-A-MIXED-OPER-COMBINED-R,Reasoning,Number / Alphabet Series,Mixed-operation series,combined rules,115,NOT STARTED,,,,,,99,,COMBINATIONAL | unlocks 1
+R-M-MATHEMAT-SIGN-SWAP--SWAP-TWO-O,Reasoning,Mathematical Operators,Sign-swap to balance,swap two operators,116,NOT STARTED,,,,,,90,,DERIVED | unlocks 1
+R-M-BLOOD-RE-DIRECT-REL-SINGLE-HOP,Reasoning,Blood Relations,Direct relation,single-hop map,117,NOT STARTED,,,,,,89,,DERIVED | unlocks 1
+R-M-CODING-D-GENERAL-CO-ENCODE-DEC,Reasoning,Coding-Decoding,General code transform,encode/decode map,118,NOT STARTED,,,,,,86,,DERIVED | unlocks 1
+R-M-DICTIONA-DICTIONARY-LETTER-BY-,Reasoning,Dictionary & Word Formation,Dictionary order,letter-by-letter compare,119,NOT STARTED,,,,,,86,,DERIVED | unlocks 1
+R-M-NUMBER-A-CONSTANT-S-UNIFORM-SH,Reasoning,Number / Alphabet Series,Constant-shift alphabet series,uniform shift value,120,NOT STARTED,,,,,,82,,DERIVED | unlocks 1
+R-M-SYLLOGIS-GENERAL-SY-VENN-TEST-,Reasoning,Syllogism & Conclusions,General syllogism task,Venn/test method,121,NOT STARTED,,,,,,76,,DERIVED | unlocks 1
+R-M-CODING-D-ALPHANUMER-LETTERS-NU,Reasoning,Coding-Decoding,Alphanumeric / position-sum coding,letters ↔ numbers,122,NOT STARTED,,,,,,73,,DERIVED | unlocks 1
+R-M-BLOOD-RE-CODED-RELA-DECODE-THE,Reasoning,Blood Relations,Coded relation,decode then traverse,123,NOT STARTED,,,,,,69,,COMBINATIONAL | unlocks 1
+R-M-CLASSIFI-BARE-ODD-O-OPTION-DRI,Reasoning,Classification / Odd-One-Out,Bare odd-one-out,option-driven,124,NOT STARTED,,,,,,64,,DERIVED | unlocks 1
+R-M-MATHEMAT-GENERAL-OP-BODMAS-TRI,Reasoning,Mathematical Operators,General operator fill,BODMAS trial,125,NOT STARTED,,,,,,64,,DERIVED | unlocks 1
+R-M-FIGURE-B-FIGURE-TAS-VISUAL-REA,Reasoning,Figure-Based (Image),Figure task,visual reasoning,126,NOT STARTED,,,,,,53,,DERIVED | unlocks 1
+R-M-MIRROR-W-MIRROR-IMA-LEFT-RIGHT,Reasoning,Mirror / Water Images,Mirror image,left-right flip,127,NOT STARTED,,,,,,49,,DERIVED | unlocks 1
+R-M-EMBEDDED-FIGURE-COM-SYMMETRY-F,Reasoning,Embedded / Completion / Counting,Figure completion,symmetry fill,128,NOT STARTED,,,,,,47,,DERIVED | unlocks 1
+R-M-ATTENTIO-EXACT-STRI-CHARACTER-,Reasoning,Attention to Detail,Exact string/address match,character scan,129,NOT STARTED,,,,,,44,,DERIVED | unlocks 1
+R-M-ANALOGY-GENERAL-AN-RELATION-M,Reasoning,Analogy,General analogy,relation mapping,130,NOT STARTED,,,,,,43,,DERIVED | unlocks 1
+R-M-DICE-CUB-STANDARD-D-ADJACENT-N,Reasoning,Dice & Cubes,Standard dice opposite-face,adjacent-never-opposite,131,NOT STARTED,,,,,,42,,DERIVED | unlocks 1
+R-M-MATHEMAT-CUSTOM-OPE-SYMBOL-REM,Reasoning,Mathematical Operators,Custom-operator substitution,symbol remap,132,NOT STARTED,,,,,,41,,DERIVED | unlocks 1
+R-M-NUMBER-A-ALTERNATIN-TWO-INTERL,Reasoning,Number / Alphabet Series,Alternating alphabet pattern,two interleaved rules,133,NOT STARTED,,,,,,38,,DERIVED | unlocks 1
+R-M-NUMBER-A-ALPHABET-P-A1Z26-LOGI,Reasoning,Number / Alphabet Series,Alphabet-position series,A1Z26 logic,134,NOT STARTED,,,,,,36,,DERIVED | unlocks 1
+R-M-EMBEDDED-COUNT-GEOM-SYSTEMATIC,Reasoning,Embedded / Completion / Counting,Count geometric figures,systematic enumeration,135,NOT STARTED,,,,,,34,,DERIVED | unlocks 1
+R-M-CLASSIFI-GROUP-OF-F-ARITHMETIC,Reasoning,Classification / Odd-One-Out,Group-of-four odd-out,arithmetic property,136,NOT STARTED,,,,,,32,,DERIVED | unlocks 1
+R-M-SYLLOGIS-THREE-STAT-VENN-CHAIN,Reasoning,Syllogism & Conclusions,Three-statement syllogism,Venn chains,137,NOT STARTED,,,,,,32,,DERIVED | unlocks 1
+R-M-PAPER-FO-FOLD-PUNCH-SYMMETRIC-,Reasoning,Paper Folding & Cutting,Fold-punch-unfold trace,symmetric replication,138,NOT STARTED,,,,,,30,,DERIVED | unlocks 1
+R-M-ANALOGY-WORD-ANALO-RELATION-T,Reasoning,Analogy,Word analogy,relation type,139,NOT STARTED,,,,,,29,,DERIVED | unlocks 1
+R-M-NUMBER-A-SECOND-ORD-CONSTANT-S,Reasoning,Number / Alphabet Series,Second-order AP,constant second difference,140,NOT STARTED,,,,,,27,,DERIVED | unlocks 1
+R-M-ANALOGY-LETTER-TER-POSITIONAL,Reasoning,Analogy,Letter/term analogy,positional mapping,141,NOT STARTED,,,,,,26,,DERIVED | unlocks 1
+R-M-CODING-D-LETTER-TRA-PER-POSITI,Reasoning,Coding-Decoding,Letter transform,per-position mapping,142,NOT STARTED,,,,,,26,,DERIVED | unlocks 1
+R-M-MATHEMAT-ODD-OPERAT-COMMON-OPE,Reasoning,Mathematical Operators,Odd operation-pair out,common operation,143,NOT STARTED,,,,,,24,,DERIVED | unlocks 1
+R-M-FIGURE-S-FIGURE-SER-VISUAL-RUL,Reasoning,Figure Series,Figure series completion,visual rule per step,144,NOT STARTED,,,,,,20,,DERIVED | unlocks 1
+R-M-NUMBER-A-LETTER-BLA-SLOT-COMPL,Reasoning,Number / Alphabet Series,Letter-blank fill series,slot completion,145,NOT STARTED,,,,,,20,,DERIVED | unlocks 1
+R-M-CLASSIFI-LETTER-CLU-POSITIONAL,Reasoning,Classification / Odd-One-Out,Letter-cluster classification,positional property,146,NOT STARTED,,,,,,19,,DERIVED | unlocks 1
+R-M-NUMBER-A-GENERAL-SE-PATTERN-EX,Reasoning,Number / Alphabet Series,General series completion,pattern extension,147,NOT STARTED,,,,,,19,,DERIVED | unlocks 1
+R-M-BLOOD-RE-CHAINED-RE-MULTI-HOP-,Reasoning,Blood Relations,Chained relation,multi-hop traversal,148,NOT STARTED,,,,,,18,,COMBINATIONAL | unlocks 1
+R-M-SYLLOGIS-STATEMENT-IMPLICIT-P,Reasoning,Syllogism & Conclusions,Statement,implicit premise,149,NOT STARTED,,,,,,18,,DERIVED | unlocks 1
+R-M-SYLLOGIS-STANDARD-S-VENN-CHAIN,Reasoning,Syllogism & Conclusions,Standard syllogism,Venn chains,150,NOT STARTED,,,,,,17,,DERIVED | unlocks 1
+R-M-CODING-D-LETTER-SHI-UNIFORM-SH,Reasoning,Coding-Decoding,Letter-shift transform,uniform shift value,151,NOT STARTED,,,,,,16,,DERIVED | unlocks 1
+R-M-EMBEDDED-EMBEDDED-PART-WHOLE,Reasoning,Embedded / Completion / Counting,Embedded,part-whole spotting,152,NOT STARTED,,,,,,16,,DERIVED | unlocks 1
+R-M-DICTIONA-MEANINGFUL-ANAGRAM-SE,Reasoning,Dictionary & Word Formation,Meaningful-word formation,anagram search,153,NOT STARTED,,,,,,14,,DERIVED | unlocks 1
+R-M-NUMBER-A-MULTIPLY-A-FIXED-K-C-,Reasoning,Number / Alphabet Series,Multiply-add,"fixed k,c parameters",154,NOT STARTED,,,,,,12,,COMBINATIONAL | unlocks 1
+R-M-NUMBER-A-GEOMETRIC--CONSTANT-R,Reasoning,Number / Alphabet Series,Geometric series,constant ratio value,155,NOT STARTED,,,,,,11,,DERIVED | unlocks 1
+R-M-DIRECTIO-GENERAL-DI-PATH-TRACK,Reasoning,Direction Sense,General direction-distance,path tracking,156,NOT STARTED,,,,,,10,,DERIVED | unlocks 1
+R-M-SYLLOGIS-SINGLE-STA-DIRECT-INF,Reasoning,Syllogism & Conclusions,Single-statement conclusion,direct inference,157,NOT STARTED,,,,,,10,,DERIVED | unlocks 1
+R-M-ANALOGY-SET-TRIAD--COMMON-RUL,Reasoning,Analogy,Set/triad analogy,common rule across triple,158,NOT STARTED,,,,,,9,,DERIVED | unlocks 1
+R-M-NUMBER-A-INCREASING-SHIFT-GROW,Reasoning,Number / Alphabet Series,Increasing-shift alphabet series,shift grows each step,159,NOT STARTED,,,,,,8,,DERIVED | unlocks 1
+R-M-RANKING--RANK-POSIT-ENDS-COUNT,Reasoning,Ranking & Order,Rank / position in row,ends counting,160,NOT STARTED,,,,,,8,,DERIVED | unlocks 1
+R-M-SYLLOGIS-ARGUMENT-C-STRENGTH-T,Reasoning,Syllogism & Conclusions,Argument / course-of-action,strength test,161,NOT STARTED,,,,,,8,,DERIVED | unlocks 1
+R-M-DICE-CUB-GENERAL-DI-SPATIAL-LO,Reasoning,Dice & Cubes,General dice/cube,spatial logic,162,NOT STARTED,,,,,,7,,DERIVED | unlocks 1
+R-M-DICTIONA-GENERAL-OR-LEXICOGRAP,Reasoning,Dictionary & Word Formation,General order/formation,lexicographic/anagram,163,NOT STARTED,,,,,,7,,DERIVED | unlocks 1
+R-M-NUMBER-A-SQUARES-CU-PERFECT-PO,Reasoning,Number / Alphabet Series,Squares / cubes pattern,perfect powers in order,164,NOT STARTED,,,,,,7,,DERIVED | unlocks 1
+R-M-SEATING--GENERAL-AR-PLACEMENT-,Reasoning,Seating Arrangement,General arrangement,placement logic,165,NOT STARTED,,,,,,6,,DERIVED | unlocks 1
+R-M-VENN-DIA-VENN-CLASS-SET-INCLUS,Reasoning,Venn Diagram,Venn class diagram,set inclusion,166,NOT STARTED,,,,,,6,,DERIVED | unlocks 1
+R-M-ANALOGY-WORD-ANALO-RELATION-M,Reasoning,Analogy,Word analogy,relation mapping,167,NOT STARTED,,,,,,5,,DERIVED | unlocks 1
+R-M-CLASSIFI-GENERAL-OD-PROPERTY-B,Reasoning,Classification / Odd-One-Out,General odd-one-out,property break,168,NOT STARTED,,,,,,5,,DERIVED | unlocks 1
+R-M-CODING-D-MATRIX-COD-LOOKUP-MAP,Reasoning,Coding-Decoding,Matrix / code-table coding,lookup mapping,169,NOT STARTED,,,,,,5,,APPLICATION | unlocks 1
+R-M-CALENDAR-CLOCK-HAND-RELATIVE-S,Reasoning,Calendar & Clock,Clock hands / angle,relative speed 360/11,170,NOT STARTED,,,,,,4,,APPLICATION | unlocks 1
+R-M-EMBEDDED-GENERAL-FI-VISUAL-ANA,Reasoning,Embedded / Completion / Counting,General figure task,visual analysis,171,NOT STARTED,,,,,,4,,DERIVED | unlocks 1
+R-M-MATHEMAT-FILL-WITH--OPERATOR-P,Reasoning,Mathematical Operators,Fill-*-with-operators,operator placement,172,NOT STARTED,,,,,,4,,DERIVED | unlocks 1
+R-M-NUMBER-A-ALTERNATIN-EVEN-ODD-P,Reasoning,Number / Alphabet Series,Alternating,even/odd positions separate APs,173,NOT STARTED,,,,,,4,,DERIVED | unlocks 1
+R-M-NUMBER-A-CONSTANT-D-AP-WITH-D-,Reasoning,Number / Alphabet Series,Constant-difference series,AP with d=2,174,NOT STARTED,,,,,,4,,DERIVED | unlocks 1
+R-M-MATHEMAT-SPECIAL-CH-SYMBOL-REM,Reasoning,Mathematical Operators,Special-character replacement,symbol remap,175,NOT STARTED,,,,,,3,,DERIVED | unlocks 1
+R-M-MIRROR-W-GENERAL-IM-FLIP-RULE,Reasoning,Mirror / Water Images,General image flip,flip rule,176,NOT STARTED,,,,,,3,,DERIVED | unlocks 1
+R-M-NUMBER-A-CONSTANT-D-AP-WITH-D--2,Reasoning,Number / Alphabet Series,Constant-difference series,AP with d=-3,177,NOT STARTED,,,,,,3,,DERIVED | unlocks 1
+R-M-NUMBER-A-CONSTANT-D-AP-WITH-D--3,Reasoning,Number / Alphabet Series,Constant-difference series,AP with d=3,178,NOT STARTED,,,,,,3,,DERIVED | unlocks 1
+R-M-CALENDAR-CALENDAR-D-ODD-DAY-CO,Reasoning,Calendar & Clock,Calendar / day-date,odd-day counting,179,NOT STARTED,,,,,,2,,DERIVED | unlocks 1
+R-M-DIRECTIO-TURN-AND-D-CARDINAL-T,Reasoning,Direction Sense,Turn-and-distance path,cardinal tracking,180,NOT STARTED,,,,,,2,,DERIVED | unlocks 1
+R-M-MATHEMAT-GRID-MATRI-ROW-WISE-R,Reasoning,Mathematical Operators,Grid/matrix number pattern,row-wise rule,181,NOT STARTED,,,,,,2,,DERIVED | unlocks 1
+R-M-NUMBER-A-CONSTANT-D-AP-WITH-D--4,Reasoning,Number / Alphabet Series,Constant-difference series,AP with d=6,182,NOT STARTED,,,,,,2,,DERIVED | unlocks 1
+R-M-NUMBER-A-CONSTANT-D-AP-WITH-D--5,Reasoning,Number / Alphabet Series,Constant-difference series,AP with d=-4,183,NOT STARTED,,,,,,2,,DERIVED | unlocks 1
+R-M-NUMBER-A-NUMERIC-AR-RELATION-A,Reasoning,Number / Alphabet Series,Numeric arrangement / analogy set,relation across numbers,184,NOT STARTED,,,,,,2,,DERIVED | unlocks 1
+R-M-CALENDAR-GENERAL-CA-CYCLE-MATH,Reasoning,Calendar & Clock,General calendar/clock,cycle math,185,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+R-M-CLASSIFI-NUMBER-BAS-ARITHMETIC,Reasoning,Classification / Odd-One-Out,Number-based classification,arithmetic property,186,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+R-M-CODING-D-REARRANGEM-POSITION-P,Reasoning,Coding-Decoding,Rearrangement coding,position permutation,187,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+R-M-DICTIONA-ALPHABET-P-A1Z26-SPAN,Reasoning,Dictionary & Word Formation,Alphabet-position gap count,A1Z26 spans,188,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+R-M-DIRECTIO-SHADOW-BAS-SUN-ORIENT,Reasoning,Direction Sense,Shadow-based direction,sun orientation,189,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+R-M-NUMBER-A-ADDITIVE-EACH-SUM-O,Reasoning,Number / Alphabet Series,Additive,each = sum of previous two,190,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+R-M-NUMBER-A-CONSTANT-D-AP-WITH-D--6,Reasoning,Number / Alphabet Series,Constant-difference series,AP with d=11,191,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+R-M-NUMBER-A-CONSTANT-D-AP-WITH-D--7,Reasoning,Number / Alphabet Series,Constant-difference series,AP with d=-10,192,NOT STARTED,,,,,,1,,DERIVED | unlocks 1
+R-M-SEATING--CIRCULAR-A-AROUND-TAB,Reasoning,Seating Arrangement,Circular arrangement,around-table order,193,NOT STARTED,,,,,,1,,APPLICATION | unlocks 1

@@ -1,0 +1,180 @@
+==============================================================================
+HIERARCHY GAP REPORT (what the evidence does / does not support)
+==============================================================================
+
+1. CONCEPTS CLEARLY SUPPORTED BY STAGE 2
+   Every L3/L4/L5 node below comes from a measured (Topic, Subtopic,
+   Micro, Archetype) group in the pattern DBs with a PYQ count, example
+   IDs, observed traps/methods/times. Counts:
+   - Quant: 2200 PYQs -> 197 micro-concept nodes
+   - English: 2200 PYQs -> 65 micro-concept nodes
+   - Reasoning: 2200 PYQs -> 81 micro-concept nodes
+   - GA: 2200 PYQs -> 305 micro-concept nodes
+
+2. BROAD / GENERIC CONCEPTS (real but coarse)
+   - GA: General Current Affairs & GK (207 PYQs, G-M-GENERAL-CU-GENERAL-FACT) — needs future decomposition
+   - English: General sentence correction (157 PYQs, E-M-SENTENCE-GENERAL-SE-GRAMMAR-ST) — needs future decomposition
+   - Reasoning: General code transform (86 PYQs, R-M-CODING-D-GENERAL-CO-ENCODE-DEC) — needs future decomposition
+   - English: General word substitute (76 PYQs, E-M-ONE-WORD-GENERAL-WO-VOCABULARY) — needs future decomposition
+   - Reasoning: General syllogism task (76 PYQs, R-M-SYLLOGIS-GENERAL-SY-VENN-TEST-) — needs future decomposition
+   - Reasoning: General operator fill (64 PYQs, R-M-MATHEMAT-GENERAL-OP-BODMAS-TRI) — needs future decomposition
+   - Quant: General trig computation (52 PYQs, Q-M-TRIGONOM-GENERAL-TR-IDENTITIES) — needs future decomposition
+   - Quant: General %/ratio computation (49 PYQs, Q-M-PERCENTA-GENERAL-RA-BASE-PARTS) — needs future decomposition
+   - GA: General Sports (46 PYQs, G-M-GENERAL-SP-GENERAL-FACT) — needs future decomposition
+   - Reasoning: General analogy (43 PYQs, R-M-ANALOGY-GENERAL-AN-RELATION-M) — needs future decomposition
+   - Quant: General geometry computation (42 PYQs, Q-M-GEOMETRY-GENERAL-GE-DIAGRAM-TH) — needs future decomposition
+   - GA: General Modern History (42 PYQs, G-M-GENERAL-MO-GENERAL-FACT) — needs future decomposition
+   - GA: General Art & Culture (37 PYQs, G-M-GENERAL-AR-GENERAL-FACT) — needs future decomposition
+   - GA: General Polity (29 PYQs, G-M-GENERAL-PO-GENERAL-FACT) — needs future decomposition
+   - Quant: General P&L computation (26 PYQs, Q-M-PROFIT-L-GENERAL-P--CP-SP-MP-D) — needs future decomposition
+   - English: General spelling task (23 PYQs, E-M-SPELLING-GENERAL-SP-SPELLING-M) — needs future decomposition
+   - GA: General Biology (22 PYQs, G-M-GENERAL-BI-GENERAL-FACT) — needs future decomposition
+   - GA: General Economy (21 PYQs, G-M-GENERAL-EC-GENERAL-FACT) — needs future decomposition
+   - Quant: General mensuration computation (20 PYQs, Q-M-MENSURAT-GENERAL-ME-AREA-VOLUM) — needs future decomposition
+   - GA: General Current Affairs & GK (20 PYQs, G-M-GENERAL-CU-TERM-ANCHORE) — needs future decomposition
+   - Reasoning: General series completion (19 PYQs, R-M-NUMBER-A-GENERAL-SE-PATTERN-EX) — needs future decomposition
+   - GA: General Current Affairs & GK (19 PYQs, G-M-GENERAL-CU-OTHER-GENERA) — needs future decomposition
+   - GA: General Physics (19 PYQs, G-M-GENERAL-PH-GENERAL-FACT) — needs future decomposition
+   - GA: General Geography (18 PYQs, G-M-GENERAL-GE-GENERAL-FACT) — needs future decomposition
+   - GA: General Books & Authors (17 PYQs, G-M-GENERAL-BO-BOOK-ANCHORE) — needs future decomposition
+   - GA: General Institutions & Schemes (17 PYQs, G-M-GENERAL-IN-GENERAL-FACT) — needs future decomposition
+   - GA: General Chemistry (14 PYQs, G-M-GENERAL-CH-GENERAL-FACT) — needs future decomposition
+   - Quant: General interest computation (13 PYQs, Q-M-SIMPLE-C-GENERAL-IN-SI-CI-RELA) — needs future decomposition
+   - GA: General Current Affairs & GK (13 PYQs, G-M-GENERAL-CU-YEAR-ANCHORE) — needs future decomposition
+   - Quant: General mixture computation (12 PYQs, Q-M-MIXTURE--GENERAL-MI-WEIGHTED-M) — needs future decomposition
+   - GA: General Current Affairs & GK (12 PYQs, G-M-GENERAL-CU-PERSON-ANCHO) — needs future decomposition
+   - GA: General Sports (11 PYQs, G-M-GENERAL-SP-OTHER-GENERA) — needs future decomposition
+   - Reasoning: General direction-distance (10 PYQs, R-M-DIRECTIO-GENERAL-DI-PATH-TRACK) — needs future decomposition
+   - GA: General Current Affairs & GK (10 PYQs, G-M-GENERAL-CU-SUPERLATIVE-) — needs future decomposition
+   - English: General voice conversion (9 PYQs, E-M-ACTIVE-P-GENERAL-VO-VOICE-TRAN) — needs future decomposition
+   - GA: General Sports (9 PYQs, G-M-GENERAL-SP-PLACE-ANCHOR) — needs future decomposition
+   - Quant: General average/age computation (8 PYQs, Q-M-AVERAGE--GENERAL-AV-TOTAL-AVG-) — needs future decomposition
+   - GA: General Sports (8 PYQs, G-M-GENERAL-SP-YEAR-ANCHORE) — needs future decomposition
+   - Reasoning: General dice/cube (7 PYQs, R-M-DICE-CUB-GENERAL-DI-SPATIAL-LO) — needs future decomposition
+   - Reasoning: General order/formation (7 PYQs, R-M-DICTIONA-GENERAL-OR-LEXICOGRAP) — needs future decomposition
+   - GA: General Books & Authors (7 PYQs, G-M-GENERAL-BO-PERSON-ANCHO) — needs future decomposition
+   - GA: General Ancient History (7 PYQs, G-M-GENERAL-AN-GENERAL-FACT) — needs future decomposition
+   - Quant: General speed–distance computation (6 PYQs, Q-M-TIME-SPE-GENERAL-SP-V-D-T) — needs future decomposition
+   - Reasoning: General arrangement (6 PYQs, R-M-SEATING--GENERAL-AR-PLACEMENT-) — needs future decomposition
+   - GA: General Art & Culture (6 PYQs, G-M-GENERAL-AR-YEAR-ANCHORE) — needs future decomposition
+   - GA: General Art & Culture (6 PYQs, G-M-GENERAL-AR-AWARD-ANCHOR) — needs future decomposition
+   - GA: General Institutions & Schemes (6 PYQs, G-M-GENERAL-IN-PLACE-ANCHOR) — needs future decomposition
+   - Reasoning: General odd-one-out (5 PYQs, R-M-CLASSIFI-GENERAL-OD-PROPERTY-B) — needs future decomposition
+   - GA: General Awards (5 PYQs, G-M-GENERAL-AW-AWARD-ANCHOR) — needs future decomposition
+   - GA: General Chemistry (5 PYQs, G-M-GENERAL-CH-SUPERLATIVE-) — needs future decomposition
+   - GA: General Modern History (5 PYQs, G-M-GENERAL-MO-PERSON-ANCHO) — needs future decomposition
+   - GA: General Modern History (5 PYQs, G-M-GENERAL-MO-YEAR-ANCHORE) — needs future decomposition
+   - GA: General Modern History (5 PYQs, G-M-GENERAL-MO-OTHER-GENERA) — needs future decomposition
+   - GA: General Institutions & Schemes (5 PYQs, G-M-GENERAL-IN-PERSON-ANCHO) — needs future decomposition
+
+3. SINGLE-PYQ ARCHETYPES (pattern reliability not establishable from n=1)
+   - GA / Polity: 27 singleton archetype(s)
+   - GA / Economy: 22 singleton archetype(s)
+   - GA / Physics: 18 singleton archetype(s)
+   - GA / Modern History: 15 singleton archetype(s)
+   - GA / Chemistry: 13 singleton archetype(s)
+   - GA / Geography: 13 singleton archetype(s)
+   - GA / Medieval History: 13 singleton archetype(s)
+   - GA / Sports: 13 singleton archetype(s)
+   - GA / Art & Culture: 12 singleton archetype(s)
+   - GA / Ancient History: 11 singleton archetype(s)
+   - GA / Institutions, Schemes & Reports: 11 singleton archetype(s)
+   - Quant / Profit & Loss: 9 singleton archetype(s)
+   - GA / Biology: 9 singleton archetype(s)
+   - Quant / Simple & Compound Interest: 7 singleton archetype(s)
+   - GA / Books: 7 singleton archetype(s)
+   - Quant / Mixture & Alligation: 6 singleton archetype(s)
+   - GA / Awards: 6 singleton archetype(s)
+   - Quant / Percentages, Ratio & Proportion: 5 singleton archetype(s)
+   - Quant / Time & Work: 5 singleton archetype(s)
+   - Quant / Time, Speed & Distance: 5 singleton archetype(s)
+   - Quant / Average & Age: 4 singleton archetype(s)
+   - Quant / Geometry: 4 singleton archetype(s)
+   - Quant / Trigonometry & Heights: 4 singleton archetype(s)
+   - GA / Current Affairs & Misc GK: 4 singleton archetype(s)
+   - Reasoning / Number / Alphabet Series: 3 singleton archetype(s)
+   - Quant / Number System: 2 singleton archetype(s)
+   - Quant / Partnership & Share: 2 singleton archetype(s)
+   - Quant / Algebra & Equations: 1 singleton archetype(s)
+   - Quant / Data Interpretation: 1 singleton archetype(s)
+   - Quant / Mensuration: 1 singleton archetype(s)
+   - English / Direct / Indirect Speech: 1 singleton archetype(s)
+   - English / Figure-Based (Image): 1 singleton archetype(s)
+   - English / Reading Comprehension: 1 singleton archetype(s)
+   - English / Synonyms: 1 singleton archetype(s)
+   - Reasoning / Calendar & Clock: 1 singleton archetype(s)
+   - Reasoning / Classification / Odd-One-Out: 1 singleton archetype(s)
+   - Reasoning / Coding-Decoding: 1 singleton archetype(s)
+   - Reasoning / Dictionary & Word Formation: 1 singleton archetype(s)
+   - Reasoning / Direction Sense: 1 singleton archetype(s)
+   - Reasoning / Seating Arrangement: 1 singleton archetype(s)
+
+4. IMAGE-BASED MATERIAL (needs original PDFs)
+   - Quant: 334 image-based rows (L2 Figure-Based node marked, no figure content)
+   - English: 1 image-based rows (L2 Figure-Based node marked, no figure content)
+   - Reasoning: 53 image-based rows (L2 Figure-Based node marked, no figure content)
+   - GA: 14 image-based rows (L2 Figure-Based node marked, no figure content)
+
+5. EXTERNAL PREREQUISITES (general knowledge, EXTERNAL_PREREQUISITE edges)
+   91 external-prerequisite edges from 34 foundational nodes:
+   - E-EXT-COHES: Cohesive devices
+   - E-EXT-POS: Parts of speech
+   - E-EXT-READ: Basic reading comprehension
+   - E-EXT-ROOTS: Word roots, prefixes & suffixes
+   - E-EXT-SENT: Sentence & clause structure
+   - E-EXT-VERB: Verb forms (V1/V2/V3, modals)
+   - G-EXT-MAP: Map literacy
+   - G-EXT-TIMELINE: Timeline literacy
+   - Q-EXT-ALGMANIP: Algebraic manipulation
+   - Q-EXT-AP: Arithmetic progression basics
+   - Q-EXT-ARITH: Arithmetic operations
+   - Q-EXT-BODMAS: BODMAS order of operations
+   - Q-EXT-COORD: Coordinate plane basics
+   - Q-EXT-EQN: Solving linear equations
+   - Q-EXT-FRAC: Fractions & decimals
+   - Q-EXT-GEOBASIC: Basic geometry
+   - Q-EXT-PLACEVAL: Place value & decimals
+   - Q-EXT-POW: Squares, cubes & roots table
+   - Q-EXT-PYTH: Pythagoras theorem
+   - Q-EXT-READ: Reading tables & charts
+   - Q-EXT-TRIGRAT: Standard trigonometric ratios & values
+   - Q-EXT-UNITS: Units & conversions
+   - R-EXT-A1Z26: Alphabet positions (A1Z26)
+   - R-EXT-ARITH: Arithmetic for reasoning patterns
+   - R-EXT-BODMAS: BODMAS evaluation
+   - R-EXT-CALBASIC: Calendar basics
+   - R-EXT-CARD: Cardinal directions & turns
+   - R-EXT-CLOCKFACE: Clock-face basics
+   - R-EXT-CUBENET: Cube nets
+   - R-EXT-PARDIV: Parity & divisibility basics
+   - R-EXT-SPAT: Spatial visualization
+   - R-EXT-STMLOG: Statement-conclusion logic
+   - R-EXT-SUNSHAD: Sun-shadow orientation
+   - R-EXT-VOCAB: General English vocabulary
+
+6. AREAS WITH INSUFFICIENT EVIDENCE FOR DEPENDENCIES
+   - GA recall nodes: only 15 HELPFUL inter-subtopic edges were justified;
+     all other GA ordering is structural (domain order), not conceptual.
+   - English vocabulary lists (synonym/antonym/idiom/spelling word banks):
+     no inter-list dependencies exist in the data; kept independent by design.
+   - Reasoning Misc (207 PYQs): cross-section contamination + situational items;
+     kept visible as unclassified, no fake mechanism assigned.
+   - Quant Misc (50 PYQs): symbol-stripped/garbage rows; kept visible.
+   - Singleton archetypes (section 3): no variation analysis possible.
+   - Difficulty/time fields are heuristics; mastery pacing is indicative only.
+   - Shared micro-skills recur under different subtopics (e.g. uniform-shift in
+     coding vs series, weighted-mean in mixture vs average): kept as separate
+     context-specific nodes rather than merged, so PYQs/traps stay attached.
+
+7. AMBIGUOUS HIERARCHY DECISIONS (logged, not hidden)
+   - L3/L4/L5 are frequently 1:1:1 because Stage 2 Subtopic/Micro/Archetype are
+     near-duplicate facets; levels preserved for structural consistency.
+   - Series parameterized micros (shift values, k/c params) merged to canonical
+     micro nodes; parameter detail retained in L5 archetype rows.
+   - GA L4 = top measured Fact_Types per subtopic (+Other bucket); forms L5,
+     distractors L6 — all measured, nothing invented.
+   - Cycle drops: none — graph acyclic on first check.
+   - Unmatched curated edges: none
+   - Order violations after topo sort: 0 (verified).
+   - Frequency is recorded per node but NEVER drives learning order
+     (topo order uses prerequisite structure only; ties broken deterministically).

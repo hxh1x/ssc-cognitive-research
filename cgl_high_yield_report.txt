@@ -1,0 +1,102 @@
+======================================================================
+SSC CGL TIER-1 - HIGH-YIELD TOPICS REPORT (PYQ NLP ANALYSIS)
+======================================================================
+Dataset: 8800 questions across 88 papers (4 sections).
+Image-based (figure) questions: 402 (4.6%).
+
+--- QUESTIONS PER SECTION ---
+  General Intelligence and Reasoning: 2200
+  General Awareness: 2200
+  Quantitative Aptitude: 2200
+  English Comprehension: 2200
+
+--- READING BURDEN (avg words / question, text rows) ---
+                                    count   mean  median  max
+Section                                                      
+English Comprehension                2199  51.06    21.0  457
+Quantitative Aptitude                1866  29.27    28.0   99
+General Intelligence and Reasoning   2147  29.13    22.0  157
+General Awareness                    2186  15.94    13.5   87
+
+--- TOP 15 SUB-TOPICS OVERALL ---
+   1. Number/Alphabet Series: 570
+   2. Figure-Based (Image): 402
+   3. Other / Mixed: 396
+   4. Fill in the Blanks: 391
+   5. Profit & Loss: 388
+   6. Percentages & Ratio: 354
+   7. Geography: 347
+   8. Indian Polity & Constitution: 340
+   9. Algebra & Equations: 304
+  10. One-Word Substitution: 257
+  11. Coding-Decoding: 251
+  12. Analogy: 225
+  13. Error Detection: 224
+  14. Modern Indian History: 210
+  15. Geometry: 197
+
+--- PARETO VITAL FEW (>=80% coverage) PER SECTION ---
+  [General Intelligence and Reasoning] (81.5% of section in 10 topics):
+    - Number/Alphabet Series
+    - Coding-Decoding
+    - Analogy
+    - Mathematical Operators
+    - Syllogism & Conclusions
+    - Classification / Odd-One-Out
+    - Other / Mixed
+    - Blood Relations
+    - Figure Series / Counting
+    - Figure-Based (Image)
+  [General Awareness] (80.6% of section in 10 topics):
+    - Indian Polity & Constitution
+    - Geography
+    - Other / Mixed
+    - Modern Indian History
+    - Indian Economy
+    - Sports
+    - Art & Culture
+    - Current Affairs & Misc GK
+    - Ancient & Medieval History
+    - Assertion-Reason
+  [Quantitative Aptitude] (84.0% of section in 8 topics):
+    - Profit & Loss
+    - Figure-Based (Image)
+    - Percentages & Ratio
+    - Algebra & Equations
+    - Geometry
+    - Trigonometry
+    - Simple & Compound Interest
+    - Time & Work
+  [English Comprehension] (84.6% of section in 9 topics):
+    - Fill in the Blanks
+    - One-Word Substitution
+    - Error Detection
+    - Idioms & Phrases
+    - Cloze / Passage
+    - Active / Passive Voice
+    - Antonyms
+    - Spellings
+    - Synonyms
+
+--- QUANT NUMERIC PROFILE ---
+  percentage_%: 684
+  currency_₹: 500
+  ratio_colon: 226
+  degrees: 170
+  roots_√: 175
+  fractions: 47
+  large_numbers: 362
+  plain_numbers: 6100
+  Most reused numbers: 5(376), 3(368), 2(309), 4(291), 1(290), 10(272), 6(256), 000(237), 8(228), 12(199)
+
+--- TOP TF-IDF KEYWORDS PER SECTION (data-driven) ---
+  [General Intelligence and Reasoning]: series, replace, numbers, odd, related, figure, coded, means, replace series, operations
+  [General Awareness]: assertion, state, year, associated, constitution, known, dance, national, primarily, states
+  [Quantitative Aptitude]: ratio, simplify, circle, radius, area, years, price, average, length, angle
+  [English Comprehension]: appropriate, blank, appropriate blank, sentence, antonym, appropriate antonym, synonym, appropriate synonym, choose, substitute
+
+--- HOW TO USE THIS (AIR-1 STRATEGY) ---
+  1. Master each section's Pareto vital-few first: they cover ~80% of asked questions.
+  2. Drill the Quant numeric profile (%, ₹, ratios) for calculation speed.
+  3. Budget reading time by the burden table: English stems are longest.
+  4. Figure-Based questions need diagram practice books, not text revision.
