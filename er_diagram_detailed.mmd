@@ -1,0 +1,74 @@
+# ER Diagram - Detailed Schema
+
+```mermaid
+erDiagram
+    CONCEPT {
+        string node_id PK
+        string parent_id FK
+        int level
+        string subject
+        string domain
+        string topic
+        string subtopic
+        string micro_concept
+        string concept_type
+        string prerequisites
+        string unlocks
+        int learning_order
+        int question_count
+    }
+    CONCEPT_DEPENDENCY {
+        string prerequisite_node PK_FK
+        string dependent_node PK_FK
+        string dependency_type
+        string evidence_basis
+        string confidence
+    }
+    QUESTION_PATTERN {
+        string question_id PK
+        int year
+        string shift
+        string subject
+        string topic
+        string subtopic
+        string micro_concept
+        string question_archetype
+        string question_form
+        string difficulty
+        int estimated_time
+        string trap
+        string standard_method
+    }
+    AWARENESS_PATTERN {
+        string question_id PK
+        int year
+        string shift
+        string subject
+        string domain
+        string topic
+        string subtopic
+        string fact_type
+        string question_form
+        string difficulty
+        string static_current
+    }
+    STRUCTURED_QUESTION {
+        string composite_id PK "Paper+Qnum"
+        string paper
+        string source_file
+        string section
+        int question_number
+        text question_text
+        string answer_key
+        boolean is_image_based
+        int question_word_count
+        string sub_topic
+    }
+    CONCEPT ||--o{ CONCEPT : "is_parent_of"
+    CONCEPT ||--o{ CONCEPT_DEPENDENCY : "prerequisite"
+    CONCEPT ||--o{ CONCEPT_DEPENDENCY : "dependent_on"
+    CONCEPT ||--o{ QUESTION_PATTERN : "maps_to"
+    CONCEPT ||--o{ AWARENESS_PATTERN : "maps_to"
+    QUESTION_PATTERN ||--o{ STRUCTURED_QUESTION : "corresponds_to"
+    AWARENESS_PATTERN ||--o{ STRUCTURED_QUESTION : "corresponds_to"
+```

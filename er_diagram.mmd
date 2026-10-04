@@ -1,0 +1,31 @@
+# ER Diagram (Concepts, Questions, Dependencies)
+
+```mermaid
+erDiagram
+    CONCEPT {
+        string node_id PK
+        string subject
+        string concept_type
+        int level
+        int question_count
+    }
+    QUESTION {
+        string question_id PK
+        string subject
+        string topic
+        string micro_concept
+    }
+    TOPIC {
+        string topic_id PK
+        string subject
+        string topic_name
+    }
+    PREREQUISITE {
+        string prereq_id PK
+        string dependency_type
+    }
+    CONCEPT ||--o{ CONCEPT : "has_child"
+    CONCEPT ||--|{ PREREQUISITE : "needs"
+    CONCEPT }|--o{ QUESTION : "assessed_by"
+    QUESTION }o--|| TOPIC : "belongs_to"
+```

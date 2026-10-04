@@ -1,0 +1,398 @@
+
+=== English ===
+  - Active / Passive Voice (6 subtopics)
+      • General voice conversion
+      • Interrogative voice conversion
+      • Modal/future → passive
+      • Passive → active
+      • Past
+      • ... (+1 more)
+  - Antonyms (3 subtopics)
+      • Antonym
+      • General antonym task
+      • Isolated-word antonym
+  - Cloze Passage (2 subtopics)
+      • Cloze grammar blank
+      • Cloze vocabulary blank
+  - Direct / Indirect Speech (4 subtopics)
+      • Reported exclamation
+      • Reported imperative
+      • Reported question
+      • Reported statement
+  - Error Detection (5 subtopics)
+      • Error location
+      • Preposition collocation error
+      • Pronoun / relative-pronoun error
+      • Subject
+      • Tense / time-marker error
+  - Figure-Based (Image) (1 subtopics)
+      • Figure-based
+  - Figures & Unclassified (0 subtopics)
+  - Fill in the Blanks (6 subtopics)
+      • Homonym blank
+      • Single-blank article
+      • Single-blank preposition
+      • Single-blank verb/tense form
+      • Single-blank vocabulary fit
+      • ... (+1 more)
+  - Foundational Prerequisites (0 subtopics)
+  - Grammar Knowledge (0 subtopics)
+  - Homonyms & Vocabulary (3 subtopics)
+      • Correct homonym use
+      • General word-meaning task
+      • Word meaning
+  - Idioms & Phrases (2 subtopics)
+      • Idiom in sentence context
+      • Standalone idiom meaning
+  - One-Word Substitution (3 subtopics)
+      • Definition → single word
+      • General word substitute
+      • Underlined/bracketed-word substitute
+  - Para Jumbles (2 subtopics)
+      • Full ABCD order
+      • S1
+  - Reading & Context Skills (0 subtopics)
+  - Reading Comprehension (8 subtopics)
+      • Author attitude / tone / description
+      • Factual detail retrieval
+      • Factual retrieval from passage
+      • General passage question
+      • Inference from passage
+      • ... (+3 more)
+  - Sentence Improvement (6 subtopics)
+      • Adjective→adverb correction
+      • Agreement correction in context
+      • General sentence correction
+      • No-improvement check
+      • Subjunctive / conditional correction
+      • ... (+1 more)
+  - Sentence Rearrangement (1 subtopics)
+      • P
+  - Spellings (6 subtopics)
+      • Choose correct spelling
+      • Choose correctly-spelled sentence/term
+      • Find/correct misspelt word in sentence
+      • General spelling task
+      • Isolated misspelt-word pick
+      • ... (+1 more)
+  - Synonyms (4 subtopics)
+      • General synonym task
+      • Isolated/bracketed-word synonym
+      • Pick synonym from a sentence
+      • Synonym
+  - Tenses & Grammar (3 subtopics)
+      • Article misuse location
+      • Choose grammatical sentence
+      • General grammar task
+  - Transformation Rules (0 subtopics)
+  - Word Knowledge (Vocabulary) (0 subtopics)
+
+=== GA ===
+  - Ancient History (6 subtopics)
+      • Buddhism & Jainism
+      • General Ancient History
+      • Gupta & Post-Gupta Kingdoms
+      • Indus Valley
+      • Mauryan Age
+      • ... (+1 more)
+  - Art & Culture (4 subtopics)
+      • Classical Dance
+      • Festivals & Fairs
+      • General Art & Culture
+      • Music & Instruments
+  - Art-Culture (0 subtopics)
+  - Awards (5 subtopics)
+      • Civilian Honours (Padma/Bharat Ratna)
+      • Film & Literary Awards
+      • General Awards
+      • International Awards
+      • Sports Awards
+  - Biology (5 subtopics)
+      • Cell & Genetics
+      • Ecology & Diversity
+      • General Biology
+      • Human Body & Health
+      • Plant Physiology
+  - Books (6 subtopics)
+      • Ancient & Classical Texts
+      • Drama
+      • Fiction
+      • General Books & Authors
+      • Memoirs & Biographies
+      • ... (+1 more)
+  - Chemistry (6 subtopics)
+      • Acids, Bases & Salts
+      • Applied Chemistry
+      • Elements, Metals & Alloys
+      • Gases
+      • General Chemistry
+      • ... (+1 more)
+  - Current Affairs & Misc GK (3 subtopics)
+      • Appointments & Office-holders
+      • General Current Affairs & GK
+      • Reports & Indices in News
+  - Current-Affairs-Misc (0 subtopics)
+  - Economy (7 subtopics)
+      • Banking, RBI & Finance
+      • General Economy
+      • Industry, MSME & Reforms
+      • Inflation, Poverty & Food Security
+      • National Income, Budget & Taxation
+      • ... (+2 more)
+  - Figure-Based (Image) (1 subtopics)
+      • Figure-based (needs PDF)
+  - Foundational Prerequisites (0 subtopics)
+  - Geography (6 subtopics)
+      • General Geography
+      • Lakes & Water Bodies
+      • Mountains & Physiography
+      • Rivers & Drainage
+      • Soils, Climate & Vegetation
+      • ... (+1 more)
+  - History-Ancient (0 subtopics)
+  - History-Medieval (0 subtopics)
+  - History-Modern (0 subtopics)
+  - Institutions, Schemes & Reports (6 subtopics)
+      • Bodies & Organisations
+      • General Institutions & Schemes
+      • Government Schemes & Missions
+      • HQ & Founding Facts
+      • Reports, Indices & Surveys
+      • ... (+1 more)
+  - Institutions-Schemes (0 subtopics)
+  - Medieval History (7 subtopics)
+      • Bhakti & Sufi
+      • Delhi Sultanate
+      • General Medieval History
+      • Marathas
+      • Mughals
+      • ... (+2 more)
+  - Modern History (6 subtopics)
+      • British Acts & Land Revenue
+      • Freedom Struggle & Leaders
+      • Gandhian Movements
+      • General Modern History
+      • Revolt of 1857
+      • ... (+1 more)
+  - Physics (7 subtopics)
+      • Electricity & Electronics
+      • General Physics
+      • Heat & Measurement
+      • Magnetism, Modern Physics & Space
+      • Mechanics
+      • ... (+2 more)
+  - Polity (14 subtopics)
+      • Amendments & Landmark Cases
+      • Articles of Constitution
+      • Constitutional & Statutory Bodies
+      • Directive Principles
+      • Elections & Representation
+      • ... (+9 more)
+  - Sports (7 subtopics)
+      • Athletics
+      • Chess, Badminton & Tennis
+      • Combat & Other Sports
+      • Cricket
+      • Football & Hockey
+      • ... (+2 more)
+
+=== Quant ===
+  - Algebra (0 subtopics)
+  - Algebra & Equations (8 subtopics)
+      • Coordinate geometry: line slope / equation
+      • Cube identity a³+b³+c³−3abc
+      • Expression simplification / linear solve
+      • Linear system: parallel / infinite / no solution
+      • Simultaneous linear equations
+      • ... (+3 more)
+  - Average & Age (14 subtopics)
+      • AP-spaced ages
+      • Age multiplier past/future
+      • Average of a divisible-number range
+      • Average of a number set
+      • Average of squares formula
+      • ... (+9 more)
+  - Data Interpretation (2 subtopics)
+      • General chart reading
+      • Read chart/table + compute
+  - Data, Figures & Unclassified (0 subtopics)
+  - Figure-Based (Image) (1 subtopics)
+      • Figure-based
+  - Foundational Prerequisites (0 subtopics)
+  - Foundations of Number (0 subtopics)
+  - Geometry (24 subtopics)
+      • Angle-split equation
+      • Chord of larger touching smaller circle
+      • Circle theorems
+      • Classify triangle by sides
+      • Clock angle
+      • ... (+19 more)
+  - Geometry, Mensuration & Trigonometry (0 subtopics)
+  - Mensuration (15 subtopics)
+      • Centroid area shares
+      • Circle ratio scaling
+      • Circular segment area
+      • Cube/cuboid TSA/volume + melt-recast + space diagonal
+      • Cylinder CSA/volume + rolling paper
+      • ... (+10 more)
+  - Miscellaneous (Quant) (1 subtopics)
+      • Unclassified quant problem
+  - Mixture & Alligation (15 subtopics)
+      • Bulk lots blended: mean price
+      • Compare two mixtures
+      • Dilution / replacement %
+      • Dilution to a target ratio
+      • Drain then add components
+      • ... (+10 more)
+  - Number System (6 subtopics)
+      • Digit puzzle
+      • Divisibility by 8/9/11/99 + digit find
+      • Division algorithm
+      • HCF/LCM / number facts
+      • Perfect-square / divisibility-complement
+      • ... (+1 more)
+  - Partnership & Share (4 subtopics)
+      • Multi-partner firm with mid-term entry
+      • Rental/profit share by usage×time
+      • Staggered entry/exit capital share
+      • Time extraction from capital-profit ratios
+  - Percentages, Ratio & Proportion (20 subtopics)
+      • % of two unknowns
+      • Billing / order-mix equation
+      • Chain ratio join
+      • Coin count from value ratio
+      • Compare % values / ratios
+      • ... (+15 more)
+  - Profit & Loss (24 subtopics)
+      • Bulk buy, staggered sell
+      • Buy-get-free discount scheme
+      • CP-MP-discount-profit link
+      • Chain profit through dealers
+      • Cost build-up then profit%
+      • ... (+19 more)
+  - Ratio, Percentage & Commercial Math (0 subtopics)
+  - Simple & Compound Interest (17 subtopics)
+      • Amount = k× principal in n years
+      • Annual instalment to clear debt
+      • Borrow-invest spread / partial repayment
+      • CI amount/rate/time
+      • Capital + SI profit share
+      • ... (+12 more)
+  - Simplification & Approximation (3 subtopics)
+      • Bracket
+      • Compare/order fractions
+      • Decimal/rounding/number-facts
+  - Time & Work (14 subtopics)
+      • Alternate-day working
+      • Combined work
+      • Efficiency ratio
+      • Fractional work completion %
+      • General work computation
+      • ... (+9 more)
+  - Time, Speed & Distance (15 subtopics)
+      • Average speed multi-leg journey
+      • Boat upstream–downstream
+      • Circular track meeting
+      • Delayed-start chase
+      • Early-late arrival speed-distance
+      • ... (+10 more)
+  - Time, Work, Speed & Interest (0 subtopics)
+  - Trigonometry & Heights (14 subtopics)
+      • Angle where sin = cos
+      • Co-terminal angles & radian conversion
+      • Complementary / homogeneous trig
+      • Complementary equation solve
+      • Double-angle chain
+      • ... (+9 more)
+
+=== Reasoning ===
+  - Analogy (5 subtopics)
+      • General analogy
+      • Letter/term analogy
+      • Number analogy
+      • Set/triad analogy
+      • Word analogy
+  - Applied & Procedural Reasoning (0 subtopics)
+  - Attention to Detail (1 subtopics)
+      • Exact string/address match
+  - Blood Relations (3 subtopics)
+      • Chained relation
+      • Coded relation
+      • Direct relation
+  - Calendar & Clock (3 subtopics)
+      • Calendar / day-date
+      • Clock hands / angle
+      • General calendar/clock
+  - Classification / Odd-One-Out (5 subtopics)
+      • Bare odd-one-out
+      • General odd-one-out
+      • Group-of-four odd-out
+      • Letter-cluster classification
+      • Number-based classification
+  - Coding-Decoding (6 subtopics)
+      • Alphanumeric / position-sum coding
+      • General code transform
+      • Letter transform
+      • Letter-shift transform
+      • Matrix / code-table coding
+      • ... (+1 more)
+  - Dice & Cubes (2 subtopics)
+      • General dice/cube
+      • Standard dice opposite-face
+  - Dictionary & Word Formation (4 subtopics)
+      • Alphabet-position gap count
+      • Dictionary order
+      • General order/formation
+      • Meaningful-word formation
+  - Direction Sense (3 subtopics)
+      • General direction-distance
+      • Shadow-based direction
+      • Turn-and-distance path
+  - Embedded / Completion / Counting (4 subtopics)
+      • Count geometric figures
+      • Embedded
+      • Figure completion
+      • General figure task
+  - Figure Series (1 subtopics)
+      • Figure series completion
+  - Figure-Based (Image) (1 subtopics)
+      • Figure task
+  - Foundational Prerequisites (0 subtopics)
+  - Language-Based Logic (0 subtopics)
+  - Mathematical Operators (7 subtopics)
+      • Custom-operator substitution
+      • Fill-*-with-operators
+      • General operator fill
+      • Grid/matrix number pattern
+      • Odd operation-pair out
+      • ... (+2 more)
+  - Mirror / Water Images (2 subtopics)
+      • General image flip
+      • Mirror image
+  - Miscellaneous (Reasoning) (1 subtopics)
+      • Unclassified reasoning item
+  - Number / Alphabet Series (15 subtopics)
+      • Additive
+      • Alphabet-position series
+      • Alternating
+      • Alternating alphabet pattern
+      • Constant-difference series
+      • ... (+10 more)
+  - Paper Folding & Cutting (1 subtopics)
+      • Fold-punch-unfold trace
+  - Ranking & Order (1 subtopics)
+      • Rank / position in row
+  - Seating Arrangement (2 subtopics)
+      • Circular arrangement
+      • General arrangement
+  - Series, Analogy & Classification (0 subtopics)
+  - Spatial & Visual Reasoning (0 subtopics)
+  - Syllogism & Conclusions (6 subtopics)
+      • Argument / course-of-action
+      • General syllogism task
+      • Single-statement conclusion
+      • Standard syllogism
+      • Statement
+      • ... (+1 more)
+  - Venn Diagram (1 subtopics)
+      • Venn class diagram

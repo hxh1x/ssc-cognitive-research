@@ -1,0 +1,13924 @@
+# SSC CGL Full Hierarchy Mind Map
+
+## E (English)
+
+  - **E-D-FIGURES-UNCLAS** (English/DERIVED, L1, ord:2, q:0)
+    - Domain: Figures & Unclassified
+    - **E-T-FIGURE-BASED-I** (English/DERIVED, L2, ord:29, q:1)
+      - Topic: Figure-Based (Image)
+      - Domain: Figures & Unclassified
+      - **E-S-FIGURE-BAS-FIGURE-BASED** (English/DERIVED, L3, ord:92, q:1)
+        - Topic: Figure-Based (Image)
+        - Subtopic: Figure-based
+        - **E-M-FIGURE-B-FIGURE-BAS-VISUAL** (English/DERIVED, L4, ord:157, q:1)
+          - Topic: Figure-Based (Image)
+          - Subtopic: Figure-based
+          - Micro: visual
+          - **E-A-FIGURE-BASED-NEE** (English/PROCEDURAL, L5, ord:223, q:1)
+            - Topic: Figure-Based (Image)
+            - Subtopic: Figure-based
+            - Micro: visual
+            - **E-V-FIGURE-BASED-M** (English/DERIVED, L6, ord:310, q:0)
+              - Topic: Figure-Based (Image)
+              - Subtopic: Figure-based
+              - Micro: Method route
+  - **E-D-GRAMMAR-KNOWLE** (English/DERIVED, L1, ord:3, q:0)
+    - Domain: Grammar Knowledge
+    - **E-T-SENTENCE-IMPRO** (English/DERIVED, L2, ord:14, q:207)
+      - Topic: Sentence Improvement
+      - Domain: Grammar Knowledge
+      - **E-S-SENTENCE-I-AGREEMENT-CO** (English/DERIVED, L3, ord:42, q:34)
+        - Topic: Sentence Improvement
+        - Subtopic: Agreement correction in context
+        - **E-M-SENTENCE-AGREEMENT--SVA-IN-SEN** (English/DERIVED, L4, ord:117, q:34)
+          - Topic: Sentence Improvement
+          - Subtopic: Agreement correction in context
+          - Micro: SVA in sentence
+          - **E-A-AGREEMENT-CORREC** (English/PROCEDURAL, L5, ord:181, q:34)
+            - Topic: Sentence Improvement
+            - Subtopic: Agreement correction in context
+            - Micro: SVA in sentence
+            - **E-V-AGREEMENT-CO-T0** (English/DERIVED, L6, ord:248, q:34)
+              - Topic: Sentence Improvement
+              - Subtopic: Agreement correction in context
+              - Micro: Trap: Nearest noun
+            - **E-V-AGREEMENT-CO-M** (English/DERIVED, L6, ord:294, q:0)
+              - Topic: Sentence Improvement
+              - Subtopic: Agreement correction in context
+              - Micro: Method route
+      - **E-S-SENTENCE-I-NO-IMPROVEME** (English/DERIVED, L3, ord:71, q:6)
+        - Topic: Sentence Improvement
+        - Subtopic: No-improvement check
+        - **E-M-SENTENCE-NO-IMPROVE-VERIFY-COR** (English/DERIVED, L4, ord:137, q:6)
+          - Topic: Sentence Improvement
+          - Subtopic: No-improvement check
+          - Micro: verify correctness
+          - **E-A-NO-IMPROVEMENT-C** (English/PROCEDURAL, L5, ord:203, q:6)
+            - Topic: Sentence Improvement
+            - Subtopic: No-improvement check
+            - Micro: verify correctness
+            - **E-V-NO-IMPROVEME-T0** (English/DERIVED, L6, ord:270, q:6)
+              - Topic: Sentence Improvement
+              - Subtopic: No-improvement check
+              - Micro: Trap: Forced change
+            - **E-V-NO-IMPROVEME-M** (English/DERIVED, L6, ord:331, q:0)
+              - Topic: Sentence Improvement
+              - Subtopic: No-improvement check
+              - Micro: Method route
+      - **E-S-SENTENCE-I-ADJECTIVEADV** (English/DERIVED, L3, ord:72, q:5)
+        - Topic: Sentence Improvement
+        - Subtopic: Adjective→adverb correction
+        - **E-M-SENTENCE-ADJECTIVEA-MANNER-ADV** (English/DERIVED, L4, ord:138, q:5)
+          - Topic: Sentence Improvement
+          - Subtopic: Adjective→adverb correction
+          - Micro: manner adverbs
+          - **E-A-ADJECTIVEADVERB-** (English/PROCEDURAL, L5, ord:204, q:5)
+            - Topic: Sentence Improvement
+            - Subtopic: Adjective→adverb correction
+            - Micro: manner adverbs
+            - **E-V-ADJECTIVEADV-T0** (English/DERIVED, L6, ord:271, q:5)
+              - Topic: Sentence Improvement
+              - Subtopic: Adjective→adverb correction
+              - Micro: Trap: Adjective kept
+            - **E-V-ADJECTIVEADV-M** (English/DERIVED, L6, ord:293, q:0)
+              - Topic: Sentence Improvement
+              - Subtopic: Adjective→adverb correction
+              - Micro: Method route
+      - **E-S-SENTENCE-I-GENERAL-SENT** (English/DERIVED, L3, ord:82, q:157)
+        - Topic: Sentence Improvement
+        - Subtopic: General sentence correction
+        - **E-M-SENTENCE-GENERAL-SE-GRAMMAR-ST** (English/DERIVED, L4, ord:97, q:157)
+          - Topic: Sentence Improvement
+          - Subtopic: General sentence correction
+          - Micro: grammar + style
+          - **E-A-GENERAL-SENTENCE** (English/DERIVED, L5, ord:162, q:157)
+            - Topic: Sentence Improvement
+            - Subtopic: General sentence correction
+            - Micro: grammar + style
+            - **E-V-GENERAL-SENT-T0** (English/DERIVED, L6, ord:229, q:157)
+              - Topic: Sentence Improvement
+              - Subtopic: General sentence correction
+              - Micro: Trap: Sound-only pick
+            - **E-V-GENERAL-SENT-M** (English/DERIVED, L6, ord:316, q:0)
+              - Topic: Sentence Improvement
+              - Subtopic: General sentence correction
+              - Micro: Method route
+      - **E-S-SENTENCE-I-TENSE-SEQUEN** (English/DERIVED, L3, ord:88, q:2)
+        - Topic: Sentence Improvement
+        - Subtopic: Tense-sequence correction
+        - **E-M-SENTENCE-TENSE-SEQU-SEQUENCE-O** (English/DERIVED, L4, ord:154, q:2)
+          - Topic: Sentence Improvement
+          - Subtopic: Tense-sequence correction
+          - Micro: sequence of tenses
+          - **E-A-TENSE-SEQUENCE-C** (English/PROCEDURAL, L5, ord:222, q:2)
+            - Topic: Sentence Improvement
+            - Subtopic: Tense-sequence correction
+            - Micro: sequence of tenses
+            - **E-V-TENSE-SEQUEN-T0** (English/DERIVED, L6, ord:289, q:2)
+              - Topic: Sentence Improvement
+              - Subtopic: Tense-sequence correction
+              - Micro: Trap: Keeping will
+            - **E-V-TENSE-SEQUEN-M** (English/DERIVED, L6, ord:355, q:0)
+              - Topic: Sentence Improvement
+              - Subtopic: Tense-sequence correction
+              - Micro: Method route
+      - **E-S-SENTENCE-I-SUBJUNCTIVE-** (English/DERIVED, L3, ord:89, q:3)
+        - Topic: Sentence Improvement
+        - Subtopic: Subjunctive / conditional correction
+        - **E-M-SENTENCE-SUBJUNCTIV-UNREAL-PAS** (English/DERIVED, L4, ord:147, q:3)
+          - Topic: Sentence Improvement
+          - Subtopic: Subjunctive / conditional correction
+          - Micro: unreal past
+          - **E-A-SUBJUNCTIVE-COND** (English/PROCEDURAL, L5, ord:217, q:3)
+            - Topic: Sentence Improvement
+            - Subtopic: Subjunctive / conditional correction
+            - Micro: unreal past
+            - **E-V-SUBJUNCTIVE--T0** (English/DERIVED, L6, ord:284, q:3)
+              - Topic: Sentence Improvement
+              - Subtopic: Subjunctive / conditional correction
+              - Micro: Trap: Keeping was
+            - **E-V-SUBJUNCTIVE--M** (English/DERIVED, L6, ord:353, q:0)
+              - Topic: Sentence Improvement
+              - Subtopic: Subjunctive / conditional correction
+              - Micro: Method route
+    - **E-T-ERROR-DETECTIO** (English/DERIVED, L2, ord:20, q:150)
+      - Topic: Error Detection
+      - Domain: Grammar Knowledge
+      - **E-S-ERROR-DETE-PRONOUN-RELA** (English/DERIVED, L3, ord:35, q:42)
+        - Topic: Error Detection
+        - Subtopic: Pronoun / relative-pronoun error
+        - **E-M-ERROR-DE-PRONOUN-RE-ANTECEDENT** (English/DERIVED, L4, ord:112, q:42)
+          - Topic: Error Detection
+          - Subtopic: Pronoun / relative-pronoun error
+          - Micro: antecedent match
+          - **E-A-PRONOUN-RELATIVE** (English/PROCEDURAL, L5, ord:176, q:42)
+            - Topic: Error Detection
+            - Subtopic: Pronoun / relative-pronoun error
+            - Micro: antecedent match
+            - **E-V-PRONOUN-RELA-T0** (English/DERIVED, L6, ord:243, q:42)
+              - Topic: Error Detection
+              - Subtopic: Pronoun / relative-pronoun error
+              - Micro: Trap: Skipping antecedent
+            - **E-V-PRONOUN-RELA-M** (English/DERIVED, L6, ord:338, q:0)
+              - Topic: Error Detection
+              - Subtopic: Pronoun / relative-pronoun error
+              - Micro: Method route
+      - **E-S-ERROR-DETE-SUBJECT** (English/DERIVED, L3, ord:37, q:36)
+        - Topic: Error Detection
+        - Subtopic: Subject
+        - **E-M-ERROR-DE-SUBJECT-AGREEMENT-** (English/DERIVED, L4, ord:116, q:36)
+          - Topic: Error Detection
+          - Subtopic: Subject
+          - Micro: agreement triggers
+          - **E-A-SUBJECTVERB-AGRE** (English/PROCEDURAL, L5, ord:180, q:36)
+            - Topic: Error Detection
+            - Subtopic: Subject
+            - Micro: agreement triggers
+            - **E-V-SUBJECTVERB--T0** (English/DERIVED, L6, ord:247, q:36)
+              - Topic: Error Detection
+              - Subtopic: Subject
+              - Micro: Trap: Nearest-noun agreement
+            - **E-V-SUBJECTVERB--M** (English/DERIVED, L6, ord:352, q:0)
+              - Topic: Error Detection
+              - Subtopic: Subject
+              - Micro: Method route
+      - **E-S-ERROR-DETE-TENSE-TIME-M** (English/DERIVED, L3, ord:38, q:65)
+        - Topic: Error Detection
+        - Subtopic: Tense / time-marker error
+        - **E-M-ERROR-DE-TENSE-TIME-TENSE-CONS** (English/DERIVED, L4, ord:105, q:65)
+          - Topic: Error Detection
+          - Subtopic: Tense / time-marker error
+          - Micro: tense consistency
+          - **E-A-TENSE-TIME-MARKE** (English/PROCEDURAL, L5, ord:170, q:65)
+            - Topic: Error Detection
+            - Subtopic: Tense / time-marker error
+            - Micro: tense consistency
+            - **E-V-TENSE-TIME-M-T0** (English/DERIVED, L6, ord:237, q:65)
+              - Topic: Error Detection
+              - Subtopic: Tense / time-marker error
+              - Micro: Trap: Default present tense
+            - **E-V-TENSE-TIME-M-M** (English/DERIVED, L6, ord:356, q:0)
+              - Topic: Error Detection
+              - Subtopic: Tense / time-marker error
+              - Micro: Method route
+      - **E-S-ERROR-DETE-PREPOSITION-** (English/DERIVED, L3, ord:75, q:4)
+        - Topic: Error Detection
+        - Subtopic: Preposition collocation error
+        - **E-M-ERROR-DE-PREPOSITIO-FIXED-COLL** (English/DERIVED, L4, ord:141, q:4)
+          - Topic: Error Detection
+          - Subtopic: Preposition collocation error
+          - Micro: fixed collocations
+          - **E-A-PREPOSITION-COLL** (English/PROCEDURAL, L5, ord:208, q:4)
+            - Topic: Error Detection
+            - Subtopic: Preposition collocation error
+            - Micro: fixed collocations
+            - **E-V-PREPOSITION--T0** (English/DERIVED, L6, ord:275, q:4)
+              - Topic: Error Detection
+              - Subtopic: Preposition collocation error
+              - Micro: Trap: Literal translation
+            - **E-V-PREPOSITION--M** (English/DERIVED, L6, ord:337, q:0)
+              - Topic: Error Detection
+              - Subtopic: Preposition collocation error
+              - Micro: Method route
+      - **E-S-ERROR-DETE-ERROR-LOCATI** (English/DERIVED, L3, ord:84, q:3)
+        - Topic: Error Detection
+        - Subtopic: Error location
+        - **E-M-ERROR-DE-ERROR-LOCA-ERROR-INVE** (English/DERIVED, L4, ord:146, q:3)
+          - Topic: Error Detection
+          - Subtopic: Error location
+          - Micro: error inventory
+          - **E-A-ERROR-LOCATION-M** (English/COMBINATIONAL, L5, ord:215, q:3)
+            - Topic: Error Detection
+            - Subtopic: Error location
+            - Micro: error inventory
+            - **E-V-ERROR-LOCATI-T0** (English/DERIVED, L6, ord:282, q:3)
+              - Topic: Error Detection
+              - Subtopic: Error location
+              - Micro: Trap: Reading for meaning
+            - **E-V-ERROR-LOCATI-M** (English/DERIVED, L6, ord:307, q:0)
+              - Topic: Error Detection
+              - Subtopic: Error location
+              - Micro: Method route
+    - **E-T-TENSES-GRAMMAR** (English/DERIVED, L2, ord:27, q:8)
+      - Topic: Tenses & Grammar
+      - Domain: Grammar Knowledge
+      - **E-S-TENSES-GRA-ARTICLE-MISU** (English/DERIVED, L3, ord:81, q:3)
+        - Topic: Tenses & Grammar
+        - Subtopic: Article misuse location
+        - **E-M-TENSES-G-ARTICLE-MI-ARTICLE-RU** (English/DERIVED, L4, ord:150, q:3)
+          - Topic: Tenses & Grammar
+          - Subtopic: Article misuse location
+          - Micro: article rules
+          - **E-A-ARTICLE-MISUSE-L** (English/PROCEDURAL, L5, ord:212, q:3)
+            - Topic: Tenses & Grammar
+            - Subtopic: Article misuse location
+            - Micro: article rules
+            - **E-V-ARTICLE-MISU-T0** (English/DERIVED, L6, ord:279, q:3)
+              - Topic: Tenses & Grammar
+              - Subtopic: Article misuse location
+              - Micro: Trap: Skipping articles
+            - **E-V-ARTICLE-MISU-M** (English/DERIVED, L6, ord:296, q:0)
+              - Topic: Tenses & Grammar
+              - Subtopic: Article misuse location
+              - Micro: Method route
+      - **E-S-TENSES-GRA-CHOOSE-GRAMM** (English/DERIVED, L3, ord:85, q:3)
+        - Topic: Tenses & Grammar
+        - Subtopic: Choose grammatical sentence
+        - **E-M-TENSES-G-CHOOSE-GRA-ERROR-SPOT** (English/DERIVED, L4, ord:151, q:3)
+          - Topic: Tenses & Grammar
+          - Subtopic: Choose grammatical sentence
+          - Micro: error spotting ×4
+          - **E-A-CHOOSE-GRAMMATIC** (English/PROCEDURAL, L5, ord:214, q:3)
+            - Topic: Tenses & Grammar
+            - Subtopic: Choose grammatical sentence
+            - Micro: error spotting ×4
+            - **E-V-CHOOSE-GRAMM-T0** (English/DERIVED, L6, ord:281, q:3)
+              - Topic: Tenses & Grammar
+              - Subtopic: Choose grammatical sentence
+              - Micro: Trap: Reading for meaning
+            - **E-V-CHOOSE-GRAMM-M** (English/DERIVED, L6, ord:300, q:0)
+              - Topic: Tenses & Grammar
+              - Subtopic: Choose grammatical sentence
+              - Micro: Method route
+      - **E-S-TENSES-GRA-GENERAL-GRAM** (English/DERIVED, L3, ord:90, q:2)
+        - Topic: Tenses & Grammar
+        - Subtopic: General grammar task
+        - **E-M-TENSES-G-GENERAL-GR-GRAMMAR-RU** (English/DERIVED, L4, ord:155, q:2)
+          - Topic: Tenses & Grammar
+          - Subtopic: General grammar task
+          - Micro: grammar rules
+          - **E-A-GENERAL-GRAMMAR-** (English/DERIVED, L5, ord:219, q:2)
+            - Topic: Tenses & Grammar
+            - Subtopic: General grammar task
+            - Micro: grammar rules
+            - **E-V-GENERAL-GRAM-T0** (English/DERIVED, L6, ord:286, q:2)
+              - Topic: Tenses & Grammar
+              - Subtopic: General grammar task
+              - Micro: Trap: Meaning reading
+            - **E-V-GENERAL-GRAM-M** (English/DERIVED, L6, ord:314, q:0)
+              - Topic: Tenses & Grammar
+              - Subtopic: General grammar task
+              - Micro: Method route
+  - **E-D-READING-CONTEX** (English/DERIVED, L1, ord:4, q:0)
+    - Domain: Reading & Context Skills
+    - **E-T-CLOZE-PASSAGE** (English/DERIVED, L2, ord:13, q:262)
+      - Topic: Cloze Passage
+      - Domain: Reading & Context Skills
+      - **E-S-CLOZE-PASS-CLOZE-VOCABU** (English/DERIVED, L3, ord:31, q:212)
+        - Topic: Cloze Passage
+        - Subtopic: Cloze vocabulary blank
+        - **E-M-CLOZE-PA-CLOZE-VOCA-PASSAGE-CO** (English/RECALL, L4, ord:95, q:212)
+          - Topic: Cloze Passage
+          - Subtopic: Cloze vocabulary blank
+          - Micro: passage coherence + semantics
+          - **E-A-CLOZE-VOCABULARY** (English/RECALL, L5, ord:160, q:212)
+            - Topic: Cloze Passage
+            - Subtopic: Cloze vocabulary blank
+            - Micro: passage coherence + semantics
+            - **E-V-CLOZE-VOCABU-T0** (English/DERIVED, L6, ord:227, q:212)
+              - Topic: Cloze Passage
+              - Subtopic: Cloze vocabulary blank
+              - Micro: Trap: Isolated choice
+            - **E-V-CLOZE-VOCABU-M** (English/DERIVED, L6, ord:304, q:0)
+              - Topic: Cloze Passage
+              - Subtopic: Cloze vocabulary blank
+              - Micro: Method route
+      - **E-S-CLOZE-PASS-CLOZE-GRAMMA** (English/DERIVED, L3, ord:50, q:50)
+        - Topic: Cloze Passage
+        - Subtopic: Cloze grammar blank
+        - **E-M-CLOZE-PA-CLOZE-GRAM-PASSAGE-CO** (English/DERIVED, L4, ord:108, q:50)
+          - Topic: Cloze Passage
+          - Subtopic: Cloze grammar blank
+          - Micro: passage coherence + grammar
+          - **E-A-CLOZE-GRAMMAR-BL** (English/PROCEDURAL, L5, ord:182, q:32)
+            - Topic: Cloze Passage
+            - Subtopic: Cloze grammar blank
+            - Micro: passage coherence + grammar
+            - **E-V-CLOZE-GRAMMA-T0** (English/DERIVED, L6, ord:249, q:32)
+              - Topic: Cloze Passage
+              - Subtopic: Cloze grammar blank
+              - Micro: Trap: Isolated choice
+            - **E-V-CLOZE-GRAMMA-M** (English/DERIVED, L6, ord:301, q:0)
+              - Topic: Cloze Passage
+              - Subtopic: Cloze grammar blank
+              - Micro: Method route
+          - **E-A-CLOZE-GRAMMAR-BL-2** (English/PROCEDURAL, L5, ord:195, q:16)
+            - Topic: Cloze Passage
+            - Subtopic: Cloze grammar blank
+            - Micro: passage coherence + grammar
+            - **E-V-CLOZE-GRAMMA-T0-2** (English/DERIVED, L6, ord:262, q:16)
+              - Topic: Cloze Passage
+              - Subtopic: Cloze grammar blank
+              - Micro: Trap: Isolated choice
+            - **E-V-CLOZE-GRAMMA-M-2** (English/DERIVED, L6, ord:302, q:0)
+              - Topic: Cloze Passage
+              - Subtopic: Cloze grammar blank
+              - Micro: Method route
+          - **E-A-CLOZE-GRAMMAR-BL-3** (English/PROCEDURAL, L5, ord:218, q:2)
+            - Topic: Cloze Passage
+            - Subtopic: Cloze grammar blank
+            - Micro: passage coherence + grammar
+            - **E-V-CLOZE-GRAMMA-T0-3** (English/DERIVED, L6, ord:285, q:2)
+              - Topic: Cloze Passage
+              - Subtopic: Cloze grammar blank
+              - Micro: Trap: Isolated choice
+            - **E-V-CLOZE-GRAMMA-M-3** (English/DERIVED, L6, ord:303, q:0)
+              - Topic: Cloze Passage
+              - Subtopic: Cloze grammar blank
+              - Micro: Method route
+    - **E-T-READING-COMPRE** (English/DERIVED, L2, ord:16, q:178)
+      - Topic: Reading Comprehension
+      - Domain: Reading & Context Skills
+      - **E-S-READING-CO-FACTUAL-RETR** (English/DERIVED, L3, ord:33, q:51)
+        - Topic: Reading Comprehension
+        - Subtopic: Factual retrieval from passage
+        - **E-M-READING--FACTUAL-RE-LOCATE-AND** (English/DERIVED, L4, ord:107, q:51)
+          - Topic: Reading Comprehension
+          - Subtopic: Factual retrieval from passage
+          - Micro: locate-and-match
+          - **E-A-FACTUAL-RETRIEVA** (English/PROCEDURAL, L5, ord:172, q:51)
+            - Topic: Reading Comprehension
+            - Subtopic: Factual retrieval from passage
+            - Micro: locate-and-match
+            - **E-V-FACTUAL-RETR-T0** (English/DERIVED, L6, ord:239, q:51)
+              - Topic: Reading Comprehension
+              - Subtopic: Factual retrieval from passage
+              - Micro: Trap: Outside knowledge
+            - **E-V-FACTUAL-RETR-M** (English/DERIVED, L6, ord:309, q:0)
+              - Topic: Reading Comprehension
+              - Subtopic: Factual retrieval from passage
+              - Micro: Method route
+      - **E-S-READING-CO-REASON-CAUSE** (English/DERIVED, L3, ord:51, q:13)
+        - Topic: Reading Comprehension
+        - Subtopic: Reason/cause-effect inference
+        - **E-M-READING--REASON-CAU-WHY-HOW-LI** (English/DERIVED, L4, ord:131, q:13)
+          - Topic: Reading Comprehension
+          - Subtopic: Reason/cause-effect inference
+          - Micro: why/how linkage
+          - **E-A-REASON-CAUSE-EFF** (English/PROCEDURAL, L5, ord:197, q:13)
+            - Topic: Reading Comprehension
+            - Subtopic: Reason/cause-effect inference
+            - Micro: why/how linkage
+            - **E-V-REASON-CAUSE-T0** (English/DERIVED, L6, ord:264, q:13)
+              - Topic: Reading Comprehension
+              - Subtopic: Reason/cause-effect inference
+              - Micro: Trap: Single-sentence answer
+            - **E-V-REASON-CAUSE-M** (English/DERIVED, L6, ord:339, q:0)
+              - Topic: Reading Comprehension
+              - Subtopic: Reason/cause-effect inference
+              - Micro: Method route
+      - **E-S-READING-CO-INFERENCE-FR** (English/DERIVED, L3, ord:52, q:20)
+        - Topic: Reading Comprehension
+        - Subtopic: Inference from passage
+        - **E-M-READING--INFERENCE--READ-BETWE** (English/DERIVED, L4, ord:125, q:20)
+          - Topic: Reading Comprehension
+          - Subtopic: Inference from passage
+          - Micro: read-between-lines
+          - **E-A-INFERENCE-FROM-P** (English/PROCEDURAL, L5, ord:190, q:20)
+            - Topic: Reading Comprehension
+            - Subtopic: Inference from passage
+            - Micro: read-between-lines
+            - **E-V-INFERENCE-FR-T0** (English/DERIVED, L6, ord:257, q:20)
+              - Topic: Reading Comprehension
+              - Subtopic: Inference from passage
+              - Micro: Trap: Over-inference
+            - **E-V-INFERENCE-FR-M** (English/DERIVED, L6, ord:324, q:0)
+              - Topic: Reading Comprehension
+              - Subtopic: Inference from passage
+              - Micro: Method route
+      - **E-S-READING-CO-MAIN-IDEA-TI** (English/DERIVED, L3, ord:53, q:18)
+        - Topic: Reading Comprehension
+        - Subtopic: Main idea / title
+        - **E-M-READING--MAIN-IDEA--WHOLE-PASS** (English/DERIVED, L4, ord:128, q:18)
+          - Topic: Reading Comprehension
+          - Subtopic: Main idea / title
+          - Micro: whole-passage gist
+          - **E-A-MAIN-IDEA-TITLE** (English/PROCEDURAL, L5, ord:193, q:18)
+            - Topic: Reading Comprehension
+            - Subtopic: Main idea / title
+            - Micro: whole-passage gist
+            - **E-V-MAIN-IDEA-TI-T0** (English/DERIVED, L6, ord:260, q:18)
+              - Topic: Reading Comprehension
+              - Subtopic: Main idea / title
+              - Micro: Trap: Detail as answer
+            - **E-V-MAIN-IDEA-TI-M** (English/DERIVED, L6, ord:329, q:0)
+              - Topic: Reading Comprehension
+              - Subtopic: Main idea / title
+              - Micro: Method route
+      - **E-S-READING-CO-VOCABULARY-I** (English/DERIVED, L3, ord:65, q:41)
+        - Topic: Reading Comprehension
+        - Subtopic: Vocabulary-in-passage
+        - **E-M-READING--VOCABULARY-CONTEXTUAL** (English/RECALL, L4, ord:113, q:41)
+          - Topic: Reading Comprehension
+          - Subtopic: Vocabulary-in-passage
+          - Micro: contextual meaning
+          - **E-A-VOCABULARY-IN-PA** (English/RECALL, L5, ord:177, q:41)
+            - Topic: Reading Comprehension
+            - Subtopic: Vocabulary-in-passage
+            - Micro: contextual meaning
+            - **E-V-VOCABULARY-I-T0** (English/DERIVED, L6, ord:244, q:41)
+              - Topic: Reading Comprehension
+              - Subtopic: Vocabulary-in-passage
+              - Micro: Trap: Dictionary-first meaning
+            - **E-V-VOCABULARY-I-M** (English/DERIVED, L6, ord:358, q:0)
+              - Topic: Reading Comprehension
+              - Subtopic: Vocabulary-in-passage
+              - Micro: Method route
+      - **E-S-READING-CO-AUTHOR-ATTIT** (English/DERIVED, L3, ord:67, q:26)
+        - Topic: Reading Comprehension
+        - Subtopic: Author attitude / tone / description
+        - **E-M-READING--AUTHOR-ATT-TONE-DETEC** (English/DERIVED, L4, ord:120, q:26)
+          - Topic: Reading Comprehension
+          - Subtopic: Author attitude / tone / description
+          - Micro: tone detection
+          - **E-A-AUTHOR-ATTITUDE-** (English/PROCEDURAL, L5, ord:185, q:26)
+            - Topic: Reading Comprehension
+            - Subtopic: Author attitude / tone / description
+            - Micro: tone detection
+            - **E-V-AUTHOR-ATTIT-T0** (English/DERIVED, L6, ord:252, q:26)
+              - Topic: Reading Comprehension
+              - Subtopic: Author attitude / tone / description
+              - Micro: Trap: Single-word evidence
+            - **E-V-AUTHOR-ATTIT-M** (English/DERIVED, L6, ord:297, q:0)
+              - Topic: Reading Comprehension
+              - Subtopic: Author attitude / tone / description
+              - Micro: Method route
+      - **E-S-READING-CO-FACTUAL-DETA** (English/DERIVED, L3, ord:70, q:8)
+        - Topic: Reading Comprehension
+        - Subtopic: Factual detail retrieval
+        - **E-M-READING--FACTUAL-DE-LOCATE-AND** (English/DERIVED, L4, ord:136, q:8)
+          - Topic: Reading Comprehension
+          - Subtopic: Factual detail retrieval
+          - Micro: locate-and-match
+          - **E-A-FACTUAL-DETAIL-R** (English/PROCEDURAL, L5, ord:202, q:8)
+            - Topic: Reading Comprehension
+            - Subtopic: Factual detail retrieval
+            - Micro: locate-and-match
+            - **E-V-FACTUAL-DETA-T0** (English/DERIVED, L6, ord:269, q:8)
+              - Topic: Reading Comprehension
+              - Subtopic: Factual detail retrieval
+              - Micro: Trap: Outside knowledge
+            - **E-V-FACTUAL-DETA-M** (English/DERIVED, L6, ord:308, q:0)
+              - Topic: Reading Comprehension
+              - Subtopic: Factual detail retrieval
+              - Micro: Method route
+      - **E-S-READING-CO-GENERAL-PASS** (English/DERIVED, L3, ord:93, q:1)
+        - Topic: Reading Comprehension
+        - Subtopic: General passage question
+        - **E-M-READING--GENERAL-PA-PASSAGE-EV** (English/DERIVED, L4, ord:158, q:1)
+          - Topic: Reading Comprehension
+          - Subtopic: General passage question
+          - Micro: passage evidence
+          - **E-A-GENERAL-PASSAGE-** (English/DERIVED, L5, ord:224, q:1)
+            - Topic: Reading Comprehension
+            - Subtopic: General passage question
+            - Micro: passage evidence
+            - **E-V-GENERAL-PASS-T0** (English/DERIVED, L6, ord:290, q:1)
+              - Topic: Reading Comprehension
+              - Subtopic: General passage question
+              - Micro: Trap: Memory answering
+            - **E-V-GENERAL-PASS-M** (English/DERIVED, L6, ord:315, q:0)
+              - Topic: Reading Comprehension
+              - Subtopic: General passage question
+              - Micro: Method route
+    - **E-T-PARA-JUMBLES** (English/DERIVED, L2, ord:18, q:168)
+      - Topic: Para Jumbles
+      - Domain: Reading & Context Skills
+      - **E-S-PARA-JUMBL-FULL-ABCD-OR** (English/DERIVED, L3, ord:34, q:166)
+        - Topic: Para Jumbles
+        - Subtopic: Full ABCD order
+        - **E-M-PARA-JUM-FULL-ABCD--SEQUENCE-L** (English/DERIVED, L4, ord:96, q:166)
+          - Topic: Para Jumbles
+          - Subtopic: Full ABCD order
+          - Micro: sequence logic
+          - **E-A-FULL-ABCD-ORDER-** (English/PROCEDURAL, L5, ord:161, q:166)
+            - Topic: Para Jumbles
+            - Subtopic: Full ABCD order
+            - Micro: sequence logic
+            - **E-V-FULL-ABCD-OR-T0** (English/DERIVED, L6, ord:228, q:166)
+              - Topic: Para Jumbles
+              - Subtopic: Full ABCD order
+              - Micro: Trap: Chronology assumption
+            - **E-V-FULL-ABCD-OR-M** (English/DERIVED, L6, ord:312, q:0)
+              - Topic: Para Jumbles
+              - Subtopic: Full ABCD order
+              - Micro: Method route
+      - **E-S-PARA-JUMBL-S1** (English/DERIVED, L3, ord:87, q:2)
+        - Topic: Para Jumbles
+        - Subtopic: S1
+        - **E-M-PARA-JUM-S1-FIXED-ENDS** (English/DERIVED, L4, ord:153, q:2)
+          - Topic: Para Jumbles
+          - Subtopic: S1
+          - Micro: fixed ends
+          - **E-A-S1S6-ANCHORED-OR** (English/PROCEDURAL, L5, ord:221, q:2)
+            - Topic: Para Jumbles
+            - Subtopic: S1
+            - Micro: fixed ends
+            - **E-V-S1S6-ANCHORE-T0** (English/DERIVED, L6, ord:288, q:2)
+              - Topic: Para Jumbles
+              - Subtopic: S1
+              - Micro: Trap: Ignoring anchors
+            - **E-V-S1S6-ANCHORE-M** (English/DERIVED, L6, ord:344, q:0)
+              - Topic: Para Jumbles
+              - Subtopic: S1
+              - Micro: Method route
+    - **E-T-SENTENCE-REARR** (English/DERIVED, L2, ord:28, q:4)
+      - Topic: Sentence Rearrangement
+      - Domain: Reading & Context Skills
+      - **E-S-SENTENCE-R-P** (English/DERIVED, L3, ord:77, q:4)
+        - Topic: Sentence Rearrangement
+        - Subtopic: P
+        - **E-M-SENTENCE-P-PHRASE-SEQ** (English/DERIVED, L4, ord:144, q:4)
+          - Topic: Sentence Rearrangement
+          - Subtopic: P
+          - Micro: phrase sequencing
+          - **E-A-PQRS-PART-ORDER** (English/PROCEDURAL, L5, ord:207, q:4)
+            - Topic: Sentence Rearrangement
+            - Subtopic: P
+            - Micro: phrase sequencing
+            - **E-V-PQRS-PART-OR-T0** (English/DERIVED, L6, ord:274, q:4)
+              - Topic: Sentence Rearrangement
+              - Subtopic: P
+              - Micro: Trap: Meaning-first guessing
+            - **E-V-PQRS-PART-OR-M** (English/DERIVED, L6, ord:336, q:0)
+              - Topic: Sentence Rearrangement
+              - Subtopic: P
+              - Micro: Method route
+  - **E-D-TRANSFORMATION** (English/DERIVED, L1, ord:5, q:0)
+    - Domain: Transformation Rules
+    - **E-T-ACTIVE-PASSIVE** (English/DERIVED, L2, ord:17, q:176)
+      - Topic: Active / Passive Voice
+      - Domain: Transformation Rules
+      - **E-S-ACTIVE-PAS-STANDARD-ACT** (English/DERIVED, L3, ord:40, q:59)
+        - Topic: Active / Passive Voice
+        - Subtopic: Standard active→passive
+        - **E-M-ACTIVE-P-STANDARD-A-OBJECT-FRO** (English/DERIVED, L4, ord:106, q:59)
+          - Topic: Active / Passive Voice
+          - Subtopic: Standard active→passive
+          - Micro: object-front template
+          - **E-A-STANDARD-ACTIVEP** (English/PROCEDURAL, L5, ord:171, q:59)
+            - Topic: Active / Passive Voice
+            - Subtopic: Standard active→passive
+            - Micro: object-front template
+            - **E-V-STANDARD-ACT-T0** (English/DERIVED, L6, ord:238, q:59)
+              - Topic: Active / Passive Voice
+              - Subtopic: Standard active→passive
+              - Micro: Trap: Tense shift
+            - **E-V-STANDARD-ACT-M** (English/DERIVED, L6, ord:351, q:0)
+              - Topic: Active / Passive Voice
+              - Subtopic: Standard active→passive
+              - Micro: Method route
+      - **E-S-ACTIVE-PAS-PASSIVE-ACTI** (English/DERIVED, L3, ord:41, q:36)
+        - Topic: Active / Passive Voice
+        - Subtopic: Passive → active
+        - **E-M-ACTIVE-P-PASSIVE-AC-AGENT-RECO** (English/DERIVED, L4, ord:115, q:36)
+          - Topic: Active / Passive Voice
+          - Subtopic: Passive → active
+          - Micro: agent recovery
+          - **E-A-PASSIVE-ACTIVE** (English/PROCEDURAL, L5, ord:179, q:36)
+            - Topic: Active / Passive Voice
+            - Subtopic: Passive → active
+            - Micro: agent recovery
+            - **E-V-PASSIVE-ACTI-T0** (English/DERIVED, L6, ord:246, q:36)
+              - Topic: Active / Passive Voice
+              - Subtopic: Passive → active
+              - Micro: Trap: Keeping passive verb
+            - **E-V-PASSIVE-ACTI-M** (English/DERIVED, L6, ord:332, q:0)
+              - Topic: Active / Passive Voice
+              - Subtopic: Passive → active
+              - Micro: Method route
+      - **E-S-ACTIVE-PAS-MODAL-FUTURE** (English/DERIVED, L3, ord:43, q:30)
+        - Topic: Active / Passive Voice
+        - Subtopic: Modal/future → passive
+        - **E-M-ACTIVE-P-MODAL-FUTU-MODAL-BE-V** (English/DERIVED, L4, ord:118, q:30)
+          - Topic: Active / Passive Voice
+          - Subtopic: Modal/future → passive
+          - Micro: modal + be + V3
+          - **E-A-MODAL-FUTURE-PAS** (English/PROCEDURAL, L5, ord:183, q:30)
+            - Topic: Active / Passive Voice
+            - Subtopic: Modal/future → passive
+            - Micro: modal + be + V3
+            - **E-V-MODAL-FUTURE-T0** (English/DERIVED, L6, ord:250, q:30)
+              - Topic: Active / Passive Voice
+              - Subtopic: Modal/future → passive
+              - Micro: Trap: Dropping be
+            - **E-V-MODAL-FUTURE-M** (English/DERIVED, L6, ord:330, q:0)
+              - Topic: Active / Passive Voice
+              - Subtopic: Modal/future → passive
+              - Micro: Method route
+      - **E-S-ACTIVE-PAS-PAST** (English/DERIVED, L3, ord:44, q:25)
+        - Topic: Active / Passive Voice
+        - Subtopic: Past
+        - **E-M-ACTIVE-P-PAST-WAS-WERE-V** (English/DERIVED, L4, ord:121, q:25)
+          - Topic: Active / Passive Voice
+          - Subtopic: Past
+          - Micro: was/were + V3
+          - **E-A-PAST-WAS-WERE-PA** (English/PROCEDURAL, L5, ord:186, q:25)
+            - Topic: Active / Passive Voice
+            - Subtopic: Past
+            - Micro: was/were + V3
+            - **E-V-PAST-WAS-WER-T0** (English/DERIVED, L6, ord:253, q:25)
+              - Topic: Active / Passive Voice
+              - Subtopic: Past
+              - Micro: Trap: Tense shift
+            - **E-V-PAST-WAS-WER-M** (English/DERIVED, L6, ord:333, q:0)
+              - Topic: Active / Passive Voice
+              - Subtopic: Past
+              - Micro: Method route
+      - **E-S-ACTIVE-PAS-INTERROGATIV** (English/DERIVED, L3, ord:48, q:17)
+        - Topic: Active / Passive Voice
+        - Subtopic: Interrogative voice conversion
+        - **E-M-ACTIVE-P-INTERROGAT-QUESTION-S** (English/DERIVED, L4, ord:129, q:17)
+          - Topic: Active / Passive Voice
+          - Subtopic: Interrogative voice conversion
+          - Micro: question skeleton kept
+          - **E-A-INTERROGATIVE-VO** (English/PROCEDURAL, L5, ord:194, q:17)
+            - Topic: Active / Passive Voice
+            - Subtopic: Interrogative voice conversion
+            - Micro: question skeleton kept
+            - **E-V-INTERROGATIV-T0** (English/DERIVED, L6, ord:261, q:17)
+              - Topic: Active / Passive Voice
+              - Subtopic: Interrogative voice conversion
+              - Micro: Trap: Reordering randomly
+            - **E-V-INTERROGATIV-M** (English/DERIVED, L6, ord:325, q:0)
+              - Topic: Active / Passive Voice
+              - Subtopic: Interrogative voice conversion
+              - Micro: Method route
+      - **E-S-ACTIVE-PAS-GENERAL-VOIC** (English/DERIVED, L3, ord:56, q:9)
+        - Topic: Active / Passive Voice
+        - Subtopic: General voice conversion
+        - **E-M-ACTIVE-P-GENERAL-VO-VOICE-TRAN** (English/DERIVED, L4, ord:134, q:9)
+          - Topic: Active / Passive Voice
+          - Subtopic: General voice conversion
+          - Micro: voice transform
+          - **E-A-GENERAL-VOICE-CO** (English/DERIVED, L5, ord:200, q:9)
+            - Topic: Active / Passive Voice
+            - Subtopic: General voice conversion
+            - Micro: voice transform
+            - **E-V-GENERAL-VOIC-T0** (English/DERIVED, L6, ord:267, q:9)
+              - Topic: Active / Passive Voice
+              - Subtopic: General voice conversion
+              - Micro: Trap: Tense drift
+            - **E-V-GENERAL-VOIC-M** (English/DERIVED, L6, ord:319, q:0)
+              - Topic: Active / Passive Voice
+              - Subtopic: General voice conversion
+              - Micro: Method route
+    - **E-T-DIRECT-INDIREC** (English/DERIVED, L2, ord:25, q:95)
+      - Topic: Direct / Indirect Speech
+      - Domain: Transformation Rules
+      - **E-S-DIRECT-IND-REPORTED-STA** (English/DERIVED, L3, ord:39, q:79)
+        - Topic: Direct / Indirect Speech
+        - Subtopic: Reported statement
+        - **E-M-DIRECT-I-REPORTED-S-SAIDTOLD-T** (English/DERIVED, L4, ord:103, q:79)
+          - Topic: Direct / Indirect Speech
+          - Subtopic: Reported statement
+          - Micro: said→told/that + backshift
+          - **E-A-REPORTED-STATEME** (English/PROCEDURAL, L5, ord:168, q:79)
+            - Topic: Direct / Indirect Speech
+            - Subtopic: Reported statement
+            - Micro: said→told/that + backshift
+            - **E-V-REPORTED-STA-T0** (English/DERIVED, L6, ord:235, q:79)
+              - Topic: Direct / Indirect Speech
+              - Subtopic: Reported statement
+              - Micro: Trap: Tense-only change
+            - **E-V-REPORTED-STA-M** (English/DERIVED, L6, ord:343, q:0)
+              - Topic: Direct / Indirect Speech
+              - Subtopic: Reported statement
+              - Micro: Method route
+      - **E-S-DIRECT-IND-REPORTED-QUE** (English/DERIVED, L3, ord:54, q:11)
+        - Topic: Direct / Indirect Speech
+        - Subtopic: Reported question
+        - **E-M-DIRECT-I-REPORTED-Q-ASKED-IF-W** (English/DERIVED, L4, ord:132, q:11)
+          - Topic: Direct / Indirect Speech
+          - Subtopic: Reported question
+          - Micro: asked + if/wh
+          - **E-A-REPORTED-QUESTIO** (English/PROCEDURAL, L5, ord:198, q:11)
+            - Topic: Direct / Indirect Speech
+            - Subtopic: Reported question
+            - Micro: asked + if/wh
+            - **E-V-REPORTED-QUE-T0** (English/DERIVED, L6, ord:265, q:11)
+              - Topic: Direct / Indirect Speech
+              - Subtopic: Reported question
+              - Micro: Trap: Keeping ? order
+            - **E-V-REPORTED-QUE-M** (English/DERIVED, L6, ord:342, q:0)
+              - Topic: Direct / Indirect Speech
+              - Subtopic: Reported question
+              - Micro: Method route
+      - **E-S-DIRECT-IND-REPORTED-IMP** (English/DERIVED, L3, ord:74, q:4)
+        - Topic: Direct / Indirect Speech
+        - Subtopic: Reported imperative
+        - **E-M-DIRECT-I-REPORTED-I-ORDER-REQU** (English/DERIVED, L4, ord:140, q:4)
+          - Topic: Direct / Indirect Speech
+          - Subtopic: Reported imperative
+          - Micro: order/request + to
+          - **E-A-REPORTED-IMPERAT** (English/PROCEDURAL, L5, ord:209, q:4)
+            - Topic: Direct / Indirect Speech
+            - Subtopic: Reported imperative
+            - Micro: order/request + to
+            - **E-V-REPORTED-IMP-T0** (English/DERIVED, L6, ord:276, q:4)
+              - Topic: Direct / Indirect Speech
+              - Subtopic: Reported imperative
+              - Micro: Trap: Using said + to
+            - **E-V-REPORTED-IMP-M** (English/DERIVED, L6, ord:341, q:0)
+              - Topic: Direct / Indirect Speech
+              - Subtopic: Reported imperative
+              - Micro: Method route
+      - **E-S-DIRECT-IND-REPORTED-EXC** (English/DERIVED, L3, ord:91, q:1)
+        - Topic: Direct / Indirect Speech
+        - Subtopic: Reported exclamation
+        - **E-M-DIRECT-I-REPORTED-E-EXCLAIMED-** (English/DERIVED, L4, ord:156, q:1)
+          - Topic: Direct / Indirect Speech
+          - Subtopic: Reported exclamation
+          - Micro: exclaimed + that
+          - **E-A-REPORTED-EXCLAMA** (English/PROCEDURAL, L5, ord:226, q:1)
+            - Topic: Direct / Indirect Speech
+            - Subtopic: Reported exclamation
+            - Micro: exclaimed + that
+            - **E-V-REPORTED-EXC-T0** (English/DERIVED, L6, ord:292, q:1)
+              - Topic: Direct / Indirect Speech
+              - Subtopic: Reported exclamation
+              - Micro: Trap: Keeping ! form
+            - **E-V-REPORTED-EXC-M** (English/DERIVED, L6, ord:340, q:0)
+              - Topic: Direct / Indirect Speech
+              - Subtopic: Reported exclamation
+              - Micro: Method route
+  - **E-D-WORD-KNOWLEDGE** (English/DERIVED, L1, ord:6, q:0)
+    - Domain: Word Knowledge (Vocabulary)
+    - **E-T-ONE-WORD-SUBST** (English/DERIVED, L2, ord:15, q:202)
+      - Topic: One-Word Substitution
+      - Domain: Word Knowledge (Vocabulary)
+      - **E-S-ONE-WORD-S-GENERAL-WORD** (English/DERIVED, L3, ord:32, q:76)
+        - Topic: One-Word Substitution
+        - Subtopic: General word substitute
+        - **E-M-ONE-WORD-GENERAL-WO-VOCABULARY** (English/DERIVED, L4, ord:104, q:76)
+          - Topic: One-Word Substitution
+          - Subtopic: General word substitute
+          - Micro: vocabulary
+          - **E-A-GENERAL-WORD-SUB** (English/DERIVED, L5, ord:169, q:76)
+            - Topic: One-Word Substitution
+            - Subtopic: General word substitute
+            - Micro: vocabulary
+            - **E-V-GENERAL-WORD-T0-2** (English/DERIVED, L6, ord:236, q:76)
+              - Topic: One-Word Substitution
+              - Subtopic: General word substitute
+              - Micro: Trap: Near-synonym
+            - **E-V-GENERAL-WORD-M-2** (English/DERIVED, L6, ord:321, q:0)
+              - Topic: One-Word Substitution
+              - Subtopic: General word substitute
+              - Micro: Method route
+      - **E-S-ONE-WORD-S-DEFINITION-S** (English/DERIVED, L3, ord:61, q:97)
+        - Topic: One-Word Substitution
+        - Subtopic: Definition → single word
+        - **E-M-ONE-WORD-DEFINITION-DEFINITION** (English/RECALL, L4, ord:101, q:97)
+          - Topic: One-Word Substitution
+          - Subtopic: Definition → single word
+          - Micro: definition vocabulary
+          - **E-A-DEFINITION-SINGL** (English/RECALL, L5, ord:166, q:97)
+            - Topic: One-Word Substitution
+            - Subtopic: Definition → single word
+            - Micro: definition vocabulary
+            - **E-V-DEFINITION-S-T0** (English/DERIVED, L6, ord:233, q:97)
+              - Topic: One-Word Substitution
+              - Subtopic: Definition → single word
+              - Micro: Trap: Near-synonym trap
+            - **E-V-DEFINITION-S-M** (English/DERIVED, L6, ord:306, q:0)
+              - Topic: One-Word Substitution
+              - Subtopic: Definition → single word
+              - Micro: Method route
+      - **E-S-ONE-WORD-S-UNDERLINED-B** (English/DERIVED, L3, ord:66, q:29)
+        - Topic: One-Word Substitution
+        - Subtopic: Underlined/bracketed-word substitute
+        - **E-M-ONE-WORD-UNDERLINED-CONTEXTUAL** (English/DERIVED, L4, ord:119, q:29)
+          - Topic: One-Word Substitution
+          - Subtopic: Underlined/bracketed-word substitute
+          - Micro: contextual synonym
+          - **E-A-UNDERLINED-BRACK** (English/PROCEDURAL, L5, ord:184, q:29)
+            - Topic: One-Word Substitution
+            - Subtopic: Underlined/bracketed-word substitute
+            - Micro: contextual synonym
+            - **E-V-UNDERLINED-B-T0** (English/DERIVED, L6, ord:251, q:29)
+              - Topic: One-Word Substitution
+              - Subtopic: Underlined/bracketed-word substitute
+              - Micro: Trap: Dictionary-first pick
+            - **E-V-UNDERLINED-B-M** (English/DERIVED, L6, ord:357, q:0)
+              - Topic: One-Word Substitution
+              - Subtopic: Underlined/bracketed-word substitute
+              - Micro: Method route
+    - **E-T-ANTONYMS** (English/DERIVED, L2, ord:19, q:158)
+      - Topic: Antonyms
+      - Domain: Word Knowledge (Vocabulary)
+      - **E-S-ANTONYMS-ISOLATED-WOR** (English/DERIVED, L3, ord:58, q:110)
+        - Topic: Antonyms
+        - Subtopic: Isolated-word antonym
+        - **E-M-ANTONYMS-ISOLATED-W-DIRECT-OPP** (English/RECALL, L4, ord:98, q:110)
+          - Topic: Antonyms
+          - Subtopic: Isolated-word antonym
+          - Micro: direct opposite
+          - **E-A-ISOLATED-WORD-AN** (English/RECALL, L5, ord:164, q:110)
+            - Topic: Antonyms
+            - Subtopic: Isolated-word antonym
+            - Micro: direct opposite
+            - **E-V-ISOLATED-WOR-T0** (English/DERIVED, L6, ord:231, q:110)
+              - Topic: Antonyms
+              - Subtopic: Isolated-word antonym
+              - Micro: Trap: Near-synonym
+            - **E-V-ISOLATED-WOR-M** (English/DERIVED, L6, ord:328, q:0)
+              - Topic: Antonyms
+              - Subtopic: Isolated-word antonym
+              - Micro: Method route
+      - **E-S-ANTONYMS-ANTONYM** (English/DERIVED, L3, ord:63, q:44)
+        - Topic: Antonyms
+        - Subtopic: Antonym
+        - **E-M-ANTONYMS-ANTONYM-CONTEXTUAL** (English/RECALL, L4, ord:110, q:44)
+          - Topic: Antonyms
+          - Subtopic: Antonym
+          - Micro: contextual opposite
+          - **E-A-ANTONYM-ISOLATED** (English/RECALL, L5, ord:174, q:44)
+            - Topic: Antonyms
+            - Subtopic: Antonym
+            - Micro: contextual opposite
+            - **E-V-ANTONYM-ISOL-T0** (English/DERIVED, L6, ord:241, q:44)
+              - Topic: Antonyms
+              - Subtopic: Antonym
+              - Micro: Trap: Sign error
+            - **E-V-ANTONYM-ISOL-M** (English/DERIVED, L6, ord:295, q:0)
+              - Topic: Antonyms
+              - Subtopic: Antonym
+              - Micro: Method route
+      - **E-S-ANTONYMS-GENERAL-ANTO** (English/DERIVED, L3, ord:73, q:4)
+        - Topic: Antonyms
+        - Subtopic: General antonym task
+        - **E-M-ANTONYMS-GENERAL-AN-OPPOSITES** (English/RECALL, L4, ord:139, q:4)
+          - Topic: Antonyms
+          - Subtopic: General antonym task
+          - Micro: opposites
+          - **E-A-GENERAL-ANTONYM-** (English/RECALL, L5, ord:205, q:4)
+            - Topic: Antonyms
+            - Subtopic: General antonym task
+            - Micro: opposites
+            - **E-V-GENERAL-ANTO-T0** (English/DERIVED, L6, ord:272, q:4)
+              - Topic: Antonyms
+              - Subtopic: General antonym task
+              - Micro: Trap: Sign error
+            - **E-V-GENERAL-ANTO-M** (English/DERIVED, L6, ord:313, q:0)
+              - Topic: Antonyms
+              - Subtopic: General antonym task
+              - Micro: Method route
+    - **E-T-FILL-IN-THE-BL** (English/DERIVED, L2, ord:21, q:139)
+      - Topic: Fill in the Blanks
+      - Domain: Word Knowledge (Vocabulary)
+      - **E-S-FILL-IN-TH-SINGLE-BLANK-4** (English/DERIVED, L3, ord:30, q:85)
+        - Topic: Fill in the Blanks
+        - Subtopic: Single-blank vocabulary fit
+        - **E-M-FILL-IN--SINGLE-BLA-COLLOCATIO** (English/RECALL, L4, ord:102, q:85)
+          - Topic: Fill in the Blanks
+          - Subtopic: Single-blank vocabulary fit
+          - Micro: collocation/semantics
+          - **E-A-SINGLE-BLANK-VOC** (English/RECALL, L5, ord:167, q:85)
+            - Topic: Fill in the Blanks
+            - Subtopic: Single-blank vocabulary fit
+            - Micro: collocation/semantics
+            - **E-V-SINGLE-BLANK-T0-4** (English/DERIVED, L6, ord:234, q:85)
+              - Topic: Fill in the Blanks
+              - Subtopic: Single-blank vocabulary fit
+              - Micro: Trap: Grammar-only pick
+            - **E-V-SINGLE-BLANK-M-4** (English/DERIVED, L6, ord:348, q:0)
+              - Topic: Fill in the Blanks
+              - Subtopic: Single-blank vocabulary fit
+              - Micro: Method route
+      - **E-S-FILL-IN-TH-SPELLING-IN-** (English/DERIVED, L3, ord:46, q:22)
+        - Topic: Fill in the Blanks
+        - Subtopic: Spelling-in-blank
+        - **E-M-FILL-IN--SPELLING-I-SPELLING-F** (English/RECALL, L4, ord:124, q:22)
+          - Topic: Fill in the Blanks
+          - Subtopic: Spelling-in-blank
+          - Micro: spelling + fit
+          - **E-A-SPELLING-IN-BLAN** (English/RECALL, L5, ord:189, q:22)
+            - Topic: Fill in the Blanks
+            - Subtopic: Spelling-in-blank
+            - Micro: spelling + fit
+            - **E-V-SPELLING-IN--T0** (English/DERIVED, L6, ord:256, q:22)
+              - Topic: Fill in the Blanks
+              - Subtopic: Spelling-in-blank
+              - Micro: Trap: Fit-first ignoring spelling
+            - **E-V-SPELLING-IN--M** (English/DERIVED, L6, ord:349, q:0)
+              - Topic: Fill in the Blanks
+              - Subtopic: Spelling-in-blank
+              - Micro: Method route
+      - **E-S-FILL-IN-TH-SINGLE-BLANK-3** (English/DERIVED, L3, ord:49, q:14)
+        - Topic: Fill in the Blanks
+        - Subtopic: Single-blank verb/tense form
+        - **E-M-FILL-IN--SINGLE-BLA-TENSE-VERB** (English/DERIVED, L4, ord:130, q:14)
+          - Topic: Fill in the Blanks
+          - Subtopic: Single-blank verb/tense form
+          - Micro: tense/verb form
+          - **E-A-SINGLE-BLANK-VER** (English/PROCEDURAL, L5, ord:196, q:14)
+            - Topic: Fill in the Blanks
+            - Subtopic: Single-blank verb/tense form
+            - Micro: tense/verb form
+            - **E-V-SINGLE-BLANK-T0-3** (English/DERIVED, L6, ord:263, q:14)
+              - Topic: Fill in the Blanks
+              - Subtopic: Single-blank verb/tense form
+              - Micro: Trap: Meaning-only pick
+            - **E-V-SINGLE-BLANK-M-3** (English/DERIVED, L6, ord:347, q:0)
+              - Topic: Fill in the Blanks
+              - Subtopic: Single-blank verb/tense form
+              - Micro: Method route
+      - **E-S-FILL-IN-TH-HOMONYM-BLAN** (English/DERIVED, L3, ord:55, q:10)
+        - Topic: Fill in the Blanks
+        - Subtopic: Homonym blank
+        - **E-M-FILL-IN--HOMONYM-BL-HOMOPHONE-** (English/RECALL, L4, ord:133, q:10)
+          - Topic: Fill in the Blanks
+          - Subtopic: Homonym blank
+          - Micro: homophone discrimination
+          - **E-A-HOMONYM-BLANK-SO** (English/RECALL, L5, ord:199, q:10)
+            - Topic: Fill in the Blanks
+            - Subtopic: Homonym blank
+            - Micro: homophone discrimination
+            - **E-V-HOMONYM-BLAN-T0** (English/DERIVED, L6, ord:266, q:10)
+              - Topic: Fill in the Blanks
+              - Subtopic: Homonym blank
+              - Micro: Trap: Choosing by sound
+            - **E-V-HOMONYM-BLAN-M** (English/DERIVED, L6, ord:322, q:0)
+              - Topic: Fill in the Blanks
+              - Subtopic: Homonym blank
+              - Micro: Method route
+      - **E-S-FILL-IN-TH-SINGLE-BLANK-2** (English/DERIVED, L3, ord:76, q:4)
+        - Topic: Fill in the Blanks
+        - Subtopic: Single-blank preposition
+        - **E-M-FILL-IN--SINGLE-BLA-PREP-COLLO** (English/DERIVED, L4, ord:143, q:4)
+          - Topic: Fill in the Blanks
+          - Subtopic: Single-blank preposition
+          - Micro: prep collocation
+          - **E-A-SINGLE-BLANK-PRE** (English/PROCEDURAL, L5, ord:211, q:4)
+            - Topic: Fill in the Blanks
+            - Subtopic: Single-blank preposition
+            - Micro: prep collocation
+            - **E-V-SINGLE-BLANK-T0-2** (English/DERIVED, L6, ord:278, q:4)
+              - Topic: Fill in the Blanks
+              - Subtopic: Single-blank preposition
+              - Micro: Trap: Meaning-only pick
+            - **E-V-SINGLE-BLANK-M-2** (English/DERIVED, L6, ord:346, q:0)
+              - Topic: Fill in the Blanks
+              - Subtopic: Single-blank preposition
+              - Micro: Method route
+      - **E-S-FILL-IN-TH-SINGLE-BLANK** (English/DERIVED, L3, ord:83, q:4)
+        - Topic: Fill in the Blanks
+        - Subtopic: Single-blank article
+        - **E-M-FILL-IN--SINGLE-BLA-A-AN-THE-R** (English/DERIVED, L4, ord:142, q:4)
+          - Topic: Fill in the Blanks
+          - Subtopic: Single-blank article
+          - Micro: a/an/the rules
+          - **E-A-SINGLE-BLANK-ART** (English/PROCEDURAL, L5, ord:210, q:4)
+            - Topic: Fill in the Blanks
+            - Subtopic: Single-blank article
+            - Micro: a/an/the rules
+            - **E-V-SINGLE-BLANK-T0** (English/DERIVED, L6, ord:277, q:4)
+              - Topic: Fill in the Blanks
+              - Subtopic: Single-blank article
+              - Micro: Trap: Meaning-only pick
+            - **E-V-SINGLE-BLANK-M** (English/DERIVED, L6, ord:345, q:0)
+              - Topic: Fill in the Blanks
+              - Subtopic: Single-blank article
+              - Micro: Method route
+    - **E-T-SYNONYMS** (English/DERIVED, L2, ord:22, q:139)
+      - Topic: Synonyms
+      - Domain: Word Knowledge (Vocabulary)
+      - **E-S-SYNONYMS-ISOLATED-BRA** (English/DERIVED, L3, ord:59, q:110)
+        - Topic: Synonyms
+        - Subtopic: Isolated/bracketed-word synonym
+        - **E-M-SYNONYMS-ISOLATED-B-MARKED-WOR** (English/RECALL, L4, ord:99, q:110)
+          - Topic: Synonyms
+          - Subtopic: Isolated/bracketed-word synonym
+          - Micro: marked word
+          - **E-A-ISOLATED-BRACKET** (English/RECALL, L5, ord:163, q:110)
+            - Topic: Synonyms
+            - Subtopic: Isolated/bracketed-word synonym
+            - Micro: marked word
+            - **E-V-ISOLATED-BRA-T0** (English/DERIVED, L6, ord:230, q:110)
+              - Topic: Synonyms
+              - Subtopic: Isolated/bracketed-word synonym
+              - Micro: Trap: Sign flip
+            - **E-V-ISOLATED-BRA-M** (English/DERIVED, L6, ord:326, q:0)
+              - Topic: Synonyms
+              - Subtopic: Isolated/bracketed-word synonym
+              - Micro: Method route
+      - **E-S-SYNONYMS-SYNONYM** (English/DERIVED, L3, ord:68, q:25)
+        - Topic: Synonyms
+        - Subtopic: Synonym
+        - **E-M-SYNONYMS-SYNONYM-CONTEXTUAL** (English/RECALL, L4, ord:122, q:25)
+          - Topic: Synonyms
+          - Subtopic: Synonym
+          - Micro: contextual synonym
+          - **E-A-SYNONYM-ISOLATED** (English/RECALL, L5, ord:187, q:25)
+            - Topic: Synonyms
+            - Subtopic: Synonym
+            - Micro: contextual synonym
+            - **E-V-SYNONYM-ISOL-T0** (English/DERIVED, L6, ord:254, q:25)
+              - Topic: Synonyms
+              - Subtopic: Synonym
+              - Micro: Trap: Isolated meaning
+            - **E-V-SYNONYM-ISOL-M** (English/DERIVED, L6, ord:354, q:0)
+              - Topic: Synonyms
+              - Subtopic: Synonym
+              - Micro: Method route
+      - **E-S-SYNONYMS-GENERAL-SYNO** (English/DERIVED, L3, ord:80, q:3)
+        - Topic: Synonyms
+        - Subtopic: General synonym task
+        - **E-M-SYNONYMS-GENERAL-SY-VOCABULARY** (English/RECALL, L4, ord:149, q:3)
+          - Topic: Synonyms
+          - Subtopic: General synonym task
+          - Micro: vocabulary
+          - **E-A-GENERAL-SYNONYM-** (English/RECALL, L5, ord:216, q:3)
+            - Topic: Synonyms
+            - Subtopic: General synonym task
+            - Micro: vocabulary
+            - **E-V-GENERAL-SYNO-T0** (English/DERIVED, L6, ord:283, q:3)
+              - Topic: Synonyms
+              - Subtopic: General synonym task
+              - Micro: Trap: Sign flip
+            - **E-V-GENERAL-SYNO-M** (English/DERIVED, L6, ord:318, q:0)
+              - Topic: Synonyms
+              - Subtopic: General synonym task
+              - Micro: Method route
+      - **E-S-SYNONYMS-PICK-SYNONYM** (English/DERIVED, L3, ord:94, q:1)
+        - Topic: Synonyms
+        - Subtopic: Pick synonym from a sentence
+        - **E-M-SYNONYMS-PICK-SYNON-USAGE-MATC** (English/RECALL, L4, ord:159, q:1)
+          - Topic: Synonyms
+          - Subtopic: Pick synonym from a sentence
+          - Micro: usage matching
+          - **E-A-PICK-SYNONYM-FRO** (English/RECALL, L5, ord:225, q:1)
+            - Topic: Synonyms
+            - Subtopic: Pick synonym from a sentence
+            - Micro: usage matching
+            - **E-V-PICK-SYNONYM-T0** (English/DERIVED, L6, ord:291, q:1)
+              - Topic: Synonyms
+              - Subtopic: Pick synonym from a sentence
+              - Micro: Trap: First similar word
+            - **E-V-PICK-SYNONYM-M** (English/DERIVED, L6, ord:335, q:0)
+              - Topic: Synonyms
+              - Subtopic: Pick synonym from a sentence
+              - Micro: Method route
+    - **E-T-SPELLINGS** (English/DERIVED, L2, ord:23, q:134)
+      - Topic: Spellings
+      - Domain: Word Knowledge (Vocabulary)
+      - **E-S-SPELLINGS-ISOLATED-MIS** (English/DERIVED, L3, ord:36, q:40)
+        - Topic: Spellings
+        - Subtopic: Isolated misspelt-word pick
+        - **E-M-SPELLING-ISOLATED-M-WORD-LIST-** (English/DERIVED, L4, ord:114, q:40)
+          - Topic: Spellings
+          - Subtopic: Isolated misspelt-word pick
+          - Micro: word-list recall
+          - **E-A-ISOLATED-MISSPEL** (English/PROCEDURAL, L5, ord:178, q:40)
+            - Topic: Spellings
+            - Subtopic: Isolated misspelt-word pick
+            - Micro: word-list recall
+            - **E-V-ISOLATED-MIS-T0** (English/DERIVED, L6, ord:245, q:40)
+              - Topic: Spellings
+              - Subtopic: Isolated misspelt-word pick
+              - Micro: Trap: Guessing
+            - **E-V-ISOLATED-MIS-M** (English/DERIVED, L6, ord:327, q:0)
+              - Topic: Spellings
+              - Subtopic: Isolated misspelt-word pick
+              - Micro: Method route
+      - **E-S-SPELLINGS-GENERAL-SPEL** (English/DERIVED, L3, ord:45, q:23)
+        - Topic: Spellings
+        - Subtopic: General spelling task
+        - **E-M-SPELLING-GENERAL-SP-SPELLING-M** (English/RECALL, L4, ord:123, q:23)
+          - Topic: Spellings
+          - Subtopic: General spelling task
+          - Micro: spelling memory
+          - **E-A-GENERAL-SPELLING** (English/RECALL, L5, ord:188, q:23)
+            - Topic: Spellings
+            - Subtopic: General spelling task
+            - Micro: spelling memory
+            - **E-V-GENERAL-SPEL-T0** (English/DERIVED, L6, ord:255, q:23)
+              - Topic: Spellings
+              - Subtopic: General spelling task
+              - Micro: Trap: Guessing
+            - **E-V-GENERAL-SPEL-M** (English/DERIVED, L6, ord:317, q:0)
+              - Topic: Spellings
+              - Subtopic: General spelling task
+              - Micro: Method route
+      - **E-S-SPELLINGS-FIND-CORRECT** (English/DERIVED, L3, ord:47, q:19)
+        - Topic: Spellings
+        - Subtopic: Find/correct misspelt word in sentence
+        - **E-M-SPELLING-FIND-CORRE-SCAN-SPELL** (English/DERIVED, L4, ord:126, q:19)
+          - Topic: Spellings
+          - Subtopic: Find/correct misspelt word in sentence
+          - Micro: scan spelling
+          - **E-A-FIND-CORRECT-MIS** (English/PROCEDURAL, L5, ord:191, q:19)
+            - Topic: Spellings
+            - Subtopic: Find/correct misspelt word in sentence
+            - Micro: scan spelling
+            - **E-V-FIND-CORRECT-T0** (English/DERIVED, L6, ord:258, q:19)
+              - Topic: Spellings
+              - Subtopic: Find/correct misspelt word in sentence
+              - Micro: Trap: First-look pass
+            - **E-V-FIND-CORRECT-M** (English/DERIVED, L6, ord:311, q:0)
+              - Topic: Spellings
+              - Subtopic: Find/correct misspelt word in sentence
+              - Micro: Method route
+      - **E-S-SPELLINGS-CHOOSE-CORRE** (English/DERIVED, L3, ord:62, q:45)
+        - Topic: Spellings
+        - Subtopic: Choose correct spelling
+        - **E-M-SPELLING-CHOOSE-COR-RECALL-SPE** (English/RECALL, L4, ord:109, q:45)
+          - Topic: Spellings
+          - Subtopic: Choose correct spelling
+          - Micro: recall spelling
+          - **E-A-CHOOSE-CORRECT-S** (English/RECALL, L5, ord:173, q:45)
+            - Topic: Spellings
+            - Subtopic: Choose correct spelling
+            - Micro: recall spelling
+            - **E-V-CHOOSE-CORRE-T0** (English/DERIVED, L6, ord:240, q:45)
+              - Topic: Spellings
+              - Subtopic: Choose correct spelling
+              - Micro: Trap: Visual similarity
+            - **E-V-CHOOSE-CORRE-M** (English/DERIVED, L6, ord:298, q:0)
+              - Topic: Spellings
+              - Subtopic: Choose correct spelling
+              - Micro: Method route
+      - **E-S-SPELLINGS-PICK-ERROR-F** (English/DERIVED, L3, ord:78, q:4)
+        - Topic: Spellings
+        - Subtopic: Pick error-free sentence
+        - **E-M-SPELLING-PICK-ERROR-WHOLE-STRI** (English/DERIVED, L4, ord:145, q:4)
+          - Topic: Spellings
+          - Subtopic: Pick error-free sentence
+          - Micro: whole-string check
+          - **E-A-PICK-ERROR-FREE-** (English/PROCEDURAL, L5, ord:206, q:4)
+            - Topic: Spellings
+            - Subtopic: Pick error-free sentence
+            - Micro: whole-string check
+            - **E-V-PICK-ERROR-F-T0** (English/DERIVED, L6, ord:273, q:4)
+              - Topic: Spellings
+              - Subtopic: Pick error-free sentence
+              - Micro: Trap: Partial check
+            - **E-V-PICK-ERROR-F-M** (English/DERIVED, L6, ord:334, q:0)
+              - Topic: Spellings
+              - Subtopic: Pick error-free sentence
+              - Micro: Method route
+      - **E-S-SPELLINGS-CHOOSE-CORRE-2** (English/DERIVED, L3, ord:79, q:3)
+        - Topic: Spellings
+        - Subtopic: Choose correctly-spelled sentence/term
+        - **E-M-SPELLING-CHOOSE-COR-WHOLE-STRI** (English/RECALL, L4, ord:148, q:3)
+          - Topic: Spellings
+          - Subtopic: Choose correctly-spelled sentence/term
+          - Micro: whole-string check
+          - **E-A-CHOOSE-CORRECTLY** (English/RECALL, L5, ord:213, q:3)
+            - Topic: Spellings
+            - Subtopic: Choose correctly-spelled sentence/term
+            - Micro: whole-string check
+            - **E-V-CHOOSE-CORRE-T0-2** (English/DERIVED, L6, ord:280, q:3)
+              - Topic: Spellings
+              - Subtopic: Choose correctly-spelled sentence/term
+              - Micro: Trap: Partial check
+            - **E-V-CHOOSE-CORRE-M-2** (English/DERIVED, L6, ord:299, q:0)
+              - Topic: Spellings
+              - Subtopic: Choose correctly-spelled sentence/term
+              - Micro: Method route
+    - **E-T-IDIOMS-PHRASES** (English/DERIVED, L2, ord:24, q:124)
+      - Topic: Idioms & Phrases
+      - Domain: Word Knowledge (Vocabulary)
+      - **E-S-IDIOMS-PHR-STANDALONE-I** (English/DERIVED, L3, ord:60, q:106)
+        - Topic: Idioms & Phrases
+        - Subtopic: Standalone idiom meaning
+        - **E-M-IDIOMS-P-STANDALONE-IDIOM-RECA** (English/RECALL, L4, ord:100, q:106)
+          - Topic: Idioms & Phrases
+          - Subtopic: Standalone idiom meaning
+          - Micro: idiom recall
+          - **E-A-STANDALONE-IDIOM** (English/RECALL, L5, ord:165, q:106)
+            - Topic: Idioms & Phrases
+            - Subtopic: Standalone idiom meaning
+            - Micro: idiom recall
+            - **E-V-STANDALONE-I-T0** (English/DERIVED, L6, ord:232, q:106)
+              - Topic: Idioms & Phrases
+              - Subtopic: Standalone idiom meaning
+              - Micro: Trap: Literal reading
+            - **E-V-STANDALONE-I-M** (English/DERIVED, L6, ord:350, q:0)
+              - Topic: Idioms & Phrases
+              - Subtopic: Standalone idiom meaning
+              - Micro: Method route
+      - **E-S-IDIOMS-PHR-IDIOM-IN-SEN** (English/DERIVED, L3, ord:69, q:18)
+        - Topic: Idioms & Phrases
+        - Subtopic: Idiom in sentence context
+        - **E-M-IDIOMS-P-IDIOM-IN-S-CONTEXTUAL** (English/RECALL, L4, ord:127, q:18)
+          - Topic: Idioms & Phrases
+          - Subtopic: Idiom in sentence context
+          - Micro: contextual idiom
+          - **E-A-IDIOM-IN-SENTENC** (English/RECALL, L5, ord:192, q:18)
+            - Topic: Idioms & Phrases
+            - Subtopic: Idiom in sentence context
+            - Micro: contextual idiom
+            - **E-V-IDIOM-IN-SEN-T0** (English/DERIVED, L6, ord:259, q:18)
+              - Topic: Idioms & Phrases
+              - Subtopic: Idiom in sentence context
+              - Micro: Trap: Literal reading
+            - **E-V-IDIOM-IN-SEN-M** (English/DERIVED, L6, ord:323, q:0)
+              - Topic: Idioms & Phrases
+              - Subtopic: Idiom in sentence context
+              - Micro: Method route
+    - **E-T-HOMONYMS-VOCAB** (English/DERIVED, L2, ord:26, q:55)
+      - Topic: Homonyms & Vocabulary
+      - Domain: Word Knowledge (Vocabulary)
+      - **E-S-HOMONYMS-V-WORD-MEANING** (English/DERIVED, L3, ord:57, q:9)
+        - Topic: Homonyms & Vocabulary
+        - Subtopic: Word meaning
+        - **E-M-HOMONYMS-WORD-MEANI-DEFINITION** (English/RECALL, L4, ord:135, q:9)
+          - Topic: Homonyms & Vocabulary
+          - Subtopic: Word meaning
+          - Micro: definition vocabulary
+          - **E-A-WORD-MEANING-DIR** (English/RECALL, L5, ord:201, q:9)
+            - Topic: Homonyms & Vocabulary
+            - Subtopic: Word meaning
+            - Micro: definition vocabulary
+            - **E-V-WORD-MEANING-T0** (English/DERIVED, L6, ord:268, q:9)
+              - Topic: Homonyms & Vocabulary
+              - Subtopic: Word meaning
+              - Micro: Trap: Confusable pick
+            - **E-V-WORD-MEANING-M** (English/DERIVED, L6, ord:359, q:0)
+              - Topic: Homonyms & Vocabulary
+              - Subtopic: Word meaning
+              - Micro: Method route
+      - **E-S-HOMONYMS-V-CORRECT-HOMO** (English/DERIVED, L3, ord:64, q:44)
+        - Topic: Homonyms & Vocabulary
+        - Subtopic: Correct homonym use
+        - **E-M-HOMONYMS-CORRECT-HO-USAGE-DISC** (English/RECALL, L4, ord:111, q:44)
+          - Topic: Homonyms & Vocabulary
+          - Subtopic: Correct homonym use
+          - Micro: usage discrimination
+          - **E-A-CORRECT-HOMONYM-** (English/RECALL, L5, ord:175, q:44)
+            - Topic: Homonyms & Vocabulary
+            - Subtopic: Correct homonym use
+            - Micro: usage discrimination
+            - **E-V-CORRECT-HOMO-T0** (English/DERIVED, L6, ord:242, q:44)
+              - Topic: Homonyms & Vocabulary
+              - Subtopic: Correct homonym use
+              - Micro: Trap: Sound match
+            - **E-V-CORRECT-HOMO-M** (English/DERIVED, L6, ord:305, q:0)
+              - Topic: Homonyms & Vocabulary
+              - Subtopic: Correct homonym use
+              - Micro: Method route
+      - **E-S-HOMONYMS-V-GENERAL-WORD** (English/DERIVED, L3, ord:86, q:2)
+        - Topic: Homonyms & Vocabulary
+        - Subtopic: General word-meaning task
+        - **E-M-HOMONYMS-GENERAL-WO-VOCABULARY** (English/DERIVED, L4, ord:152, q:2)
+          - Topic: Homonyms & Vocabulary
+          - Subtopic: General word-meaning task
+          - Micro: vocabulary
+          - **E-A-GENERAL-WORD-MEA** (English/DERIVED, L5, ord:220, q:2)
+            - Topic: Homonyms & Vocabulary
+            - Subtopic: General word-meaning task
+            - Micro: vocabulary
+            - **E-V-GENERAL-WORD-T0** (English/DERIVED, L6, ord:287, q:2)
+              - Topic: Homonyms & Vocabulary
+              - Subtopic: General word-meaning task
+              - Micro: Trap: Sound match
+            - **E-V-GENERAL-WORD-M** (English/DERIVED, L6, ord:320, q:0)
+              - Topic: Homonyms & Vocabulary
+              - Subtopic: General word-meaning task
+              - Micro: Method route
+  - **E-EXT-POS** (English/FOUNDATIONAL, L1, ord:7, q:0)
+    - Micro: Parts of speech
+    - Domain: Foundational Prerequisites
+  - **E-EXT-READ** (English/FOUNDATIONAL, L1, ord:8, q:0)
+    - Micro: Basic reading comprehension
+    - Domain: Foundational Prerequisites
+  - **E-EXT-ROOTS** (English/FOUNDATIONAL, L1, ord:9, q:0)
+    - Micro: Word roots, prefixes & suffixes
+    - Domain: Foundational Prerequisites
+  - **E-EXT-SENT** (English/FOUNDATIONAL, L1, ord:10, q:0)
+    - Micro: Sentence & clause structure
+    - Domain: Foundational Prerequisites
+  - **E-EXT-COHES** (English/FOUNDATIONAL, L1, ord:11, q:0)
+    - Micro: Cohesive devices
+    - Domain: Foundational Prerequisites
+  - **E-EXT-VERB** (English/FOUNDATIONAL, L1, ord:12, q:0)
+    - Micro: Verb forms (V1/V2/V3, modals)
+    - Domain: Foundational Prerequisites
+## G (GA)
+
+  - **G-D-ART-CULTURE** (GA/DERIVED, L1, ord:2, q:0)
+    - Domain: Art-Culture
+    - **G-T-ART-CULTURE** (GA/DERIVED, L2, ord:21, q:271)
+      - Topic: Art & Culture
+      - Domain: Art-Culture
+      - **G-S-ART-CULTUR-GENERAL-ART-** (GA/DERIVED, L3, ord:40, q:58)
+        - Topic: Art & Culture
+        - Subtopic: General Art & Culture
+        - Domain: Art-Culture
+        - **G-M-GENERAL-AR-GENERAL-FACT** (GA/RECALL, L4, ord:141, q:37)
+          - Topic: Art & Culture
+          - Subtopic: General Art & Culture
+          - Micro: General-factual
+          - Domain: Art-Culture
+          - **G-A-GENERAL--GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:444, q:32)
+            - Topic: Art & Culture
+            - Subtopic: General Art & Culture
+            - Micro: General-factual
+            - Domain: Art-Culture
+            - **G-V-GENERAL--GENERA-DIRECT** (GA/DERIVED, L6, ord:1132, q:0)
+              - Topic: Art & Culture
+              - Subtopic: General Art & Culture
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+          - **G-A-GENERAL--GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:610, q:3)
+            - Topic: Art & Culture
+            - Subtopic: General Art & Culture
+            - Micro: General-factual
+            - Domain: Art-Culture
+            - **G-V-GENERAL--GENERA-STATEM** (GA/DERIVED, L6, ord:1158, q:0)
+              - Topic: Art & Culture
+              - Subtopic: General Art & Culture
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+          - **G-A-GENERAL--GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:683, q:2)
+            - Topic: Art & Culture
+            - Subtopic: General Art & Culture
+            - Micro: General-factual
+            - Domain: Art-Culture
+            - **G-V-GENERAL--GENERA-FILL-U** (GA/DERIVED, L6, ord:1144, q:0)
+              - Topic: Art & Culture
+              - Subtopic: General Art & Culture
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+        - **G-M-GENERAL-AR-AWARD-ANCHOR** (GA/RECALL, L4, ord:214, q:6)
+          - Topic: Art & Culture
+          - Subtopic: General Art & Culture
+          - Micro: Award-anchored
+          - Domain: Art-Culture
+          - **G-A-GENERAL--AWARD-AN-DIRECT-F** (GA/PROCEDURAL, L5, ord:533, q:5)
+            - Topic: Art & Culture
+            - Subtopic: General Art & Culture
+            - Micro: Award-anchored
+            - Domain: Art-Culture
+            - **G-V-GENERAL--AWARD--DIRECT** (GA/DERIVED, L6, ord:1117, q:0)
+              - Topic: Art & Culture
+              - Subtopic: General Art & Culture
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+          - **G-A-GENERAL--AWARD-AN-FILL-UP** (GA/PROCEDURAL, L5, ord:825, q:1)
+            - Topic: Art & Culture
+            - Subtopic: General Art & Culture
+            - Micro: Award-anchored
+            - Domain: Art-Culture
+            - **G-V-GENERAL--AWARD--FILL-U** (GA/DERIVED, L6, ord:1120, q:0)
+              - Topic: Art & Culture
+              - Subtopic: General Art & Culture
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+        - **G-M-GENERAL-AR-YEAR-ANCHORE** (GA/RECALL, L4, ord:215, q:6)
+          - Topic: Art & Culture
+          - Subtopic: General Art & Culture
+          - Micro: Year-anchored
+          - Domain: Art-Culture
+          - **G-A-GENERAL--YEAR-ANC-DIRECT-F** (GA/PROCEDURAL, L5, ord:538, q:5)
+            - Topic: Art & Culture
+            - Subtopic: General Art & Culture
+            - Micro: Year-anchored
+            - Domain: Art-Culture
+            - **G-V-GENERAL--YEAR-A-DIRECT** (GA/DERIVED, L6, ord:1221, q:0)
+              - Topic: Art & Culture
+              - Subtopic: General Art & Culture
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+          - **G-A-GENERAL--YEAR-ANC-FILL-UP** (GA/PROCEDURAL, L5, ord:860, q:1)
+            - Topic: Art & Culture
+            - Subtopic: General Art & Culture
+            - Micro: Year-anchored
+            - Domain: Art-Culture
+            - **G-V-GENERAL--YEAR-A-FILL-U** (GA/DERIVED, L6, ord:1230, q:0)
+              - Topic: Art & Culture
+              - Subtopic: General Art & Culture
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+        - **G-M-GENERAL-AR-OTHER-GENERA** (GA/RECALL, L4, ord:257, q:4)
+          - Topic: Art & Culture
+          - Subtopic: General Art & Culture
+          - Micro: Other General Art & Culture facts
+          - Domain: Art-Culture
+          - **G-A-GENERAL--OTHER-GE-DIRECT-F** (GA/PROCEDURAL, L5, ord:566, q:4)
+            - Topic: Art & Culture
+            - Subtopic: General Art & Culture
+            - Micro: Other General Art & Culture facts
+            - Domain: Art-Culture
+            - **G-V-GENERAL--OTHER--DIRECT** (GA/DERIVED, L6, ord:1172, q:0)
+              - Topic: Art & Culture
+              - Subtopic: General Art & Culture
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+        - **G-M-GENERAL-AR-PERSON-ANCHO** (GA/RECALL, L4, ord:286, q:3)
+          - Topic: Art & Culture
+          - Subtopic: General Art & Culture
+          - Micro: Person-anchored
+          - Domain: Art-Culture
+          - **G-A-GENERAL--PERSON-A-DIRECT-F** (GA/PROCEDURAL, L5, ord:613, q:3)
+            - Topic: Art & Culture
+            - Subtopic: General Art & Culture
+            - Micro: Person-anchored
+            - Domain: Art-Culture
+            - **G-V-GENERAL--PERSON-DIRECT** (GA/DERIVED, L6, ord:1189, q:0)
+              - Topic: Art & Culture
+              - Subtopic: General Art & Culture
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+        - **G-M-GENERAL-AR-SUPERLATIVE-** (GA/RECALL, L4, ord:351, q:2)
+          - Topic: Art & Culture
+          - Subtopic: General Art & Culture
+          - Micro: Superlative/First-record
+          - Domain: Art-Culture
+          - **G-A-GENERAL--SUPERLAT-DIRECT-F** (GA/PROCEDURAL, L5, ord:697, q:2)
+            - Topic: Art & Culture
+            - Subtopic: General Art & Culture
+            - Micro: Superlative/First-record
+            - Domain: Art-Culture
+            - **G-V-GENERAL--SUPERL-DIRECT** (GA/DERIVED, L6, ord:1206, q:0)
+              - Topic: Art & Culture
+              - Subtopic: General Art & Culture
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+      - **G-S-ART-CULTUR-FESTIVALS-FA** (GA/DERIVED, L3, ord:42, q:57)
+        - Topic: Art & Culture
+        - Subtopic: Festivals & Fairs
+        - Domain: Art-Culture
+        - **G-M-FESTIVALS--GENERAL-FACT** (GA/RECALL, L4, ord:136, q:44)
+          - Topic: Art & Culture
+          - Subtopic: Festivals & Fairs
+          - Micro: General-factual
+          - Domain: Art-Culture
+          - **G-A-FESTIVAL-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:441, q:36)
+            - Topic: Art & Culture
+            - Subtopic: Festivals & Fairs
+            - Micro: General-factual
+            - Domain: Art-Culture
+            - **G-V-FESTIVAL-GENERA-DIRECT** (GA/DERIVED, L6, ord:1072, q:0)
+              - Topic: Art & Culture
+              - Subtopic: Festivals & Fairs
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+          - **G-A-FESTIVAL-GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:504, q:7)
+            - Topic: Art & Culture
+            - Subtopic: Festivals & Fairs
+            - Micro: General-factual
+            - Domain: Art-Culture
+            - **G-V-FESTIVAL-GENERA-FILL-U** (GA/DERIVED, L6, ord:1073, q:0)
+              - Topic: Art & Culture
+              - Subtopic: Festivals & Fairs
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+          - **G-A-FESTIVAL-GENERAL--MATCHING** (GA/PROCEDURAL, L5, ord:803, q:1)
+            - Topic: Art & Culture
+            - Subtopic: Festivals & Fairs
+            - Micro: General-factual
+            - Domain: Art-Culture
+            - **G-V-FESTIVAL-GENERA-MATCHI** (GA/DERIVED, L6, ord:1074, q:0)
+              - Topic: Art & Culture
+              - Subtopic: Festivals & Fairs
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+        - **G-M-FESTIVALS--PLACE-ANCHOR** (GA/RECALL, L4, ord:203, q:7)
+          - Topic: Art & Culture
+          - Subtopic: Festivals & Fairs
+          - Micro: Place-anchored
+          - Domain: Art-Culture
+          - **G-A-FESTIVAL-PLACE-AN-DIRECT-F** (GA/PROCEDURAL, L5, ord:505, q:7)
+            - Topic: Art & Culture
+            - Subtopic: Festivals & Fairs
+            - Micro: Place-anchored
+            - Domain: Art-Culture
+            - **G-V-FESTIVAL-PLACE--DIRECT** (GA/DERIVED, L6, ord:1077, q:0)
+              - Topic: Art & Culture
+              - Subtopic: Festivals & Fairs
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+        - **G-M-FESTIVALS--SUPERLATIVE-** (GA/RECALL, L4, ord:252, q:4)
+          - Topic: Art & Culture
+          - Subtopic: Festivals & Fairs
+          - Micro: Superlative/First-record
+          - Domain: Art-Culture
+          - **G-A-FESTIVAL-SUPERLAT-DIRECT-F** (GA/PROCEDURAL, L5, ord:606, q:3)
+            - Topic: Art & Culture
+            - Subtopic: Festivals & Fairs
+            - Micro: Superlative/First-record
+            - Domain: Art-Culture
+            - **G-V-FESTIVAL-SUPERL-DIRECT** (GA/DERIVED, L6, ord:1078, q:0)
+              - Topic: Art & Culture
+              - Subtopic: Festivals & Fairs
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+          - **G-A-FESTIVAL-SUPERLAT-MATCHING** (GA/PROCEDURAL, L5, ord:806, q:1)
+            - Topic: Art & Culture
+            - Subtopic: Festivals & Fairs
+            - Micro: Superlative/First-record
+            - Domain: Art-Culture
+            - **G-V-FESTIVAL-SUPERL-MATCHI** (GA/DERIVED, L6, ord:1079, q:0)
+              - Topic: Art & Culture
+              - Subtopic: Festivals & Fairs
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+        - **G-M-FESTIVALS--OTHER-FESTIV** (GA/RECALL, L4, ord:340, q:2)
+          - Topic: Art & Culture
+          - Subtopic: Festivals & Fairs
+          - Micro: Other Festivals & Fairs facts
+          - Domain: Art-Culture
+          - **G-A-FESTIVAL-OTHER-FE-DIRECT-F** (GA/PROCEDURAL, L5, ord:804, q:1)
+            - Topic: Art & Culture
+            - Subtopic: Festivals & Fairs
+            - Micro: Other Festivals & Fairs facts
+            - Domain: Art-Culture
+            - **G-V-FESTIVAL-OTHER--DIRECT** (GA/DERIVED, L6, ord:1075, q:0)
+              - Topic: Art & Culture
+              - Subtopic: Festivals & Fairs
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+          - **G-A-FESTIVAL-OTHER-FE-STATEMEN** (GA/PROCEDURAL, L5, ord:805, q:1)
+            - Topic: Art & Culture
+            - Subtopic: Festivals & Fairs
+            - Micro: Other Festivals & Fairs facts
+            - Domain: Art-Culture
+            - **G-V-FESTIVAL-OTHER--STATEM** (GA/DERIVED, L6, ord:1076, q:0)
+              - Topic: Art & Culture
+              - Subtopic: Festivals & Fairs
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+      - **G-S-ART-CULTUR-CLASSICAL-DA** (GA/DERIVED, L3, ord:51, q:33)
+        - Topic: Art & Culture
+        - Subtopic: Classical Dance
+        - Domain: Art-Culture
+        - **G-M-CLASSICAL--GENERAL-FACT** (GA/RECALL, L4, ord:159, q:17)
+          - Topic: Art & Culture
+          - Subtopic: Classical Dance
+          - Micro: General-factual
+          - Domain: Art-Culture
+          - **G-A-CLASSICA-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:476, q:11)
+            - Topic: Art & Culture
+            - Subtopic: Classical Dance
+            - Micro: General-factual
+            - Domain: Art-Culture
+            - **G-V-CLASSICA-GENERA-DIRECT** (GA/DERIVED, L6, ord:1005, q:0)
+              - Topic: Art & Culture
+              - Subtopic: Classical Dance
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+          - **G-A-CLASSICA-GENERAL--MATCHING** (GA/PROCEDURAL, L5, ord:599, q:3)
+            - Topic: Art & Culture
+            - Subtopic: Classical Dance
+            - Micro: General-factual
+            - Domain: Art-Culture
+            - **G-V-CLASSICA-GENERA-MATCHI** (GA/DERIVED, L6, ord:1007, q:0)
+              - Topic: Art & Culture
+              - Subtopic: Classical Dance
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+          - **G-A-CLASSICA-GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:654, q:2)
+            - Topic: Art & Culture
+            - Subtopic: Classical Dance
+            - Micro: General-factual
+            - Domain: Art-Culture
+            - **G-V-CLASSICA-GENERA-FILL-U** (GA/DERIVED, L6, ord:1006, q:0)
+              - Topic: Art & Culture
+              - Subtopic: Classical Dance
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+          - **G-A-CLASSICA-GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:774, q:1)
+            - Topic: Art & Culture
+            - Subtopic: Classical Dance
+            - Micro: General-factual
+            - Domain: Art-Culture
+            - **G-V-CLASSICA-GENERA-STATEM** (GA/DERIVED, L6, ord:1008, q:0)
+              - Topic: Art & Culture
+              - Subtopic: Classical Dance
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+        - **G-M-CLASSICAL--AWARD-ANCHOR** (GA/RECALL, L4, ord:222, q:5)
+          - Topic: Art & Culture
+          - Subtopic: Classical Dance
+          - Micro: Award-anchored
+          - Domain: Art-Culture
+          - **G-A-CLASSICA-AWARD-AN-DIRECT-F** (GA/PROCEDURAL, L5, ord:529, q:5)
+            - Topic: Art & Culture
+            - Subtopic: Classical Dance
+            - Micro: Award-anchored
+            - Domain: Art-Culture
+            - **G-V-CLASSICA-AWARD--DIRECT** (GA/DERIVED, L6, ord:1004, q:0)
+              - Topic: Art & Culture
+              - Subtopic: Classical Dance
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+        - **G-M-CLASSICAL--PERSON-ANCHO** (GA/RECALL, L4, ord:223, q:5)
+          - Topic: Art & Culture
+          - Subtopic: Classical Dance
+          - Micro: Person-anchored
+          - Domain: Art-Culture
+          - **G-A-CLASSICA-PERSON-A-DIRECT-F** (GA/PROCEDURAL, L5, ord:530, q:5)
+            - Topic: Art & Culture
+            - Subtopic: Classical Dance
+            - Micro: Person-anchored
+            - Domain: Art-Culture
+            - **G-V-CLASSICA-PERSON-DIRECT** (GA/DERIVED, L6, ord:1011, q:0)
+              - Topic: Art & Culture
+              - Subtopic: Classical Dance
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+        - **G-M-CLASSICAL--OTHER-CLASSI** (GA/RECALL, L4, ord:325, q:2)
+          - Topic: Art & Culture
+          - Subtopic: Classical Dance
+          - Micro: Other Classical Dance facts
+          - Domain: Art-Culture
+          - **G-A-CLASSICA-OTHER-CL-DIRECT-F** (GA/PROCEDURAL, L5, ord:775, q:1)
+            - Topic: Art & Culture
+            - Subtopic: Classical Dance
+            - Micro: Other Classical Dance facts
+            - Domain: Art-Culture
+            - **G-V-CLASSICA-OTHER--DIRECT** (GA/DERIVED, L6, ord:1009, q:0)
+              - Topic: Art & Culture
+              - Subtopic: Classical Dance
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+          - **G-A-CLASSICA-OTHER-CL-STATEMEN** (GA/PROCEDURAL, L5, ord:776, q:1)
+            - Topic: Art & Culture
+            - Subtopic: Classical Dance
+            - Micro: Other Classical Dance facts
+            - Domain: Art-Culture
+            - **G-V-CLASSICA-OTHER--STATEM** (GA/DERIVED, L6, ord:1010, q:0)
+              - Topic: Art & Culture
+              - Subtopic: Classical Dance
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+        - **G-M-CLASSICAL--PLACE-ANCHOR** (GA/RECALL, L4, ord:326, q:2)
+          - Topic: Art & Culture
+          - Subtopic: Classical Dance
+          - Micro: Place-anchored
+          - Domain: Art-Culture
+          - **G-A-CLASSICA-PLACE-AN-DIRECT-F** (GA/PROCEDURAL, L5, ord:655, q:2)
+            - Topic: Art & Culture
+            - Subtopic: Classical Dance
+            - Micro: Place-anchored
+            - Domain: Art-Culture
+            - **G-V-CLASSICA-PLACE--DIRECT** (GA/DERIVED, L6, ord:1012, q:0)
+              - Topic: Art & Culture
+              - Subtopic: Classical Dance
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+        - **G-M-CLASSICAL--YEAR-ANCHORE** (GA/RECALL, L4, ord:327, q:2)
+          - Topic: Art & Culture
+          - Subtopic: Classical Dance
+          - Micro: Year-anchored
+          - Domain: Art-Culture
+          - **G-A-CLASSICA-YEAR-ANC-DIRECT-F** (GA/PROCEDURAL, L5, ord:656, q:2)
+            - Topic: Art & Culture
+            - Subtopic: Classical Dance
+            - Micro: Year-anchored
+            - Domain: Art-Culture
+            - **G-V-CLASSICA-YEAR-A-DIRECT** (GA/DERIVED, L6, ord:1013, q:0)
+              - Topic: Art & Culture
+              - Subtopic: Classical Dance
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+      - **G-S-ART-CULTUR-MUSIC-INSTRU** (GA/DERIVED, L3, ord:52, q:123)
+        - Topic: Art & Culture
+        - Subtopic: Music & Instruments
+        - Domain: Art-Culture
+        - **G-M-MUSIC-INST-GENERAL-FACT** (GA/RECALL, L4, ord:133, q:73)
+          - Topic: Art & Culture
+          - Subtopic: Music & Instruments
+          - Micro: General-factual
+          - Domain: Art-Culture
+          - **G-A-MUSIC-IN-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:438, q:52)
+            - Topic: Art & Culture
+            - Subtopic: Music & Instruments
+            - Micro: General-factual
+            - Domain: Art-Culture
+            - **G-V-MUSIC-IN-GENERA-DIRECT** (GA/DERIVED, L6, ord:1342, q:0)
+              - Topic: Art & Culture
+              - Subtopic: Music & Instruments
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+          - **G-A-MUSIC-IN-GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:481, q:11)
+            - Topic: Art & Culture
+            - Subtopic: Music & Instruments
+            - Micro: General-factual
+            - Domain: Art-Culture
+            - **G-V-MUSIC-IN-GENERA-FILL-U** (GA/DERIVED, L6, ord:1343, q:0)
+              - Topic: Art & Culture
+              - Subtopic: Music & Instruments
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+          - **G-A-MUSIC-IN-GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:509, q:7)
+            - Topic: Art & Culture
+            - Subtopic: Music & Instruments
+            - Micro: General-factual
+            - Domain: Art-Culture
+            - **G-V-MUSIC-IN-GENERA-STATEM** (GA/DERIVED, L6, ord:1345, q:0)
+              - Topic: Art & Culture
+              - Subtopic: Music & Instruments
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+          - **G-A-MUSIC-IN-GENERAL--MATCHING** (GA/PROCEDURAL, L5, ord:629, q:3)
+            - Topic: Art & Culture
+            - Subtopic: Music & Instruments
+            - Micro: General-factual
+            - Domain: Art-Culture
+            - **G-V-MUSIC-IN-GENERA-MATCHI** (GA/DERIVED, L6, ord:1344, q:0)
+              - Topic: Art & Culture
+              - Subtopic: Music & Instruments
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+        - **G-M-MUSIC-INST-PERSON-ANCHO** (GA/RECALL, L4, ord:171, q:14)
+          - Topic: Art & Culture
+          - Subtopic: Music & Instruments
+          - Micro: Person-anchored
+          - Domain: Art-Culture
+          - **G-A-MUSIC-IN-PERSON-A-DIRECT-F** (GA/PROCEDURAL, L5, ord:467, q:14)
+            - Topic: Art & Culture
+            - Subtopic: Music & Instruments
+            - Micro: Person-anchored
+            - Domain: Art-Culture
+            - **G-V-MUSIC-IN-PERSON-DIRECT** (GA/DERIVED, L6, ord:1349, q:0)
+              - Topic: Art & Culture
+              - Subtopic: Music & Instruments
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+        - **G-M-MUSIC-INST-OTHER-MUSIC-** (GA/RECALL, L4, ord:174, q:13)
+          - Topic: Art & Culture
+          - Subtopic: Music & Instruments
+          - Micro: Other Music & Instruments facts
+          - Domain: Art-Culture
+          - **G-A-MUSIC-IN-OTHER-MU-DIRECT-F** (GA/PROCEDURAL, L5, ord:489, q:10)
+            - Topic: Art & Culture
+            - Subtopic: Music & Instruments
+            - Micro: Other Music & Instruments facts
+            - Domain: Art-Culture
+            - **G-V-MUSIC-IN-OTHER--DIRECT** (GA/DERIVED, L6, ord:1346, q:0)
+              - Topic: Art & Culture
+              - Subtopic: Music & Instruments
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+          - **G-A-MUSIC-IN-OTHER-MU-FILL-UP** (GA/PROCEDURAL, L5, ord:731, q:2)
+            - Topic: Art & Culture
+            - Subtopic: Music & Instruments
+            - Micro: Other Music & Instruments facts
+            - Domain: Art-Culture
+            - **G-V-MUSIC-IN-OTHER--FILL-U** (GA/DERIVED, L6, ord:1347, q:0)
+              - Topic: Art & Culture
+              - Subtopic: Music & Instruments
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+          - **G-A-MUSIC-IN-OTHER-MU-STATEMEN** (GA/PROCEDURAL, L5, ord:906, q:1)
+            - Topic: Art & Culture
+            - Subtopic: Music & Instruments
+            - Micro: Other Music & Instruments facts
+            - Domain: Art-Culture
+            - **G-V-MUSIC-IN-OTHER--STATEM** (GA/DERIVED, L6, ord:1348, q:0)
+              - Topic: Art & Culture
+              - Subtopic: Music & Instruments
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+        - **G-M-MUSIC-INST-AWARD-ANCHOR** (GA/RECALL, L4, ord:187, q:10)
+          - Topic: Art & Culture
+          - Subtopic: Music & Instruments
+          - Micro: Award-anchored
+          - Domain: Art-Culture
+          - **G-A-MUSIC-IN-AWARD-AN-DIRECT-F** (GA/PROCEDURAL, L5, ord:500, q:8)
+            - Topic: Art & Culture
+            - Subtopic: Music & Instruments
+            - Micro: Award-anchored
+            - Domain: Art-Culture
+            - **G-V-MUSIC-IN-AWARD--DIRECT** (GA/DERIVED, L6, ord:1340, q:0)
+              - Topic: Art & Culture
+              - Subtopic: Music & Instruments
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+          - **G-A-MUSIC-IN-AWARD-AN-FILL-UP** (GA/PROCEDURAL, L5, ord:730, q:2)
+            - Topic: Art & Culture
+            - Subtopic: Music & Instruments
+            - Micro: Award-anchored
+            - Domain: Art-Culture
+            - **G-V-MUSIC-IN-AWARD--FILL-U** (GA/DERIVED, L6, ord:1341, q:0)
+              - Topic: Art & Culture
+              - Subtopic: Music & Instruments
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+        - **G-M-MUSIC-INST-YEAR-ANCHORE** (GA/RECALL, L4, ord:197, q:8)
+          - Topic: Art & Culture
+          - Subtopic: Music & Instruments
+          - Micro: Year-anchored
+          - Domain: Art-Culture
+          - **G-A-MUSIC-IN-YEAR-ANC-DIRECT-F** (GA/PROCEDURAL, L5, ord:522, q:6)
+            - Topic: Art & Culture
+            - Subtopic: Music & Instruments
+            - Micro: Year-anchored
+            - Domain: Art-Culture
+            - **G-V-MUSIC-IN-YEAR-A-DIRECT** (GA/DERIVED, L6, ord:1351, q:0)
+              - Topic: Art & Culture
+              - Subtopic: Music & Instruments
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+          - **G-A-MUSIC-IN-YEAR-ANC-FILL-UP** (GA/PROCEDURAL, L5, ord:907, q:1)
+            - Topic: Art & Culture
+            - Subtopic: Music & Instruments
+            - Micro: Year-anchored
+            - Domain: Art-Culture
+            - **G-V-MUSIC-IN-YEAR-A-FILL-U** (GA/DERIVED, L6, ord:1352, q:0)
+              - Topic: Art & Culture
+              - Subtopic: Music & Instruments
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+          - **G-A-MUSIC-IN-YEAR-ANC-MATCHING** (GA/PROCEDURAL, L5, ord:908, q:1)
+            - Topic: Art & Culture
+            - Subtopic: Music & Instruments
+            - Micro: Year-anchored
+            - Domain: Art-Culture
+            - **G-V-MUSIC-IN-YEAR-A-MATCHI** (GA/DERIVED, L6, ord:1353, q:0)
+              - Topic: Art & Culture
+              - Subtopic: Music & Instruments
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+        - **G-M-MUSIC-INST-PLACE-ANCHOR** (GA/RECALL, L4, ord:239, q:5)
+          - Topic: Art & Culture
+          - Subtopic: Music & Instruments
+          - Micro: Place-anchored
+          - Domain: Art-Culture
+          - **G-A-MUSIC-IN-PLACE-AN-DIRECT-F** (GA/PROCEDURAL, L5, ord:544, q:5)
+            - Topic: Art & Culture
+            - Subtopic: Music & Instruments
+            - Micro: Place-anchored
+            - Domain: Art-Culture
+            - **G-V-MUSIC-IN-PLACE--DIRECT** (GA/DERIVED, L6, ord:1350, q:0)
+              - Topic: Art & Culture
+              - Subtopic: Music & Instruments
+              - Micro: Variations & distractors
+              - Domain: Art-Culture
+  - **G-D-AWARDS** (GA/DERIVED, L1, ord:3, q:0)
+    - Domain: Awards
+    - **G-T-AWARDS** (GA/DERIVED, L2, ord:34, q:21)
+      - Topic: Awards
+      - Domain: Awards
+      - **G-S-AWARDS-GENERAL-AWAR** (GA/DERIVED, L3, ord:94, q:8)
+        - Topic: Awards
+        - Subtopic: General Awards
+        - Domain: Awards
+        - **G-M-GENERAL-AW-AWARD-ANCHOR** (GA/RECALL, L4, ord:229, q:5)
+          - Topic: Awards
+          - Subtopic: General Awards
+          - Micro: Award-anchored
+          - Domain: Awards
+          - **G-A-GENERAL--AWARD-AN-DIRECT-F-2** (GA/PROCEDURAL, L5, ord:559, q:4)
+            - Topic: Awards
+            - Subtopic: General Awards
+            - Micro: Award-anchored
+            - Domain: Awards
+            - **G-V-GENERAL--AWARD--DIRECT-2** (GA/DERIVED, L6, ord:1118, q:0)
+              - Topic: Awards
+              - Subtopic: General Awards
+              - Micro: Variations & distractors
+              - Domain: Awards
+          - **G-A-GENERAL--AWARD-AN-FILL-UP-2** (GA/PROCEDURAL, L5, ord:826, q:1)
+            - Topic: Awards
+            - Subtopic: General Awards
+            - Micro: Award-anchored
+            - Domain: Awards
+            - **G-V-GENERAL--AWARD--FILL-U-2** (GA/DERIVED, L6, ord:1121, q:0)
+              - Topic: Awards
+              - Subtopic: General Awards
+              - Micro: Variations & distractors
+              - Domain: Awards
+        - **G-M-GENERAL-AW-OTHER-GENERA** (GA/RECALL, L4, ord:287, q:3)
+          - Topic: Awards
+          - Subtopic: General Awards
+          - Micro: Other General Awards facts
+          - Domain: Awards
+          - **G-A-GENERAL--OTHER-GE-DIRECT-F-2** (GA/PROCEDURAL, L5, ord:612, q:3)
+            - Topic: Awards
+            - Subtopic: General Awards
+            - Micro: Other General Awards facts
+            - Domain: Awards
+            - **G-V-GENERAL--OTHER--DIRECT-2** (GA/DERIVED, L6, ord:1179, q:0)
+              - Topic: Awards
+              - Subtopic: General Awards
+              - Micro: Variations & distractors
+              - Domain: Awards
+      - **G-S-AWARDS-INTERNATIONA** (GA/DERIVED, L3, ord:95, q:8)
+        - Topic: Awards
+        - Subtopic: International Awards
+        - Domain: Awards
+        - **G-M-INTERNATIO-AWARD-ANCHOR** (GA/RECALL, L4, ord:306, q:3)
+          - Topic: Awards
+          - Subtopic: International Awards
+          - Micro: Award-anchored
+          - Domain: Awards
+          - **G-A-INTERNAT-AWARD-AN-DIRECT-F** (GA/PROCEDURAL, L5, ord:624, q:3)
+            - Topic: Awards
+            - Subtopic: International Awards
+            - Micro: Award-anchored
+            - Domain: Awards
+            - **G-V-INTERNAT-AWARD--DIRECT** (GA/DERIVED, L6, ord:1293, q:0)
+              - Topic: Awards
+              - Subtopic: International Awards
+              - Micro: Variations & distractors
+              - Domain: Awards
+        - **G-M-INTERNATIO-PERSON-ANCHO** (GA/RECALL, L4, ord:307, q:3)
+          - Topic: Awards
+          - Subtopic: International Awards
+          - Micro: Person-anchored
+          - Domain: Awards
+          - **G-A-INTERNAT-PERSON-A-DIRECT-F** (GA/PROCEDURAL, L5, ord:625, q:3)
+            - Topic: Awards
+            - Subtopic: International Awards
+            - Micro: Person-anchored
+            - Domain: Awards
+            - **G-V-INTERNAT-PERSON-DIRECT** (GA/DERIVED, L6, ord:1295, q:0)
+              - Topic: Awards
+              - Subtopic: International Awards
+              - Micro: Variations & distractors
+              - Domain: Awards
+        - **G-M-INTERNATIO-OTHER-INTERN** (GA/RECALL, L4, ord:376, q:2)
+          - Topic: Awards
+          - Subtopic: International Awards
+          - Micro: Other International Awards facts
+          - Domain: Awards
+          - **G-A-INTERNAT-OTHER-IN-DIRECT-F** (GA/PROCEDURAL, L5, ord:719, q:2)
+            - Topic: Awards
+            - Subtopic: International Awards
+            - Micro: Other International Awards facts
+            - Domain: Awards
+            - **G-V-INTERNAT-OTHER--DIRECT** (GA/DERIVED, L6, ord:1294, q:0)
+              - Topic: Awards
+              - Subtopic: International Awards
+              - Micro: Variations & distractors
+              - Domain: Awards
+      - **G-S-AWARDS-CIVILIAN-HON** (GA/DERIVED, L3, ord:119, q:2)
+        - Topic: Awards
+        - Subtopic: Civilian Honours (Padma/Bharat Ratna)
+        - Domain: Awards
+        - **G-M-CIVILIAN-H-AWARD-ANCHOR** (GA/RECALL, L4, ord:324, q:2)
+          - Topic: Awards
+          - Subtopic: Civilian Honours (Padma/Bharat Ratna)
+          - Micro: Award-anchored
+          - Domain: Awards
+          - **G-A-CIVILIAN-AWARD-AN-FILL-UP** (GA/PROCEDURAL, L5, ord:772, q:1)
+            - Topic: Awards
+            - Subtopic: Civilian Honours (Padma/Bharat Ratna)
+            - Micro: Award-anchored
+            - Domain: Awards
+            - **G-V-CIVILIAN-AWARD--FILL-U** (GA/DERIVED, L6, ord:1002, q:0)
+              - Topic: Awards
+              - Subtopic: Civilian Honours (Padma/Bharat Ratna)
+              - Micro: Variations & distractors
+              - Domain: Awards
+          - **G-A-CIVILIAN-AWARD-AN-STATEMEN** (GA/PROCEDURAL, L5, ord:773, q:1)
+            - Topic: Awards
+            - Subtopic: Civilian Honours (Padma/Bharat Ratna)
+            - Micro: Award-anchored
+            - Domain: Awards
+            - **G-V-CIVILIAN-AWARD--STATEM** (GA/DERIVED, L6, ord:1003, q:0)
+              - Topic: Awards
+              - Subtopic: Civilian Honours (Padma/Bharat Ratna)
+              - Micro: Variations & distractors
+              - Domain: Awards
+      - **G-S-AWARDS-FILM-LITERAR** (GA/DERIVED, L3, ord:120, q:2)
+        - Topic: Awards
+        - Subtopic: Film & Literary Awards
+        - Domain: Awards
+        - **G-M-FILM-LITER-OTHER-FILM-L** (GA/RECALL, L4, ord:343, q:2)
+          - Topic: Awards
+          - Subtopic: Film & Literary Awards
+          - Micro: Other Film & Literary Awards facts
+          - Domain: Awards
+          - **G-A-FILM-LIT-OTHER-FI-DIRECT-F** (GA/PROCEDURAL, L5, ord:810, q:1)
+            - Topic: Awards
+            - Subtopic: Film & Literary Awards
+            - Micro: Other Film & Literary Awards facts
+            - Domain: Awards
+            - **G-V-FILM-LIT-OTHER--DIRECT** (GA/DERIVED, L6, ord:1085, q:0)
+              - Topic: Awards
+              - Subtopic: Film & Literary Awards
+              - Micro: Variations & distractors
+              - Domain: Awards
+          - **G-A-FILM-LIT-OTHER-FI-STATEMEN** (GA/PROCEDURAL, L5, ord:811, q:1)
+            - Topic: Awards
+            - Subtopic: Film & Literary Awards
+            - Micro: Other Film & Literary Awards facts
+            - Domain: Awards
+            - **G-V-FILM-LIT-OTHER--STATEM** (GA/DERIVED, L6, ord:1086, q:0)
+              - Topic: Awards
+              - Subtopic: Film & Literary Awards
+              - Micro: Variations & distractors
+              - Domain: Awards
+      - **G-S-AWARDS-SPORTS-AWARD** (GA/DERIVED, L3, ord:125, q:1)
+        - Topic: Awards
+        - Subtopic: Sports Awards
+        - Domain: Awards
+        - **G-M-SPORTS-AWA-OTHER-SPORTS** (GA/RECALL, L4, ord:435, q:1)
+          - Topic: Awards
+          - Subtopic: Sports Awards
+          - Micro: Other Sports Awards facts
+          - Domain: Awards
+          - **G-A-SPORTS-A-OTHER-SP-STATEMEN** (GA/PROCEDURAL, L5, ord:939, q:1)
+            - Topic: Awards
+            - Subtopic: Sports Awards
+            - Micro: Other Sports Awards facts
+            - Domain: Awards
+            - **G-V-SPORTS-A-OTHER--STATEM** (GA/DERIVED, L6, ord:1437, q:0)
+              - Topic: Awards
+              - Subtopic: Sports Awards
+              - Micro: Variations & distractors
+              - Domain: Awards
+  - **G-D-BIOLOGY** (GA/DERIVED, L1, ord:4, q:0)
+    - Domain: Biology
+    - **G-T-BIOLOGY** (GA/DERIVED, L2, ord:31, q:59)
+      - Topic: Biology
+      - Domain: Biology
+      - **G-S-BIOLOGY-GENERAL-BIOL** (GA/DERIVED, L3, ord:59, q:28)
+        - Topic: Biology
+        - Subtopic: General Biology
+        - Domain: Biology
+        - **G-M-GENERAL-BI-GENERAL-FACT** (GA/RECALL, L4, ord:150, q:22)
+          - Topic: Biology
+          - Subtopic: General Biology
+          - Micro: General-factual
+          - Domain: Biology
+          - **G-A-GENERAL--GENERAL--DIRECT-F-2** (GA/PROCEDURAL, L5, ord:451, q:20)
+            - Topic: Biology
+            - Subtopic: General Biology
+            - Micro: General-factual
+            - Domain: Biology
+            - **G-V-GENERAL--GENERA-DIRECT-2** (GA/DERIVED, L6, ord:1136, q:0)
+              - Topic: Biology
+              - Subtopic: General Biology
+              - Micro: Variations & distractors
+              - Domain: Biology
+          - **G-A-GENERAL--GENERAL--FILL-UP-2** (GA/PROCEDURAL, L5, ord:833, q:1)
+            - Topic: Biology
+            - Subtopic: General Biology
+            - Micro: General-factual
+            - Domain: Biology
+            - **G-V-GENERAL--GENERA-FILL-U-2** (GA/DERIVED, L6, ord:1146, q:0)
+              - Topic: Biology
+              - Subtopic: General Biology
+              - Micro: Variations & distractors
+              - Domain: Biology
+          - **G-A-GENERAL--GENERAL--STATEMEN-2** (GA/PROCEDURAL, L5, ord:839, q:1)
+            - Topic: Biology
+            - Subtopic: General Biology
+            - Micro: General-factual
+            - Domain: Biology
+            - **G-V-GENERAL--GENERA-STATEM-2** (GA/DERIVED, L6, ord:1162, q:0)
+              - Topic: Biology
+              - Subtopic: General Biology
+              - Micro: Variations & distractors
+              - Domain: Biology
+        - **G-M-GENERAL-BI-TERM-ANCHORE** (GA/RECALL, L4, ord:258, q:4)
+          - Topic: Biology
+          - Subtopic: General Biology
+          - Micro: Term-anchored
+          - Domain: Biology
+          - **G-A-GENERAL--TERM-ANC-DIRECT-F** (GA/PROCEDURAL, L5, ord:615, q:3)
+            - Topic: Biology
+            - Subtopic: General Biology
+            - Micro: Term-anchored
+            - Domain: Biology
+            - **G-V-GENERAL--TERM-A-DIRECT** (GA/DERIVED, L6, ord:1215, q:0)
+              - Topic: Biology
+              - Subtopic: General Biology
+              - Micro: Variations & distractors
+              - Domain: Biology
+          - **G-A-GENERAL--TERM-ANC-FILL-UP** (GA/PROCEDURAL, L5, ord:859, q:1)
+            - Topic: Biology
+            - Subtopic: General Biology
+            - Micro: Term-anchored
+            - Domain: Biology
+            - **G-V-GENERAL--TERM-A-FILL-U** (GA/DERIVED, L6, ord:1219, q:0)
+              - Topic: Biology
+              - Subtopic: General Biology
+              - Micro: Variations & distractors
+              - Domain: Biology
+        - **G-M-GENERAL-BI-OTHER-GENERA** (GA/RECALL, L4, ord:352, q:2)
+          - Topic: Biology
+          - Subtopic: General Biology
+          - Micro: Other General Biology facts
+          - Domain: Biology
+          - **G-A-GENERAL--OTHER-GE-DIRECT-F-3** (GA/PROCEDURAL, L5, ord:844, q:1)
+            - Topic: Biology
+            - Subtopic: General Biology
+            - Micro: Other General Biology facts
+            - Domain: Biology
+            - **G-V-GENERAL--OTHER--DIRECT-3** (GA/DERIVED, L6, ord:1180, q:0)
+              - Topic: Biology
+              - Subtopic: General Biology
+              - Micro: Variations & distractors
+              - Domain: Biology
+          - **G-A-GENERAL--OTHER-GE-STATEMEN** (GA/PROCEDURAL, L5, ord:849, q:1)
+            - Topic: Biology
+            - Subtopic: General Biology
+            - Micro: Other General Biology facts
+            - Domain: Biology
+            - **G-V-GENERAL--OTHER--STATEM** (GA/DERIVED, L6, ord:1188, q:0)
+              - Topic: Biology
+              - Subtopic: General Biology
+              - Micro: Variations & distractors
+              - Domain: Biology
+      - **G-S-BIOLOGY-ECOLOGY-DIVE** (GA/DERIVED, L3, ord:88, q:9)
+        - Topic: Biology
+        - Subtopic: Ecology & Diversity
+        - Domain: Biology
+        - **G-M-ECOLOGY-DI-GENERAL-FACT** (GA/RECALL, L4, ord:193, q:8)
+          - Topic: Biology
+          - Subtopic: Ecology & Diversity
+          - Micro: General-factual
+          - Domain: Biology
+          - **G-A-ECOLOGY--GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:503, q:7)
+            - Topic: Biology
+            - Subtopic: Ecology & Diversity
+            - Micro: General-factual
+            - Domain: Biology
+            - **G-V-ECOLOGY--GENERA-DIRECT** (GA/DERIVED, L6, ord:1053, q:0)
+              - Topic: Biology
+              - Subtopic: Ecology & Diversity
+              - Micro: Variations & distractors
+              - Domain: Biology
+          - **G-A-ECOLOGY--GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:793, q:1)
+            - Topic: Biology
+            - Subtopic: Ecology & Diversity
+            - Micro: General-factual
+            - Domain: Biology
+            - **G-V-ECOLOGY--GENERA-STATEM** (GA/DERIVED, L6, ord:1054, q:0)
+              - Topic: Biology
+              - Subtopic: Ecology & Diversity
+              - Micro: Variations & distractors
+              - Domain: Biology
+        - **G-M-ECOLOGY-DI-OTHER-ECOLOG** (GA/RECALL, L4, ord:410, q:1)
+          - Topic: Biology
+          - Subtopic: Ecology & Diversity
+          - Micro: Other Ecology & Diversity facts
+          - Domain: Biology
+          - **G-A-ECOLOGY--OTHER-EC-DIRECT-F** (GA/PROCEDURAL, L5, ord:794, q:1)
+            - Topic: Biology
+            - Subtopic: Ecology & Diversity
+            - Micro: Other Ecology & Diversity facts
+            - Domain: Biology
+            - **G-V-ECOLOGY--OTHER--DIRECT** (GA/DERIVED, L6, ord:1055, q:0)
+              - Topic: Biology
+              - Subtopic: Ecology & Diversity
+              - Micro: Variations & distractors
+              - Domain: Biology
+      - **G-S-BIOLOGY-HUMAN-BODY-H** (GA/DERIVED, L3, ord:89, q:9)
+        - Topic: Biology
+        - Subtopic: Human Body & Health
+        - Domain: Biology
+        - **G-M-HUMAN-BODY-GENERAL-FACT** (GA/RECALL, L4, ord:236, q:5)
+          - Topic: Biology
+          - Subtopic: Human Body & Health
+          - Micro: General-factual
+          - Domain: Biology
+          - **G-A-HUMAN-BO-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:540, q:5)
+            - Topic: Biology
+            - Subtopic: Human Body & Health
+            - Micro: General-factual
+            - Domain: Biology
+            - **G-V-HUMAN-BO-GENERA-DIRECT** (GA/DERIVED, L6, ord:1261, q:0)
+              - Topic: Biology
+              - Subtopic: Human Body & Health
+              - Micro: Variations & distractors
+              - Domain: Biology
+        - **G-M-HUMAN-BODY-OTHER-HUMAN-** (GA/RECALL, L4, ord:368, q:2)
+          - Topic: Biology
+          - Subtopic: Human Body & Health
+          - Micro: Other Human Body & Health facts
+          - Domain: Biology
+          - **G-A-HUMAN-BO-OTHER-HU-DIRECT-F** (GA/PROCEDURAL, L5, ord:874, q:1)
+            - Topic: Biology
+            - Subtopic: Human Body & Health
+            - Micro: Other Human Body & Health facts
+            - Domain: Biology
+            - **G-V-HUMAN-BO-OTHER--DIRECT** (GA/DERIVED, L6, ord:1262, q:0)
+              - Topic: Biology
+              - Subtopic: Human Body & Health
+              - Micro: Variations & distractors
+              - Domain: Biology
+          - **G-A-HUMAN-BO-OTHER-HU-STATEMEN** (GA/PROCEDURAL, L5, ord:875, q:1)
+            - Topic: Biology
+            - Subtopic: Human Body & Health
+            - Micro: Other Human Body & Health facts
+            - Domain: Biology
+            - **G-V-HUMAN-BO-OTHER--STATEM** (GA/DERIVED, L6, ord:1263, q:0)
+              - Topic: Biology
+              - Subtopic: Human Body & Health
+              - Micro: Variations & distractors
+              - Domain: Biology
+        - **G-M-HUMAN-BODY-QUANTITY-ANC** (GA/RECALL, L4, ord:369, q:2)
+          - Topic: Biology
+          - Subtopic: Human Body & Health
+          - Micro: Quantity-anchored
+          - Domain: Biology
+          - **G-A-HUMAN-BO-QUANTITY-DIRECT-F** (GA/PROCEDURAL, L5, ord:713, q:2)
+            - Topic: Biology
+            - Subtopic: Human Body & Health
+            - Micro: Quantity-anchored
+            - Domain: Biology
+            - **G-V-HUMAN-BO-QUANTI-DIRECT** (GA/DERIVED, L6, ord:1264, q:0)
+              - Topic: Biology
+              - Subtopic: Human Body & Health
+              - Micro: Variations & distractors
+              - Domain: Biology
+      - **G-S-BIOLOGY-CELL-GENETIC** (GA/DERIVED, L3, ord:96, q:8)
+        - Topic: Biology
+        - Subtopic: Cell & Genetics
+        - Domain: Biology
+        - **G-M-CELL-GENET-GENERAL-FACT** (GA/RECALL, L4, ord:244, q:4)
+          - Topic: Biology
+          - Subtopic: Cell & Genetics
+          - Micro: General-factual
+          - Domain: Biology
+          - **G-A-CELL-GEN-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:551, q:4)
+            - Topic: Biology
+            - Subtopic: Cell & Genetics
+            - Micro: General-factual
+            - Domain: Biology
+            - **G-V-CELL-GEN-GENERA-DIRECT** (GA/DERIVED, L6, ord:996, q:0)
+              - Topic: Biology
+              - Subtopic: Cell & Genetics
+              - Micro: Variations & distractors
+              - Domain: Biology
+        - **G-M-CELL-GENET-OTHER-CELL-G** (GA/RECALL, L4, ord:245, q:4)
+          - Topic: Biology
+          - Subtopic: Cell & Genetics
+          - Micro: Other Cell & Genetics facts
+          - Domain: Biology
+          - **G-A-CELL-GEN-OTHER-CE-DIRECT-F** (GA/PROCEDURAL, L5, ord:552, q:4)
+            - Topic: Biology
+            - Subtopic: Cell & Genetics
+            - Micro: Other Cell & Genetics facts
+            - Domain: Biology
+            - **G-V-CELL-GEN-OTHER--DIRECT** (GA/DERIVED, L6, ord:997, q:0)
+              - Topic: Biology
+              - Subtopic: Cell & Genetics
+              - Micro: Variations & distractors
+              - Domain: Biology
+      - **G-S-BIOLOGY-PLANT-PHYSIO** (GA/DERIVED, L3, ord:107, q:5)
+        - Topic: Biology
+        - Subtopic: Plant Physiology
+        - Domain: Biology
+        - **G-M-PLANT-PHYS-GENERAL-FACT** (GA/RECALL, L4, ord:311, q:3)
+          - Topic: Biology
+          - Subtopic: Plant Physiology
+          - Micro: General-factual
+          - Domain: Biology
+          - **G-A-PLANT-PH-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:636, q:3)
+            - Topic: Biology
+            - Subtopic: Plant Physiology
+            - Micro: General-factual
+            - Domain: Biology
+            - **G-V-PLANT-PH-GENERA-DIRECT** (GA/DERIVED, L6, ord:1395, q:0)
+              - Topic: Biology
+              - Subtopic: Plant Physiology
+              - Micro: Variations & distractors
+              - Domain: Biology
+        - **G-M-PLANT-PHYS-OTHER-PLANT-** (GA/RECALL, L4, ord:391, q:2)
+          - Topic: Biology
+          - Subtopic: Plant Physiology
+          - Micro: Other Plant Physiology facts
+          - Domain: Biology
+          - **G-A-PLANT-PH-OTHER-PL-DIRECT-F** (GA/PROCEDURAL, L5, ord:741, q:2)
+            - Topic: Biology
+            - Subtopic: Plant Physiology
+            - Micro: Other Plant Physiology facts
+            - Domain: Biology
+            - **G-V-PLANT-PH-OTHER--DIRECT** (GA/DERIVED, L6, ord:1396, q:0)
+              - Topic: Biology
+              - Subtopic: Plant Physiology
+              - Micro: Variations & distractors
+              - Domain: Biology
+  - **G-D-BOOKS** (GA/DERIVED, L1, ord:5, q:0)
+    - Domain: Books
+    - **G-T-BOOKS** (GA/DERIVED, L2, ord:33, q:45)
+      - Topic: Books
+      - Domain: Books
+      - **G-S-BOOKS-GENERAL-BOOK** (GA/DERIVED, L3, ord:64, q:25)
+        - Topic: Books
+        - Subtopic: General Books & Authors
+        - Domain: Books
+        - **G-M-GENERAL-BO-BOOK-ANCHORE** (GA/RECALL, L4, ord:160, q:17)
+          - Topic: Books
+          - Subtopic: General Books & Authors
+          - Micro: Book-anchored
+          - Domain: Books
+          - **G-A-GENERAL--BOOK-ANC-DIRECT-F** (GA/PROCEDURAL, L5, ord:477, q:11)
+            - Topic: Books
+            - Subtopic: General Books & Authors
+            - Micro: Book-anchored
+            - Domain: Books
+            - **G-V-GENERAL--BOOK-A-DIRECT** (GA/DERIVED, L6, ord:1123, q:0)
+              - Topic: Books
+              - Subtopic: General Books & Authors
+              - Micro: Variations & distractors
+              - Domain: Books
+          - **G-A-GENERAL--BOOK-ANC-FILL-UP** (GA/PROCEDURAL, L5, ord:560, q:4)
+            - Topic: Books
+            - Subtopic: General Books & Authors
+            - Micro: Book-anchored
+            - Domain: Books
+            - **G-V-GENERAL--BOOK-A-FILL-U** (GA/DERIVED, L6, ord:1126, q:0)
+              - Topic: Books
+              - Subtopic: General Books & Authors
+              - Micro: Variations & distractors
+              - Domain: Books
+          - **G-A-GENERAL--BOOK-ANC-MATCHING** (GA/PROCEDURAL, L5, ord:829, q:1)
+            - Topic: Books
+            - Subtopic: General Books & Authors
+            - Micro: Book-anchored
+            - Domain: Books
+            - **G-V-GENERAL--BOOK-A-MATCHI** (GA/DERIVED, L6, ord:1128, q:0)
+              - Topic: Books
+              - Subtopic: General Books & Authors
+              - Micro: Variations & distractors
+              - Domain: Books
+          - **G-A-GENERAL--BOOK-ANC-STATEMEN** (GA/PROCEDURAL, L5, ord:831, q:1)
+            - Topic: Books
+            - Subtopic: General Books & Authors
+            - Micro: Book-anchored
+            - Domain: Books
+            - **G-V-GENERAL--BOOK-A-STATEM** (GA/DERIVED, L6, ord:1130, q:0)
+              - Topic: Books
+              - Subtopic: General Books & Authors
+              - Micro: Variations & distractors
+              - Domain: Books
+        - **G-M-GENERAL-BO-PERSON-ANCHO** (GA/RECALL, L4, ord:207, q:7)
+          - Topic: Books
+          - Subtopic: General Books & Authors
+          - Micro: Person-anchored
+          - Domain: Books
+          - **G-A-GENERAL--PERSON-A-DIRECT-F-2** (GA/PROCEDURAL, L5, ord:507, q:7)
+            - Topic: Books
+            - Subtopic: General Books & Authors
+            - Micro: Person-anchored
+            - Domain: Books
+            - **G-V-GENERAL--PERSON-DIRECT-2** (GA/DERIVED, L6, ord:1191, q:0)
+              - Topic: Books
+              - Subtopic: General Books & Authors
+              - Micro: Variations & distractors
+              - Domain: Books
+        - **G-M-GENERAL-BO-OTHER-GENERA** (GA/RECALL, L4, ord:417, q:1)
+          - Topic: Books
+          - Subtopic: General Books & Authors
+          - Micro: Other General Books & Authors facts
+          - Domain: Books
+          - **G-A-GENERAL--OTHER-GE-DIRECT-F-4** (GA/PROCEDURAL, L5, ord:845, q:1)
+            - Topic: Books
+            - Subtopic: General Books & Authors
+            - Micro: Other General Books & Authors facts
+            - Domain: Books
+            - **G-V-GENERAL--OTHER--DIRECT-4** (GA/DERIVED, L6, ord:1181, q:0)
+              - Topic: Books
+              - Subtopic: General Books & Authors
+              - Micro: Variations & distractors
+              - Domain: Books
+      - **G-S-BOOKS-ANCIENT-CLAS** (GA/DERIVED, L3, ord:84, q:10)
+        - Topic: Books
+        - Subtopic: Ancient & Classical Texts
+        - Domain: Books
+        - **G-M-ANCIENT-CL-GENERAL-FACT** (GA/RECALL, L4, ord:199, q:7)
+          - Topic: Books
+          - Subtopic: Ancient & Classical Texts
+          - Micro: General-factual
+          - Domain: Books
+          - **G-A-ANCIENT--GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:525, q:5)
+            - Topic: Books
+            - Subtopic: Ancient & Classical Texts
+            - Micro: General-factual
+            - Domain: Books
+            - **G-V-ANCIENT--GENERA-DIRECT** (GA/DERIVED, L6, ord:954, q:0)
+              - Topic: Books
+              - Subtopic: Ancient & Classical Texts
+              - Micro: Variations & distractors
+              - Domain: Books
+          - **G-A-ANCIENT--GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:645, q:2)
+            - Topic: Books
+            - Subtopic: Ancient & Classical Texts
+            - Micro: General-factual
+            - Domain: Books
+            - **G-V-ANCIENT--GENERA-FILL-U** (GA/DERIVED, L6, ord:955, q:0)
+              - Topic: Books
+              - Subtopic: Ancient & Classical Texts
+              - Micro: Variations & distractors
+              - Domain: Books
+        - **G-M-ANCIENT-CL-OTHER-ANCIEN** (GA/RECALL, L4, ord:278, q:3)
+          - Topic: Books
+          - Subtopic: Ancient & Classical Texts
+          - Micro: Other Ancient & Classical Texts facts
+          - Domain: Books
+          - **G-A-ANCIENT--OTHER-AN-DIRECT-F** (GA/PROCEDURAL, L5, ord:592, q:3)
+            - Topic: Books
+            - Subtopic: Ancient & Classical Texts
+            - Micro: Other Ancient & Classical Texts facts
+            - Domain: Books
+            - **G-V-ANCIENT--OTHER--DIRECT** (GA/DERIVED, L6, ord:956, q:0)
+              - Topic: Books
+              - Subtopic: Ancient & Classical Texts
+              - Micro: Variations & distractors
+              - Domain: Books
+      - **G-S-BOOKS-FICTION** (GA/DERIVED, L3, ord:108, q:5)
+        - Topic: Books
+        - Subtopic: Fiction
+        - Domain: Books
+        - **G-M-FICTION-BOOK-ANCHORE** (GA/RECALL, L4, ord:341, q:2)
+          - Topic: Books
+          - Subtopic: Fiction
+          - Micro: Book-anchored
+          - Domain: Books
+          - **G-A-FICTION-BOOK-ANC-DIRECT-F** (GA/PROCEDURAL, L5, ord:807, q:1)
+            - Topic: Books
+            - Subtopic: Fiction
+            - Micro: Book-anchored
+            - Domain: Books
+            - **G-V-FICTION-BOOK-A-DIRECT** (GA/DERIVED, L6, ord:1080, q:0)
+              - Topic: Books
+              - Subtopic: Fiction
+              - Micro: Variations & distractors
+              - Domain: Books
+          - **G-A-FICTION-BOOK-ANC-STATEMEN** (GA/PROCEDURAL, L5, ord:808, q:1)
+            - Topic: Books
+            - Subtopic: Fiction
+            - Micro: Book-anchored
+            - Domain: Books
+            - **G-V-FICTION-BOOK-A-STATEM** (GA/DERIVED, L6, ord:1081, q:0)
+              - Topic: Books
+              - Subtopic: Fiction
+              - Micro: Variations & distractors
+              - Domain: Books
+        - **G-M-FICTION-PERSON-ANCHO** (GA/RECALL, L4, ord:342, q:2)
+          - Topic: Books
+          - Subtopic: Fiction
+          - Micro: Person-anchored
+          - Domain: Books
+          - **G-A-FICTION-PERSON-A-DIRECT-F** (GA/PROCEDURAL, L5, ord:671, q:2)
+            - Topic: Books
+            - Subtopic: Fiction
+            - Micro: Person-anchored
+            - Domain: Books
+            - **G-V-FICTION-PERSON-DIRECT** (GA/DERIVED, L6, ord:1083, q:0)
+              - Topic: Books
+              - Subtopic: Fiction
+              - Micro: Variations & distractors
+              - Domain: Books
+        - **G-M-FICTION-OTHER-FICTIO** (GA/RECALL, L4, ord:413, q:1)
+          - Topic: Books
+          - Subtopic: Fiction
+          - Micro: Other Fiction facts
+          - Domain: Books
+          - **G-A-FICTION-OTHER-FI-STATEMEN** (GA/PROCEDURAL, L5, ord:809, q:1)
+            - Topic: Books
+            - Subtopic: Fiction
+            - Micro: Other Fiction facts
+            - Domain: Books
+            - **G-V-FICTION-OTHER--STATEM** (GA/DERIVED, L6, ord:1082, q:0)
+              - Topic: Books
+              - Subtopic: Fiction
+              - Micro: Variations & distractors
+              - Domain: Books
+      - **G-S-BOOKS-DRAMA** (GA/DERIVED, L3, ord:121, q:2)
+        - Topic: Books
+        - Subtopic: Drama
+        - Domain: Books
+        - **G-M-DRAMA-PERSON-ANCHO** (GA/RECALL, L4, ord:335, q:2)
+          - Topic: Books
+          - Subtopic: Drama
+          - Micro: Person-anchored
+          - Domain: Books
+          - **G-A-DRAMA-PERSON-A-DIRECT-F** (GA/PROCEDURAL, L5, ord:666, q:2)
+            - Topic: Books
+            - Subtopic: Drama
+            - Micro: Person-anchored
+            - Domain: Books
+            - **G-V-DRAMA-PERSON-DIRECT** (GA/DERIVED, L6, ord:1052, q:0)
+              - Topic: Books
+              - Subtopic: Drama
+              - Micro: Variations & distractors
+              - Domain: Books
+      - **G-S-BOOKS-POETRY** (GA/DERIVED, L3, ord:122, q:2)
+        - Topic: Books
+        - Subtopic: Poetry
+        - Domain: Books
+        - **G-M-POETRY-OTHER-POETRY** (GA/RECALL, L4, ord:392, q:2)
+          - Topic: Books
+          - Subtopic: Poetry
+          - Micro: Other Poetry facts
+          - Domain: Books
+          - **G-A-POETRY-OTHER-PO-DIRECT-F** (GA/PROCEDURAL, L5, ord:742, q:2)
+            - Topic: Books
+            - Subtopic: Poetry
+            - Micro: Other Poetry facts
+            - Domain: Books
+            - **G-V-POETRY-OTHER--DIRECT** (GA/DERIVED, L6, ord:1397, q:0)
+              - Topic: Books
+              - Subtopic: Poetry
+              - Micro: Variations & distractors
+              - Domain: Books
+      - **G-S-BOOKS-MEMOIRS-BIOG** (GA/DERIVED, L3, ord:126, q:1)
+        - Topic: Books
+        - Subtopic: Memoirs & Biographies
+        - Domain: Books
+        - **G-M-MEMOIRS-BI-OTHER-MEMOIR** (GA/RECALL, L4, ord:426, q:1)
+          - Topic: Books
+          - Subtopic: Memoirs & Biographies
+          - Micro: Other Memoirs & Biographies facts
+          - Domain: Books
+          - **G-A-MEMOIRS--OTHER-ME-DIRECT-F** (GA/PROCEDURAL, L5, ord:897, q:1)
+            - Topic: Books
+            - Subtopic: Memoirs & Biographies
+            - Micro: Other Memoirs & Biographies facts
+            - Domain: Books
+            - **G-V-MEMOIRS--OTHER--DIRECT** (GA/DERIVED, L6, ord:1322, q:0)
+              - Topic: Books
+              - Subtopic: Memoirs & Biographies
+              - Micro: Variations & distractors
+              - Domain: Books
+  - **G-D-CHEMISTRY** (GA/DERIVED, L1, ord:6, q:0)
+    - Domain: Chemistry
+    - **G-T-CHEMISTRY** (GA/DERIVED, L2, ord:30, q:81)
+      - Topic: Chemistry
+      - Domain: Chemistry
+      - **G-S-CHEMISTRY-GENERAL-CHEM** (GA/DERIVED, L3, ord:53, q:32)
+        - Topic: Chemistry
+        - Subtopic: General Chemistry
+        - Domain: Chemistry
+        - **G-M-GENERAL-CH-GENERAL-FACT** (GA/RECALL, L4, ord:170, q:14)
+          - Topic: Chemistry
+          - Subtopic: General Chemistry
+          - Micro: General-factual
+          - Domain: Chemistry
+          - **G-A-GENERAL--GENERAL--DIRECT-F-3** (GA/PROCEDURAL, L5, ord:478, q:11)
+            - Topic: Chemistry
+            - Subtopic: General Chemistry
+            - Micro: General-factual
+            - Domain: Chemistry
+            - **G-V-GENERAL--GENERA-DIRECT-3** (GA/DERIVED, L6, ord:1137, q:0)
+              - Topic: Chemistry
+              - Subtopic: General Chemistry
+              - Micro: Variations & distractors
+              - Domain: Chemistry
+          - **G-A-GENERAL--GENERAL--FILL-UP-3** (GA/PROCEDURAL, L5, ord:684, q:2)
+            - Topic: Chemistry
+            - Subtopic: General Chemistry
+            - Micro: General-factual
+            - Domain: Chemistry
+            - **G-V-GENERAL--GENERA-FILL-U-3** (GA/DERIVED, L6, ord:1147, q:0)
+              - Topic: Chemistry
+              - Subtopic: General Chemistry
+              - Micro: Variations & distractors
+              - Domain: Chemistry
+          - **G-A-GENERAL--GENERAL--STATEMEN-3** (GA/PROCEDURAL, L5, ord:840, q:1)
+            - Topic: Chemistry
+            - Subtopic: General Chemistry
+            - Micro: General-factual
+            - Domain: Chemistry
+            - **G-V-GENERAL--GENERA-STATEM-3** (GA/DERIVED, L6, ord:1163, q:0)
+              - Topic: Chemistry
+              - Subtopic: General Chemistry
+              - Micro: Variations & distractors
+              - Domain: Chemistry
+        - **G-M-GENERAL-CH-SUPERLATIVE-** (GA/RECALL, L4, ord:230, q:5)
+          - Topic: Chemistry
+          - Subtopic: General Chemistry
+          - Micro: Superlative/First-record
+          - Domain: Chemistry
+          - **G-A-GENERAL--SUPERLAT-DIRECT-F-2** (GA/PROCEDURAL, L5, ord:537, q:5)
+            - Topic: Chemistry
+            - Subtopic: General Chemistry
+            - Micro: Superlative/First-record
+            - Domain: Chemistry
+            - **G-V-GENERAL--SUPERL-DIRECT-2** (GA/DERIVED, L6, ord:1207, q:0)
+              - Topic: Chemistry
+              - Subtopic: General Chemistry
+              - Micro: Variations & distractors
+              - Domain: Chemistry
+        - **G-M-GENERAL-CH-OTHER-GENERA** (GA/RECALL, L4, ord:259, q:4)
+          - Topic: Chemistry
+          - Subtopic: General Chemistry
+          - Micro: Other General Chemistry facts
+          - Domain: Chemistry
+          - **G-A-GENERAL--OTHER-GE-DIRECT-F-5** (GA/PROCEDURAL, L5, ord:567, q:4)
+            - Topic: Chemistry
+            - Subtopic: General Chemistry
+            - Micro: Other General Chemistry facts
+            - Domain: Chemistry
+            - **G-V-GENERAL--OTHER--DIRECT-5** (GA/DERIVED, L6, ord:1182, q:0)
+              - Topic: Chemistry
+              - Subtopic: General Chemistry
+              - Micro: Variations & distractors
+              - Domain: Chemistry
+        - **G-M-GENERAL-CH-AWARD-ANCHOR** (GA/RECALL, L4, ord:288, q:3)
+          - Topic: Chemistry
+          - Subtopic: General Chemistry
+          - Micro: Award-anchored
+          - Domain: Chemistry
+          - **G-A-GENERAL--AWARD-AN-DIRECT-F-3** (GA/PROCEDURAL, L5, ord:680, q:2)
+            - Topic: Chemistry
+            - Subtopic: General Chemistry
+            - Micro: Award-anchored
+            - Domain: Chemistry
+            - **G-V-GENERAL--AWARD--DIRECT-3** (GA/DERIVED, L6, ord:1119, q:0)
+              - Topic: Chemistry
+              - Subtopic: General Chemistry
+              - Micro: Variations & distractors
+              - Domain: Chemistry
+          - **G-A-GENERAL--AWARD-AN-STATEMEN** (GA/PROCEDURAL, L5, ord:827, q:1)
+            - Topic: Chemistry
+            - Subtopic: General Chemistry
+            - Micro: Award-anchored
+            - Domain: Chemistry
+            - **G-V-GENERAL--AWARD--STATEM** (GA/DERIVED, L6, ord:1122, q:0)
+              - Topic: Chemistry
+              - Subtopic: General Chemistry
+              - Micro: Variations & distractors
+              - Domain: Chemistry
+        - **G-M-GENERAL-CH-PERSON-ANCHO** (GA/RECALL, L4, ord:289, q:3)
+          - Topic: Chemistry
+          - Subtopic: General Chemistry
+          - Micro: Person-anchored
+          - Domain: Chemistry
+          - **G-A-GENERAL--PERSON-A-DIRECT-F-3** (GA/PROCEDURAL, L5, ord:694, q:2)
+            - Topic: Chemistry
+            - Subtopic: General Chemistry
+            - Micro: Person-anchored
+            - Domain: Chemistry
+            - **G-V-GENERAL--PERSON-DIRECT-3** (GA/DERIVED, L6, ord:1192, q:0)
+              - Topic: Chemistry
+              - Subtopic: General Chemistry
+              - Micro: Variations & distractors
+              - Domain: Chemistry
+          - **G-A-GENERAL--PERSON-A-FILL-UP** (GA/PROCEDURAL, L5, ord:850, q:1)
+            - Topic: Chemistry
+            - Subtopic: General Chemistry
+            - Micro: Person-anchored
+            - Domain: Chemistry
+            - **G-V-GENERAL--PERSON-FILL-U** (GA/DERIVED, L6, ord:1199, q:0)
+              - Topic: Chemistry
+              - Subtopic: General Chemistry
+              - Micro: Variations & distractors
+              - Domain: Chemistry
+        - **G-M-GENERAL-CH-YEAR-ANCHORE** (GA/RECALL, L4, ord:290, q:3)
+          - Topic: Chemistry
+          - Subtopic: General Chemistry
+          - Micro: Year-anchored
+          - Domain: Chemistry
+          - **G-A-GENERAL--YEAR-ANC-DIRECT-F-2** (GA/PROCEDURAL, L5, ord:617, q:3)
+            - Topic: Chemistry
+            - Subtopic: General Chemistry
+            - Micro: Year-anchored
+            - Domain: Chemistry
+            - **G-V-GENERAL--YEAR-A-DIRECT-2** (GA/DERIVED, L6, ord:1222, q:0)
+              - Topic: Chemistry
+              - Subtopic: General Chemistry
+              - Micro: Variations & distractors
+              - Domain: Chemistry
+      - **G-S-CHEMISTRY-ELEMENTS-MET** (GA/DERIVED, L3, ord:71, q:18)
+        - Topic: Chemistry
+        - Subtopic: Elements, Metals & Alloys
+        - Domain: Chemistry
+        - **G-M-ELEMENTS-M-GENERAL-FACT** (GA/RECALL, L4, ord:176, q:12)
+          - Topic: Chemistry
+          - Subtopic: Elements, Metals & Alloys
+          - Micro: General-factual
+          - Domain: Chemistry
+          - **G-A-ELEMENTS-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:492, q:9)
+            - Topic: Chemistry
+            - Subtopic: Elements, Metals & Alloys
+            - Micro: General-factual
+            - Domain: Chemistry
+            - **G-V-ELEMENTS-GENERA-DIRECT** (GA/DERIVED, L6, ord:1064, q:0)
+              - Topic: Chemistry
+              - Subtopic: Elements, Metals & Alloys
+              - Micro: Variations & distractors
+              - Domain: Chemistry
+          - **G-A-ELEMENTS-GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:668, q:2)
+            - Topic: Chemistry
+            - Subtopic: Elements, Metals & Alloys
+            - Micro: General-factual
+            - Domain: Chemistry
+            - **G-V-ELEMENTS-GENERA-STATEM** (GA/DERIVED, L6, ord:1066, q:0)
+              - Topic: Chemistry
+              - Subtopic: Elements, Metals & Alloys
+              - Micro: Variations & distractors
+              - Domain: Chemistry
+          - **G-A-ELEMENTS-GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:799, q:1)
+            - Topic: Chemistry
+            - Subtopic: Elements, Metals & Alloys
+            - Micro: General-factual
+            - Domain: Chemistry
+            - **G-V-ELEMENTS-GENERA-FILL-U** (GA/DERIVED, L6, ord:1065, q:0)
+              - Topic: Chemistry
+              - Subtopic: Elements, Metals & Alloys
+              - Micro: Variations & distractors
+              - Domain: Chemistry
+        - **G-M-ELEMENTS-M-QUANTITY-ANC** (GA/RECALL, L4, ord:337, q:2)
+          - Topic: Chemistry
+          - Subtopic: Elements, Metals & Alloys
+          - Micro: Quantity-anchored
+          - Domain: Chemistry
+          - **G-A-ELEMENTS-QUANTITY-DIRECT-F** (GA/PROCEDURAL, L5, ord:669, q:2)
+            - Topic: Chemistry
+            - Subtopic: Elements, Metals & Alloys
+            - Micro: Quantity-anchored
+            - Domain: Chemistry
+            - **G-V-ELEMENTS-QUANTI-DIRECT** (GA/DERIVED, L6, ord:1067, q:0)
+              - Topic: Chemistry
+              - Subtopic: Elements, Metals & Alloys
+              - Micro: Variations & distractors
+              - Domain: Chemistry
+        - **G-M-ELEMENTS-M-TERM-ANCHORE** (GA/RECALL, L4, ord:338, q:2)
+          - Topic: Chemistry
+          - Subtopic: Elements, Metals & Alloys
+          - Micro: Term-anchored
+          - Domain: Chemistry
+          - **G-A-ELEMENTS-TERM-ANC-DIRECT-F** (GA/PROCEDURAL, L5, ord:800, q:1)
+            - Topic: Chemistry
+            - Subtopic: Elements, Metals & Alloys
+            - Micro: Term-anchored
+            - Domain: Chemistry
+            - **G-V-ELEMENTS-TERM-A-DIRECT** (GA/DERIVED, L6, ord:1068, q:0)
+              - Topic: Chemistry
+              - Subtopic: Elements, Metals & Alloys
+              - Micro: Variations & distractors
+              - Domain: Chemistry
+          - **G-A-ELEMENTS-TERM-ANC-FILL-UP** (GA/PROCEDURAL, L5, ord:801, q:1)
+            - Topic: Chemistry
+            - Subtopic: Elements, Metals & Alloys
+            - Micro: Term-anchored
+            - Domain: Chemistry
+            - **G-V-ELEMENTS-TERM-A-FILL-U** (GA/DERIVED, L6, ord:1069, q:0)
+              - Topic: Chemistry
+              - Subtopic: Elements, Metals & Alloys
+              - Micro: Variations & distractors
+              - Domain: Chemistry
+        - **G-M-ELEMENTS-M-YEAR-ANCHORE** (GA/RECALL, L4, ord:339, q:2)
+          - Topic: Chemistry
+          - Subtopic: Elements, Metals & Alloys
+          - Micro: Year-anchored
+          - Domain: Chemistry
+          - **G-A-ELEMENTS-YEAR-ANC-DIRECT-F** (GA/PROCEDURAL, L5, ord:670, q:2)
+            - Topic: Chemistry
+            - Subtopic: Elements, Metals & Alloys
+            - Micro: Year-anchored
+            - Domain: Chemistry
+            - **G-V-ELEMENTS-YEAR-A-DIRECT** (GA/DERIVED, L6, ord:1070, q:0)
+              - Topic: Chemistry
+              - Subtopic: Elements, Metals & Alloys
+              - Micro: Variations & distractors
+              - Domain: Chemistry
+      - **G-S-CHEMISTRY-GASES** (GA/DERIVED, L3, ord:79, q:12)
+        - Topic: Chemistry
+        - Subtopic: Gases
+        - Domain: Chemistry
+        - **G-M-GASES-GENERAL-FACT** (GA/RECALL, L4, ord:194, q:8)
+          - Topic: Chemistry
+          - Subtopic: Gases
+          - Micro: General-factual
+          - Domain: Chemistry
+          - **G-A-GASES-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:519, q:6)
+            - Topic: Chemistry
+            - Subtopic: Gases
+            - Micro: General-factual
+            - Domain: Chemistry
+            - **G-V-GASES-GENERA-DIRECT** (GA/DERIVED, L6, ord:1111, q:0)
+              - Topic: Chemistry
+              - Subtopic: Gases
+              - Micro: Variations & distractors
+              - Domain: Chemistry
+          - **G-A-GASES-GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:822, q:1)
+            - Topic: Chemistry
+            - Subtopic: Gases
+            - Micro: General-factual
+            - Domain: Chemistry
+            - **G-V-GASES-GENERA-FILL-U** (GA/DERIVED, L6, ord:1112, q:0)
+              - Topic: Chemistry
+              - Subtopic: Gases
+              - Micro: Variations & distractors
+              - Domain: Chemistry
+          - **G-A-GASES-GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:823, q:1)
+            - Topic: Chemistry
+            - Subtopic: Gases
+            - Micro: General-factual
+            - Domain: Chemistry
+            - **G-V-GASES-GENERA-STATEM** (GA/DERIVED, L6, ord:1113, q:0)
+              - Topic: Chemistry
+              - Subtopic: Gases
+              - Micro: Variations & distractors
+              - Domain: Chemistry
+        - **G-M-GASES-OTHER-GASES-** (GA/RECALL, L4, ord:256, q:4)
+          - Topic: Chemistry
+          - Subtopic: Gases
+          - Micro: Other Gases facts
+          - Domain: Chemistry
+          - **G-A-GASES-OTHER-GA-DIRECT-F** (GA/PROCEDURAL, L5, ord:558, q:4)
+            - Topic: Chemistry
+            - Subtopic: Gases
+            - Micro: Other Gases facts
+            - Domain: Chemistry
+            - **G-V-GASES-OTHER--DIRECT** (GA/DERIVED, L6, ord:1114, q:0)
+              - Topic: Chemistry
+              - Subtopic: Gases
+              - Micro: Variations & distractors
+              - Domain: Chemistry
+      - **G-S-CHEMISTRY-ACIDS-BASES-** (GA/DERIVED, L3, ord:81, q:11)
+        - Topic: Chemistry
+        - Subtopic: Acids, Bases & Salts
+        - Domain: Chemistry
+        - **G-M-ACIDS-BASE-GENERAL-FACT** (GA/RECALL, L4, ord:179, q:11)
+          - Topic: Chemistry
+          - Subtopic: Acids, Bases & Salts
+          - Micro: General-factual
+          - Domain: Chemistry
+          - **G-A-ACIDS-BA-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:484, q:10)
+            - Topic: Chemistry
+            - Subtopic: Acids, Bases & Salts
+            - Micro: General-factual
+            - Domain: Chemistry
+            - **G-V-ACIDS-BA-GENERA-DIRECT** (GA/DERIVED, L6, ord:949, q:0)
+              - Topic: Chemistry
+              - Subtopic: Acids, Bases & Salts
+              - Micro: Variations & distractors
+              - Domain: Chemistry
+          - **G-A-ACIDS-BA-GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:755, q:1)
+            - Topic: Chemistry
+            - Subtopic: Acids, Bases & Salts
+            - Micro: General-factual
+            - Domain: Chemistry
+            - **G-V-ACIDS-BA-GENERA-STATEM** (GA/DERIVED, L6, ord:950, q:0)
+              - Topic: Chemistry
+              - Subtopic: Acids, Bases & Salts
+              - Micro: Variations & distractors
+              - Domain: Chemistry
+      - **G-S-CHEMISTRY-REACTIONS-CO** (GA/DERIVED, L3, ord:98, q:7)
+        - Topic: Chemistry
+        - Subtopic: Reactions & Concepts
+        - Domain: Chemistry
+        - **G-M-REACTIONS--GENERAL-FACT** (GA/RECALL, L4, ord:242, q:5)
+          - Topic: Chemistry
+          - Subtopic: Reactions & Concepts
+          - Micro: General-factual
+          - Domain: Chemistry
+          - **G-A-REACTION-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:587, q:4)
+            - Topic: Chemistry
+            - Subtopic: Reactions & Concepts
+            - Micro: General-factual
+            - Domain: Chemistry
+            - **G-V-REACTION-GENERA-DIRECT** (GA/DERIVED, L6, ord:1407, q:0)
+              - Topic: Chemistry
+              - Subtopic: Reactions & Concepts
+              - Micro: Variations & distractors
+              - Domain: Chemistry
+          - **G-A-REACTION-GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:922, q:1)
+            - Topic: Chemistry
+            - Subtopic: Reactions & Concepts
+            - Micro: General-factual
+            - Domain: Chemistry
+            - **G-V-REACTION-GENERA-FILL-U** (GA/DERIVED, L6, ord:1408, q:0)
+              - Topic: Chemistry
+              - Subtopic: Reactions & Concepts
+              - Micro: Variations & distractors
+              - Domain: Chemistry
+        - **G-M-REACTIONS--TERM-ANCHORE** (GA/RECALL, L4, ord:395, q:2)
+          - Topic: Chemistry
+          - Subtopic: Reactions & Concepts
+          - Micro: Term-anchored
+          - Domain: Chemistry
+          - **G-A-REACTION-TERM-ANC-DIRECT-F** (GA/PROCEDURAL, L5, ord:923, q:1)
+            - Topic: Chemistry
+            - Subtopic: Reactions & Concepts
+            - Micro: Term-anchored
+            - Domain: Chemistry
+            - **G-V-REACTION-TERM-A-DIRECT** (GA/DERIVED, L6, ord:1409, q:0)
+              - Topic: Chemistry
+              - Subtopic: Reactions & Concepts
+              - Micro: Variations & distractors
+              - Domain: Chemistry
+          - **G-A-REACTION-TERM-ANC-FILL-UP** (GA/PROCEDURAL, L5, ord:924, q:1)
+            - Topic: Chemistry
+            - Subtopic: Reactions & Concepts
+            - Micro: Term-anchored
+            - Domain: Chemistry
+            - **G-V-REACTION-TERM-A-FILL-U** (GA/DERIVED, L6, ord:1410, q:0)
+              - Topic: Chemistry
+              - Subtopic: Reactions & Concepts
+              - Micro: Variations & distractors
+              - Domain: Chemistry
+      - **G-S-CHEMISTRY-APPLIED-CHEM** (GA/DERIVED, L3, ord:127, q:1)
+        - Topic: Chemistry
+        - Subtopic: Applied Chemistry
+        - Domain: Chemistry
+        - **G-M-APPLIED-CH-OTHER-APPLIE** (GA/RECALL, L4, ord:407, q:1)
+          - Topic: Chemistry
+          - Subtopic: Applied Chemistry
+          - Micro: Other Applied Chemistry facts
+          - Domain: Chemistry
+          - **G-A-APPLIED--OTHER-AP-DIRECT-F** (GA/PROCEDURAL, L5, ord:756, q:1)
+            - Topic: Chemistry
+            - Subtopic: Applied Chemistry
+            - Micro: Other Applied Chemistry facts
+            - Domain: Chemistry
+            - **G-V-APPLIED--OTHER--DIRECT** (GA/DERIVED, L6, ord:957, q:0)
+              - Topic: Chemistry
+              - Subtopic: Applied Chemistry
+              - Micro: Variations & distractors
+              - Domain: Chemistry
+  - **G-D-CURRENT-AFFAIR** (GA/DERIVED, L1, ord:7, q:0)
+    - Domain: Current-Affairs-Misc
+    - **G-T-CURRENT-AFFAIR** (GA/DERIVED, L2, ord:20, q:293)
+      - Topic: Current Affairs & Misc GK
+      - Domain: Current-Affairs-Misc
+      - **G-S-CURRENT-AF-GENERAL-CURR** (GA/DERIVED, L3, ord:36, q:281)
+        - Topic: Current Affairs & Misc GK
+        - Subtopic: General Current Affairs & GK
+        - Domain: Current-Affairs-Misc
+        - **G-M-GENERAL-CU-GENERAL-FACT** (GA/RECALL, L4, ord:132, q:207)
+          - Topic: Current Affairs & Misc GK
+          - Subtopic: General Current Affairs & GK
+          - Micro: General-factual
+          - Domain: Current-Affairs-Misc
+          - **G-A-GENERAL--GENERAL--DIRECT-F-4** (GA/PROCEDURAL, L5, ord:437, q:158)
+            - Topic: Current Affairs & Misc GK
+            - Subtopic: General Current Affairs & GK
+            - Micro: General-factual
+            - Domain: Current-Affairs-Misc
+            - **G-V-GENERAL--GENERA-DIRECT-4** (GA/DERIVED, L6, ord:1138, q:0)
+              - Topic: Current Affairs & Misc GK
+              - Subtopic: General Current Affairs & GK
+              - Micro: Variations & distractors
+              - Domain: Current-Affairs-Misc
+          - **G-A-GENERAL--GENERAL--STATEMEN-4** (GA/PROCEDURAL, L5, ord:443, q:33)
+            - Topic: Current Affairs & Misc GK
+            - Subtopic: General Current Affairs & GK
+            - Micro: General-factual
+            - Domain: Current-Affairs-Misc
+            - **G-V-GENERAL--GENERA-STATEM-4** (GA/DERIVED, L6, ord:1164, q:0)
+              - Topic: Current Affairs & Misc GK
+              - Subtopic: General Current Affairs & GK
+              - Micro: Variations & distractors
+              - Domain: Current-Affairs-Misc
+          - **G-A-GENERAL--GENERAL--FILL-UP-4** (GA/PROCEDURAL, L5, ord:460, q:15)
+            - Topic: Current Affairs & Misc GK
+            - Subtopic: General Current Affairs & GK
+            - Micro: General-factual
+            - Domain: Current-Affairs-Misc
+            - **G-V-GENERAL--GENERA-FILL-U-4** (GA/DERIVED, L6, ord:1148, q:0)
+              - Topic: Current Affairs & Misc GK
+              - Subtopic: General Current Affairs & GK
+              - Micro: Variations & distractors
+              - Domain: Current-Affairs-Misc
+          - **G-A-GENERAL--GENERAL--MATCHING** (GA/PROCEDURAL, L5, ord:836, q:1)
+            - Topic: Current Affairs & Misc GK
+            - Subtopic: General Current Affairs & GK
+            - Micro: General-factual
+            - Domain: Current-Affairs-Misc
+            - **G-V-GENERAL--GENERA-MATCHI** (GA/DERIVED, L6, ord:1154, q:0)
+              - Topic: Current Affairs & Misc GK
+              - Subtopic: General Current Affairs & GK
+              - Micro: Variations & distractors
+              - Domain: Current-Affairs-Misc
+        - **G-M-GENERAL-CU-TERM-ANCHORE** (GA/RECALL, L4, ord:152, q:20)
+          - Topic: Current Affairs & Misc GK
+          - Subtopic: General Current Affairs & GK
+          - Micro: Term-anchored
+          - Domain: Current-Affairs-Misc
+          - **G-A-GENERAL--TERM-ANC-DIRECT-F-2** (GA/PROCEDURAL, L5, ord:458, q:16)
+            - Topic: Current Affairs & Misc GK
+            - Subtopic: General Current Affairs & GK
+            - Micro: Term-anchored
+            - Domain: Current-Affairs-Misc
+            - **G-V-GENERAL--TERM-A-DIRECT-2** (GA/DERIVED, L6, ord:1216, q:0)
+              - Topic: Current Affairs & Misc GK
+              - Subtopic: General Current Affairs & GK
+              - Micro: Variations & distractors
+              - Domain: Current-Affairs-Misc
+          - **G-A-GENERAL--TERM-ANC-FILL-UP-2** (GA/PROCEDURAL, L5, ord:571, q:4)
+            - Topic: Current Affairs & Misc GK
+            - Subtopic: General Current Affairs & GK
+            - Micro: Term-anchored
+            - Domain: Current-Affairs-Misc
+            - **G-V-GENERAL--TERM-A-FILL-U-2** (GA/DERIVED, L6, ord:1220, q:0)
+              - Topic: Current Affairs & Misc GK
+              - Subtopic: General Current Affairs & GK
+              - Micro: Variations & distractors
+              - Domain: Current-Affairs-Misc
+        - **G-M-GENERAL-CU-OTHER-GENERA** (GA/RECALL, L4, ord:155, q:19)
+          - Topic: Current Affairs & Misc GK
+          - Subtopic: General Current Affairs & GK
+          - Micro: Other General Current Affairs & GK facts
+          - Domain: Current-Affairs-Misc
+          - **G-A-GENERAL--OTHER-GE-DIRECT-F-6** (GA/PROCEDURAL, L5, ord:452, q:19)
+            - Topic: Current Affairs & Misc GK
+            - Subtopic: General Current Affairs & GK
+            - Micro: Other General Current Affairs & GK facts
+            - Domain: Current-Affairs-Misc
+            - **G-V-GENERAL--OTHER--DIRECT-6** (GA/DERIVED, L6, ord:1183, q:0)
+              - Topic: Current Affairs & Misc GK
+              - Subtopic: General Current Affairs & GK
+              - Micro: Variations & distractors
+              - Domain: Current-Affairs-Misc
+        - **G-M-GENERAL-CU-YEAR-ANCHORE** (GA/RECALL, L4, ord:173, q:13)
+          - Topic: Current Affairs & Misc GK
+          - Subtopic: General Current Affairs & GK
+          - Micro: Year-anchored
+          - Domain: Current-Affairs-Misc
+          - **G-A-GENERAL--YEAR-ANC-DIRECT-F-3** (GA/PROCEDURAL, L5, ord:474, q:12)
+            - Topic: Current Affairs & Misc GK
+            - Subtopic: General Current Affairs & GK
+            - Micro: Year-anchored
+            - Domain: Current-Affairs-Misc
+            - **G-V-GENERAL--YEAR-A-DIRECT-3** (GA/DERIVED, L6, ord:1223, q:0)
+              - Topic: Current Affairs & Misc GK
+              - Subtopic: General Current Affairs & GK
+              - Micro: Variations & distractors
+              - Domain: Current-Affairs-Misc
+          - **G-A-GENERAL--YEAR-ANC-FILL-UP-2** (GA/PROCEDURAL, L5, ord:861, q:1)
+            - Topic: Current Affairs & Misc GK
+            - Subtopic: General Current Affairs & GK
+            - Micro: Year-anchored
+            - Domain: Current-Affairs-Misc
+            - **G-V-GENERAL--YEAR-A-FILL-U-2** (GA/DERIVED, L6, ord:1231, q:0)
+              - Topic: Current Affairs & Misc GK
+              - Subtopic: General Current Affairs & GK
+              - Micro: Variations & distractors
+              - Domain: Current-Affairs-Misc
+        - **G-M-GENERAL-CU-PERSON-ANCHO** (GA/RECALL, L4, ord:177, q:12)
+          - Topic: Current Affairs & Misc GK
+          - Subtopic: General Current Affairs & GK
+          - Micro: Person-anchored
+          - Domain: Current-Affairs-Misc
+          - **G-A-GENERAL--PERSON-A-DIRECT-F-4** (GA/PROCEDURAL, L5, ord:479, q:11)
+            - Topic: Current Affairs & Misc GK
+            - Subtopic: General Current Affairs & GK
+            - Micro: Person-anchored
+            - Domain: Current-Affairs-Misc
+            - **G-V-GENERAL--PERSON-DIRECT-4** (GA/DERIVED, L6, ord:1193, q:0)
+              - Topic: Current Affairs & Misc GK
+              - Subtopic: General Current Affairs & GK
+              - Micro: Variations & distractors
+              - Domain: Current-Affairs-Misc
+          - **G-A-GENERAL--PERSON-A-FILL-UP-2** (GA/PROCEDURAL, L5, ord:851, q:1)
+            - Topic: Current Affairs & Misc GK
+            - Subtopic: General Current Affairs & GK
+            - Micro: Person-anchored
+            - Domain: Current-Affairs-Misc
+            - **G-V-GENERAL--PERSON-FILL-U-2** (GA/DERIVED, L6, ord:1200, q:0)
+              - Topic: Current Affairs & Misc GK
+              - Subtopic: General Current Affairs & GK
+              - Micro: Variations & distractors
+              - Domain: Current-Affairs-Misc
+        - **G-M-GENERAL-CU-SUPERLATIVE-** (GA/RECALL, L4, ord:186, q:10)
+          - Topic: Current Affairs & Misc GK
+          - Subtopic: General Current Affairs & GK
+          - Micro: Superlative/First-record
+          - Domain: Current-Affairs-Misc
+          - **G-A-GENERAL--SUPERLAT-DIRECT-F-3** (GA/PROCEDURAL, L5, ord:488, q:10)
+            - Topic: Current Affairs & Misc GK
+            - Subtopic: General Current Affairs & GK
+            - Micro: Superlative/First-record
+            - Domain: Current-Affairs-Misc
+            - **G-V-GENERAL--SUPERL-DIRECT-3** (GA/DERIVED, L6, ord:1208, q:0)
+              - Topic: Current Affairs & Misc GK
+              - Subtopic: General Current Affairs & GK
+              - Micro: Variations & distractors
+              - Domain: Current-Affairs-Misc
+      - **G-S-CURRENT-AF-APPOINTMENTS** (GA/DERIVED, L3, ord:82, q:11)
+        - Topic: Current Affairs & Misc GK
+        - Subtopic: Appointments & Office-holders
+        - Domain: Current-Affairs-Misc
+        - **G-M-APPOINTMEN-PERSON-ANCHO** (GA/RECALL, L4, ord:200, q:7)
+          - Topic: Current Affairs & Misc GK
+          - Subtopic: Appointments & Office-holders
+          - Micro: Person-anchored
+          - Domain: Current-Affairs-Misc
+          - **G-A-APPOINTM-PERSON-A-DIRECT-F** (GA/PROCEDURAL, L5, ord:501, q:7)
+            - Topic: Current Affairs & Misc GK
+            - Subtopic: Appointments & Office-holders
+            - Micro: Person-anchored
+            - Domain: Current-Affairs-Misc
+            - **G-V-APPOINTM-PERSON-DIRECT** (GA/DERIVED, L6, ord:960, q:0)
+              - Topic: Current Affairs & Misc GK
+              - Subtopic: Appointments & Office-holders
+              - Micro: Variations & distractors
+              - Domain: Current-Affairs-Misc
+        - **G-M-APPOINTMEN-GENERAL-FACT** (GA/RECALL, L4, ord:243, q:4)
+          - Topic: Current Affairs & Misc GK
+          - Subtopic: Appointments & Office-holders
+          - Micro: General-factual
+          - Domain: Current-Affairs-Misc
+          - **G-A-APPOINTM-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:646, q:2)
+            - Topic: Current Affairs & Misc GK
+            - Subtopic: Appointments & Office-holders
+            - Micro: General-factual
+            - Domain: Current-Affairs-Misc
+            - **G-V-APPOINTM-GENERA-DIRECT** (GA/DERIVED, L6, ord:958, q:0)
+              - Topic: Current Affairs & Misc GK
+              - Subtopic: Appointments & Office-holders
+              - Micro: Variations & distractors
+              - Domain: Current-Affairs-Misc
+          - **G-A-APPOINTM-GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:647, q:2)
+            - Topic: Current Affairs & Misc GK
+            - Subtopic: Appointments & Office-holders
+            - Micro: General-factual
+            - Domain: Current-Affairs-Misc
+            - **G-V-APPOINTM-GENERA-FILL-U** (GA/DERIVED, L6, ord:959, q:0)
+              - Topic: Current Affairs & Misc GK
+              - Subtopic: Appointments & Office-holders
+              - Micro: Variations & distractors
+              - Domain: Current-Affairs-Misc
+      - **G-S-CURRENT-AF-REPORTS-INDI** (GA/DERIVED, L3, ord:128, q:1)
+        - Topic: Current Affairs & Misc GK
+        - Subtopic: Reports & Indices in News
+        - Domain: Current-Affairs-Misc
+        - **G-M-REPORTS-IN-OTHER-REPORT** (GA/RECALL, L4, ord:428, q:1)
+          - Topic: Current Affairs & Misc GK
+          - Subtopic: Reports & Indices in News
+          - Micro: Other Reports & Indices in News facts
+          - Domain: Current-Affairs-Misc
+          - **G-A-REPORTS--OTHER-RE-DIRECT-F** (GA/PROCEDURAL, L5, ord:925, q:1)
+            - Topic: Current Affairs & Misc GK
+            - Subtopic: Reports & Indices in News
+            - Micro: Other Reports & Indices in News facts
+            - Domain: Current-Affairs-Misc
+            - **G-V-REPORTS--OTHER--DIRECT** (GA/DERIVED, L6, ord:1412, q:0)
+              - Topic: Current Affairs & Misc GK
+              - Subtopic: Reports & Indices in News
+              - Micro: Variations & distractors
+              - Domain: Current-Affairs-Misc
+  - **G-D-ECONOMY** (GA/DERIVED, L1, ord:8, q:0)
+    - Domain: Economy
+    - **G-T-ECONOMY** (GA/DERIVED, L2, ord:24, q:199)
+      - Topic: Economy
+      - Domain: Economy
+      - **G-S-ECONOMY-GENERAL-ECON** (GA/DERIVED, L3, ord:54, q:32)
+        - Topic: Economy
+        - Subtopic: General Economy
+        - Domain: Economy
+        - **G-M-GENERAL-EC-GENERAL-FACT** (GA/RECALL, L4, ord:151, q:21)
+          - Topic: Economy
+          - Subtopic: General Economy
+          - Micro: General-factual
+          - Domain: Economy
+          - **G-A-GENERAL--GENERAL--DIRECT-F-5** (GA/PROCEDURAL, L5, ord:469, q:13)
+            - Topic: Economy
+            - Subtopic: General Economy
+            - Micro: General-factual
+            - Domain: Economy
+            - **G-V-GENERAL--GENERA-DIRECT-5** (GA/DERIVED, L6, ord:1139, q:0)
+              - Topic: Economy
+              - Subtopic: General Economy
+              - Micro: Variations & distractors
+              - Domain: Economy
+          - **G-A-GENERAL--GENERAL--STATEMEN-5** (GA/PROCEDURAL, L5, ord:534, q:5)
+            - Topic: Economy
+            - Subtopic: General Economy
+            - Micro: General-factual
+            - Domain: Economy
+            - **G-V-GENERAL--GENERA-STATEM-5** (GA/DERIVED, L6, ord:1165, q:0)
+              - Topic: Economy
+              - Subtopic: General Economy
+              - Micro: Variations & distractors
+              - Domain: Economy
+          - **G-A-GENERAL--GENERAL--MATCHING-2** (GA/PROCEDURAL, L5, ord:687, q:2)
+            - Topic: Economy
+            - Subtopic: General Economy
+            - Micro: General-factual
+            - Domain: Economy
+            - **G-V-GENERAL--GENERA-MATCHI-2** (GA/DERIVED, L6, ord:1155, q:0)
+              - Topic: Economy
+              - Subtopic: General Economy
+              - Micro: Variations & distractors
+              - Domain: Economy
+          - **G-A-GENERAL--GENERAL--FILL-UP-5** (GA/PROCEDURAL, L5, ord:834, q:1)
+            - Topic: Economy
+            - Subtopic: General Economy
+            - Micro: General-factual
+            - Domain: Economy
+            - **G-V-GENERAL--GENERA-FILL-U-5** (GA/DERIVED, L6, ord:1149, q:0)
+              - Topic: Economy
+              - Subtopic: General Economy
+              - Micro: Variations & distractors
+              - Domain: Economy
+        - **G-M-GENERAL-EC-OBJECTIVE-AN** (GA/RECALL, L4, ord:291, q:3)
+          - Topic: Economy
+          - Subtopic: General Economy
+          - Micro: Objective-anchored
+          - Domain: Economy
+          - **G-A-GENERAL--OBJECTIV-DIRECT-F** (GA/PROCEDURAL, L5, ord:611, q:3)
+            - Topic: Economy
+            - Subtopic: General Economy
+            - Micro: Objective-anchored
+            - Domain: Economy
+            - **G-V-GENERAL--OBJECT-DIRECT** (GA/DERIVED, L6, ord:1170, q:0)
+              - Topic: Economy
+              - Subtopic: General Economy
+              - Micro: Variations & distractors
+              - Domain: Economy
+        - **G-M-GENERAL-EC-PLACE-ANCHOR** (GA/RECALL, L4, ord:292, q:3)
+          - Topic: Economy
+          - Subtopic: General Economy
+          - Micro: Place-anchored
+          - Domain: Economy
+          - **G-A-GENERAL--PLACE-AN-DIRECT-F** (GA/PROCEDURAL, L5, ord:614, q:3)
+            - Topic: Economy
+            - Subtopic: General Economy
+            - Micro: Place-anchored
+            - Domain: Economy
+            - **G-V-GENERAL--PLACE--DIRECT** (GA/DERIVED, L6, ord:1202, q:0)
+              - Topic: Economy
+              - Subtopic: General Economy
+              - Micro: Variations & distractors
+              - Domain: Economy
+        - **G-M-GENERAL-EC-PERSON-ANCHO** (GA/RECALL, L4, ord:353, q:2)
+          - Topic: Economy
+          - Subtopic: General Economy
+          - Micro: Person-anchored
+          - Domain: Economy
+          - **G-A-GENERAL--PERSON-A-DIRECT-F-5** (GA/PROCEDURAL, L5, ord:695, q:2)
+            - Topic: Economy
+            - Subtopic: General Economy
+            - Micro: Person-anchored
+            - Domain: Economy
+            - **G-V-GENERAL--PERSON-DIRECT-5** (GA/DERIVED, L6, ord:1194, q:0)
+              - Topic: Economy
+              - Subtopic: General Economy
+              - Micro: Variations & distractors
+              - Domain: Economy
+        - **G-M-GENERAL-EC-YEAR-ANCHORE** (GA/RECALL, L4, ord:354, q:2)
+          - Topic: Economy
+          - Subtopic: General Economy
+          - Micro: Year-anchored
+          - Domain: Economy
+          - **G-A-GENERAL--YEAR-ANC-DIRECT-F-4** (GA/PROCEDURAL, L5, ord:700, q:2)
+            - Topic: Economy
+            - Subtopic: General Economy
+            - Micro: Year-anchored
+            - Domain: Economy
+            - **G-V-GENERAL--YEAR-A-DIRECT-4** (GA/DERIVED, L6, ord:1224, q:0)
+              - Topic: Economy
+              - Subtopic: General Economy
+              - Micro: Variations & distractors
+              - Domain: Economy
+        - **G-M-GENERAL-EC-OTHER-GENERA** (GA/RECALL, L4, ord:418, q:1)
+          - Topic: Economy
+          - Subtopic: General Economy
+          - Micro: Other General Economy facts
+          - Domain: Economy
+          - **G-A-GENERAL--OTHER-GE-DIRECT-F-7** (GA/PROCEDURAL, L5, ord:846, q:1)
+            - Topic: Economy
+            - Subtopic: General Economy
+            - Micro: Other General Economy facts
+            - Domain: Economy
+            - **G-V-GENERAL--OTHER--DIRECT-7** (GA/DERIVED, L6, ord:1184, q:0)
+              - Topic: Economy
+              - Subtopic: General Economy
+              - Micro: Variations & distractors
+              - Domain: Economy
+      - **G-S-ECONOMY-NATIONAL-INC** (GA/DERIVED, L3, ord:56, q:31)
+        - Topic: Economy
+        - Subtopic: National Income, Budget & Taxation
+        - Domain: Economy
+        - **G-M-NATIONAL-I-GENERAL-FACT** (GA/RECALL, L4, ord:146, q:25)
+          - Topic: Economy
+          - Subtopic: National Income, Budget & Taxation
+          - Micro: General-factual
+          - Domain: Economy
+          - **G-A-NATIONAL-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:456, q:17)
+            - Topic: Economy
+            - Subtopic: National Income, Budget & Taxation
+            - Micro: General-factual
+            - Domain: Economy
+            - **G-V-NATIONAL-GENERA-DIRECT** (GA/DERIVED, L6, ord:1354, q:0)
+              - Topic: Economy
+              - Subtopic: National Income, Budget & Taxation
+              - Micro: Variations & distractors
+              - Domain: Economy
+          - **G-A-NATIONAL-GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:545, q:5)
+            - Topic: Economy
+            - Subtopic: National Income, Budget & Taxation
+            - Micro: General-factual
+            - Domain: Economy
+            - **G-V-NATIONAL-GENERA-STATEM** (GA/DERIVED, L6, ord:1356, q:0)
+              - Topic: Economy
+              - Subtopic: National Income, Budget & Taxation
+              - Micro: Variations & distractors
+              - Domain: Economy
+          - **G-A-NATIONAL-GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:630, q:3)
+            - Topic: Economy
+            - Subtopic: National Income, Budget & Taxation
+            - Micro: General-factual
+            - Domain: Economy
+            - **G-V-NATIONAL-GENERA-FILL-U** (GA/DERIVED, L6, ord:1355, q:0)
+              - Topic: Economy
+              - Subtopic: National Income, Budget & Taxation
+              - Micro: Variations & distractors
+              - Domain: Economy
+        - **G-M-NATIONAL-I-SUPERLATIVE-** (GA/RECALL, L4, ord:270, q:4)
+          - Topic: Economy
+          - Subtopic: National Income, Budget & Taxation
+          - Micro: Superlative/First-record
+          - Domain: Economy
+          - **G-A-NATIONAL-SUPERLAT-DIRECT-F** (GA/PROCEDURAL, L5, ord:631, q:3)
+            - Topic: Economy
+            - Subtopic: National Income, Budget & Taxation
+            - Micro: Superlative/First-record
+            - Domain: Economy
+            - **G-V-NATIONAL-SUPERL-DIRECT** (GA/DERIVED, L6, ord:1358, q:0)
+              - Topic: Economy
+              - Subtopic: National Income, Budget & Taxation
+              - Micro: Variations & distractors
+              - Domain: Economy
+          - **G-A-NATIONAL-SUPERLAT-STATEMEN** (GA/PROCEDURAL, L5, ord:909, q:1)
+            - Topic: Economy
+            - Subtopic: National Income, Budget & Taxation
+            - Micro: Superlative/First-record
+            - Domain: Economy
+            - **G-V-NATIONAL-SUPERL-STATEM** (GA/DERIVED, L6, ord:1359, q:0)
+              - Topic: Economy
+              - Subtopic: National Income, Budget & Taxation
+              - Micro: Variations & distractors
+              - Domain: Economy
+        - **G-M-NATIONAL-I-OTHER-NATION** (GA/RECALL, L4, ord:383, q:2)
+          - Topic: Economy
+          - Subtopic: National Income, Budget & Taxation
+          - Micro: Other National Income, Budget & Taxation facts
+          - Domain: Economy
+          - **G-A-NATIONAL-OTHER-NA-DIRECT-F** (GA/PROCEDURAL, L5, ord:732, q:2)
+            - Topic: Economy
+            - Subtopic: National Income, Budget & Taxation
+            - Micro: Other National Income, Budget & Taxation facts
+            - Domain: Economy
+            - **G-V-NATIONAL-OTHER--DIRECT** (GA/DERIVED, L6, ord:1357, q:0)
+              - Topic: Economy
+              - Subtopic: National Income, Budget & Taxation
+              - Micro: Variations & distractors
+              - Domain: Economy
+      - **G-S-ECONOMY-BANKING-RBI-** (GA/DERIVED, L3, ord:57, q:57)
+        - Topic: Economy
+        - Subtopic: Banking, RBI & Finance
+        - Domain: Economy
+        - **G-M-BANKING-RB-GENERAL-FACT** (GA/RECALL, L4, ord:140, q:39)
+          - Topic: Economy
+          - Subtopic: Banking, RBI & Finance
+          - Micro: General-factual
+          - Domain: Economy
+          - **G-A-BANKING--GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:445, q:29)
+            - Topic: Economy
+            - Subtopic: Banking, RBI & Finance
+            - Micro: General-factual
+            - Domain: Economy
+            - **G-V-BANKING--GENERA-DIRECT** (GA/DERIVED, L6, ord:970, q:0)
+              - Topic: Economy
+              - Subtopic: Banking, RBI & Finance
+              - Micro: Variations & distractors
+              - Domain: Economy
+          - **G-A-BANKING--GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:514, q:6)
+            - Topic: Economy
+            - Subtopic: Banking, RBI & Finance
+            - Micro: General-factual
+            - Domain: Economy
+            - **G-V-BANKING--GENERA-STATEM** (GA/DERIVED, L6, ord:972, q:0)
+              - Topic: Economy
+              - Subtopic: Banking, RBI & Finance
+              - Micro: Variations & distractors
+              - Domain: Economy
+          - **G-A-BANKING--GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:550, q:4)
+            - Topic: Economy
+            - Subtopic: Banking, RBI & Finance
+            - Micro: General-factual
+            - Domain: Economy
+            - **G-V-BANKING--GENERA-FILL-U** (GA/DERIVED, L6, ord:971, q:0)
+              - Topic: Economy
+              - Subtopic: Banking, RBI & Finance
+              - Micro: Variations & distractors
+              - Domain: Economy
+        - **G-M-BANKING-RB-TERM-ANCHORE** (GA/RECALL, L4, ord:211, q:6)
+          - Topic: Economy
+          - Subtopic: Banking, RBI & Finance
+          - Micro: Term-anchored
+          - Domain: Economy
+          - **G-A-BANKING--TERM-ANC-DIRECT-F** (GA/PROCEDURAL, L5, ord:526, q:5)
+            - Topic: Economy
+            - Subtopic: Banking, RBI & Finance
+            - Micro: Term-anchored
+            - Domain: Economy
+            - **G-V-BANKING--TERM-A-DIRECT** (GA/DERIVED, L6, ord:979, q:0)
+              - Topic: Economy
+              - Subtopic: Banking, RBI & Finance
+              - Micro: Variations & distractors
+              - Domain: Economy
+          - **G-A-BANKING--TERM-ANC-FILL-UP** (GA/PROCEDURAL, L5, ord:762, q:1)
+            - Topic: Economy
+            - Subtopic: Banking, RBI & Finance
+            - Micro: Term-anchored
+            - Domain: Economy
+            - **G-V-BANKING--TERM-A-FILL-U** (GA/DERIVED, L6, ord:980, q:0)
+              - Topic: Economy
+              - Subtopic: Banking, RBI & Finance
+              - Micro: Variations & distractors
+              - Domain: Economy
+        - **G-M-BANKING-RB-OTHER-BANKIN** (GA/RECALL, L4, ord:220, q:5)
+          - Topic: Economy
+          - Subtopic: Banking, RBI & Finance
+          - Micro: Other Banking, RBI & Finance facts
+          - Domain: Economy
+          - **G-A-BANKING--OTHER-BA-DIRECT-F** (GA/PROCEDURAL, L5, ord:594, q:3)
+            - Topic: Economy
+            - Subtopic: Banking, RBI & Finance
+            - Micro: Other Banking, RBI & Finance facts
+            - Domain: Economy
+            - **G-V-BANKING--OTHER--DIRECT** (GA/DERIVED, L6, ord:973, q:0)
+              - Topic: Economy
+              - Subtopic: Banking, RBI & Finance
+              - Micro: Variations & distractors
+              - Domain: Economy
+          - **G-A-BANKING--OTHER-BA-FILL-UP** (GA/PROCEDURAL, L5, ord:759, q:1)
+            - Topic: Economy
+            - Subtopic: Banking, RBI & Finance
+            - Micro: Other Banking, RBI & Finance facts
+            - Domain: Economy
+            - **G-V-BANKING--OTHER--FILL-U** (GA/DERIVED, L6, ord:974, q:0)
+              - Topic: Economy
+              - Subtopic: Banking, RBI & Finance
+              - Micro: Variations & distractors
+              - Domain: Economy
+          - **G-A-BANKING--OTHER-BA-STATEMEN** (GA/PROCEDURAL, L5, ord:760, q:1)
+            - Topic: Economy
+            - Subtopic: Banking, RBI & Finance
+            - Micro: Other Banking, RBI & Finance facts
+            - Domain: Economy
+            - **G-V-BANKING--OTHER--STATEM** (GA/DERIVED, L6, ord:975, q:0)
+              - Topic: Economy
+              - Subtopic: Banking, RBI & Finance
+              - Micro: Variations & distractors
+              - Domain: Economy
+        - **G-M-BANKING-RB-SUPERLATIVE-** (GA/RECALL, L4, ord:280, q:3)
+          - Topic: Economy
+          - Subtopic: Banking, RBI & Finance
+          - Micro: Superlative/First-record
+          - Domain: Economy
+          - **G-A-BANKING--SUPERLAT-DIRECT-F** (GA/PROCEDURAL, L5, ord:651, q:2)
+            - Topic: Economy
+            - Subtopic: Banking, RBI & Finance
+            - Micro: Superlative/First-record
+            - Domain: Economy
+            - **G-V-BANKING--SUPERL-DIRECT** (GA/DERIVED, L6, ord:977, q:0)
+              - Topic: Economy
+              - Subtopic: Banking, RBI & Finance
+              - Micro: Variations & distractors
+              - Domain: Economy
+          - **G-A-BANKING--SUPERLAT-FILL-UP** (GA/PROCEDURAL, L5, ord:761, q:1)
+            - Topic: Economy
+            - Subtopic: Banking, RBI & Finance
+            - Micro: Superlative/First-record
+            - Domain: Economy
+            - **G-V-BANKING--SUPERL-FILL-U** (GA/DERIVED, L6, ord:978, q:0)
+              - Topic: Economy
+              - Subtopic: Banking, RBI & Finance
+              - Micro: Variations & distractors
+              - Domain: Economy
+        - **G-M-BANKING-RB-AWARD-ANCHOR** (GA/RECALL, L4, ord:319, q:2)
+          - Topic: Economy
+          - Subtopic: Banking, RBI & Finance
+          - Micro: Award-anchored
+          - Domain: Economy
+          - **G-A-BANKING--AWARD-AN-DIRECT-F** (GA/PROCEDURAL, L5, ord:649, q:2)
+            - Topic: Economy
+            - Subtopic: Banking, RBI & Finance
+            - Micro: Award-anchored
+            - Domain: Economy
+            - **G-V-BANKING--AWARD--DIRECT** (GA/DERIVED, L6, ord:969, q:0)
+              - Topic: Economy
+              - Subtopic: Banking, RBI & Finance
+              - Micro: Variations & distractors
+              - Domain: Economy
+        - **G-M-BANKING-RB-PERSON-ANCHO** (GA/RECALL, L4, ord:320, q:2)
+          - Topic: Economy
+          - Subtopic: Banking, RBI & Finance
+          - Micro: Person-anchored
+          - Domain: Economy
+          - **G-A-BANKING--PERSON-A-DIRECT-F** (GA/PROCEDURAL, L5, ord:650, q:2)
+            - Topic: Economy
+            - Subtopic: Banking, RBI & Finance
+            - Micro: Person-anchored
+            - Domain: Economy
+            - **G-V-BANKING--PERSON-DIRECT** (GA/DERIVED, L6, ord:976, q:0)
+              - Topic: Economy
+              - Subtopic: Banking, RBI & Finance
+              - Micro: Variations & distractors
+              - Domain: Economy
+      - **G-S-ECONOMY-INDUSTRY-MSM** (GA/DERIVED, L3, ord:65, q:25)
+        - Topic: Economy
+        - Subtopic: Industry, MSME & Reforms
+        - Domain: Economy
+        - **G-M-INDUSTRY-M-GENERAL-FACT** (GA/RECALL, L4, ord:166, q:15)
+          - Topic: Economy
+          - Subtopic: Industry, MSME & Reforms
+          - Micro: General-factual
+          - Domain: Economy
+          - **G-A-INDUSTRY-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:493, q:9)
+            - Topic: Economy
+            - Subtopic: Industry, MSME & Reforms
+            - Micro: General-factual
+            - Domain: Economy
+            - **G-V-INDUSTRY-GENERA-DIRECT** (GA/DERIVED, L6, ord:1275, q:0)
+              - Topic: Economy
+              - Subtopic: Industry, MSME & Reforms
+              - Micro: Variations & distractors
+              - Domain: Economy
+          - **G-A-INDUSTRY-GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:541, q:5)
+            - Topic: Economy
+            - Subtopic: Industry, MSME & Reforms
+            - Micro: General-factual
+            - Domain: Economy
+            - **G-V-INDUSTRY-GENERA-STATEM** (GA/DERIVED, L6, ord:1277, q:0)
+              - Topic: Economy
+              - Subtopic: Industry, MSME & Reforms
+              - Micro: Variations & distractors
+              - Domain: Economy
+          - **G-A-INDUSTRY-GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:878, q:1)
+            - Topic: Economy
+            - Subtopic: Industry, MSME & Reforms
+            - Micro: General-factual
+            - Domain: Economy
+            - **G-V-INDUSTRY-GENERA-FILL-U** (GA/DERIVED, L6, ord:1276, q:0)
+              - Topic: Economy
+              - Subtopic: Industry, MSME & Reforms
+              - Micro: Variations & distractors
+              - Domain: Economy
+        - **G-M-INDUSTRY-M-OBJECTIVE-AN** (GA/RECALL, L4, ord:371, q:2)
+          - Topic: Economy
+          - Subtopic: Industry, MSME & Reforms
+          - Micro: Objective-anchored
+          - Domain: Economy
+          - **G-A-INDUSTRY-OBJECTIV-DIRECT-F** (GA/PROCEDURAL, L5, ord:716, q:2)
+            - Topic: Economy
+            - Subtopic: Industry, MSME & Reforms
+            - Micro: Objective-anchored
+            - Domain: Economy
+            - **G-V-INDUSTRY-OBJECT-DIRECT** (GA/DERIVED, L6, ord:1278, q:0)
+              - Topic: Economy
+              - Subtopic: Industry, MSME & Reforms
+              - Micro: Variations & distractors
+              - Domain: Economy
+        - **G-M-INDUSTRY-M-OTHER-INDUST** (GA/RECALL, L4, ord:372, q:2)
+          - Topic: Economy
+          - Subtopic: Industry, MSME & Reforms
+          - Micro: Other Industry, MSME & Reforms facts
+          - Domain: Economy
+          - **G-A-INDUSTRY-OTHER-IN-DIRECT-F** (GA/PROCEDURAL, L5, ord:879, q:1)
+            - Topic: Economy
+            - Subtopic: Industry, MSME & Reforms
+            - Micro: Other Industry, MSME & Reforms facts
+            - Domain: Economy
+            - **G-V-INDUSTRY-OTHER--DIRECT** (GA/DERIVED, L6, ord:1279, q:0)
+              - Topic: Economy
+              - Subtopic: Industry, MSME & Reforms
+              - Micro: Variations & distractors
+              - Domain: Economy
+          - **G-A-INDUSTRY-OTHER-IN-FILL-UP** (GA/PROCEDURAL, L5, ord:880, q:1)
+            - Topic: Economy
+            - Subtopic: Industry, MSME & Reforms
+            - Micro: Other Industry, MSME & Reforms facts
+            - Domain: Economy
+            - **G-V-INDUSTRY-OTHER--FILL-U** (GA/DERIVED, L6, ord:1280, q:0)
+              - Topic: Economy
+              - Subtopic: Industry, MSME & Reforms
+              - Micro: Variations & distractors
+              - Domain: Economy
+        - **G-M-INDUSTRY-M-PLACE-ANCHOR** (GA/RECALL, L4, ord:373, q:2)
+          - Topic: Economy
+          - Subtopic: Industry, MSME & Reforms
+          - Micro: Place-anchored
+          - Domain: Economy
+          - **G-A-INDUSTRY-PLACE-AN-DIRECT-F** (GA/PROCEDURAL, L5, ord:881, q:1)
+            - Topic: Economy
+            - Subtopic: Industry, MSME & Reforms
+            - Micro: Place-anchored
+            - Domain: Economy
+            - **G-V-INDUSTRY-PLACE--DIRECT** (GA/DERIVED, L6, ord:1281, q:0)
+              - Topic: Economy
+              - Subtopic: Industry, MSME & Reforms
+              - Micro: Variations & distractors
+              - Domain: Economy
+          - **G-A-INDUSTRY-PLACE-AN-MATCHING** (GA/PROCEDURAL, L5, ord:882, q:1)
+            - Topic: Economy
+            - Subtopic: Industry, MSME & Reforms
+            - Micro: Place-anchored
+            - Domain: Economy
+            - **G-V-INDUSTRY-PLACE--MATCHI** (GA/DERIVED, L6, ord:1282, q:0)
+              - Topic: Economy
+              - Subtopic: Industry, MSME & Reforms
+              - Micro: Variations & distractors
+              - Domain: Economy
+        - **G-M-INDUSTRY-M-SUPERLATIVE-** (GA/RECALL, L4, ord:374, q:2)
+          - Topic: Economy
+          - Subtopic: Industry, MSME & Reforms
+          - Micro: Superlative/First-record
+          - Domain: Economy
+          - **G-A-INDUSTRY-SUPERLAT-DIRECT-F** (GA/PROCEDURAL, L5, ord:883, q:1)
+            - Topic: Economy
+            - Subtopic: Industry, MSME & Reforms
+            - Micro: Superlative/First-record
+            - Domain: Economy
+            - **G-V-INDUSTRY-SUPERL-DIRECT** (GA/DERIVED, L6, ord:1283, q:0)
+              - Topic: Economy
+              - Subtopic: Industry, MSME & Reforms
+              - Micro: Variations & distractors
+              - Domain: Economy
+          - **G-A-INDUSTRY-SUPERLAT-STATEMEN** (GA/PROCEDURAL, L5, ord:884, q:1)
+            - Topic: Economy
+            - Subtopic: Industry, MSME & Reforms
+            - Micro: Superlative/First-record
+            - Domain: Economy
+            - **G-V-INDUSTRY-SUPERL-STATEM** (GA/DERIVED, L6, ord:1284, q:0)
+              - Topic: Economy
+              - Subtopic: Industry, MSME & Reforms
+              - Micro: Variations & distractors
+              - Domain: Economy
+        - **G-M-INDUSTRY-M-YEAR-ANCHORE** (GA/RECALL, L4, ord:375, q:2)
+          - Topic: Economy
+          - Subtopic: Industry, MSME & Reforms
+          - Micro: Year-anchored
+          - Domain: Economy
+          - **G-A-INDUSTRY-YEAR-ANC-DIRECT-F** (GA/PROCEDURAL, L5, ord:885, q:1)
+            - Topic: Economy
+            - Subtopic: Industry, MSME & Reforms
+            - Micro: Year-anchored
+            - Domain: Economy
+            - **G-V-INDUSTRY-YEAR-A-DIRECT** (GA/DERIVED, L6, ord:1285, q:0)
+              - Topic: Economy
+              - Subtopic: Industry, MSME & Reforms
+              - Micro: Variations & distractors
+              - Domain: Economy
+          - **G-A-INDUSTRY-YEAR-ANC-FILL-UP** (GA/PROCEDURAL, L5, ord:886, q:1)
+            - Topic: Economy
+            - Subtopic: Industry, MSME & Reforms
+            - Micro: Year-anchored
+            - Domain: Economy
+            - **G-V-INDUSTRY-YEAR-A-FILL-U** (GA/DERIVED, L6, ord:1286, q:0)
+              - Topic: Economy
+              - Subtopic: Industry, MSME & Reforms
+              - Micro: Variations & distractors
+              - Domain: Economy
+      - **G-S-ECONOMY-INFLATION-PO** (GA/DERIVED, L3, ord:66, q:25)
+        - Topic: Economy
+        - Subtopic: Inflation, Poverty & Food Security
+        - Domain: Economy
+        - **G-M-INFLATION--GENERAL-FACT** (GA/RECALL, L4, ord:162, q:17)
+          - Topic: Economy
+          - Subtopic: Inflation, Poverty & Food Security
+          - Micro: General-factual
+          - Domain: Economy
+          - **G-A-INFLATIO-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:465, q:14)
+            - Topic: Economy
+            - Subtopic: Inflation, Poverty & Food Security
+            - Micro: General-factual
+            - Domain: Economy
+            - **G-V-INFLATIO-GENERA-DIRECT** (GA/DERIVED, L6, ord:1287, q:0)
+              - Topic: Economy
+              - Subtopic: Inflation, Poverty & Food Security
+              - Micro: Variations & distractors
+              - Domain: Economy
+          - **G-A-INFLATIO-GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:717, q:2)
+            - Topic: Economy
+            - Subtopic: Inflation, Poverty & Food Security
+            - Micro: General-factual
+            - Domain: Economy
+            - **G-V-INFLATIO-GENERA-STATEM** (GA/DERIVED, L6, ord:1289, q:0)
+              - Topic: Economy
+              - Subtopic: Inflation, Poverty & Food Security
+              - Micro: Variations & distractors
+              - Domain: Economy
+          - **G-A-INFLATIO-GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:887, q:1)
+            - Topic: Economy
+            - Subtopic: Inflation, Poverty & Food Security
+            - Micro: General-factual
+            - Domain: Economy
+            - **G-V-INFLATIO-GENERA-FILL-U** (GA/DERIVED, L6, ord:1288, q:0)
+              - Topic: Economy
+              - Subtopic: Inflation, Poverty & Food Security
+              - Micro: Variations & distractors
+              - Domain: Economy
+        - **G-M-INFLATION--OTHER-INFLAT** (GA/RECALL, L4, ord:238, q:5)
+          - Topic: Economy
+          - Subtopic: Inflation, Poverty & Food Security
+          - Micro: Other Inflation, Poverty & Food Security facts
+          - Domain: Economy
+          - **G-A-INFLATIO-OTHER-IN-DIRECT-F** (GA/PROCEDURAL, L5, ord:622, q:3)
+            - Topic: Economy
+            - Subtopic: Inflation, Poverty & Food Security
+            - Micro: Other Inflation, Poverty & Food Security facts
+            - Domain: Economy
+            - **G-V-INFLATIO-OTHER--DIRECT** (GA/DERIVED, L6, ord:1290, q:0)
+              - Topic: Economy
+              - Subtopic: Inflation, Poverty & Food Security
+              - Micro: Variations & distractors
+              - Domain: Economy
+          - **G-A-INFLATIO-OTHER-IN-STATEMEN** (GA/PROCEDURAL, L5, ord:718, q:2)
+            - Topic: Economy
+            - Subtopic: Inflation, Poverty & Food Security
+            - Micro: Other Inflation, Poverty & Food Security facts
+            - Domain: Economy
+            - **G-V-INFLATIO-OTHER--STATEM** (GA/DERIVED, L6, ord:1291, q:0)
+              - Topic: Economy
+              - Subtopic: Inflation, Poverty & Food Security
+              - Micro: Variations & distractors
+              - Domain: Economy
+        - **G-M-INFLATION--PERSON-ANCHO** (GA/RECALL, L4, ord:305, q:3)
+          - Topic: Economy
+          - Subtopic: Inflation, Poverty & Food Security
+          - Micro: Person-anchored
+          - Domain: Economy
+          - **G-A-INFLATIO-PERSON-A-DIRECT-F** (GA/PROCEDURAL, L5, ord:623, q:3)
+            - Topic: Economy
+            - Subtopic: Inflation, Poverty & Food Security
+            - Micro: Person-anchored
+            - Domain: Economy
+            - **G-V-INFLATIO-PERSON-DIRECT** (GA/DERIVED, L6, ord:1292, q:0)
+              - Topic: Economy
+              - Subtopic: Inflation, Poverty & Food Security
+              - Micro: Variations & distractors
+              - Domain: Economy
+      - **G-S-ECONOMY-TRADE-EXTERN** (GA/DERIVED, L3, ord:73, q:16)
+        - Topic: Economy
+        - Subtopic: Trade & External Sector
+        - Domain: Economy
+        - **G-M-TRADE-EXTE-GENERAL-FACT** (GA/RECALL, L4, ord:172, q:14)
+          - Topic: Economy
+          - Subtopic: Trade & External Sector
+          - Micro: General-factual
+          - Domain: Economy
+          - **G-A-TRADE-EX-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:491, q:10)
+            - Topic: Economy
+            - Subtopic: Trade & External Sector
+            - Micro: General-factual
+            - Domain: Economy
+            - **G-V-TRADE-EX-GENERA-DIRECT** (GA/DERIVED, L6, ord:1449, q:0)
+              - Topic: Economy
+              - Subtopic: Trade & External Sector
+              - Micro: Variations & distractors
+              - Domain: Economy
+          - **G-A-TRADE-EX-GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:640, q:3)
+            - Topic: Economy
+            - Subtopic: Trade & External Sector
+            - Micro: General-factual
+            - Domain: Economy
+            - **G-V-TRADE-EX-GENERA-STATEM** (GA/DERIVED, L6, ord:1451, q:0)
+              - Topic: Economy
+              - Subtopic: Trade & External Sector
+              - Micro: Variations & distractors
+              - Domain: Economy
+          - **G-A-TRADE-EX-GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:942, q:1)
+            - Topic: Economy
+            - Subtopic: Trade & External Sector
+            - Micro: General-factual
+            - Domain: Economy
+            - **G-V-TRADE-EX-GENERA-FILL-U** (GA/DERIVED, L6, ord:1450, q:0)
+              - Topic: Economy
+              - Subtopic: Trade & External Sector
+              - Micro: Variations & distractors
+              - Domain: Economy
+        - **G-M-TRADE-EXTE-TERM-ANCHORE** (GA/RECALL, L4, ord:405, q:2)
+          - Topic: Economy
+          - Subtopic: Trade & External Sector
+          - Micro: Term-anchored
+          - Domain: Economy
+          - **G-A-TRADE-EX-TERM-ANC-DIRECT-F** (GA/PROCEDURAL, L5, ord:943, q:1)
+            - Topic: Economy
+            - Subtopic: Trade & External Sector
+            - Micro: Term-anchored
+            - Domain: Economy
+            - **G-V-TRADE-EX-TERM-A-DIRECT** (GA/DERIVED, L6, ord:1452, q:0)
+              - Topic: Economy
+              - Subtopic: Trade & External Sector
+              - Micro: Variations & distractors
+              - Domain: Economy
+          - **G-A-TRADE-EX-TERM-ANC-FILL-UP** (GA/PROCEDURAL, L5, ord:944, q:1)
+            - Topic: Economy
+            - Subtopic: Trade & External Sector
+            - Micro: Term-anchored
+            - Domain: Economy
+            - **G-V-TRADE-EX-TERM-A-FILL-U** (GA/DERIVED, L6, ord:1453, q:0)
+              - Topic: Economy
+              - Subtopic: Trade & External Sector
+              - Micro: Variations & distractors
+              - Domain: Economy
+      - **G-S-ECONOMY-PLANNING-NIT** (GA/DERIVED, L3, ord:76, q:13)
+        - Topic: Economy
+        - Subtopic: Planning & NITI Aayog
+        - Domain: Economy
+        - **G-M-PLANNING-N-GENERAL-FACT** (GA/RECALL, L4, ord:209, q:7)
+          - Topic: Economy
+          - Subtopic: Planning & NITI Aayog
+          - Micro: General-factual
+          - Domain: Economy
+          - **G-A-PLANNING-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:585, q:4)
+            - Topic: Economy
+            - Subtopic: Planning & NITI Aayog
+            - Micro: General-factual
+            - Domain: Economy
+            - **G-V-PLANNING-GENERA-DIRECT** (GA/DERIVED, L6, ord:1389, q:0)
+              - Topic: Economy
+              - Subtopic: Planning & NITI Aayog
+              - Micro: Variations & distractors
+              - Domain: Economy
+          - **G-A-PLANNING-GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:739, q:2)
+            - Topic: Economy
+            - Subtopic: Planning & NITI Aayog
+            - Micro: General-factual
+            - Domain: Economy
+            - **G-V-PLANNING-GENERA-STATEM** (GA/DERIVED, L6, ord:1391, q:0)
+              - Topic: Economy
+              - Subtopic: Planning & NITI Aayog
+              - Micro: Variations & distractors
+              - Domain: Economy
+          - **G-A-PLANNING-GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:918, q:1)
+            - Topic: Economy
+            - Subtopic: Planning & NITI Aayog
+            - Micro: General-factual
+            - Domain: Economy
+            - **G-V-PLANNING-GENERA-FILL-U** (GA/DERIVED, L6, ord:1390, q:0)
+              - Topic: Economy
+              - Subtopic: Planning & NITI Aayog
+              - Micro: Variations & distractors
+              - Domain: Economy
+        - **G-M-PLANNING-N-OTHER-PLANNI** (GA/RECALL, L4, ord:272, q:4)
+          - Topic: Economy
+          - Subtopic: Planning & NITI Aayog
+          - Micro: Other Planning & NITI Aayog facts
+          - Domain: Economy
+          - **G-A-PLANNING-OTHER-PL-DIRECT-F** (GA/PROCEDURAL, L5, ord:635, q:3)
+            - Topic: Economy
+            - Subtopic: Planning & NITI Aayog
+            - Micro: Other Planning & NITI Aayog facts
+            - Domain: Economy
+            - **G-V-PLANNING-OTHER--DIRECT** (GA/DERIVED, L6, ord:1392, q:0)
+              - Topic: Economy
+              - Subtopic: Planning & NITI Aayog
+              - Micro: Variations & distractors
+              - Domain: Economy
+          - **G-A-PLANNING-OTHER-PL-STATEMEN** (GA/PROCEDURAL, L5, ord:919, q:1)
+            - Topic: Economy
+            - Subtopic: Planning & NITI Aayog
+            - Micro: Other Planning & NITI Aayog facts
+            - Domain: Economy
+            - **G-V-PLANNING-OTHER--STATEM** (GA/DERIVED, L6, ord:1393, q:0)
+              - Topic: Economy
+              - Subtopic: Planning & NITI Aayog
+              - Micro: Variations & distractors
+              - Domain: Economy
+        - **G-M-PLANNING-N-SUPERLATIVE-** (GA/RECALL, L4, ord:390, q:2)
+          - Topic: Economy
+          - Subtopic: Planning & NITI Aayog
+          - Micro: Superlative/First-record
+          - Domain: Economy
+          - **G-A-PLANNING-SUPERLAT-DIRECT-F** (GA/PROCEDURAL, L5, ord:740, q:2)
+            - Topic: Economy
+            - Subtopic: Planning & NITI Aayog
+            - Micro: Superlative/First-record
+            - Domain: Economy
+            - **G-V-PLANNING-SUPERL-DIRECT** (GA/DERIVED, L6, ord:1394, q:0)
+              - Topic: Economy
+              - Subtopic: Planning & NITI Aayog
+              - Micro: Variations & distractors
+              - Domain: Economy
+  - **G-D-FIGURE-BASED-I** (GA/DERIVED, L1, ord:9, q:0)
+    - Domain: Figure-Based (Image)
+    - **G-T-FIGURE-BASED-I** (GA/DERIVED, L2, ord:35, q:14)
+      - Topic: Figure-Based (Image)
+      - Domain: Figure-Based (Image)
+      - **G-S-FIGURE-BAS-FIGURE-BASED** (GA/DERIVED, L3, ord:74, q:14)
+        - Topic: Figure-Based (Image)
+        - Subtopic: Figure-based (needs PDF)
+        - Domain: Figure-Based (Image)
+        - **G-M-FIGURE-BAS-GENERAL-FACT** (GA/RECALL, L4, ord:169, q:14)
+          - Topic: Figure-Based (Image)
+          - Subtopic: Figure-based (needs PDF)
+          - Micro: General-factual
+          - Domain: Figure-Based (Image)
+          - **G-A-FIGURE-B-GENERAL--IMAGE-BA** (GA/PROCEDURAL, L5, ord:462, q:14)
+            - Topic: Figure-Based (Image)
+            - Subtopic: Figure-based (needs PDF)
+            - Micro: General-factual
+            - Domain: Figure-Based (Image)
+            - **G-V-FIGURE-B-GENERA-IMAGE-** (GA/DERIVED, L6, ord:1084, q:0)
+              - Topic: Figure-Based (Image)
+              - Subtopic: Figure-based (needs PDF)
+              - Micro: Variations & distractors
+              - Domain: Figure-Based (Image)
+  - **G-D-HISTORY-MEDIEV** (GA/DERIVED, L1, ord:10, q:0)
+    - Domain: History-Medieval
+    - **G-T-MEDIEVAL-HISTO** (GA/DERIVED, L2, ord:32, q:53)
+      - Topic: Medieval History
+      - Domain: History-Medieval
+      - **G-S-MEDIEVAL-H-MUGHALS** (GA/DERIVED, L3, ord:60, q:28)
+        - Topic: Medieval History
+        - Subtopic: Mughals
+        - Domain: History-Medieval
+        - **G-M-MUGHALS-GENERAL-FACT** (GA/RECALL, L4, ord:163, q:17)
+          - Topic: Medieval History
+          - Subtopic: Mughals
+          - Micro: General-factual
+          - Domain: History-Medieval
+          - **G-A-MUGHALS-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:466, q:14)
+            - Topic: Medieval History
+            - Subtopic: Mughals
+            - Micro: General-factual
+            - Domain: History-Medieval
+            - **G-V-MUGHALS-GENERA-DIRECT** (GA/DERIVED, L6, ord:1331, q:0)
+              - Topic: Medieval History
+              - Subtopic: Mughals
+              - Micro: Variations & distractors
+              - Domain: History-Medieval
+          - **G-A-MUGHALS-GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:902, q:1)
+            - Topic: Medieval History
+            - Subtopic: Mughals
+            - Micro: General-factual
+            - Domain: History-Medieval
+            - **G-V-MUGHALS-GENERA-FILL-U** (GA/DERIVED, L6, ord:1332, q:0)
+              - Topic: Medieval History
+              - Subtopic: Mughals
+              - Micro: Variations & distractors
+              - Domain: History-Medieval
+          - **G-A-MUGHALS-GENERAL--MATCHING** (GA/PROCEDURAL, L5, ord:903, q:1)
+            - Topic: Medieval History
+            - Subtopic: Mughals
+            - Micro: General-factual
+            - Domain: History-Medieval
+            - **G-V-MUGHALS-GENERA-MATCHI** (GA/DERIVED, L6, ord:1333, q:0)
+              - Topic: Medieval History
+              - Subtopic: Mughals
+              - Micro: Variations & distractors
+              - Domain: History-Medieval
+          - **G-A-MUGHALS-GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:904, q:1)
+            - Topic: Medieval History
+            - Subtopic: Mughals
+            - Micro: General-factual
+            - Domain: History-Medieval
+            - **G-V-MUGHALS-GENERA-STATEM** (GA/DERIVED, L6, ord:1334, q:0)
+              - Topic: Medieval History
+              - Subtopic: Mughals
+              - Micro: Variations & distractors
+              - Domain: History-Medieval
+        - **G-M-MUGHALS-PERSON-ANCHO** (GA/RECALL, L4, ord:268, q:4)
+          - Topic: Medieval History
+          - Subtopic: Mughals
+          - Micro: Person-anchored
+          - Domain: History-Medieval
+          - **G-A-MUGHALS-PERSON-A-DIRECT-F** (GA/PROCEDURAL, L5, ord:582, q:4)
+            - Topic: Medieval History
+            - Subtopic: Mughals
+            - Micro: Person-anchored
+            - Domain: History-Medieval
+            - **G-V-MUGHALS-PERSON-DIRECT** (GA/DERIVED, L6, ord:1337, q:0)
+              - Topic: Medieval History
+              - Subtopic: Mughals
+              - Micro: Variations & distractors
+              - Domain: History-Medieval
+        - **G-M-MUGHALS-YEAR-ANCHORE** (GA/RECALL, L4, ord:269, q:4)
+          - Topic: Medieval History
+          - Subtopic: Mughals
+          - Micro: Year-anchored
+          - Domain: History-Medieval
+          - **G-A-MUGHALS-YEAR-ANC-DIRECT-F** (GA/PROCEDURAL, L5, ord:728, q:2)
+            - Topic: Medieval History
+            - Subtopic: Mughals
+            - Micro: Year-anchored
+            - Domain: History-Medieval
+            - **G-V-MUGHALS-YEAR-A-DIRECT** (GA/DERIVED, L6, ord:1338, q:0)
+              - Topic: Medieval History
+              - Subtopic: Mughals
+              - Micro: Variations & distractors
+              - Domain: History-Medieval
+          - **G-A-MUGHALS-YEAR-ANC-FILL-UP** (GA/PROCEDURAL, L5, ord:729, q:2)
+            - Topic: Medieval History
+            - Subtopic: Mughals
+            - Micro: Year-anchored
+            - Domain: History-Medieval
+            - **G-V-MUGHALS-YEAR-A-FILL-U** (GA/DERIVED, L6, ord:1339, q:0)
+              - Topic: Medieval History
+              - Subtopic: Mughals
+              - Micro: Variations & distractors
+              - Domain: History-Medieval
+        - **G-M-MUGHALS-OTHER-MUGHAL** (GA/RECALL, L4, ord:310, q:3)
+          - Topic: Medieval History
+          - Subtopic: Mughals
+          - Micro: Other Mughals facts
+          - Domain: History-Medieval
+          - **G-A-MUGHALS-OTHER-MU-STATEMEN** (GA/PROCEDURAL, L5, ord:727, q:2)
+            - Topic: Medieval History
+            - Subtopic: Mughals
+            - Micro: Other Mughals facts
+            - Domain: History-Medieval
+            - **G-V-MUGHALS-OTHER--STATEM** (GA/DERIVED, L6, ord:1336, q:0)
+              - Topic: Medieval History
+              - Subtopic: Mughals
+              - Micro: Variations & distractors
+              - Domain: History-Medieval
+          - **G-A-MUGHALS-OTHER-MU-DIRECT-F** (GA/PROCEDURAL, L5, ord:905, q:1)
+            - Topic: Medieval History
+            - Subtopic: Mughals
+            - Micro: Other Mughals facts
+            - Domain: History-Medieval
+            - **G-V-MUGHALS-OTHER--DIRECT** (GA/DERIVED, L6, ord:1335, q:0)
+              - Topic: Medieval History
+              - Subtopic: Mughals
+              - Micro: Variations & distractors
+              - Domain: History-Medieval
+      - **G-S-MEDIEVAL-H-DELHI-SULTAN** (GA/DERIVED, L3, ord:91, q:9)
+        - Topic: Medieval History
+        - Subtopic: Delhi Sultanate
+        - Domain: History-Medieval
+        - **G-M-DELHI-SULT-GENERAL-FACT** (GA/RECALL, L4, ord:250, q:4)
+          - Topic: Medieval History
+          - Subtopic: Delhi Sultanate
+          - Micro: General-factual
+          - Domain: History-Medieval
+          - **G-A-DELHI-SU-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:554, q:4)
+            - Topic: Medieval History
+            - Subtopic: Delhi Sultanate
+            - Micro: General-factual
+            - Domain: History-Medieval
+            - **G-V-DELHI-SU-GENERA-DIRECT** (GA/DERIVED, L6, ord:1043, q:0)
+              - Topic: Medieval History
+              - Subtopic: Delhi Sultanate
+              - Micro: Variations & distractors
+              - Domain: History-Medieval
+        - **G-M-DELHI-SULT-PERSON-ANCHO** (GA/RECALL, L4, ord:285, q:3)
+          - Topic: Medieval History
+          - Subtopic: Delhi Sultanate
+          - Micro: Person-anchored
+          - Domain: History-Medieval
+          - **G-A-DELHI-SU-PERSON-A-DIRECT-F** (GA/PROCEDURAL, L5, ord:605, q:3)
+            - Topic: Medieval History
+            - Subtopic: Delhi Sultanate
+            - Micro: Person-anchored
+            - Domain: History-Medieval
+            - **G-V-DELHI-SU-PERSON-DIRECT** (GA/DERIVED, L6, ord:1046, q:0)
+              - Topic: Medieval History
+              - Subtopic: Delhi Sultanate
+              - Micro: Variations & distractors
+              - Domain: History-Medieval
+        - **G-M-DELHI-SULT-OTHER-DELHI-** (GA/RECALL, L4, ord:333, q:2)
+          - Topic: Medieval History
+          - Subtopic: Delhi Sultanate
+          - Micro: Other Delhi Sultanate facts
+          - Domain: History-Medieval
+          - **G-A-DELHI-SU-OTHER-DE-DIRECT-F** (GA/PROCEDURAL, L5, ord:788, q:1)
+            - Topic: Medieval History
+            - Subtopic: Delhi Sultanate
+            - Micro: Other Delhi Sultanate facts
+            - Domain: History-Medieval
+            - **G-V-DELHI-SU-OTHER--DIRECT** (GA/DERIVED, L6, ord:1044, q:0)
+              - Topic: Medieval History
+              - Subtopic: Delhi Sultanate
+              - Micro: Variations & distractors
+              - Domain: History-Medieval
+          - **G-A-DELHI-SU-OTHER-DE-STATEMEN** (GA/PROCEDURAL, L5, ord:789, q:1)
+            - Topic: Medieval History
+            - Subtopic: Delhi Sultanate
+            - Micro: Other Delhi Sultanate facts
+            - Domain: History-Medieval
+            - **G-V-DELHI-SU-OTHER--STATEM** (GA/DERIVED, L6, ord:1045, q:0)
+              - Topic: Medieval History
+              - Subtopic: Delhi Sultanate
+              - Micro: Variations & distractors
+              - Domain: History-Medieval
+      - **G-S-MEDIEVAL-H-VIJAYANAGARA** (GA/DERIVED, L3, ord:100, q:7)
+        - Topic: Medieval History
+        - Subtopic: Vijayanagara & Deccan
+        - Domain: History-Medieval
+        - **G-M-VIJAYANAGA-GENERAL-FACT** (GA/RECALL, L4, ord:219, q:6)
+          - Topic: Medieval History
+          - Subtopic: Vijayanagara & Deccan
+          - Micro: General-factual
+          - Domain: History-Medieval
+          - **G-A-VIJAYANA-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:642, q:3)
+            - Topic: Medieval History
+            - Subtopic: Vijayanagara & Deccan
+            - Micro: General-factual
+            - Domain: History-Medieval
+            - **G-V-VIJAYANA-GENERA-DIRECT** (GA/DERIVED, L6, ord:1457, q:0)
+              - Topic: Medieval History
+              - Subtopic: Vijayanagara & Deccan
+              - Micro: Variations & distractors
+              - Domain: History-Medieval
+          - **G-A-VIJAYANA-GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:754, q:2)
+            - Topic: Medieval History
+            - Subtopic: Vijayanagara & Deccan
+            - Micro: General-factual
+            - Domain: History-Medieval
+            - **G-V-VIJAYANA-GENERA-FILL-U** (GA/DERIVED, L6, ord:1458, q:0)
+              - Topic: Medieval History
+              - Subtopic: Vijayanagara & Deccan
+              - Micro: Variations & distractors
+              - Domain: History-Medieval
+          - **G-A-VIJAYANA-GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:947, q:1)
+            - Topic: Medieval History
+            - Subtopic: Vijayanagara & Deccan
+            - Micro: General-factual
+            - Domain: History-Medieval
+            - **G-V-VIJAYANA-GENERA-STATEM** (GA/DERIVED, L6, ord:1459, q:0)
+              - Topic: Medieval History
+              - Subtopic: Vijayanagara & Deccan
+              - Micro: Variations & distractors
+              - Domain: History-Medieval
+        - **G-M-VIJAYANAGA-OTHER-VIJAYA** (GA/RECALL, L4, ord:436, q:1)
+          - Topic: Medieval History
+          - Subtopic: Vijayanagara & Deccan
+          - Micro: Other Vijayanagara & Deccan facts
+          - Domain: History-Medieval
+          - **G-A-VIJAYANA-OTHER-VI-DIRECT-F** (GA/PROCEDURAL, L5, ord:948, q:1)
+            - Topic: Medieval History
+            - Subtopic: Vijayanagara & Deccan
+            - Micro: Other Vijayanagara & Deccan facts
+            - Domain: History-Medieval
+            - **G-V-VIJAYANA-OTHER--DIRECT** (GA/DERIVED, L6, ord:1460, q:0)
+              - Topic: Medieval History
+              - Subtopic: Vijayanagara & Deccan
+              - Micro: Variations & distractors
+              - Domain: History-Medieval
+      - **G-S-MEDIEVAL-H-BHAKTI-SUFI** (GA/DERIVED, L3, ord:109, q:5)
+        - Topic: Medieval History
+        - Subtopic: Bhakti & Sufi
+        - Domain: History-Medieval
+        - **G-M-BHAKTI-SUF-OTHER-BHAKTI** (GA/RECALL, L4, ord:281, q:3)
+          - Topic: Medieval History
+          - Subtopic: Bhakti & Sufi
+          - Micro: Other Bhakti & Sufi facts
+          - Domain: History-Medieval
+          - **G-A-BHAKTI-S-OTHER-BH-DIRECT-F** (GA/PROCEDURAL, L5, ord:652, q:2)
+            - Topic: Medieval History
+            - Subtopic: Bhakti & Sufi
+            - Micro: Other Bhakti & Sufi facts
+            - Domain: History-Medieval
+            - **G-V-BHAKTI-S-OTHER--DIRECT** (GA/DERIVED, L6, ord:983, q:0)
+              - Topic: Medieval History
+              - Subtopic: Bhakti & Sufi
+              - Micro: Variations & distractors
+              - Domain: History-Medieval
+          - **G-A-BHAKTI-S-OTHER-BH-FILL-UP** (GA/PROCEDURAL, L5, ord:765, q:1)
+            - Topic: Medieval History
+            - Subtopic: Bhakti & Sufi
+            - Micro: Other Bhakti & Sufi facts
+            - Domain: History-Medieval
+            - **G-V-BHAKTI-S-OTHER--FILL-U** (GA/DERIVED, L6, ord:984, q:0)
+              - Topic: Medieval History
+              - Subtopic: Bhakti & Sufi
+              - Micro: Variations & distractors
+              - Domain: History-Medieval
+        - **G-M-BHAKTI-SUF-GENERAL-FACT** (GA/RECALL, L4, ord:321, q:2)
+          - Topic: Medieval History
+          - Subtopic: Bhakti & Sufi
+          - Micro: General-factual
+          - Domain: History-Medieval
+          - **G-A-BHAKTI-S-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:763, q:1)
+            - Topic: Medieval History
+            - Subtopic: Bhakti & Sufi
+            - Micro: General-factual
+            - Domain: History-Medieval
+            - **G-V-BHAKTI-S-GENERA-DIRECT** (GA/DERIVED, L6, ord:981, q:0)
+              - Topic: Medieval History
+              - Subtopic: Bhakti & Sufi
+              - Micro: Variations & distractors
+              - Domain: History-Medieval
+          - **G-A-BHAKTI-S-GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:764, q:1)
+            - Topic: Medieval History
+            - Subtopic: Bhakti & Sufi
+            - Micro: General-factual
+            - Domain: History-Medieval
+            - **G-V-BHAKTI-S-GENERA-FILL-U** (GA/DERIVED, L6, ord:982, q:0)
+              - Topic: Medieval History
+              - Subtopic: Bhakti & Sufi
+              - Micro: Variations & distractors
+              - Domain: History-Medieval
+      - **G-S-MEDIEVAL-H-MARATHAS** (GA/DERIVED, L3, ord:123, q:2)
+        - Topic: Medieval History
+        - Subtopic: Marathas
+        - Domain: History-Medieval
+        - **G-M-MARATHAS-GENERAL-FACT** (GA/RECALL, L4, ord:381, q:2)
+          - Topic: Medieval History
+          - Subtopic: Marathas
+          - Micro: General-factual
+          - Domain: History-Medieval
+          - **G-A-MARATHAS-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:725, q:2)
+            - Topic: Medieval History
+            - Subtopic: Marathas
+            - Micro: General-factual
+            - Domain: History-Medieval
+            - **G-V-MARATHAS-GENERA-DIRECT** (GA/DERIVED, L6, ord:1311, q:0)
+              - Topic: Medieval History
+              - Subtopic: Marathas
+              - Micro: Variations & distractors
+              - Domain: History-Medieval
+      - **G-S-MEDIEVAL-H-GENERAL-MEDI** (GA/DERIVED, L3, ord:129, q:1)
+        - Topic: Medieval History
+        - Subtopic: General Medieval History
+        - Domain: History-Medieval
+        - **G-M-GENERAL-ME-OTHER-GENERA** (GA/RECALL, L4, ord:421, q:1)
+          - Topic: Medieval History
+          - Subtopic: General Medieval History
+          - Micro: Other General Medieval History facts
+          - Domain: History-Medieval
+          - **G-A-GENERAL--OTHER-GE-DIRECT-F-10** (GA/PROCEDURAL, L5, ord:842, q:1)
+            - Topic: Medieval History
+            - Subtopic: General Medieval History
+            - Micro: Other General Medieval History facts
+            - Domain: History-Medieval
+            - **G-V-GENERAL--OTHER--DIRECT-10** (GA/DERIVED, L6, ord:1173, q:0)
+              - Topic: Medieval History
+              - Subtopic: General Medieval History
+              - Micro: Variations & distractors
+              - Domain: History-Medieval
+      - **G-S-MEDIEVAL-H-RAJPUTS** (GA/DERIVED, L3, ord:130, q:1)
+        - Topic: Medieval History
+        - Subtopic: Rajputs
+        - Domain: History-Medieval
+        - **G-M-RAJPUTS-OTHER-RAJPUT** (GA/RECALL, L4, ord:427, q:1)
+          - Topic: Medieval History
+          - Subtopic: Rajputs
+          - Micro: Other Rajputs facts
+          - Domain: History-Medieval
+          - **G-A-RAJPUTS-OTHER-RA-DIRECT-F** (GA/PROCEDURAL, L5, ord:921, q:1)
+            - Topic: Medieval History
+            - Subtopic: Rajputs
+            - Micro: Other Rajputs facts
+            - Domain: History-Medieval
+            - **G-V-RAJPUTS-OTHER--DIRECT** (GA/DERIVED, L6, ord:1406, q:0)
+              - Topic: Medieval History
+              - Subtopic: Rajputs
+              - Micro: Variations & distractors
+              - Domain: History-Medieval
+  - **G-D-INSTITUTIONS-S** (GA/DERIVED, L1, ord:11, q:0)
+    - Domain: Institutions-Schemes
+    - **G-T-INSTITUTIONS-S** (GA/DERIVED, L2, ord:28, q:113)
+      - Topic: Institutions, Schemes & Reports
+      - Domain: Institutions-Schemes
+      - **G-S-INSTITUTIO-GOVERNMENT-S** (GA/DERIVED, L3, ord:43, q:47)
+        - Topic: Institutions, Schemes & Reports
+        - Subtopic: Government Schemes & Missions
+        - Domain: Institutions-Schemes
+        - **G-M-GOVERNMENT-GENERAL-FACT** (GA/RECALL, L4, ord:144, q:25)
+          - Topic: Institutions, Schemes & Reports
+          - Subtopic: Government Schemes & Missions
+          - Micro: General-factual
+          - Domain: Institutions-Schemes
+          - **G-A-GOVERNME-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:449, q:22)
+            - Topic: Institutions, Schemes & Reports
+            - Subtopic: Government Schemes & Missions
+            - Micro: General-factual
+            - Domain: Institutions-Schemes
+            - **G-V-GOVERNME-GENERA-DIRECT** (GA/DERIVED, L6, ord:1236, q:0)
+              - Topic: Institutions, Schemes & Reports
+              - Subtopic: Government Schemes & Missions
+              - Micro: Variations & distractors
+              - Domain: Institutions-Schemes
+          - **G-A-GOVERNME-GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:704, q:2)
+            - Topic: Institutions, Schemes & Reports
+            - Subtopic: Government Schemes & Missions
+            - Micro: General-factual
+            - Domain: Institutions-Schemes
+            - **G-V-GOVERNME-GENERA-FILL-U** (GA/DERIVED, L6, ord:1237, q:0)
+              - Topic: Institutions, Schemes & Reports
+              - Subtopic: Government Schemes & Missions
+              - Micro: Variations & distractors
+              - Domain: Institutions-Schemes
+          - **G-A-GOVERNME-GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:865, q:1)
+            - Topic: Institutions, Schemes & Reports
+            - Subtopic: Government Schemes & Missions
+            - Micro: General-factual
+            - Domain: Institutions-Schemes
+            - **G-V-GOVERNME-GENERA-STATEM** (GA/DERIVED, L6, ord:1238, q:0)
+              - Topic: Institutions, Schemes & Reports
+              - Subtopic: Government Schemes & Missions
+              - Micro: Variations & distractors
+              - Domain: Institutions-Schemes
+        - **G-M-GOVERNMENT-YEAR-ANCHORE** (GA/RECALL, L4, ord:181, q:11)
+          - Topic: Institutions, Schemes & Reports
+          - Subtopic: Government Schemes & Missions
+          - Micro: Year-anchored
+          - Domain: Institutions-Schemes
+          - **G-A-GOVERNME-YEAR-ANC-DIRECT-F** (GA/PROCEDURAL, L5, ord:480, q:11)
+            - Topic: Institutions, Schemes & Reports
+            - Subtopic: Government Schemes & Missions
+            - Micro: Year-anchored
+            - Domain: Institutions-Schemes
+            - **G-V-GOVERNME-YEAR-A-DIRECT** (GA/DERIVED, L6, ord:1245, q:0)
+              - Topic: Institutions, Schemes & Reports
+              - Subtopic: Government Schemes & Missions
+              - Micro: Variations & distractors
+              - Domain: Institutions-Schemes
+        - **G-M-GOVERNMENT-OBJECTIVE-AN** (GA/RECALL, L4, ord:299, q:3)
+          - Topic: Institutions, Schemes & Reports
+          - Subtopic: Government Schemes & Missions
+          - Micro: Objective-anchored
+          - Domain: Institutions-Schemes
+          - **G-A-GOVERNME-OBJECTIV-DIRECT-F** (GA/PROCEDURAL, L5, ord:705, q:2)
+            - Topic: Institutions, Schemes & Reports
+            - Subtopic: Government Schemes & Missions
+            - Micro: Objective-anchored
+            - Domain: Institutions-Schemes
+            - **G-V-GOVERNME-OBJECT-DIRECT** (GA/DERIVED, L6, ord:1239, q:0)
+              - Topic: Institutions, Schemes & Reports
+              - Subtopic: Government Schemes & Missions
+              - Micro: Variations & distractors
+              - Domain: Institutions-Schemes
+          - **G-A-GOVERNME-OBJECTIV-FILL-UP** (GA/PROCEDURAL, L5, ord:866, q:1)
+            - Topic: Institutions, Schemes & Reports
+            - Subtopic: Government Schemes & Missions
+            - Micro: Objective-anchored
+            - Domain: Institutions-Schemes
+            - **G-V-GOVERNME-OBJECT-FILL-U** (GA/DERIVED, L6, ord:1240, q:0)
+              - Topic: Institutions, Schemes & Reports
+              - Subtopic: Government Schemes & Missions
+              - Micro: Variations & distractors
+              - Domain: Institutions-Schemes
+        - **G-M-GOVERNMENT-OTHER-GOVERN** (GA/RECALL, L4, ord:300, q:3)
+          - Topic: Institutions, Schemes & Reports
+          - Subtopic: Government Schemes & Missions
+          - Micro: Other Government Schemes & Missions facts
+          - Domain: Institutions-Schemes
+          - **G-A-GOVERNME-OTHER-GO-DIRECT-F** (GA/PROCEDURAL, L5, ord:706, q:2)
+            - Topic: Institutions, Schemes & Reports
+            - Subtopic: Government Schemes & Missions
+            - Micro: Other Government Schemes & Missions facts
+            - Domain: Institutions-Schemes
+            - **G-V-GOVERNME-OTHER--DIRECT** (GA/DERIVED, L6, ord:1241, q:0)
+              - Topic: Institutions, Schemes & Reports
+              - Subtopic: Government Schemes & Missions
+              - Micro: Variations & distractors
+              - Domain: Institutions-Schemes
+          - **G-A-GOVERNME-OTHER-GO-FILL-UP** (GA/PROCEDURAL, L5, ord:867, q:1)
+            - Topic: Institutions, Schemes & Reports
+            - Subtopic: Government Schemes & Missions
+            - Micro: Other Government Schemes & Missions facts
+            - Domain: Institutions-Schemes
+            - **G-V-GOVERNME-OTHER--FILL-U** (GA/DERIVED, L6, ord:1242, q:0)
+              - Topic: Institutions, Schemes & Reports
+              - Subtopic: Government Schemes & Missions
+              - Micro: Variations & distractors
+              - Domain: Institutions-Schemes
+        - **G-M-GOVERNMENT-SUPERLATIVE-** (GA/RECALL, L4, ord:301, q:3)
+          - Topic: Institutions, Schemes & Reports
+          - Subtopic: Government Schemes & Missions
+          - Micro: Superlative/First-record
+          - Domain: Institutions-Schemes
+          - **G-A-GOVERNME-SUPERLAT-DIRECT-F** (GA/PROCEDURAL, L5, ord:618, q:3)
+            - Topic: Institutions, Schemes & Reports
+            - Subtopic: Government Schemes & Missions
+            - Micro: Superlative/First-record
+            - Domain: Institutions-Schemes
+            - **G-V-GOVERNME-SUPERL-DIRECT** (GA/DERIVED, L6, ord:1244, q:0)
+              - Topic: Institutions, Schemes & Reports
+              - Subtopic: Government Schemes & Missions
+              - Micro: Variations & distractors
+              - Domain: Institutions-Schemes
+        - **G-M-GOVERNMENT-PERSON-ANCHO** (GA/RECALL, L4, ord:362, q:2)
+          - Topic: Institutions, Schemes & Reports
+          - Subtopic: Government Schemes & Missions
+          - Micro: Person-anchored
+          - Domain: Institutions-Schemes
+          - **G-A-GOVERNME-PERSON-A-DIRECT-F** (GA/PROCEDURAL, L5, ord:707, q:2)
+            - Topic: Institutions, Schemes & Reports
+            - Subtopic: Government Schemes & Missions
+            - Micro: Person-anchored
+            - Domain: Institutions-Schemes
+            - **G-V-GOVERNME-PERSON-DIRECT** (GA/DERIVED, L6, ord:1243, q:0)
+              - Topic: Institutions, Schemes & Reports
+              - Subtopic: Government Schemes & Missions
+              - Micro: Variations & distractors
+              - Domain: Institutions-Schemes
+      - **G-S-INSTITUTIO-GENERAL-INST** (GA/DERIVED, L3, ord:49, q:35)
+        - Topic: Institutions, Schemes & Reports
+        - Subtopic: General Institutions & Schemes
+        - Domain: Institutions-Schemes
+        - **G-M-GENERAL-IN-GENERAL-FACT** (GA/RECALL, L4, ord:161, q:17)
+          - Topic: Institutions, Schemes & Reports
+          - Subtopic: General Institutions & Schemes
+          - Micro: General-factual
+          - Domain: Institutions-Schemes
+          - **G-A-GENERAL--GENERAL--DIRECT-F-9** (GA/PROCEDURAL, L5, ord:457, q:16)
+            - Topic: Institutions, Schemes & Reports
+            - Subtopic: General Institutions & Schemes
+            - Micro: General-factual
+            - Domain: Institutions-Schemes
+            - **G-V-GENERAL--GENERA-DIRECT-9** (GA/DERIVED, L6, ord:1143, q:0)
+              - Topic: Institutions, Schemes & Reports
+              - Subtopic: General Institutions & Schemes
+              - Micro: Variations & distractors
+              - Domain: Institutions-Schemes
+          - **G-A-GENERAL--GENERAL--STATEMEN-9** (GA/PROCEDURAL, L5, ord:841, q:1)
+            - Topic: Institutions, Schemes & Reports
+            - Subtopic: General Institutions & Schemes
+            - Micro: General-factual
+            - Domain: Institutions-Schemes
+            - **G-V-GENERAL--GENERA-STATEM-9** (GA/DERIVED, L6, ord:1169, q:0)
+              - Topic: Institutions, Schemes & Reports
+              - Subtopic: General Institutions & Schemes
+              - Micro: Variations & distractors
+              - Domain: Institutions-Schemes
+        - **G-M-GENERAL-IN-PLACE-ANCHOR** (GA/RECALL, L4, ord:216, q:6)
+          - Topic: Institutions, Schemes & Reports
+          - Subtopic: General Institutions & Schemes
+          - Micro: Place-anchored
+          - Domain: Institutions-Schemes
+          - **G-A-GENERAL--PLACE-AN-DIRECT-F-2** (GA/PROCEDURAL, L5, ord:520, q:6)
+            - Topic: Institutions, Schemes & Reports
+            - Subtopic: General Institutions & Schemes
+            - Micro: Place-anchored
+            - Domain: Institutions-Schemes
+            - **G-V-GENERAL--PLACE--DIRECT-2** (GA/DERIVED, L6, ord:1203, q:0)
+              - Topic: Institutions, Schemes & Reports
+              - Subtopic: General Institutions & Schemes
+              - Micro: Variations & distractors
+              - Domain: Institutions-Schemes
+        - **G-M-GENERAL-IN-PERSON-ANCHO** (GA/RECALL, L4, ord:231, q:5)
+          - Topic: Institutions, Schemes & Reports
+          - Subtopic: General Institutions & Schemes
+          - Micro: Person-anchored
+          - Domain: Institutions-Schemes
+          - **G-A-GENERAL--PERSON-A-DIRECT-F-8** (GA/PROCEDURAL, L5, ord:536, q:5)
+            - Topic: Institutions, Schemes & Reports
+            - Subtopic: General Institutions & Schemes
+            - Micro: Person-anchored
+            - Domain: Institutions-Schemes
+            - **G-V-GENERAL--PERSON-DIRECT-8** (GA/DERIVED, L6, ord:1197, q:0)
+              - Topic: Institutions, Schemes & Reports
+              - Subtopic: General Institutions & Schemes
+              - Micro: Variations & distractors
+              - Domain: Institutions-Schemes
+        - **G-M-GENERAL-IN-YEAR-ANCHORE** (GA/RECALL, L4, ord:260, q:4)
+          - Topic: Institutions, Schemes & Reports
+          - Subtopic: General Institutions & Schemes
+          - Micro: Year-anchored
+          - Domain: Institutions-Schemes
+          - **G-A-GENERAL--YEAR-ANC-DIRECT-F-7** (GA/PROCEDURAL, L5, ord:573, q:4)
+            - Topic: Institutions, Schemes & Reports
+            - Subtopic: General Institutions & Schemes
+            - Micro: Year-anchored
+            - Domain: Institutions-Schemes
+            - **G-V-GENERAL--YEAR-A-DIRECT-7** (GA/DERIVED, L6, ord:1227, q:0)
+              - Topic: Institutions, Schemes & Reports
+              - Subtopic: General Institutions & Schemes
+              - Micro: Variations & distractors
+              - Domain: Institutions-Schemes
+        - **G-M-GENERAL-IN-OBJECTIVE-AN** (GA/RECALL, L4, ord:356, q:2)
+          - Topic: Institutions, Schemes & Reports
+          - Subtopic: General Institutions & Schemes
+          - Micro: Objective-anchored
+          - Domain: Institutions-Schemes
+          - **G-A-GENERAL--OBJECTIV-DIRECT-F-2** (GA/PROCEDURAL, L5, ord:690, q:2)
+            - Topic: Institutions, Schemes & Reports
+            - Subtopic: General Institutions & Schemes
+            - Micro: Objective-anchored
+            - Domain: Institutions-Schemes
+            - **G-V-GENERAL--OBJECT-DIRECT-2** (GA/DERIVED, L6, ord:1171, q:0)
+              - Topic: Institutions, Schemes & Reports
+              - Subtopic: General Institutions & Schemes
+              - Micro: Variations & distractors
+              - Domain: Institutions-Schemes
+        - **G-M-GENERAL-IN-OTHER-GENERA** (GA/RECALL, L4, ord:420, q:1)
+          - Topic: Institutions, Schemes & Reports
+          - Subtopic: General Institutions & Schemes
+          - Micro: Other General Institutions & Schemes facts
+          - Domain: Institutions-Schemes
+          - **G-A-GENERAL--OTHER-GE-DIRECT-F-12** (GA/PROCEDURAL, L5, ord:843, q:1)
+            - Topic: Institutions, Schemes & Reports
+            - Subtopic: General Institutions & Schemes
+            - Micro: Other General Institutions & Schemes facts
+            - Domain: Institutions-Schemes
+            - **G-V-GENERAL--OTHER--DIRECT-12** (GA/DERIVED, L6, ord:1175, q:0)
+              - Topic: Institutions, Schemes & Reports
+              - Subtopic: General Institutions & Schemes
+              - Micro: Variations & distractors
+              - Domain: Institutions-Schemes
+      - **G-S-INSTITUTIO-HQ-FOUNDING-** (GA/DERIVED, L3, ord:83, q:11)
+        - Topic: Institutions, Schemes & Reports
+        - Subtopic: HQ & Founding Facts
+        - Domain: Institutions-Schemes
+        - **G-M-HQ-FOUNDIN-PERSON-ANCHO** (GA/RECALL, L4, ord:235, q:5)
+          - Topic: Institutions, Schemes & Reports
+          - Subtopic: HQ & Founding Facts
+          - Micro: Person-anchored
+          - Domain: Institutions-Schemes
+          - **G-A-HQ-FOUND-PERSON-A-DIRECT-F** (GA/PROCEDURAL, L5, ord:539, q:5)
+            - Topic: Institutions, Schemes & Reports
+            - Subtopic: HQ & Founding Facts
+            - Micro: Person-anchored
+            - Domain: Institutions-Schemes
+            - **G-V-HQ-FOUND-PERSON-DIRECT** (GA/DERIVED, L6, ord:1257, q:0)
+              - Topic: Institutions, Schemes & Reports
+              - Subtopic: HQ & Founding Facts
+              - Micro: Variations & distractors
+              - Domain: Institutions-Schemes
+        - **G-M-HQ-FOUNDIN-YEAR-ANCHORE** (GA/RECALL, L4, ord:302, q:3)
+          - Topic: Institutions, Schemes & Reports
+          - Subtopic: HQ & Founding Facts
+          - Micro: Year-anchored
+          - Domain: Institutions-Schemes
+          - **G-A-HQ-FOUND-YEAR-ANC-DIRECT-F** (GA/PROCEDURAL, L5, ord:712, q:2)
+            - Topic: Institutions, Schemes & Reports
+            - Subtopic: HQ & Founding Facts
+            - Micro: Year-anchored
+            - Domain: Institutions-Schemes
+            - **G-V-HQ-FOUND-YEAR-A-DIRECT** (GA/DERIVED, L6, ord:1259, q:0)
+              - Topic: Institutions, Schemes & Reports
+              - Subtopic: HQ & Founding Facts
+              - Micro: Variations & distractors
+              - Domain: Institutions-Schemes
+          - **G-A-HQ-FOUND-YEAR-ANC-FILL-UP** (GA/PROCEDURAL, L5, ord:873, q:1)
+            - Topic: Institutions, Schemes & Reports
+            - Subtopic: HQ & Founding Facts
+            - Micro: Year-anchored
+            - Domain: Institutions-Schemes
+            - **G-V-HQ-FOUND-YEAR-A-FILL-U** (GA/DERIVED, L6, ord:1260, q:0)
+              - Topic: Institutions, Schemes & Reports
+              - Subtopic: HQ & Founding Facts
+              - Micro: Variations & distractors
+              - Domain: Institutions-Schemes
+        - **G-M-HQ-FOUNDIN-PLACE-ANCHOR** (GA/RECALL, L4, ord:367, q:2)
+          - Topic: Institutions, Schemes & Reports
+          - Subtopic: HQ & Founding Facts
+          - Micro: Place-anchored
+          - Domain: Institutions-Schemes
+          - **G-A-HQ-FOUND-PLACE-AN-DIRECT-F** (GA/PROCEDURAL, L5, ord:711, q:2)
+            - Topic: Institutions, Schemes & Reports
+            - Subtopic: HQ & Founding Facts
+            - Micro: Place-anchored
+            - Domain: Institutions-Schemes
+            - **G-V-HQ-FOUND-PLACE--DIRECT** (GA/DERIVED, L6, ord:1258, q:0)
+              - Topic: Institutions, Schemes & Reports
+              - Subtopic: HQ & Founding Facts
+              - Micro: Variations & distractors
+              - Domain: Institutions-Schemes
+        - **G-M-HQ-FOUNDIN-OTHER-HQ-FOU** (GA/RECALL, L4, ord:422, q:1)
+          - Topic: Institutions, Schemes & Reports
+          - Subtopic: HQ & Founding Facts
+          - Micro: Other HQ & Founding Facts facts
+          - Domain: Institutions-Schemes
+          - **G-A-HQ-FOUND-OTHER-HQ-FILL-UP** (GA/PROCEDURAL, L5, ord:872, q:1)
+            - Topic: Institutions, Schemes & Reports
+            - Subtopic: HQ & Founding Facts
+            - Micro: Other HQ & Founding Facts facts
+            - Domain: Institutions-Schemes
+            - **G-V-HQ-FOUND-OTHER--FILL-U** (GA/DERIVED, L6, ord:1256, q:0)
+              - Topic: Institutions, Schemes & Reports
+              - Subtopic: HQ & Founding Facts
+              - Micro: Variations & distractors
+              - Domain: Institutions-Schemes
+      - **G-S-INSTITUTIO-BODIES-ORGAN** (GA/DERIVED, L3, ord:90, q:9)
+        - Topic: Institutions, Schemes & Reports
+        - Subtopic: Bodies & Organisations
+        - Domain: Institutions-Schemes
+        - **G-M-BODIES-ORG-GENERAL-FACT** (GA/RECALL, L4, ord:212, q:6)
+          - Topic: Institutions, Schemes & Reports
+          - Subtopic: Bodies & Organisations
+          - Micro: General-factual
+          - Domain: Institutions-Schemes
+          - **G-A-BODIES-O-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:527, q:5)
+            - Topic: Institutions, Schemes & Reports
+            - Subtopic: Bodies & Organisations
+            - Micro: General-factual
+            - Domain: Institutions-Schemes
+            - **G-V-BODIES-O-GENERA-DIRECT** (GA/DERIVED, L6, ord:985, q:0)
+              - Topic: Institutions, Schemes & Reports
+              - Subtopic: Bodies & Organisations
+              - Micro: Variations & distractors
+              - Domain: Institutions-Schemes
+          - **G-A-BODIES-O-GENERAL--MATCHING** (GA/PROCEDURAL, L5, ord:766, q:1)
+            - Topic: Institutions, Schemes & Reports
+            - Subtopic: Bodies & Organisations
+            - Micro: General-factual
+            - Domain: Institutions-Schemes
+            - **G-V-BODIES-O-GENERA-MATCHI** (GA/DERIVED, L6, ord:986, q:0)
+              - Topic: Institutions, Schemes & Reports
+              - Subtopic: Bodies & Organisations
+              - Micro: Variations & distractors
+              - Domain: Institutions-Schemes
+        - **G-M-BODIES-ORG-OTHER-BODIES** (GA/RECALL, L4, ord:282, q:3)
+          - Topic: Institutions, Schemes & Reports
+          - Subtopic: Bodies & Organisations
+          - Micro: Other Bodies & Organisations facts
+          - Domain: Institutions-Schemes
+          - **G-A-BODIES-O-OTHER-BO-DIRECT-F** (GA/PROCEDURAL, L5, ord:595, q:3)
+            - Topic: Institutions, Schemes & Reports
+            - Subtopic: Bodies & Organisations
+            - Micro: Other Bodies & Organisations facts
+            - Domain: Institutions-Schemes
+            - **G-V-BODIES-O-OTHER--DIRECT** (GA/DERIVED, L6, ord:987, q:0)
+              - Topic: Institutions, Schemes & Reports
+              - Subtopic: Bodies & Organisations
+              - Micro: Variations & distractors
+              - Domain: Institutions-Schemes
+      - **G-S-INSTITUTIO-REPORTS-INDI** (GA/DERIVED, L3, ord:99, q:7)
+        - Topic: Institutions, Schemes & Reports
+        - Subtopic: Reports, Indices & Surveys
+        - Domain: Institutions-Schemes
+        - **G-M-REPORTS-IN-GENERAL-FACT** (GA/RECALL, L4, ord:274, q:4)
+          - Topic: Institutions, Schemes & Reports
+          - Subtopic: Reports, Indices & Surveys
+          - Micro: General-factual
+          - Domain: Institutions-Schemes
+          - **G-A-REPORTS--GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:588, q:4)
+            - Topic: Institutions, Schemes & Reports
+            - Subtopic: Reports, Indices & Surveys
+            - Micro: General-factual
+            - Domain: Institutions-Schemes
+            - **G-V-REPORTS--GENERA-DIRECT** (GA/DERIVED, L6, ord:1411, q:0)
+              - Topic: Institutions, Schemes & Reports
+              - Subtopic: Reports, Indices & Surveys
+              - Micro: Variations & distractors
+              - Domain: Institutions-Schemes
+        - **G-M-REPORTS-IN-PLACE-ANCHOR** (GA/RECALL, L4, ord:396, q:2)
+          - Topic: Institutions, Schemes & Reports
+          - Subtopic: Reports, Indices & Surveys
+          - Micro: Place-anchored
+          - Domain: Institutions-Schemes
+          - **G-A-REPORTS--PLACE-AN-DIRECT-F** (GA/PROCEDURAL, L5, ord:745, q:2)
+            - Topic: Institutions, Schemes & Reports
+            - Subtopic: Reports, Indices & Surveys
+            - Micro: Place-anchored
+            - Domain: Institutions-Schemes
+            - **G-V-REPORTS--PLACE--DIRECT** (GA/DERIVED, L6, ord:1414, q:0)
+              - Topic: Institutions, Schemes & Reports
+              - Subtopic: Reports, Indices & Surveys
+              - Micro: Variations & distractors
+              - Domain: Institutions-Schemes
+        - **G-M-REPORTS-IN-OTHER-REPORT-2** (GA/RECALL, L4, ord:429, q:1)
+          - Topic: Institutions, Schemes & Reports
+          - Subtopic: Reports, Indices & Surveys
+          - Micro: Other Reports, Indices & Surveys facts
+          - Domain: Institutions-Schemes
+          - **G-A-REPORTS--OTHER-RE-DIRECT-F-2** (GA/PROCEDURAL, L5, ord:926, q:1)
+            - Topic: Institutions, Schemes & Reports
+            - Subtopic: Reports, Indices & Surveys
+            - Micro: Other Reports, Indices & Surveys facts
+            - Domain: Institutions-Schemes
+            - **G-V-REPORTS--OTHER--DIRECT-2** (GA/DERIVED, L6, ord:1413, q:0)
+              - Topic: Institutions, Schemes & Reports
+              - Subtopic: Reports, Indices & Surveys
+              - Micro: Variations & distractors
+              - Domain: Institutions-Schemes
+      - **G-S-INSTITUTIO-SUMMITS-CONF** (GA/DERIVED, L3, ord:115, q:4)
+        - Topic: Institutions, Schemes & Reports
+        - Subtopic: Summits & Conferences
+        - Domain: Institutions-Schemes
+        - **G-M-SUMMITS-CO-GENERAL-FACT** (GA/RECALL, L4, ord:403, q:2)
+          - Topic: Institutions, Schemes & Reports
+          - Subtopic: Summits & Conferences
+          - Micro: General-factual
+          - Domain: Institutions-Schemes
+          - **G-A-SUMMITS--GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:753, q:2)
+            - Topic: Institutions, Schemes & Reports
+            - Subtopic: Summits & Conferences
+            - Micro: General-factual
+            - Domain: Institutions-Schemes
+            - **G-V-SUMMITS--GENERA-DIRECT** (GA/DERIVED, L6, ord:1446, q:0)
+              - Topic: Institutions, Schemes & Reports
+              - Subtopic: Summits & Conferences
+              - Micro: Variations & distractors
+              - Domain: Institutions-Schemes
+        - **G-M-SUMMITS-CO-OTHER-SUMMIT** (GA/RECALL, L4, ord:404, q:2)
+          - Topic: Institutions, Schemes & Reports
+          - Subtopic: Summits & Conferences
+          - Micro: Other Summits & Conferences facts
+          - Domain: Institutions-Schemes
+          - **G-A-SUMMITS--OTHER-SU-DIRECT-F** (GA/PROCEDURAL, L5, ord:940, q:1)
+            - Topic: Institutions, Schemes & Reports
+            - Subtopic: Summits & Conferences
+            - Micro: Other Summits & Conferences facts
+            - Domain: Institutions-Schemes
+            - **G-V-SUMMITS--OTHER--DIRECT** (GA/DERIVED, L6, ord:1447, q:0)
+              - Topic: Institutions, Schemes & Reports
+              - Subtopic: Summits & Conferences
+              - Micro: Variations & distractors
+              - Domain: Institutions-Schemes
+          - **G-A-SUMMITS--OTHER-SU-STATEMEN** (GA/PROCEDURAL, L5, ord:941, q:1)
+            - Topic: Institutions, Schemes & Reports
+            - Subtopic: Summits & Conferences
+            - Micro: Other Summits & Conferences facts
+            - Domain: Institutions-Schemes
+            - **G-V-SUMMITS--OTHER--STATEM** (GA/DERIVED, L6, ord:1448, q:0)
+              - Topic: Institutions, Schemes & Reports
+              - Subtopic: Summits & Conferences
+              - Micro: Variations & distractors
+              - Domain: Institutions-Schemes
+  - **G-D-PHYSICS** (GA/DERIVED, L1, ord:12, q:0)
+    - Domain: Physics
+    - **G-T-PHYSICS** (GA/DERIVED, L2, ord:29, q:102)
+      - Topic: Physics
+      - Domain: Physics
+      - **G-S-PHYSICS-MAGNETISM-MO** (GA/DERIVED, L3, ord:62, q:27)
+        - Topic: Physics
+        - Subtopic: Magnetism, Modern Physics & Space
+        - Domain: Physics
+        - **G-M-MAGNETISM--GENERAL-FACT** (GA/RECALL, L4, ord:149, q:23)
+          - Topic: Physics
+          - Subtopic: Magnetism, Modern Physics & Space
+          - Micro: General-factual
+          - Domain: Physics
+          - **G-A-MAGNETIS-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:453, q:19)
+            - Topic: Physics
+            - Subtopic: Magnetism, Modern Physics & Space
+            - Micro: General-factual
+            - Domain: Physics
+            - **G-V-MAGNETIS-GENERA-DIRECT** (GA/DERIVED, L6, ord:1307, q:0)
+              - Topic: Physics
+              - Subtopic: Magnetism, Modern Physics & Space
+              - Micro: Variations & distractors
+              - Domain: Physics
+          - **G-A-MAGNETIS-GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:579, q:4)
+            - Topic: Physics
+            - Subtopic: Magnetism, Modern Physics & Space
+            - Micro: General-factual
+            - Domain: Physics
+            - **G-V-MAGNETIS-GENERA-STATEM** (GA/DERIVED, L6, ord:1308, q:0)
+              - Topic: Physics
+              - Subtopic: Magnetism, Modern Physics & Space
+              - Micro: Variations & distractors
+              - Domain: Physics
+        - **G-M-MAGNETISM--SUPERLATIVE-** (GA/RECALL, L4, ord:308, q:3)
+          - Topic: Physics
+          - Subtopic: Magnetism, Modern Physics & Space
+          - Micro: Superlative/First-record
+          - Domain: Physics
+          - **G-A-MAGNETIS-SUPERLAT-DIRECT-F** (GA/PROCEDURAL, L5, ord:626, q:3)
+            - Topic: Physics
+            - Subtopic: Magnetism, Modern Physics & Space
+            - Micro: Superlative/First-record
+            - Domain: Physics
+            - **G-V-MAGNETIS-SUPERL-DIRECT** (GA/DERIVED, L6, ord:1310, q:0)
+              - Topic: Physics
+              - Subtopic: Magnetism, Modern Physics & Space
+              - Micro: Variations & distractors
+              - Domain: Physics
+        - **G-M-MAGNETISM--OTHER-MAGNET** (GA/RECALL, L4, ord:423, q:1)
+          - Topic: Physics
+          - Subtopic: Magnetism, Modern Physics & Space
+          - Micro: Other Magnetism, Modern Physics & Space facts
+          - Domain: Physics
+          - **G-A-MAGNETIS-OTHER-MA-DIRECT-F** (GA/PROCEDURAL, L5, ord:890, q:1)
+            - Topic: Physics
+            - Subtopic: Magnetism, Modern Physics & Space
+            - Micro: Other Magnetism, Modern Physics & Space facts
+            - Domain: Physics
+            - **G-V-MAGNETIS-OTHER--DIRECT** (GA/DERIVED, L6, ord:1309, q:0)
+              - Topic: Physics
+              - Subtopic: Magnetism, Modern Physics & Space
+              - Micro: Variations & distractors
+              - Domain: Physics
+      - **G-S-PHYSICS-GENERAL-PHYS** (GA/DERIVED, L3, ord:63, q:26)
+        - Topic: Physics
+        - Subtopic: General Physics
+        - Domain: Physics
+        - **G-M-GENERAL-PH-GENERAL-FACT** (GA/RECALL, L4, ord:156, q:19)
+          - Topic: Physics
+          - Subtopic: General Physics
+          - Micro: General-factual
+          - Domain: Physics
+          - **G-A-GENERAL--GENERAL--DIRECT-F-10** (GA/PROCEDURAL, L5, ord:459, q:15)
+            - Topic: Physics
+            - Subtopic: General Physics
+            - Micro: General-factual
+            - Domain: Physics
+            - **G-V-GENERAL--GENERA-DIRECT-10** (GA/DERIVED, L6, ord:1133, q:0)
+              - Topic: Physics
+              - Subtopic: General Physics
+              - Micro: Variations & distractors
+              - Domain: Physics
+          - **G-A-GENERAL--GENERAL--FILL-UP-8** (GA/PROCEDURAL, L5, ord:685, q:2)
+            - Topic: Physics
+            - Subtopic: General Physics
+            - Micro: General-factual
+            - Domain: Physics
+            - **G-V-GENERAL--GENERA-FILL-U-8** (GA/DERIVED, L6, ord:1152, q:0)
+              - Topic: Physics
+              - Subtopic: General Physics
+              - Micro: Variations & distractors
+              - Domain: Physics
+          - **G-A-GENERAL--GENERAL--MATCHING-3** (GA/PROCEDURAL, L5, ord:837, q:1)
+            - Topic: Physics
+            - Subtopic: General Physics
+            - Micro: General-factual
+            - Domain: Physics
+            - **G-V-GENERAL--GENERA-MATCHI-3** (GA/DERIVED, L6, ord:1156, q:0)
+              - Topic: Physics
+              - Subtopic: General Physics
+              - Micro: Variations & distractors
+              - Domain: Physics
+          - **G-A-GENERAL--GENERAL--STATEMEN-10** (GA/PROCEDURAL, L5, ord:838, q:1)
+            - Topic: Physics
+            - Subtopic: General Physics
+            - Micro: General-factual
+            - Domain: Physics
+            - **G-V-GENERAL--GENERA-STATEM-10** (GA/DERIVED, L6, ord:1159, q:0)
+              - Topic: Physics
+              - Subtopic: General Physics
+              - Micro: Variations & distractors
+              - Domain: Physics
+        - **G-M-GENERAL-PH-YEAR-ANCHORE** (GA/RECALL, L4, ord:297, q:3)
+          - Topic: Physics
+          - Subtopic: General Physics
+          - Micro: Year-anchored
+          - Domain: Physics
+          - **G-A-GENERAL--YEAR-ANC-DIRECT-F-8** (GA/PROCEDURAL, L5, ord:702, q:2)
+            - Topic: Physics
+            - Subtopic: General Physics
+            - Micro: Year-anchored
+            - Domain: Physics
+            - **G-V-GENERAL--YEAR-A-DIRECT-8** (GA/DERIVED, L6, ord:1228, q:0)
+              - Topic: Physics
+              - Subtopic: General Physics
+              - Micro: Variations & distractors
+              - Domain: Physics
+          - **G-A-GENERAL--YEAR-ANC-STATEMEN** (GA/PROCEDURAL, L5, ord:864, q:1)
+            - Topic: Physics
+            - Subtopic: General Physics
+            - Micro: Year-anchored
+            - Domain: Physics
+            - **G-V-GENERAL--YEAR-A-STATEM** (GA/DERIVED, L6, ord:1234, q:0)
+              - Topic: Physics
+              - Subtopic: General Physics
+              - Micro: Variations & distractors
+              - Domain: Physics
+        - **G-M-GENERAL-PH-OTHER-GENERA** (GA/RECALL, L4, ord:358, q:2)
+          - Topic: Physics
+          - Subtopic: General Physics
+          - Micro: Other General Physics facts
+          - Domain: Physics
+          - **G-A-GENERAL--OTHER-GE-DIRECT-F-13** (GA/PROCEDURAL, L5, ord:691, q:2)
+            - Topic: Physics
+            - Subtopic: General Physics
+            - Micro: Other General Physics facts
+            - Domain: Physics
+            - **G-V-GENERAL--OTHER--DIRECT-13** (GA/DERIVED, L6, ord:1176, q:0)
+              - Topic: Physics
+              - Subtopic: General Physics
+              - Micro: Variations & distractors
+              - Domain: Physics
+        - **G-M-GENERAL-PH-SUPERLATIVE-** (GA/RECALL, L4, ord:359, q:2)
+          - Topic: Physics
+          - Subtopic: General Physics
+          - Micro: Superlative/First-record
+          - Domain: Physics
+          - **G-A-GENERAL--SUPERLAT-DIRECT-F-5** (GA/PROCEDURAL, L5, ord:854, q:1)
+            - Topic: Physics
+            - Subtopic: General Physics
+            - Micro: Superlative/First-record
+            - Domain: Physics
+            - **G-V-GENERAL--SUPERL-DIRECT-5** (GA/DERIVED, L6, ord:1210, q:0)
+              - Topic: Physics
+              - Subtopic: General Physics
+              - Micro: Variations & distractors
+              - Domain: Physics
+          - **G-A-GENERAL--SUPERLAT-STATEMEN-2** (GA/PROCEDURAL, L5, ord:858, q:1)
+            - Topic: Physics
+            - Subtopic: General Physics
+            - Micro: Superlative/First-record
+            - Domain: Physics
+            - **G-V-GENERAL--SUPERL-STATEM-2** (GA/DERIVED, L6, ord:1214, q:0)
+              - Topic: Physics
+              - Subtopic: General Physics
+              - Micro: Variations & distractors
+              - Domain: Physics
+      - **G-S-PHYSICS-OPTICS** (GA/DERIVED, L3, ord:70, q:19)
+        - Topic: Physics
+        - Subtopic: Optics
+        - Domain: Physics
+        - **G-M-OPTICS-GENERAL-FACT** (GA/RECALL, L4, ord:182, q:11)
+          - Topic: Physics
+          - Subtopic: Optics
+          - Micro: General-factual
+          - Domain: Physics
+          - **G-A-OPTICS-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:495, q:9)
+            - Topic: Physics
+            - Subtopic: Optics
+            - Micro: General-factual
+            - Domain: Physics
+            - **G-V-OPTICS-GENERA-DIRECT** (GA/DERIVED, L6, ord:1373, q:0)
+              - Topic: Physics
+              - Subtopic: Optics
+              - Micro: Variations & distractors
+              - Domain: Physics
+          - **G-A-OPTICS-GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:911, q:1)
+            - Topic: Physics
+            - Subtopic: Optics
+            - Micro: General-factual
+            - Domain: Physics
+            - **G-V-OPTICS-GENERA-FILL-U** (GA/DERIVED, L6, ord:1374, q:0)
+              - Topic: Physics
+              - Subtopic: Optics
+              - Micro: Variations & distractors
+              - Domain: Physics
+          - **G-A-OPTICS-GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:912, q:1)
+            - Topic: Physics
+            - Subtopic: Optics
+            - Micro: General-factual
+            - Domain: Physics
+            - **G-V-OPTICS-GENERA-STATEM** (GA/DERIVED, L6, ord:1375, q:0)
+              - Topic: Physics
+              - Subtopic: Optics
+              - Micro: Variations & distractors
+              - Domain: Physics
+        - **G-M-OPTICS-OTHER-OPTICS** (GA/RECALL, L4, ord:384, q:2)
+          - Topic: Physics
+          - Subtopic: Optics
+          - Micro: Other Optics facts
+          - Domain: Physics
+          - **G-A-OPTICS-OTHER-OP-DIRECT-F** (GA/PROCEDURAL, L5, ord:734, q:2)
+            - Topic: Physics
+            - Subtopic: Optics
+            - Micro: Other Optics facts
+            - Domain: Physics
+            - **G-V-OPTICS-OTHER--DIRECT** (GA/DERIVED, L6, ord:1376, q:0)
+              - Topic: Physics
+              - Subtopic: Optics
+              - Micro: Variations & distractors
+              - Domain: Physics
+        - **G-M-OPTICS-PLACE-ANCHOR** (GA/RECALL, L4, ord:385, q:2)
+          - Topic: Physics
+          - Subtopic: Optics
+          - Micro: Place-anchored
+          - Domain: Physics
+          - **G-A-OPTICS-PLACE-AN-DIRECT-F** (GA/PROCEDURAL, L5, ord:735, q:2)
+            - Topic: Physics
+            - Subtopic: Optics
+            - Micro: Place-anchored
+            - Domain: Physics
+            - **G-V-OPTICS-PLACE--DIRECT** (GA/DERIVED, L6, ord:1377, q:0)
+              - Topic: Physics
+              - Subtopic: Optics
+              - Micro: Variations & distractors
+              - Domain: Physics
+        - **G-M-OPTICS-TERM-ANCHORE** (GA/RECALL, L4, ord:386, q:2)
+          - Topic: Physics
+          - Subtopic: Optics
+          - Micro: Term-anchored
+          - Domain: Physics
+          - **G-A-OPTICS-TERM-ANC-DIRECT-F** (GA/PROCEDURAL, L5, ord:736, q:2)
+            - Topic: Physics
+            - Subtopic: Optics
+            - Micro: Term-anchored
+            - Domain: Physics
+            - **G-V-OPTICS-TERM-A-DIRECT** (GA/DERIVED, L6, ord:1378, q:0)
+              - Topic: Physics
+              - Subtopic: Optics
+              - Micro: Variations & distractors
+              - Domain: Physics
+        - **G-M-OPTICS-YEAR-ANCHORE** (GA/RECALL, L4, ord:387, q:2)
+          - Topic: Physics
+          - Subtopic: Optics
+          - Micro: Year-anchored
+          - Domain: Physics
+          - **G-A-OPTICS-YEAR-ANC-DIRECT-F** (GA/PROCEDURAL, L5, ord:913, q:1)
+            - Topic: Physics
+            - Subtopic: Optics
+            - Micro: Year-anchored
+            - Domain: Physics
+            - **G-V-OPTICS-YEAR-A-DIRECT** (GA/DERIVED, L6, ord:1379, q:0)
+              - Topic: Physics
+              - Subtopic: Optics
+              - Micro: Variations & distractors
+              - Domain: Physics
+          - **G-A-OPTICS-YEAR-ANC-STATEMEN** (GA/PROCEDURAL, L5, ord:914, q:1)
+            - Topic: Physics
+            - Subtopic: Optics
+            - Micro: Year-anchored
+            - Domain: Physics
+            - **G-V-OPTICS-YEAR-A-STATEM** (GA/DERIVED, L6, ord:1380, q:0)
+              - Topic: Physics
+              - Subtopic: Optics
+              - Micro: Variations & distractors
+              - Domain: Physics
+      - **G-S-PHYSICS-ELECTRICITY-** (GA/DERIVED, L3, ord:72, q:18)
+        - Topic: Physics
+        - Subtopic: Electricity & Electronics
+        - Domain: Physics
+        - **G-M-ELECTRICIT-GENERAL-FACT** (GA/RECALL, L4, ord:168, q:14)
+          - Topic: Physics
+          - Subtopic: Electricity & Electronics
+          - Micro: General-factual
+          - Domain: Physics
+          - **G-A-ELECTRIC-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:473, q:12)
+            - Topic: Physics
+            - Subtopic: Electricity & Electronics
+            - Micro: General-factual
+            - Domain: Physics
+            - **G-V-ELECTRIC-GENERA-DIRECT** (GA/DERIVED, L6, ord:1060, q:0)
+              - Topic: Physics
+              - Subtopic: Electricity & Electronics
+              - Micro: Variations & distractors
+              - Domain: Physics
+          - **G-A-ELECTRIC-GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:797, q:1)
+            - Topic: Physics
+            - Subtopic: Electricity & Electronics
+            - Micro: General-factual
+            - Domain: Physics
+            - **G-V-ELECTRIC-GENERA-FILL-U** (GA/DERIVED, L6, ord:1061, q:0)
+              - Topic: Physics
+              - Subtopic: Electricity & Electronics
+              - Micro: Variations & distractors
+              - Domain: Physics
+          - **G-A-ELECTRIC-GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:798, q:1)
+            - Topic: Physics
+            - Subtopic: Electricity & Electronics
+            - Micro: General-factual
+            - Domain: Physics
+            - **G-V-ELECTRIC-GENERA-STATEM** (GA/DERIVED, L6, ord:1062, q:0)
+              - Topic: Physics
+              - Subtopic: Electricity & Electronics
+              - Micro: Variations & distractors
+              - Domain: Physics
+        - **G-M-ELECTRICIT-OTHER-ELECTR** (GA/RECALL, L4, ord:251, q:4)
+          - Topic: Physics
+          - Subtopic: Electricity & Electronics
+          - Micro: Other Electricity & Electronics facts
+          - Domain: Physics
+          - **G-A-ELECTRIC-OTHER-EL-DIRECT-F** (GA/PROCEDURAL, L5, ord:556, q:4)
+            - Topic: Physics
+            - Subtopic: Electricity & Electronics
+            - Micro: Other Electricity & Electronics facts
+            - Domain: Physics
+            - **G-V-ELECTRIC-OTHER--DIRECT** (GA/DERIVED, L6, ord:1063, q:0)
+              - Topic: Physics
+              - Subtopic: Electricity & Electronics
+              - Micro: Variations & distractors
+              - Domain: Physics
+      - **G-S-PHYSICS-MECHANICS** (GA/DERIVED, L3, ord:101, q:7)
+        - Topic: Physics
+        - Subtopic: Mechanics
+        - Domain: Physics
+        - **G-M-MECHANICS-GENERAL-FACT** (GA/RECALL, L4, ord:218, q:6)
+          - Topic: Physics
+          - Subtopic: Mechanics
+          - Micro: General-factual
+          - Domain: Physics
+          - **G-A-MECHANIC-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:580, q:4)
+            - Topic: Physics
+            - Subtopic: Mechanics
+            - Micro: General-factual
+            - Domain: Physics
+            - **G-V-MECHANIC-GENERA-DIRECT** (GA/DERIVED, L6, ord:1318, q:0)
+              - Topic: Physics
+              - Subtopic: Mechanics
+              - Micro: Variations & distractors
+              - Domain: Physics
+          - **G-A-MECHANIC-GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:894, q:1)
+            - Topic: Physics
+            - Subtopic: Mechanics
+            - Micro: General-factual
+            - Domain: Physics
+            - **G-V-MECHANIC-GENERA-FILL-U** (GA/DERIVED, L6, ord:1319, q:0)
+              - Topic: Physics
+              - Subtopic: Mechanics
+              - Micro: Variations & distractors
+              - Domain: Physics
+          - **G-A-MECHANIC-GENERAL--MATCHING** (GA/PROCEDURAL, L5, ord:895, q:1)
+            - Topic: Physics
+            - Subtopic: Mechanics
+            - Micro: General-factual
+            - Domain: Physics
+            - **G-V-MECHANIC-GENERA-MATCHI** (GA/DERIVED, L6, ord:1320, q:0)
+              - Topic: Physics
+              - Subtopic: Mechanics
+              - Micro: Variations & distractors
+              - Domain: Physics
+        - **G-M-MECHANICS-OTHER-MECHAN** (GA/RECALL, L4, ord:425, q:1)
+          - Topic: Physics
+          - Subtopic: Mechanics
+          - Micro: Other Mechanics facts
+          - Domain: Physics
+          - **G-A-MECHANIC-OTHER-ME-FILL-UP** (GA/PROCEDURAL, L5, ord:896, q:1)
+            - Topic: Physics
+            - Subtopic: Mechanics
+            - Micro: Other Mechanics facts
+            - Domain: Physics
+            - **G-V-MECHANIC-OTHER--FILL-U** (GA/DERIVED, L6, ord:1321, q:0)
+              - Topic: Physics
+              - Subtopic: Mechanics
+              - Micro: Variations & distractors
+              - Domain: Physics
+      - **G-S-PHYSICS-SOUND-WAVES** (GA/DERIVED, L3, ord:118, q:3)
+        - Topic: Physics
+        - Subtopic: Sound & Waves
+        - Domain: Physics
+        - **G-M-SOUND-WAVE-GENERAL-FACT** (GA/RECALL, L4, ord:402, q:2)
+          - Topic: Physics
+          - Subtopic: Sound & Waves
+          - Micro: General-factual
+          - Domain: Physics
+          - **G-A-SOUND-WA-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:751, q:2)
+            - Topic: Physics
+            - Subtopic: Sound & Waves
+            - Micro: General-factual
+            - Domain: Physics
+            - **G-V-SOUND-WA-GENERA-DIRECT** (GA/DERIVED, L6, ord:1435, q:0)
+              - Topic: Physics
+              - Subtopic: Sound & Waves
+              - Micro: Variations & distractors
+              - Domain: Physics
+        - **G-M-SOUND-WAVE-OTHER-SOUND-** (GA/RECALL, L4, ord:434, q:1)
+          - Topic: Physics
+          - Subtopic: Sound & Waves
+          - Micro: Other Sound & Waves facts
+          - Domain: Physics
+          - **G-A-SOUND-WA-OTHER-SO-DIRECT-F** (GA/PROCEDURAL, L5, ord:938, q:1)
+            - Topic: Physics
+            - Subtopic: Sound & Waves
+            - Micro: Other Sound & Waves facts
+            - Domain: Physics
+            - **G-V-SOUND-WA-OTHER--DIRECT** (GA/DERIVED, L6, ord:1436, q:0)
+              - Topic: Physics
+              - Subtopic: Sound & Waves
+              - Micro: Variations & distractors
+              - Domain: Physics
+      - **G-S-PHYSICS-HEAT-MEASURE** (GA/DERIVED, L3, ord:124, q:2)
+        - Topic: Physics
+        - Subtopic: Heat & Measurement
+        - Domain: Physics
+        - **G-M-HEAT-MEASU-GENERAL-FACT** (GA/RECALL, L4, ord:366, q:2)
+          - Topic: Physics
+          - Subtopic: Heat & Measurement
+          - Micro: General-factual
+          - Domain: Physics
+          - **G-A-HEAT-MEA-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:870, q:1)
+            - Topic: Physics
+            - Subtopic: Heat & Measurement
+            - Micro: General-factual
+            - Domain: Physics
+            - **G-V-HEAT-MEA-GENERA-DIRECT** (GA/DERIVED, L6, ord:1254, q:0)
+              - Topic: Physics
+              - Subtopic: Heat & Measurement
+              - Micro: Variations & distractors
+              - Domain: Physics
+          - **G-A-HEAT-MEA-GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:871, q:1)
+            - Topic: Physics
+            - Subtopic: Heat & Measurement
+            - Micro: General-factual
+            - Domain: Physics
+            - **G-V-HEAT-MEA-GENERA-FILL-U** (GA/DERIVED, L6, ord:1255, q:0)
+              - Topic: Physics
+              - Subtopic: Heat & Measurement
+              - Micro: Variations & distractors
+              - Domain: Physics
+  - **G-D-POLITY** (GA/DERIVED, L1, ord:13, q:0)
+    - Domain: Polity
+    - **G-T-POLITY** (GA/DERIVED, L2, ord:22, q:268)
+      - Topic: Polity
+      - Domain: Polity
+      - **G-S-POLITY-CONSTITUTION** (GA/DERIVED, L3, ord:41, q:58)
+        - Topic: Polity
+        - Subtopic: Constitutional & Statutory Bodies
+        - Domain: Polity
+        - **G-M-CONSTITUTI-GENERAL-FACT** (GA/RECALL, L4, ord:143, q:25)
+          - Topic: Polity
+          - Subtopic: Constitutional & Statutory Bodies
+          - Micro: General-factual
+          - Domain: Polity
+          - **G-A-CONSTITU-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:450, q:21)
+            - Topic: Polity
+            - Subtopic: Constitutional & Statutory Bodies
+            - Micro: General-factual
+            - Domain: Polity
+            - **G-V-CONSTITU-GENERA-DIRECT** (GA/DERIVED, L6, ord:1017, q:0)
+              - Topic: Polity
+              - Subtopic: Constitutional & Statutory Bodies
+              - Micro: Variations & distractors
+              - Domain: Polity
+          - **G-A-CONSTITU-GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:600, q:3)
+            - Topic: Polity
+            - Subtopic: Constitutional & Statutory Bodies
+            - Micro: General-factual
+            - Domain: Polity
+            - **G-V-CONSTITU-GENERA-FILL-U** (GA/DERIVED, L6, ord:1018, q:0)
+              - Topic: Polity
+              - Subtopic: Constitutional & Statutory Bodies
+              - Micro: Variations & distractors
+              - Domain: Polity
+          - **G-A-CONSTITU-GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:777, q:1)
+            - Topic: Polity
+            - Subtopic: Constitutional & Statutory Bodies
+            - Micro: General-factual
+            - Domain: Polity
+            - **G-V-CONSTITU-GENERA-STATEM** (GA/DERIVED, L6, ord:1019, q:0)
+              - Topic: Polity
+              - Subtopic: Constitutional & Statutory Bodies
+              - Micro: Variations & distractors
+              - Domain: Polity
+        - **G-M-CONSTITUTI-PERSON-ANCHO** (GA/RECALL, L4, ord:185, q:10)
+          - Topic: Polity
+          - Subtopic: Constitutional & Statutory Bodies
+          - Micro: Person-anchored
+          - Domain: Polity
+          - **G-A-CONSTITU-PERSON-A-DIRECT-F** (GA/PROCEDURAL, L5, ord:486, q:10)
+            - Topic: Polity
+            - Subtopic: Constitutional & Statutory Bodies
+            - Micro: Person-anchored
+            - Domain: Polity
+            - **G-V-CONSTITU-PERSON-DIRECT** (GA/DERIVED, L6, ord:1023, q:0)
+              - Topic: Polity
+              - Subtopic: Constitutional & Statutory Bodies
+              - Micro: Variations & distractors
+              - Domain: Polity
+        - **G-M-CONSTITUTI-OTHER-CONSTI** (GA/RECALL, L4, ord:192, q:8)
+          - Topic: Polity
+          - Subtopic: Constitutional & Statutory Bodies
+          - Micro: Other Constitutional & Statutory Bodies facts
+          - Domain: Polity
+          - **G-A-CONSTITU-OTHER-CO-DIRECT-F** (GA/PROCEDURAL, L5, ord:516, q:6)
+            - Topic: Polity
+            - Subtopic: Constitutional & Statutory Bodies
+            - Micro: Other Constitutional & Statutory Bodies facts
+            - Domain: Polity
+            - **G-V-CONSTITU-OTHER--DIRECT** (GA/DERIVED, L6, ord:1020, q:0)
+              - Topic: Polity
+              - Subtopic: Constitutional & Statutory Bodies
+              - Micro: Variations & distractors
+              - Domain: Polity
+          - **G-A-CONSTITU-OTHER-CO-FILL-UP** (GA/PROCEDURAL, L5, ord:778, q:1)
+            - Topic: Polity
+            - Subtopic: Constitutional & Statutory Bodies
+            - Micro: Other Constitutional & Statutory Bodies facts
+            - Domain: Polity
+            - **G-V-CONSTITU-OTHER--FILL-U** (GA/DERIVED, L6, ord:1021, q:0)
+              - Topic: Polity
+              - Subtopic: Constitutional & Statutory Bodies
+              - Micro: Variations & distractors
+              - Domain: Polity
+          - **G-A-CONSTITU-OTHER-CO-MATCHING** (GA/PROCEDURAL, L5, ord:779, q:1)
+            - Topic: Polity
+            - Subtopic: Constitutional & Statutory Bodies
+            - Micro: Other Constitutional & Statutory Bodies facts
+            - Domain: Polity
+            - **G-V-CONSTITU-OTHER--MATCHI** (GA/DERIVED, L6, ord:1022, q:0)
+              - Topic: Polity
+              - Subtopic: Constitutional & Statutory Bodies
+              - Micro: Variations & distractors
+              - Domain: Polity
+        - **G-M-CONSTITUTI-YEAR-ANCHORE** (GA/RECALL, L4, ord:202, q:7)
+          - Topic: Polity
+          - Subtopic: Constitutional & Statutory Bodies
+          - Micro: Year-anchored
+          - Domain: Polity
+          - **G-A-CONSTITU-YEAR-ANC-DIRECT-F** (GA/PROCEDURAL, L5, ord:517, q:6)
+            - Topic: Polity
+            - Subtopic: Constitutional & Statutory Bodies
+            - Micro: Year-anchored
+            - Domain: Polity
+            - **G-V-CONSTITU-YEAR-A-DIRECT** (GA/DERIVED, L6, ord:1029, q:0)
+              - Topic: Polity
+              - Subtopic: Constitutional & Statutory Bodies
+              - Micro: Variations & distractors
+              - Domain: Polity
+          - **G-A-CONSTITU-YEAR-ANC-FILL-UP** (GA/PROCEDURAL, L5, ord:783, q:1)
+            - Topic: Polity
+            - Subtopic: Constitutional & Statutory Bodies
+            - Micro: Year-anchored
+            - Domain: Polity
+            - **G-V-CONSTITU-YEAR-A-FILL-U** (GA/DERIVED, L6, ord:1030, q:0)
+              - Topic: Polity
+              - Subtopic: Constitutional & Statutory Bodies
+              - Micro: Variations & distractors
+              - Domain: Polity
+        - **G-M-CONSTITUTI-PLACE-ANCHOR** (GA/RECALL, L4, ord:246, q:4)
+          - Topic: Polity
+          - Subtopic: Constitutional & Statutory Bodies
+          - Micro: Place-anchored
+          - Domain: Polity
+          - **G-A-CONSTITU-PLACE-AN-DIRECT-F** (GA/PROCEDURAL, L5, ord:601, q:3)
+            - Topic: Polity
+            - Subtopic: Constitutional & Statutory Bodies
+            - Micro: Place-anchored
+            - Domain: Polity
+            - **G-V-CONSTITU-PLACE--DIRECT** (GA/DERIVED, L6, ord:1024, q:0)
+              - Topic: Polity
+              - Subtopic: Constitutional & Statutory Bodies
+              - Micro: Variations & distractors
+              - Domain: Polity
+          - **G-A-CONSTITU-PLACE-AN-FILL-UP** (GA/PROCEDURAL, L5, ord:780, q:1)
+            - Topic: Polity
+            - Subtopic: Constitutional & Statutory Bodies
+            - Micro: Place-anchored
+            - Domain: Polity
+            - **G-V-CONSTITU-PLACE--FILL-U** (GA/DERIVED, L6, ord:1025, q:0)
+              - Topic: Polity
+              - Subtopic: Constitutional & Statutory Bodies
+              - Micro: Variations & distractors
+              - Domain: Polity
+        - **G-M-CONSTITUTI-SUPERLATIVE-** (GA/RECALL, L4, ord:247, q:4)
+          - Topic: Polity
+          - Subtopic: Constitutional & Statutory Bodies
+          - Micro: Superlative/First-record
+          - Domain: Polity
+          - **G-A-CONSTITU-SUPERLAT-DIRECT-F** (GA/PROCEDURAL, L5, ord:660, q:2)
+            - Topic: Polity
+            - Subtopic: Constitutional & Statutory Bodies
+            - Micro: Superlative/First-record
+            - Domain: Polity
+            - **G-V-CONSTITU-SUPERL-DIRECT** (GA/DERIVED, L6, ord:1026, q:0)
+              - Topic: Polity
+              - Subtopic: Constitutional & Statutory Bodies
+              - Micro: Variations & distractors
+              - Domain: Polity
+          - **G-A-CONSTITU-SUPERLAT-FILL-UP** (GA/PROCEDURAL, L5, ord:781, q:1)
+            - Topic: Polity
+            - Subtopic: Constitutional & Statutory Bodies
+            - Micro: Superlative/First-record
+            - Domain: Polity
+            - **G-V-CONSTITU-SUPERL-FILL-U** (GA/DERIVED, L6, ord:1027, q:0)
+              - Topic: Polity
+              - Subtopic: Constitutional & Statutory Bodies
+              - Micro: Variations & distractors
+              - Domain: Polity
+          - **G-A-CONSTITU-SUPERLAT-STATEMEN** (GA/PROCEDURAL, L5, ord:782, q:1)
+            - Topic: Polity
+            - Subtopic: Constitutional & Statutory Bodies
+            - Micro: Superlative/First-record
+            - Domain: Polity
+            - **G-V-CONSTITU-SUPERL-STATEM** (GA/DERIVED, L6, ord:1028, q:0)
+              - Topic: Polity
+              - Subtopic: Constitutional & Statutory Bodies
+              - Micro: Variations & distractors
+              - Domain: Polity
+      - **G-S-POLITY-GENERAL-POLI** (GA/DERIVED, L3, ord:45, q:40)
+        - Topic: Polity
+        - Subtopic: General Polity
+        - Domain: Polity
+        - **G-M-GENERAL-PO-GENERAL-FACT** (GA/RECALL, L4, ord:142, q:29)
+          - Topic: Polity
+          - Subtopic: General Polity
+          - Micro: General-factual
+          - Domain: Polity
+          - **G-A-GENERAL--GENERAL--DIRECT-F-11** (GA/PROCEDURAL, L5, ord:446, q:25)
+            - Topic: Polity
+            - Subtopic: General Polity
+            - Micro: General-factual
+            - Domain: Polity
+            - **G-V-GENERAL--GENERA-DIRECT-11** (GA/DERIVED, L6, ord:1134, q:0)
+              - Topic: Polity
+              - Subtopic: General Polity
+              - Micro: Variations & distractors
+              - Domain: Polity
+          - **G-A-GENERAL--GENERAL--FILL-UP-9** (GA/PROCEDURAL, L5, ord:686, q:2)
+            - Topic: Polity
+            - Subtopic: General Polity
+            - Micro: General-factual
+            - Domain: Polity
+            - **G-V-GENERAL--GENERA-FILL-U-9** (GA/DERIVED, L6, ord:1153, q:0)
+              - Topic: Polity
+              - Subtopic: General Polity
+              - Micro: Variations & distractors
+              - Domain: Polity
+          - **G-A-GENERAL--GENERAL--STATEMEN-11** (GA/PROCEDURAL, L5, ord:688, q:2)
+            - Topic: Polity
+            - Subtopic: General Polity
+            - Micro: General-factual
+            - Domain: Polity
+            - **G-V-GENERAL--GENERA-STATEM-11** (GA/DERIVED, L6, ord:1160, q:0)
+              - Topic: Polity
+              - Subtopic: General Polity
+              - Micro: Variations & distractors
+              - Domain: Polity
+        - **G-M-GENERAL-PO-PERSON-ANCHO** (GA/RECALL, L4, ord:261, q:4)
+          - Topic: Polity
+          - Subtopic: General Polity
+          - Micro: Person-anchored
+          - Domain: Polity
+          - **G-A-GENERAL--PERSON-A-DIRECT-F-9** (GA/PROCEDURAL, L5, ord:570, q:4)
+            - Topic: Polity
+            - Subtopic: General Polity
+            - Micro: Person-anchored
+            - Domain: Polity
+            - **G-V-GENERAL--PERSON-DIRECT-9** (GA/DERIVED, L6, ord:1198, q:0)
+              - Topic: Polity
+              - Subtopic: General Polity
+              - Micro: Variations & distractors
+              - Domain: Polity
+        - **G-M-GENERAL-PO-ARTICLE-ANCH** (GA/RECALL, L4, ord:298, q:3)
+          - Topic: Polity
+          - Subtopic: General Polity
+          - Micro: Article-anchored
+          - Domain: Polity
+          - **G-A-GENERAL--ARTICLE--FILL-UP** (GA/PROCEDURAL, L5, ord:679, q:2)
+            - Topic: Polity
+            - Subtopic: General Polity
+            - Micro: Article-anchored
+            - Domain: Polity
+            - **G-V-GENERAL--ARTICL-FILL-U** (GA/DERIVED, L6, ord:1116, q:0)
+              - Topic: Polity
+              - Subtopic: General Polity
+              - Micro: Variations & distractors
+              - Domain: Polity
+          - **G-A-GENERAL--ARTICLE--DIRECT-F** (GA/PROCEDURAL, L5, ord:824, q:1)
+            - Topic: Polity
+            - Subtopic: General Polity
+            - Micro: Article-anchored
+            - Domain: Polity
+            - **G-V-GENERAL--ARTICL-DIRECT** (GA/DERIVED, L6, ord:1115, q:0)
+              - Topic: Polity
+              - Subtopic: General Polity
+              - Micro: Variations & distractors
+              - Domain: Polity
+        - **G-M-GENERAL-PO-OTHER-GENERA** (GA/RECALL, L4, ord:360, q:2)
+          - Topic: Polity
+          - Subtopic: General Polity
+          - Micro: Other General Polity facts
+          - Domain: Polity
+          - **G-A-GENERAL--OTHER-GE-DIRECT-F-14** (GA/PROCEDURAL, L5, ord:692, q:2)
+            - Topic: Polity
+            - Subtopic: General Polity
+            - Micro: Other General Polity facts
+            - Domain: Polity
+            - **G-V-GENERAL--OTHER--DIRECT-14** (GA/DERIVED, L6, ord:1177, q:0)
+              - Topic: Polity
+              - Subtopic: General Polity
+              - Micro: Variations & distractors
+              - Domain: Polity
+        - **G-M-GENERAL-PO-SUPERLATIVE-** (GA/RECALL, L4, ord:361, q:2)
+          - Topic: Polity
+          - Subtopic: General Polity
+          - Micro: Superlative/First-record
+          - Domain: Polity
+          - **G-A-GENERAL--SUPERLAT-DIRECT-F-6** (GA/PROCEDURAL, L5, ord:855, q:1)
+            - Topic: Polity
+            - Subtopic: General Polity
+            - Micro: Superlative/First-record
+            - Domain: Polity
+            - **G-V-GENERAL--SUPERL-DIRECT-6** (GA/DERIVED, L6, ord:1211, q:0)
+              - Topic: Polity
+              - Subtopic: General Polity
+              - Micro: Variations & distractors
+              - Domain: Polity
+          - **G-A-GENERAL--SUPERLAT-FILL-UP** (GA/PROCEDURAL, L5, ord:856, q:1)
+            - Topic: Polity
+            - Subtopic: General Polity
+            - Micro: Superlative/First-record
+            - Domain: Polity
+            - **G-V-GENERAL--SUPERL-FILL-U** (GA/DERIVED, L6, ord:1212, q:0)
+              - Topic: Polity
+              - Subtopic: General Polity
+              - Micro: Variations & distractors
+              - Domain: Polity
+      - **G-S-POLITY-ARTICLES-OF-** (GA/DERIVED, L3, ord:46, q:61)
+        - Topic: Polity
+        - Subtopic: Articles of Constitution
+        - Domain: Polity
+        - **G-M-ARTICLES-O-ARTICLE-ANCH** (GA/RECALL, L4, ord:134, q:51)
+          - Topic: Polity
+          - Subtopic: Articles of Constitution
+          - Micro: Article-anchored
+          - Domain: Polity
+          - **G-A-ARTICLES-ARTICLE--DIRECT-F** (GA/PROCEDURAL, L5, ord:439, q:37)
+            - Topic: Polity
+            - Subtopic: Articles of Constitution
+            - Micro: Article-anchored
+            - Domain: Polity
+            - **G-V-ARTICLES-ARTICL-DIRECT** (GA/DERIVED, L6, ord:961, q:0)
+              - Topic: Polity
+              - Subtopic: Articles of Constitution
+              - Micro: Variations & distractors
+              - Domain: Polity
+          - **G-A-ARTICLES-ARTICLE--STATEMEN** (GA/PROCEDURAL, L5, ord:485, q:10)
+            - Topic: Polity
+            - Subtopic: Articles of Constitution
+            - Micro: Article-anchored
+            - Domain: Polity
+            - **G-V-ARTICLES-ARTICL-STATEM** (GA/DERIVED, L6, ord:963, q:0)
+              - Topic: Polity
+              - Subtopic: Articles of Constitution
+              - Micro: Variations & distractors
+              - Domain: Polity
+          - **G-A-ARTICLES-ARTICLE--FILL-UP** (GA/PROCEDURAL, L5, ord:549, q:4)
+            - Topic: Polity
+            - Subtopic: Articles of Constitution
+            - Micro: Article-anchored
+            - Domain: Polity
+            - **G-V-ARTICLES-ARTICL-FILL-U** (GA/DERIVED, L6, ord:962, q:0)
+              - Topic: Polity
+              - Subtopic: Articles of Constitution
+              - Micro: Variations & distractors
+              - Domain: Polity
+        - **G-M-ARTICLES-O-GENERAL-FACT** (GA/RECALL, L4, ord:191, q:8)
+          - Topic: Polity
+          - Subtopic: Articles of Constitution
+          - Micro: General-factual
+          - Domain: Polity
+          - **G-A-ARTICLES-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:496, q:8)
+            - Topic: Polity
+            - Subtopic: Articles of Constitution
+            - Micro: General-factual
+            - Domain: Polity
+            - **G-V-ARTICLES-GENERA-DIRECT** (GA/DERIVED, L6, ord:964, q:0)
+              - Topic: Polity
+              - Subtopic: Articles of Constitution
+              - Micro: Variations & distractors
+              - Domain: Polity
+        - **G-M-ARTICLES-O-YEAR-ANCHORE** (GA/RECALL, L4, ord:317, q:2)
+          - Topic: Polity
+          - Subtopic: Articles of Constitution
+          - Micro: Year-anchored
+          - Domain: Polity
+          - **G-A-ARTICLES-YEAR-ANC-DIRECT-F** (GA/PROCEDURAL, L5, ord:757, q:1)
+            - Topic: Polity
+            - Subtopic: Articles of Constitution
+            - Micro: Year-anchored
+            - Domain: Polity
+            - **G-V-ARTICLES-YEAR-A-DIRECT** (GA/DERIVED, L6, ord:965, q:0)
+              - Topic: Polity
+              - Subtopic: Articles of Constitution
+              - Micro: Variations & distractors
+              - Domain: Polity
+          - **G-A-ARTICLES-YEAR-ANC-STATEMEN** (GA/PROCEDURAL, L5, ord:758, q:1)
+            - Topic: Polity
+            - Subtopic: Articles of Constitution
+            - Micro: Year-anchored
+            - Domain: Polity
+            - **G-V-ARTICLES-YEAR-A-STATEM** (GA/DERIVED, L6, ord:966, q:0)
+              - Topic: Polity
+              - Subtopic: Articles of Constitution
+              - Micro: Variations & distractors
+              - Domain: Polity
+      - **G-S-POLITY-PRESIDENT-EX** (GA/DERIVED, L3, ord:67, q:25)
+        - Topic: Polity
+        - Subtopic: President & Executive
+        - Domain: Polity
+        - **G-M-PRESIDENT--GENERAL-FACT** (GA/RECALL, L4, ord:165, q:16)
+          - Topic: Polity
+          - Subtopic: President & Executive
+          - Micro: General-factual
+          - Domain: Polity
+          - **G-A-PRESIDEN-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:511, q:7)
+            - Topic: Polity
+            - Subtopic: President & Executive
+            - Micro: General-factual
+            - Domain: Polity
+            - **G-V-PRESIDEN-GENERA-DIRECT** (GA/DERIVED, L6, ord:1401, q:0)
+              - Topic: Polity
+              - Subtopic: President & Executive
+              - Micro: Variations & distractors
+              - Domain: Polity
+          - **G-A-PRESIDEN-GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:548, q:5)
+            - Topic: Polity
+            - Subtopic: President & Executive
+            - Micro: General-factual
+            - Domain: Polity
+            - **G-V-PRESIDEN-GENERA-STATEM** (GA/DERIVED, L6, ord:1403, q:0)
+              - Topic: Polity
+              - Subtopic: President & Executive
+              - Micro: Variations & distractors
+              - Domain: Polity
+          - **G-A-PRESIDEN-GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:586, q:4)
+            - Topic: Polity
+            - Subtopic: President & Executive
+            - Micro: General-factual
+            - Domain: Polity
+            - **G-V-PRESIDEN-GENERA-FILL-U** (GA/DERIVED, L6, ord:1402, q:0)
+              - Topic: Polity
+              - Subtopic: President & Executive
+              - Micro: Variations & distractors
+              - Domain: Polity
+        - **G-M-PRESIDENT--ARTICLE-ANCH** (GA/RECALL, L4, ord:241, q:5)
+          - Topic: Polity
+          - Subtopic: President & Executive
+          - Micro: Article-anchored
+          - Domain: Polity
+          - **G-A-PRESIDEN-ARTICLE--DIRECT-F** (GA/PROCEDURAL, L5, ord:547, q:5)
+            - Topic: Polity
+            - Subtopic: President & Executive
+            - Micro: Article-anchored
+            - Domain: Polity
+            - **G-V-PRESIDEN-ARTICL-DIRECT** (GA/DERIVED, L6, ord:1400, q:0)
+              - Topic: Polity
+              - Subtopic: President & Executive
+              - Micro: Variations & distractors
+              - Domain: Polity
+        - **G-M-PRESIDENT--OTHER-PRESID** (GA/RECALL, L4, ord:273, q:4)
+          - Topic: Polity
+          - Subtopic: President & Executive
+          - Micro: Other President & Executive facts
+          - Domain: Polity
+          - **G-A-PRESIDEN-OTHER-PR-DIRECT-F** (GA/PROCEDURAL, L5, ord:637, q:3)
+            - Topic: Polity
+            - Subtopic: President & Executive
+            - Micro: Other President & Executive facts
+            - Domain: Polity
+            - **G-V-PRESIDEN-OTHER--DIRECT** (GA/DERIVED, L6, ord:1404, q:0)
+              - Topic: Polity
+              - Subtopic: President & Executive
+              - Micro: Variations & distractors
+              - Domain: Polity
+          - **G-A-PRESIDEN-OTHER-PR-STATEMEN** (GA/PROCEDURAL, L5, ord:920, q:1)
+            - Topic: Polity
+            - Subtopic: President & Executive
+            - Micro: Other President & Executive facts
+            - Domain: Polity
+            - **G-V-PRESIDEN-OTHER--STATEM** (GA/DERIVED, L6, ord:1405, q:0)
+              - Topic: Polity
+              - Subtopic: President & Executive
+              - Micro: Variations & distractors
+              - Domain: Polity
+      - **G-S-POLITY-PARLIAMENT-L** (GA/DERIVED, L3, ord:69, q:24)
+        - Topic: Polity
+        - Subtopic: Parliament & Legislature
+        - Domain: Polity
+        - **G-M-PARLIAMENT-GENERAL-FACT** (GA/RECALL, L4, ord:164, q:16)
+          - Topic: Polity
+          - Subtopic: Parliament & Legislature
+          - Micro: General-factual
+          - Domain: Polity
+          - **G-A-PARLIAME-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:490, q:10)
+            - Topic: Polity
+            - Subtopic: Parliament & Legislature
+            - Micro: General-factual
+            - Domain: Polity
+            - **G-V-PARLIAME-GENERA-DIRECT** (GA/DERIVED, L6, ord:1382, q:0)
+              - Topic: Polity
+              - Subtopic: Parliament & Legislature
+              - Micro: Variations & distractors
+              - Domain: Polity
+          - **G-A-PARLIAME-GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:584, q:4)
+            - Topic: Polity
+            - Subtopic: Parliament & Legislature
+            - Micro: General-factual
+            - Domain: Polity
+            - **G-V-PARLIAME-GENERA-STATEM** (GA/DERIVED, L6, ord:1384, q:0)
+              - Topic: Polity
+              - Subtopic: Parliament & Legislature
+              - Micro: Variations & distractors
+              - Domain: Polity
+          - **G-A-PARLIAME-GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:738, q:2)
+            - Topic: Polity
+            - Subtopic: Parliament & Legislature
+            - Micro: General-factual
+            - Domain: Polity
+            - **G-V-PARLIAME-GENERA-FILL-U** (GA/DERIVED, L6, ord:1383, q:0)
+              - Topic: Polity
+              - Subtopic: Parliament & Legislature
+              - Micro: Variations & distractors
+              - Domain: Polity
+        - **G-M-PARLIAMENT-OTHER-PARLIA** (GA/RECALL, L4, ord:271, q:4)
+          - Topic: Polity
+          - Subtopic: Parliament & Legislature
+          - Micro: Other Parliament & Legislature facts
+          - Domain: Polity
+          - **G-A-PARLIAME-OTHER-PA-DIRECT-F** (GA/PROCEDURAL, L5, ord:634, q:3)
+            - Topic: Polity
+            - Subtopic: Parliament & Legislature
+            - Micro: Other Parliament & Legislature facts
+            - Domain: Polity
+            - **G-V-PARLIAME-OTHER--DIRECT** (GA/DERIVED, L6, ord:1385, q:0)
+              - Topic: Polity
+              - Subtopic: Parliament & Legislature
+              - Micro: Variations & distractors
+              - Domain: Polity
+          - **G-A-PARLIAME-OTHER-PA-FILL-UP** (GA/PROCEDURAL, L5, ord:915, q:1)
+            - Topic: Polity
+            - Subtopic: Parliament & Legislature
+            - Micro: Other Parliament & Legislature facts
+            - Domain: Polity
+            - **G-V-PARLIAME-OTHER--FILL-U** (GA/DERIVED, L6, ord:1386, q:0)
+              - Topic: Polity
+              - Subtopic: Parliament & Legislature
+              - Micro: Variations & distractors
+              - Domain: Polity
+        - **G-M-PARLIAMENT-ARTICLE-ANCH** (GA/RECALL, L4, ord:388, q:2)
+          - Topic: Polity
+          - Subtopic: Parliament & Legislature
+          - Micro: Article-anchored
+          - Domain: Polity
+          - **G-A-PARLIAME-ARTICLE--DIRECT-F** (GA/PROCEDURAL, L5, ord:737, q:2)
+            - Topic: Polity
+            - Subtopic: Parliament & Legislature
+            - Micro: Article-anchored
+            - Domain: Polity
+            - **G-V-PARLIAME-ARTICL-DIRECT** (GA/DERIVED, L6, ord:1381, q:0)
+              - Topic: Polity
+              - Subtopic: Parliament & Legislature
+              - Micro: Variations & distractors
+              - Domain: Polity
+        - **G-M-PARLIAMENT-SUPERLATIVE-** (GA/RECALL, L4, ord:389, q:2)
+          - Topic: Polity
+          - Subtopic: Parliament & Legislature
+          - Micro: Superlative/First-record
+          - Domain: Polity
+          - **G-A-PARLIAME-SUPERLAT-DIRECT-F** (GA/PROCEDURAL, L5, ord:916, q:1)
+            - Topic: Polity
+            - Subtopic: Parliament & Legislature
+            - Micro: Superlative/First-record
+            - Domain: Polity
+            - **G-V-PARLIAME-SUPERL-DIRECT** (GA/DERIVED, L6, ord:1387, q:0)
+              - Topic: Polity
+              - Subtopic: Parliament & Legislature
+              - Micro: Variations & distractors
+              - Domain: Polity
+          - **G-A-PARLIAME-SUPERLAT-STATEMEN** (GA/PROCEDURAL, L5, ord:917, q:1)
+            - Topic: Polity
+            - Subtopic: Parliament & Legislature
+            - Micro: Superlative/First-record
+            - Domain: Polity
+            - **G-V-PARLIAME-SUPERL-STATEM** (GA/DERIVED, L6, ord:1388, q:0)
+              - Topic: Polity
+              - Subtopic: Parliament & Legislature
+              - Micro: Variations & distractors
+              - Domain: Polity
+      - **G-S-POLITY-JUDICIARY** (GA/DERIVED, L3, ord:85, q:10)
+        - Topic: Polity
+        - Subtopic: Judiciary
+        - Domain: Polity
+        - **G-M-JUDICIARY-GENERAL-FACT** (GA/RECALL, L4, ord:217, q:6)
+          - Topic: Polity
+          - Subtopic: Judiciary
+          - Micro: General-factual
+          - Domain: Polity
+          - **G-A-JUDICIAR-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:577, q:4)
+            - Topic: Polity
+            - Subtopic: Judiciary
+            - Micro: General-factual
+            - Domain: Polity
+            - **G-V-JUDICIAR-GENERA-DIRECT** (GA/DERIVED, L6, ord:1296, q:0)
+              - Topic: Polity
+              - Subtopic: Judiciary
+              - Micro: Variations & distractors
+              - Domain: Polity
+          - **G-A-JUDICIAR-GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:720, q:2)
+            - Topic: Polity
+            - Subtopic: Judiciary
+            - Micro: General-factual
+            - Domain: Polity
+            - **G-V-JUDICIAR-GENERA-FILL-U** (GA/DERIVED, L6, ord:1297, q:0)
+              - Topic: Polity
+              - Subtopic: Judiciary
+              - Micro: Variations & distractors
+              - Domain: Polity
+        - **G-M-JUDICIARY-OTHER-JUDICI** (GA/RECALL, L4, ord:377, q:2)
+          - Topic: Polity
+          - Subtopic: Judiciary
+          - Micro: Other Judiciary facts
+          - Domain: Polity
+          - **G-A-JUDICIAR-OTHER-JU-DIRECT-F** (GA/PROCEDURAL, L5, ord:721, q:2)
+            - Topic: Polity
+            - Subtopic: Judiciary
+            - Micro: Other Judiciary facts
+            - Domain: Polity
+            - **G-V-JUDICIAR-OTHER--DIRECT** (GA/DERIVED, L6, ord:1298, q:0)
+              - Topic: Polity
+              - Subtopic: Judiciary
+              - Micro: Variations & distractors
+              - Domain: Polity
+        - **G-M-JUDICIARY-PERSON-ANCHO** (GA/RECALL, L4, ord:378, q:2)
+          - Topic: Polity
+          - Subtopic: Judiciary
+          - Micro: Person-anchored
+          - Domain: Polity
+          - **G-A-JUDICIAR-PERSON-A-DIRECT-F** (GA/PROCEDURAL, L5, ord:722, q:2)
+            - Topic: Polity
+            - Subtopic: Judiciary
+            - Micro: Person-anchored
+            - Domain: Polity
+            - **G-V-JUDICIAR-PERSON-DIRECT** (GA/DERIVED, L6, ord:1299, q:0)
+              - Topic: Polity
+              - Subtopic: Judiciary
+              - Micro: Variations & distractors
+              - Domain: Polity
+      - **G-S-POLITY-LOCAL-GOVERN** (GA/DERIVED, L3, ord:86, q:10)
+        - Topic: Polity
+        - Subtopic: Local Governance
+        - Domain: Polity
+        - **G-M-LOCAL-GOVE-GENERAL-FACT** (GA/RECALL, L4, ord:196, q:8)
+          - Topic: Polity
+          - Subtopic: Local Governance
+          - Micro: General-factual
+          - Domain: Polity
+          - **G-A-LOCAL-GO-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:498, q:8)
+            - Topic: Polity
+            - Subtopic: Local Governance
+            - Micro: General-factual
+            - Domain: Polity
+            - **G-V-LOCAL-GO-GENERA-DIRECT** (GA/DERIVED, L6, ord:1304, q:0)
+              - Topic: Polity
+              - Subtopic: Local Governance
+              - Micro: Variations & distractors
+              - Domain: Polity
+        - **G-M-LOCAL-GOVE-OTHER-LOCAL-** (GA/RECALL, L4, ord:380, q:2)
+          - Topic: Polity
+          - Subtopic: Local Governance
+          - Micro: Other Local Governance facts
+          - Domain: Polity
+          - **G-A-LOCAL-GO-OTHER-LO-DIRECT-F** (GA/PROCEDURAL, L5, ord:888, q:1)
+            - Topic: Polity
+            - Subtopic: Local Governance
+            - Micro: Other Local Governance facts
+            - Domain: Polity
+            - **G-V-LOCAL-GO-OTHER--DIRECT** (GA/DERIVED, L6, ord:1305, q:0)
+              - Topic: Polity
+              - Subtopic: Local Governance
+              - Micro: Variations & distractors
+              - Domain: Polity
+          - **G-A-LOCAL-GO-OTHER-LO-FILL-UP** (GA/PROCEDURAL, L5, ord:889, q:1)
+            - Topic: Polity
+            - Subtopic: Local Governance
+            - Micro: Other Local Governance facts
+            - Domain: Polity
+            - **G-V-LOCAL-GO-OTHER--FILL-U** (GA/DERIVED, L6, ord:1306, q:0)
+              - Topic: Polity
+              - Subtopic: Local Governance
+              - Micro: Variations & distractors
+              - Domain: Polity
+      - **G-S-POLITY-AMENDMENTS-L** (GA/DERIVED, L3, ord:92, q:9)
+        - Topic: Polity
+        - Subtopic: Amendments & Landmark Cases
+        - Domain: Polity
+        - **G-M-AMENDMENTS-GENERAL-FACT** (GA/RECALL, L4, ord:198, q:7)
+          - Topic: Polity
+          - Subtopic: Amendments & Landmark Cases
+          - Micro: General-factual
+          - Domain: Polity
+          - **G-A-AMENDMEN-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:524, q:5)
+            - Topic: Polity
+            - Subtopic: Amendments & Landmark Cases
+            - Micro: General-factual
+            - Domain: Polity
+            - **G-V-AMENDMEN-GENERA-DIRECT** (GA/DERIVED, L6, ord:951, q:0)
+              - Topic: Polity
+              - Subtopic: Amendments & Landmark Cases
+              - Micro: Variations & distractors
+              - Domain: Polity
+          - **G-A-AMENDMEN-GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:643, q:2)
+            - Topic: Polity
+            - Subtopic: Amendments & Landmark Cases
+            - Micro: General-factual
+            - Domain: Polity
+            - **G-V-AMENDMEN-GENERA-FILL-U** (GA/DERIVED, L6, ord:952, q:0)
+              - Topic: Polity
+              - Subtopic: Amendments & Landmark Cases
+              - Micro: Variations & distractors
+              - Domain: Polity
+        - **G-M-AMENDMENTS-OTHER-AMENDM** (GA/RECALL, L4, ord:316, q:2)
+          - Topic: Polity
+          - Subtopic: Amendments & Landmark Cases
+          - Micro: Other Amendments & Landmark Cases facts
+          - Domain: Polity
+          - **G-A-AMENDMEN-OTHER-AM-DIRECT-F** (GA/PROCEDURAL, L5, ord:644, q:2)
+            - Topic: Polity
+            - Subtopic: Amendments & Landmark Cases
+            - Micro: Other Amendments & Landmark Cases facts
+            - Domain: Polity
+            - **G-V-AMENDMEN-OTHER--DIRECT** (GA/DERIVED, L6, ord:953, q:0)
+              - Topic: Polity
+              - Subtopic: Amendments & Landmark Cases
+              - Micro: Variations & distractors
+              - Domain: Polity
+      - **G-S-POLITY-ELECTIONS-RE** (GA/DERIVED, L3, ord:97, q:8)
+        - Topic: Polity
+        - Subtopic: Elections & Representation
+        - Domain: Polity
+        - **G-M-ELECTIONS--GENERAL-FACT** (GA/RECALL, L4, ord:226, q:5)
+          - Topic: Polity
+          - Subtopic: Elections & Representation
+          - Micro: General-factual
+          - Domain: Polity
+          - **G-A-ELECTION-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:555, q:4)
+            - Topic: Polity
+            - Subtopic: Elections & Representation
+            - Micro: General-factual
+            - Domain: Polity
+            - **G-V-ELECTION-GENERA-DIRECT** (GA/DERIVED, L6, ord:1056, q:0)
+              - Topic: Polity
+              - Subtopic: Elections & Representation
+              - Micro: Variations & distractors
+              - Domain: Polity
+          - **G-A-ELECTION-GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:795, q:1)
+            - Topic: Polity
+            - Subtopic: Elections & Representation
+            - Micro: General-factual
+            - Domain: Polity
+            - **G-V-ELECTION-GENERA-STATEM** (GA/DERIVED, L6, ord:1057, q:0)
+              - Topic: Polity
+              - Subtopic: Elections & Representation
+              - Micro: Variations & distractors
+              - Domain: Polity
+        - **G-M-ELECTIONS--PERSON-ANCHO** (GA/RECALL, L4, ord:336, q:2)
+          - Topic: Polity
+          - Subtopic: Elections & Representation
+          - Micro: Person-anchored
+          - Domain: Polity
+          - **G-A-ELECTION-PERSON-A-DIRECT-F** (GA/PROCEDURAL, L5, ord:667, q:2)
+            - Topic: Polity
+            - Subtopic: Elections & Representation
+            - Micro: Person-anchored
+            - Domain: Polity
+            - **G-V-ELECTION-PERSON-DIRECT** (GA/DERIVED, L6, ord:1059, q:0)
+              - Topic: Polity
+              - Subtopic: Elections & Representation
+              - Micro: Variations & distractors
+              - Domain: Polity
+        - **G-M-ELECTIONS--OTHER-ELECTI** (GA/RECALL, L4, ord:411, q:1)
+          - Topic: Polity
+          - Subtopic: Elections & Representation
+          - Micro: Other Elections & Representation facts
+          - Domain: Polity
+          - **G-A-ELECTION-OTHER-EL-DIRECT-F** (GA/PROCEDURAL, L5, ord:796, q:1)
+            - Topic: Polity
+            - Subtopic: Elections & Representation
+            - Micro: Other Elections & Representation facts
+            - Domain: Polity
+            - **G-V-ELECTION-OTHER--DIRECT** (GA/DERIVED, L6, ord:1058, q:0)
+              - Topic: Polity
+              - Subtopic: Elections & Representation
+              - Micro: Variations & distractors
+              - Domain: Polity
+      - **G-S-POLITY-DIRECTIVE-PR** (GA/DERIVED, L3, ord:102, q:7)
+        - Topic: Polity
+        - Subtopic: Directive Principles
+        - Domain: Polity
+        - **G-M-DIRECTIVE--GENERAL-FACT** (GA/RECALL, L4, ord:225, q:5)
+          - Topic: Polity
+          - Subtopic: Directive Principles
+          - Micro: General-factual
+          - Domain: Polity
+          - **G-A-DIRECTIV-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:664, q:2)
+            - Topic: Polity
+            - Subtopic: Directive Principles
+            - Micro: General-factual
+            - Domain: Polity
+            - **G-V-DIRECTIV-GENERA-DIRECT** (GA/DERIVED, L6, ord:1049, q:0)
+              - Topic: Polity
+              - Subtopic: Directive Principles
+              - Micro: Variations & distractors
+              - Domain: Polity
+          - **G-A-DIRECTIV-GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:665, q:2)
+            - Topic: Polity
+            - Subtopic: Directive Principles
+            - Micro: General-factual
+            - Domain: Polity
+            - **G-V-DIRECTIV-GENERA-FILL-U** (GA/DERIVED, L6, ord:1050, q:0)
+              - Topic: Polity
+              - Subtopic: Directive Principles
+              - Micro: Variations & distractors
+              - Domain: Polity
+          - **G-A-DIRECTIV-GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:792, q:1)
+            - Topic: Polity
+            - Subtopic: Directive Principles
+            - Micro: General-factual
+            - Domain: Polity
+            - **G-V-DIRECTIV-GENERA-STATEM** (GA/DERIVED, L6, ord:1051, q:0)
+              - Topic: Polity
+              - Subtopic: Directive Principles
+              - Micro: Variations & distractors
+              - Domain: Polity
+        - **G-M-DIRECTIVE--ARTICLE-ANCH** (GA/RECALL, L4, ord:334, q:2)
+          - Topic: Polity
+          - Subtopic: Directive Principles
+          - Micro: Article-anchored
+          - Domain: Polity
+          - **G-A-DIRECTIV-ARTICLE--DIRECT-F** (GA/PROCEDURAL, L5, ord:790, q:1)
+            - Topic: Polity
+            - Subtopic: Directive Principles
+            - Micro: Article-anchored
+            - Domain: Polity
+            - **G-V-DIRECTIV-ARTICL-DIRECT** (GA/DERIVED, L6, ord:1047, q:0)
+              - Topic: Polity
+              - Subtopic: Directive Principles
+              - Micro: Variations & distractors
+              - Domain: Polity
+          - **G-A-DIRECTIV-ARTICLE--FILL-UP** (GA/PROCEDURAL, L5, ord:791, q:1)
+            - Topic: Polity
+            - Subtopic: Directive Principles
+            - Micro: Article-anchored
+            - Domain: Polity
+            - **G-V-DIRECTIV-ARTICL-FILL-U** (GA/DERIVED, L6, ord:1048, q:0)
+              - Topic: Polity
+              - Subtopic: Directive Principles
+              - Micro: Variations & distractors
+              - Domain: Polity
+      - **G-S-POLITY-FUNDAMENTAL-** (GA/DERIVED, L3, ord:103, q:7)
+        - Topic: Polity
+        - Subtopic: Fundamental Rights
+        - Domain: Polity
+        - **G-M-FUNDAMENTA-GENERAL-FACT** (GA/RECALL, L4, ord:228, q:5)
+          - Topic: Polity
+          - Subtopic: Fundamental Rights
+          - Micro: General-factual
+          - Domain: Polity
+          - **G-A-FUNDAMEN-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:675, q:2)
+            - Topic: Polity
+            - Subtopic: Fundamental Rights
+            - Micro: General-factual
+            - Domain: Polity
+            - **G-V-FUNDAMEN-GENERA-DIRECT** (GA/DERIVED, L6, ord:1101, q:0)
+              - Topic: Polity
+              - Subtopic: Fundamental Rights
+              - Micro: Variations & distractors
+              - Domain: Polity
+          - **G-A-FUNDAMEN-GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:676, q:2)
+            - Topic: Polity
+            - Subtopic: Fundamental Rights
+            - Micro: General-factual
+            - Domain: Polity
+            - **G-V-FUNDAMEN-GENERA-STATEM** (GA/DERIVED, L6, ord:1103, q:0)
+              - Topic: Polity
+              - Subtopic: Fundamental Rights
+              - Micro: Variations & distractors
+              - Domain: Polity
+          - **G-A-FUNDAMEN-GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:818, q:1)
+            - Topic: Polity
+            - Subtopic: Fundamental Rights
+            - Micro: General-factual
+            - Domain: Polity
+            - **G-V-FUNDAMEN-GENERA-FILL-U** (GA/DERIVED, L6, ord:1102, q:0)
+              - Topic: Polity
+              - Subtopic: Fundamental Rights
+              - Micro: Variations & distractors
+              - Domain: Polity
+        - **G-M-FUNDAMENTA-OTHER-FUNDAM** (GA/RECALL, L4, ord:347, q:2)
+          - Topic: Polity
+          - Subtopic: Fundamental Rights
+          - Micro: Other Fundamental Rights facts
+          - Domain: Polity
+          - **G-A-FUNDAMEN-OTHER-FU-DIRECT-F** (GA/PROCEDURAL, L5, ord:677, q:2)
+            - Topic: Polity
+            - Subtopic: Fundamental Rights
+            - Micro: Other Fundamental Rights facts
+            - Domain: Polity
+            - **G-V-FUNDAMEN-OTHER--DIRECT** (GA/DERIVED, L6, ord:1104, q:0)
+              - Topic: Polity
+              - Subtopic: Fundamental Rights
+              - Micro: Variations & distractors
+              - Domain: Polity
+      - **G-S-POLITY-PREAMBLE-CIT** (GA/DERIVED, L3, ord:116, q:4)
+        - Topic: Polity
+        - Subtopic: Preamble, Citizenship & Symbols
+        - Domain: Polity
+        - **G-M-PREAMBLE-C-GENERAL-FACT** (GA/RECALL, L4, ord:393, q:2)
+          - Topic: Polity
+          - Subtopic: Preamble, Citizenship & Symbols
+          - Micro: General-factual
+          - Domain: Polity
+          - **G-A-PREAMBLE-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:743, q:2)
+            - Topic: Polity
+            - Subtopic: Preamble, Citizenship & Symbols
+            - Micro: General-factual
+            - Domain: Polity
+            - **G-V-PREAMBLE-GENERA-DIRECT** (GA/DERIVED, L6, ord:1398, q:0)
+              - Topic: Polity
+              - Subtopic: Preamble, Citizenship & Symbols
+              - Micro: Variations & distractors
+              - Domain: Polity
+        - **G-M-PREAMBLE-C-OTHER-PREAMB** (GA/RECALL, L4, ord:394, q:2)
+          - Topic: Polity
+          - Subtopic: Preamble, Citizenship & Symbols
+          - Micro: Other Preamble, Citizenship & Symbols facts
+          - Domain: Polity
+          - **G-A-PREAMBLE-OTHER-PR-DIRECT-F** (GA/PROCEDURAL, L5, ord:744, q:2)
+            - Topic: Polity
+            - Subtopic: Preamble, Citizenship & Symbols
+            - Micro: Other Preamble, Citizenship & Symbols facts
+            - Domain: Polity
+            - **G-V-PREAMBLE-OTHER--DIRECT** (GA/DERIVED, L6, ord:1399, q:0)
+              - Topic: Polity
+              - Subtopic: Preamble, Citizenship & Symbols
+              - Micro: Variations & distractors
+              - Domain: Polity
+      - **G-S-POLITY-SCHEDULES-LA** (GA/DERIVED, L3, ord:117, q:4)
+        - Topic: Polity
+        - Subtopic: Schedules, Languages & Reservation
+        - Domain: Polity
+        - **G-M-SCHEDULES--GENERAL-FACT** (GA/RECALL, L4, ord:313, q:3)
+          - Topic: Polity
+          - Subtopic: Schedules, Languages & Reservation
+          - Micro: General-factual
+          - Domain: Polity
+          - **G-A-SCHEDULE-GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:749, q:2)
+            - Topic: Polity
+            - Subtopic: Schedules, Languages & Reservation
+            - Micro: General-factual
+            - Domain: Polity
+            - **G-V-SCHEDULE-GENERA-STATEM** (GA/DERIVED, L6, ord:1427, q:0)
+              - Topic: Polity
+              - Subtopic: Schedules, Languages & Reservation
+              - Micro: Variations & distractors
+              - Domain: Polity
+          - **G-A-SCHEDULE-GENERAL--MATCHING** (GA/PROCEDURAL, L5, ord:932, q:1)
+            - Topic: Polity
+            - Subtopic: Schedules, Languages & Reservation
+            - Micro: General-factual
+            - Domain: Polity
+            - **G-V-SCHEDULE-GENERA-MATCHI** (GA/DERIVED, L6, ord:1426, q:0)
+              - Topic: Polity
+              - Subtopic: Schedules, Languages & Reservation
+              - Micro: Variations & distractors
+              - Domain: Polity
+        - **G-M-SCHEDULES--OTHER-SCHEDU** (GA/RECALL, L4, ord:432, q:1)
+          - Topic: Polity
+          - Subtopic: Schedules, Languages & Reservation
+          - Micro: Other Schedules, Languages & Reservation facts
+          - Domain: Polity
+          - **G-A-SCHEDULE-OTHER-SC-DIRECT-F** (GA/PROCEDURAL, L5, ord:933, q:1)
+            - Topic: Polity
+            - Subtopic: Schedules, Languages & Reservation
+            - Micro: Other Schedules, Languages & Reservation facts
+            - Domain: Polity
+            - **G-V-SCHEDULE-OTHER--DIRECT** (GA/DERIVED, L6, ord:1428, q:0)
+              - Topic: Polity
+              - Subtopic: Schedules, Languages & Reservation
+              - Micro: Variations & distractors
+              - Domain: Polity
+      - **G-S-POLITY-EMERGENCY-PR** (GA/DERIVED, L3, ord:131, q:1)
+        - Topic: Polity
+        - Subtopic: Emergency Provisions
+        - Domain: Polity
+        - **G-M-EMERGENCY--OTHER-EMERGE** (GA/RECALL, L4, ord:412, q:1)
+          - Topic: Polity
+          - Subtopic: Emergency Provisions
+          - Micro: Other Emergency Provisions facts
+          - Domain: Polity
+          - **G-A-EMERGENC-OTHER-EM-DIRECT-F** (GA/PROCEDURAL, L5, ord:802, q:1)
+            - Topic: Polity
+            - Subtopic: Emergency Provisions
+            - Micro: Other Emergency Provisions facts
+            - Domain: Polity
+            - **G-V-EMERGENC-OTHER--DIRECT** (GA/DERIVED, L6, ord:1071, q:0)
+              - Topic: Polity
+              - Subtopic: Emergency Provisions
+              - Micro: Variations & distractors
+              - Domain: Polity
+  - **G-D-SPORTS** (GA/DERIVED, L1, ord:14, q:0)
+    - Domain: Sports
+    - **G-T-SPORTS** (GA/DERIVED, L2, ord:23, q:256)
+      - Topic: Sports
+      - Domain: Sports
+      - **G-S-SPORTS-GENERAL-SPOR** (GA/DERIVED, L3, ord:37, q:82)
+        - Topic: Sports
+        - Subtopic: General Sports
+        - Domain: Sports
+        - **G-M-GENERAL-SP-GENERAL-FACT** (GA/RECALL, L4, ord:135, q:46)
+          - Topic: Sports
+          - Subtopic: General Sports
+          - Micro: General-factual
+          - Domain: Sports
+          - **G-A-GENERAL--GENERAL--DIRECT-F-12** (GA/PROCEDURAL, L5, ord:447, q:24)
+            - Topic: Sports
+            - Subtopic: General Sports
+            - Micro: General-factual
+            - Domain: Sports
+            - **G-V-GENERAL--GENERA-DIRECT-12** (GA/DERIVED, L6, ord:1135, q:0)
+              - Topic: Sports
+              - Subtopic: General Sports
+              - Micro: Variations & distractors
+              - Domain: Sports
+          - **G-A-GENERAL--GENERAL--STATEMEN-12** (GA/PROCEDURAL, L5, ord:464, q:14)
+            - Topic: Sports
+            - Subtopic: General Sports
+            - Micro: General-factual
+            - Domain: Sports
+            - **G-V-GENERAL--GENERA-STATEM-12** (GA/DERIVED, L6, ord:1161, q:0)
+              - Topic: Sports
+              - Subtopic: General Sports
+              - Micro: Variations & distractors
+              - Domain: Sports
+          - **G-A-GENERAL--GENERAL--FILL-UP-10** (GA/PROCEDURAL, L5, ord:562, q:4)
+            - Topic: Sports
+            - Subtopic: General Sports
+            - Micro: General-factual
+            - Domain: Sports
+            - **G-V-GENERAL--GENERA-FILL-U-10** (GA/DERIVED, L6, ord:1145, q:0)
+              - Topic: Sports
+              - Subtopic: General Sports
+              - Micro: Variations & distractors
+              - Domain: Sports
+          - **G-A-GENERAL--GENERAL--MATCHING-4** (GA/PROCEDURAL, L5, ord:563, q:4)
+            - Topic: Sports
+            - Subtopic: General Sports
+            - Micro: General-factual
+            - Domain: Sports
+            - **G-V-GENERAL--GENERA-MATCHI-4** (GA/DERIVED, L6, ord:1157, q:0)
+              - Topic: Sports
+              - Subtopic: General Sports
+              - Micro: Variations & distractors
+              - Domain: Sports
+        - **G-M-GENERAL-SP-OTHER-GENERA** (GA/RECALL, L4, ord:180, q:11)
+          - Topic: Sports
+          - Subtopic: General Sports
+          - Micro: Other General Sports facts
+          - Domain: Sports
+          - **G-A-GENERAL--OTHER-GE-DIRECT-F-15** (GA/PROCEDURAL, L5, ord:487, q:10)
+            - Topic: Sports
+            - Subtopic: General Sports
+            - Micro: Other General Sports facts
+            - Domain: Sports
+            - **G-V-GENERAL--OTHER--DIRECT-15** (GA/DERIVED, L6, ord:1178, q:0)
+              - Topic: Sports
+              - Subtopic: General Sports
+              - Micro: Variations & distractors
+              - Domain: Sports
+          - **G-A-GENERAL--OTHER-GE-FILL-UP** (GA/PROCEDURAL, L5, ord:848, q:1)
+            - Topic: Sports
+            - Subtopic: General Sports
+            - Micro: Other General Sports facts
+            - Domain: Sports
+            - **G-V-GENERAL--OTHER--FILL-U** (GA/DERIVED, L6, ord:1187, q:0)
+              - Topic: Sports
+              - Subtopic: General Sports
+              - Micro: Variations & distractors
+              - Domain: Sports
+        - **G-M-GENERAL-SP-PLACE-ANCHOR** (GA/RECALL, L4, ord:190, q:9)
+          - Topic: Sports
+          - Subtopic: General Sports
+          - Micro: Place-anchored
+          - Domain: Sports
+          - **G-A-GENERAL--PLACE-AN-DIRECT-F-3** (GA/PROCEDURAL, L5, ord:497, q:8)
+            - Topic: Sports
+            - Subtopic: General Sports
+            - Micro: Place-anchored
+            - Domain: Sports
+            - **G-V-GENERAL--PLACE--DIRECT-3** (GA/DERIVED, L6, ord:1204, q:0)
+              - Topic: Sports
+              - Subtopic: General Sports
+              - Micro: Variations & distractors
+              - Domain: Sports
+          - **G-A-GENERAL--PLACE-AN-FILL-UP** (GA/PROCEDURAL, L5, ord:853, q:1)
+            - Topic: Sports
+            - Subtopic: General Sports
+            - Micro: Place-anchored
+            - Domain: Sports
+            - **G-V-GENERAL--PLACE--FILL-U** (GA/DERIVED, L6, ord:1205, q:0)
+              - Topic: Sports
+              - Subtopic: General Sports
+              - Micro: Variations & distractors
+              - Domain: Sports
+        - **G-M-GENERAL-SP-YEAR-ANCHORE** (GA/RECALL, L4, ord:195, q:8)
+          - Topic: Sports
+          - Subtopic: General Sports
+          - Micro: Year-anchored
+          - Domain: Sports
+          - **G-A-GENERAL--YEAR-ANC-DIRECT-F-9** (GA/PROCEDURAL, L5, ord:521, q:6)
+            - Topic: Sports
+            - Subtopic: General Sports
+            - Micro: Year-anchored
+            - Domain: Sports
+            - **G-V-GENERAL--YEAR-A-DIRECT-9** (GA/DERIVED, L6, ord:1229, q:0)
+              - Topic: Sports
+              - Subtopic: General Sports
+              - Micro: Variations & distractors
+              - Domain: Sports
+          - **G-A-GENERAL--YEAR-ANC-STATEMEN-2** (GA/PROCEDURAL, L5, ord:703, q:2)
+            - Topic: Sports
+            - Subtopic: General Sports
+            - Micro: Year-anchored
+            - Domain: Sports
+            - **G-V-GENERAL--YEAR-A-STATEM-2** (GA/DERIVED, L6, ord:1235, q:0)
+              - Topic: Sports
+              - Subtopic: General Sports
+              - Micro: Variations & distractors
+              - Domain: Sports
+        - **G-M-GENERAL-SP-BOOK-ANCHORE** (GA/RECALL, L4, ord:262, q:4)
+          - Topic: Sports
+          - Subtopic: General Sports
+          - Micro: Book-anchored
+          - Domain: Sports
+          - **G-A-GENERAL--BOOK-ANC-DIRECT-F-3** (GA/PROCEDURAL, L5, ord:682, q:2)
+            - Topic: Sports
+            - Subtopic: General Sports
+            - Micro: Book-anchored
+            - Domain: Sports
+            - **G-V-GENERAL--BOOK-A-DIRECT-3** (GA/DERIVED, L6, ord:1125, q:0)
+              - Topic: Sports
+              - Subtopic: General Sports
+              - Micro: Variations & distractors
+              - Domain: Sports
+          - **G-A-GENERAL--BOOK-ANC-MATCHING-2** (GA/PROCEDURAL, L5, ord:830, q:1)
+            - Topic: Sports
+            - Subtopic: General Sports
+            - Micro: Book-anchored
+            - Domain: Sports
+            - **G-V-GENERAL--BOOK-A-MATCHI-2** (GA/DERIVED, L6, ord:1129, q:0)
+              - Topic: Sports
+              - Subtopic: General Sports
+              - Micro: Variations & distractors
+              - Domain: Sports
+          - **G-A-GENERAL--BOOK-ANC-STATEMEN-2** (GA/PROCEDURAL, L5, ord:832, q:1)
+            - Topic: Sports
+            - Subtopic: General Sports
+            - Micro: Book-anchored
+            - Domain: Sports
+            - **G-V-GENERAL--BOOK-A-STATEM-2** (GA/DERIVED, L6, ord:1131, q:0)
+              - Topic: Sports
+              - Subtopic: General Sports
+              - Micro: Variations & distractors
+              - Domain: Sports
+        - **G-M-GENERAL-SP-PERSON-ANCHO** (GA/RECALL, L4, ord:263, q:4)
+          - Topic: Sports
+          - Subtopic: General Sports
+          - Micro: Person-anchored
+          - Domain: Sports
+          - **G-A-GENERAL--PERSON-A-DIRECT-F-10** (GA/PROCEDURAL, L5, ord:568, q:4)
+            - Topic: Sports
+            - Subtopic: General Sports
+            - Micro: Person-anchored
+            - Domain: Sports
+            - **G-V-GENERAL--PERSON-DIRECT-10** (GA/DERIVED, L6, ord:1190, q:0)
+              - Topic: Sports
+              - Subtopic: General Sports
+              - Micro: Variations & distractors
+              - Domain: Sports
+      - **G-S-SPORTS-CRICKET** (GA/DERIVED, L3, ord:47, q:36)
+        - Topic: Sports
+        - Subtopic: Cricket
+        - Domain: Sports
+        - **G-M-CRICKET-GENERAL-FACT** (GA/RECALL, L4, ord:154, q:19)
+          - Topic: Sports
+          - Subtopic: Cricket
+          - Micro: General-factual
+          - Domain: Sports
+          - **G-A-CRICKET-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:468, q:13)
+            - Topic: Sports
+            - Subtopic: Cricket
+            - Micro: General-factual
+            - Domain: Sports
+            - **G-V-CRICKET-GENERA-DIRECT** (GA/DERIVED, L6, ord:1031, q:0)
+              - Topic: Sports
+              - Subtopic: Cricket
+              - Micro: Variations & distractors
+              - Domain: Sports
+          - **G-A-CRICKET-GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:602, q:3)
+            - Topic: Sports
+            - Subtopic: Cricket
+            - Micro: General-factual
+            - Domain: Sports
+            - **G-V-CRICKET-GENERA-STATEM** (GA/DERIVED, L6, ord:1034, q:0)
+              - Topic: Sports
+              - Subtopic: Cricket
+              - Micro: Variations & distractors
+              - Domain: Sports
+          - **G-A-CRICKET-GENERAL--MATCHING** (GA/PROCEDURAL, L5, ord:661, q:2)
+            - Topic: Sports
+            - Subtopic: Cricket
+            - Micro: General-factual
+            - Domain: Sports
+            - **G-V-CRICKET-GENERA-MATCHI** (GA/DERIVED, L6, ord:1033, q:0)
+              - Topic: Sports
+              - Subtopic: Cricket
+              - Micro: Variations & distractors
+              - Domain: Sports
+          - **G-A-CRICKET-GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:784, q:1)
+            - Topic: Sports
+            - Subtopic: Cricket
+            - Micro: General-factual
+            - Domain: Sports
+            - **G-V-CRICKET-GENERA-FILL-U** (GA/DERIVED, L6, ord:1032, q:0)
+              - Topic: Sports
+              - Subtopic: Cricket
+              - Micro: Variations & distractors
+              - Domain: Sports
+        - **G-M-CRICKET-OTHER-CRICKE** (GA/RECALL, L4, ord:224, q:5)
+          - Topic: Sports
+          - Subtopic: Cricket
+          - Micro: Other Cricket facts
+          - Domain: Sports
+          - **G-A-CRICKET-OTHER-CR-STATEMEN** (GA/PROCEDURAL, L5, ord:603, q:3)
+            - Topic: Sports
+            - Subtopic: Cricket
+            - Micro: Other Cricket facts
+            - Domain: Sports
+            - **G-V-CRICKET-OTHER--STATEM** (GA/DERIVED, L6, ord:1037, q:0)
+              - Topic: Sports
+              - Subtopic: Cricket
+              - Micro: Variations & distractors
+              - Domain: Sports
+          - **G-A-CRICKET-OTHER-CR-DIRECT-F** (GA/PROCEDURAL, L5, ord:785, q:1)
+            - Topic: Sports
+            - Subtopic: Cricket
+            - Micro: Other Cricket facts
+            - Domain: Sports
+            - **G-V-CRICKET-OTHER--DIRECT** (GA/DERIVED, L6, ord:1035, q:0)
+              - Topic: Sports
+              - Subtopic: Cricket
+              - Micro: Variations & distractors
+              - Domain: Sports
+          - **G-A-CRICKET-OTHER-CR-FILL-UP** (GA/PROCEDURAL, L5, ord:786, q:1)
+            - Topic: Sports
+            - Subtopic: Cricket
+            - Micro: Other Cricket facts
+            - Domain: Sports
+            - **G-V-CRICKET-OTHER--FILL-U** (GA/DERIVED, L6, ord:1036, q:0)
+              - Topic: Sports
+              - Subtopic: Cricket
+              - Micro: Variations & distractors
+              - Domain: Sports
+        - **G-M-CRICKET-PERSON-ANCHO** (GA/RECALL, L4, ord:248, q:4)
+          - Topic: Sports
+          - Subtopic: Cricket
+          - Micro: Person-anchored
+          - Domain: Sports
+          - **G-A-CRICKET-PERSON-A-DIRECT-F** (GA/PROCEDURAL, L5, ord:553, q:4)
+            - Topic: Sports
+            - Subtopic: Cricket
+            - Micro: Person-anchored
+            - Domain: Sports
+            - **G-V-CRICKET-PERSON-DIRECT** (GA/DERIVED, L6, ord:1038, q:0)
+              - Topic: Sports
+              - Subtopic: Cricket
+              - Micro: Variations & distractors
+              - Domain: Sports
+        - **G-M-CRICKET-YEAR-ANCHORE** (GA/RECALL, L4, ord:249, q:4)
+          - Topic: Sports
+          - Subtopic: Cricket
+          - Micro: Year-anchored
+          - Domain: Sports
+          - **G-A-CRICKET-YEAR-ANC-DIRECT-F** (GA/PROCEDURAL, L5, ord:604, q:3)
+            - Topic: Sports
+            - Subtopic: Cricket
+            - Micro: Year-anchored
+            - Domain: Sports
+            - **G-V-CRICKET-YEAR-A-DIRECT** (GA/DERIVED, L6, ord:1041, q:0)
+              - Topic: Sports
+              - Subtopic: Cricket
+              - Micro: Variations & distractors
+              - Domain: Sports
+          - **G-A-CRICKET-YEAR-ANC-FILL-UP** (GA/PROCEDURAL, L5, ord:787, q:1)
+            - Topic: Sports
+            - Subtopic: Cricket
+            - Micro: Year-anchored
+            - Domain: Sports
+            - **G-V-CRICKET-YEAR-A-FILL-U** (GA/DERIVED, L6, ord:1042, q:0)
+              - Topic: Sports
+              - Subtopic: Cricket
+              - Micro: Variations & distractors
+              - Domain: Sports
+        - **G-M-CRICKET-QUANTITY-ANC** (GA/RECALL, L4, ord:331, q:2)
+          - Topic: Sports
+          - Subtopic: Cricket
+          - Micro: Quantity-anchored
+          - Domain: Sports
+          - **G-A-CRICKET-QUANTITY-DIRECT-F** (GA/PROCEDURAL, L5, ord:662, q:2)
+            - Topic: Sports
+            - Subtopic: Cricket
+            - Micro: Quantity-anchored
+            - Domain: Sports
+            - **G-V-CRICKET-QUANTI-DIRECT** (GA/DERIVED, L6, ord:1039, q:0)
+              - Topic: Sports
+              - Subtopic: Cricket
+              - Micro: Variations & distractors
+              - Domain: Sports
+        - **G-M-CRICKET-SUPERLATIVE-** (GA/RECALL, L4, ord:332, q:2)
+          - Topic: Sports
+          - Subtopic: Cricket
+          - Micro: Superlative/First-record
+          - Domain: Sports
+          - **G-A-CRICKET-SUPERLAT-DIRECT-F** (GA/PROCEDURAL, L5, ord:663, q:2)
+            - Topic: Sports
+            - Subtopic: Cricket
+            - Micro: Superlative/First-record
+            - Domain: Sports
+            - **G-V-CRICKET-SUPERL-DIRECT** (GA/DERIVED, L6, ord:1040, q:0)
+              - Topic: Sports
+              - Subtopic: Cricket
+              - Micro: Variations & distractors
+              - Domain: Sports
+      - **G-S-SPORTS-OLYMPICS-MUL** (GA/DERIVED, L3, ord:48, q:100)
+        - Topic: Sports
+        - Subtopic: Olympics & Multi-sport
+        - Domain: Sports
+        - **G-M-OLYMPICS-M-GENERAL-FACT** (GA/RECALL, L4, ord:139, q:42)
+          - Topic: Sports
+          - Subtopic: Olympics & Multi-sport
+          - Micro: General-factual
+          - Domain: Sports
+          - **G-A-OLYMPICS-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:448, q:23)
+            - Topic: Sports
+            - Subtopic: Olympics & Multi-sport
+            - Micro: General-factual
+            - Domain: Sports
+            - **G-V-OLYMPICS-GENERA-DIRECT** (GA/DERIVED, L6, ord:1360, q:0)
+              - Topic: Sports
+              - Subtopic: Olympics & Multi-sport
+              - Micro: Variations & distractors
+              - Domain: Sports
+          - **G-A-OLYMPICS-GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:482, q:11)
+            - Topic: Sports
+            - Subtopic: Olympics & Multi-sport
+            - Micro: General-factual
+            - Domain: Sports
+            - **G-V-OLYMPICS-GENERA-STATEM** (GA/DERIVED, L6, ord:1363, q:0)
+              - Topic: Sports
+              - Subtopic: Olympics & Multi-sport
+              - Micro: Variations & distractors
+              - Domain: Sports
+          - **G-A-OLYMPICS-GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:523, q:6)
+            - Topic: Sports
+            - Subtopic: Olympics & Multi-sport
+            - Micro: General-factual
+            - Domain: Sports
+            - **G-V-OLYMPICS-GENERA-FILL-U** (GA/DERIVED, L6, ord:1361, q:0)
+              - Topic: Sports
+              - Subtopic: Olympics & Multi-sport
+              - Micro: Variations & distractors
+              - Domain: Sports
+          - **G-A-OLYMPICS-GENERAL--MATCHING** (GA/PROCEDURAL, L5, ord:733, q:2)
+            - Topic: Sports
+            - Subtopic: Olympics & Multi-sport
+            - Micro: General-factual
+            - Domain: Sports
+            - **G-V-OLYMPICS-GENERA-MATCHI** (GA/DERIVED, L6, ord:1362, q:0)
+              - Topic: Sports
+              - Subtopic: Olympics & Multi-sport
+              - Micro: Variations & distractors
+              - Domain: Sports
+        - **G-M-OLYMPICS-M-SUPERLATIVE-** (GA/RECALL, L4, ord:153, q:20)
+          - Topic: Sports
+          - Subtopic: Olympics & Multi-sport
+          - Micro: Superlative/First-record
+          - Domain: Sports
+          - **G-A-OLYMPICS-SUPERLAT-DIRECT-F** (GA/PROCEDURAL, L5, ord:472, q:13)
+            - Topic: Sports
+            - Subtopic: Olympics & Multi-sport
+            - Micro: Superlative/First-record
+            - Domain: Sports
+            - **G-V-OLYMPICS-SUPERL-DIRECT** (GA/DERIVED, L6, ord:1368, q:0)
+              - Topic: Sports
+              - Subtopic: Olympics & Multi-sport
+              - Micro: Variations & distractors
+              - Domain: Sports
+          - **G-A-OLYMPICS-SUPERLAT-FILL-UP** (GA/PROCEDURAL, L5, ord:583, q:4)
+            - Topic: Sports
+            - Subtopic: Olympics & Multi-sport
+            - Micro: Superlative/First-record
+            - Domain: Sports
+            - **G-V-OLYMPICS-SUPERL-FILL-U** (GA/DERIVED, L6, ord:1369, q:0)
+              - Topic: Sports
+              - Subtopic: Olympics & Multi-sport
+              - Micro: Variations & distractors
+              - Domain: Sports
+          - **G-A-OLYMPICS-SUPERLAT-STATEMEN** (GA/PROCEDURAL, L5, ord:632, q:3)
+            - Topic: Sports
+            - Subtopic: Olympics & Multi-sport
+            - Micro: Superlative/First-record
+            - Domain: Sports
+            - **G-V-OLYMPICS-SUPERL-STATEM** (GA/DERIVED, L6, ord:1370, q:0)
+              - Topic: Sports
+              - Subtopic: Olympics & Multi-sport
+              - Micro: Variations & distractors
+              - Domain: Sports
+        - **G-M-OLYMPICS-M-PERSON-ANCHO** (GA/RECALL, L4, ord:175, q:13)
+          - Topic: Sports
+          - Subtopic: Olympics & Multi-sport
+          - Micro: Person-anchored
+          - Domain: Sports
+          - **G-A-OLYMPICS-PERSON-A-DIRECT-F** (GA/PROCEDURAL, L5, ord:471, q:13)
+            - Topic: Sports
+            - Subtopic: Olympics & Multi-sport
+            - Micro: Person-anchored
+            - Domain: Sports
+            - **G-V-OLYMPICS-PERSON-DIRECT** (GA/DERIVED, L6, ord:1366, q:0)
+              - Topic: Sports
+              - Subtopic: Olympics & Multi-sport
+              - Micro: Variations & distractors
+              - Domain: Sports
+        - **G-M-OLYMPICS-M-OTHER-OLYMPI** (GA/RECALL, L4, ord:188, q:10)
+          - Topic: Sports
+          - Subtopic: Olympics & Multi-sport
+          - Micro: Other Olympics & Multi-sport facts
+          - Domain: Sports
+          - **G-A-OLYMPICS-OTHER-OL-DIRECT-F** (GA/PROCEDURAL, L5, ord:494, q:9)
+            - Topic: Sports
+            - Subtopic: Olympics & Multi-sport
+            - Micro: Other Olympics & Multi-sport facts
+            - Domain: Sports
+            - **G-V-OLYMPICS-OTHER--DIRECT** (GA/DERIVED, L6, ord:1364, q:0)
+              - Topic: Sports
+              - Subtopic: Olympics & Multi-sport
+              - Micro: Variations & distractors
+              - Domain: Sports
+          - **G-A-OLYMPICS-OTHER-OL-FILL-UP** (GA/PROCEDURAL, L5, ord:910, q:1)
+            - Topic: Sports
+            - Subtopic: Olympics & Multi-sport
+            - Micro: Other Olympics & Multi-sport facts
+            - Domain: Sports
+            - **G-V-OLYMPICS-OTHER--FILL-U** (GA/DERIVED, L6, ord:1365, q:0)
+              - Topic: Sports
+              - Subtopic: Olympics & Multi-sport
+              - Micro: Variations & distractors
+              - Domain: Sports
+        - **G-M-OLYMPICS-M-YEAR-ANCHORE** (GA/RECALL, L4, ord:189, q:10)
+          - Topic: Sports
+          - Subtopic: Olympics & Multi-sport
+          - Micro: Year-anchored
+          - Domain: Sports
+          - **G-A-OLYMPICS-YEAR-ANC-DIRECT-F** (GA/PROCEDURAL, L5, ord:510, q:7)
+            - Topic: Sports
+            - Subtopic: Olympics & Multi-sport
+            - Micro: Year-anchored
+            - Domain: Sports
+            - **G-V-OLYMPICS-YEAR-A-DIRECT** (GA/DERIVED, L6, ord:1371, q:0)
+              - Topic: Sports
+              - Subtopic: Olympics & Multi-sport
+              - Micro: Variations & distractors
+              - Domain: Sports
+          - **G-A-OLYMPICS-YEAR-ANC-STATEMEN** (GA/PROCEDURAL, L5, ord:633, q:3)
+            - Topic: Sports
+            - Subtopic: Olympics & Multi-sport
+            - Micro: Year-anchored
+            - Domain: Sports
+            - **G-V-OLYMPICS-YEAR-A-STATEM** (GA/DERIVED, L6, ord:1372, q:0)
+              - Topic: Sports
+              - Subtopic: Olympics & Multi-sport
+              - Micro: Variations & distractors
+              - Domain: Sports
+        - **G-M-OLYMPICS-M-QUANTITY-ANC** (GA/RECALL, L4, ord:240, q:5)
+          - Topic: Sports
+          - Subtopic: Olympics & Multi-sport
+          - Micro: Quantity-anchored
+          - Domain: Sports
+          - **G-A-OLYMPICS-QUANTITY-DIRECT-F** (GA/PROCEDURAL, L5, ord:546, q:5)
+            - Topic: Sports
+            - Subtopic: Olympics & Multi-sport
+            - Micro: Quantity-anchored
+            - Domain: Sports
+            - **G-V-OLYMPICS-QUANTI-DIRECT** (GA/DERIVED, L6, ord:1367, q:0)
+              - Topic: Sports
+              - Subtopic: Olympics & Multi-sport
+              - Micro: Variations & distractors
+              - Domain: Sports
+      - **G-S-SPORTS-CHESS-BADMIN** (GA/DERIVED, L3, ord:75, q:14)
+        - Topic: Sports
+        - Subtopic: Chess, Badminton & Tennis
+        - Domain: Sports
+        - **G-M-CHESS-BADM-GENERAL-FACT** (GA/RECALL, L4, ord:201, q:7)
+          - Topic: Sports
+          - Subtopic: Chess, Badminton & Tennis
+          - Micro: General-factual
+          - Domain: Sports
+          - **G-A-CHESS-BA-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:502, q:7)
+            - Topic: Sports
+            - Subtopic: Chess, Badminton & Tennis
+            - Micro: General-factual
+            - Domain: Sports
+            - **G-V-CHESS-BA-GENERA-DIRECT** (GA/DERIVED, L6, ord:998, q:0)
+              - Topic: Sports
+              - Subtopic: Chess, Badminton & Tennis
+              - Micro: Variations & distractors
+              - Domain: Sports
+        - **G-M-CHESS-BADM-PERSON-ANCHO** (GA/RECALL, L4, ord:283, q:3)
+          - Topic: Sports
+          - Subtopic: Chess, Badminton & Tennis
+          - Micro: Person-anchored
+          - Domain: Sports
+          - **G-A-CHESS-BA-PERSON-A-DIRECT-F** (GA/PROCEDURAL, L5, ord:597, q:3)
+            - Topic: Sports
+            - Subtopic: Chess, Badminton & Tennis
+            - Micro: Person-anchored
+            - Domain: Sports
+            - **G-V-CHESS-BA-PERSON-DIRECT** (GA/DERIVED, L6, ord:1000, q:0)
+              - Topic: Sports
+              - Subtopic: Chess, Badminton & Tennis
+              - Micro: Variations & distractors
+              - Domain: Sports
+        - **G-M-CHESS-BADM-SUPERLATIVE-** (GA/RECALL, L4, ord:284, q:3)
+          - Topic: Sports
+          - Subtopic: Chess, Badminton & Tennis
+          - Micro: Superlative/First-record
+          - Domain: Sports
+          - **G-A-CHESS-BA-SUPERLAT-DIRECT-F** (GA/PROCEDURAL, L5, ord:598, q:3)
+            - Topic: Sports
+            - Subtopic: Chess, Badminton & Tennis
+            - Micro: Superlative/First-record
+            - Domain: Sports
+            - **G-V-CHESS-BA-SUPERL-DIRECT** (GA/DERIVED, L6, ord:1001, q:0)
+              - Topic: Sports
+              - Subtopic: Chess, Badminton & Tennis
+              - Micro: Variations & distractors
+              - Domain: Sports
+        - **G-M-CHESS-BADM-OTHER-CHESS-** (GA/RECALL, L4, ord:409, q:1)
+          - Topic: Sports
+          - Subtopic: Chess, Badminton & Tennis
+          - Micro: Other Chess, Badminton & Tennis facts
+          - Domain: Sports
+          - **G-A-CHESS-BA-OTHER-CH-DIRECT-F** (GA/PROCEDURAL, L5, ord:771, q:1)
+            - Topic: Sports
+            - Subtopic: Chess, Badminton & Tennis
+            - Micro: Other Chess, Badminton & Tennis facts
+            - Domain: Sports
+            - **G-V-CHESS-BA-OTHER--DIRECT** (GA/DERIVED, L6, ord:999, q:0)
+              - Topic: Sports
+              - Subtopic: Chess, Badminton & Tennis
+              - Micro: Variations & distractors
+              - Domain: Sports
+      - **G-S-SPORTS-FOOTBALL-HOC** (GA/DERIVED, L3, ord:78, q:13)
+        - Topic: Sports
+        - Subtopic: Football & Hockey
+        - Domain: Sports
+        - **G-M-FOOTBALL-H-GENERAL-FACT** (GA/RECALL, L4, ord:213, q:6)
+          - Topic: Sports
+          - Subtopic: Football & Hockey
+          - Micro: General-factual
+          - Domain: Sports
+          - **G-A-FOOTBALL-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:531, q:5)
+            - Topic: Sports
+            - Subtopic: Football & Hockey
+            - Micro: General-factual
+            - Domain: Sports
+            - **G-V-FOOTBALL-GENERA-DIRECT** (GA/DERIVED, L6, ord:1087, q:0)
+              - Topic: Sports
+              - Subtopic: Football & Hockey
+              - Micro: Variations & distractors
+              - Domain: Sports
+          - **G-A-FOOTBALL-GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:812, q:1)
+            - Topic: Sports
+            - Subtopic: Football & Hockey
+            - Micro: General-factual
+            - Domain: Sports
+            - **G-V-FOOTBALL-GENERA-STATEM** (GA/DERIVED, L6, ord:1088, q:0)
+              - Topic: Sports
+              - Subtopic: Football & Hockey
+              - Micro: Variations & distractors
+              - Domain: Sports
+        - **G-M-FOOTBALL-H-YEAR-ANCHORE** (GA/RECALL, L4, ord:253, q:4)
+          - Topic: Sports
+          - Subtopic: Football & Hockey
+          - Micro: Year-anchored
+          - Domain: Sports
+          - **G-A-FOOTBALL-YEAR-ANC-DIRECT-F** (GA/PROCEDURAL, L5, ord:607, q:3)
+            - Topic: Sports
+            - Subtopic: Football & Hockey
+            - Micro: Year-anchored
+            - Domain: Sports
+            - **G-V-FOOTBALL-YEAR-A-DIRECT** (GA/DERIVED, L6, ord:1091, q:0)
+              - Topic: Sports
+              - Subtopic: Football & Hockey
+              - Micro: Variations & distractors
+              - Domain: Sports
+          - **G-A-FOOTBALL-YEAR-ANC-STATEMEN** (GA/PROCEDURAL, L5, ord:814, q:1)
+            - Topic: Sports
+            - Subtopic: Football & Hockey
+            - Micro: Year-anchored
+            - Domain: Sports
+            - **G-V-FOOTBALL-YEAR-A-STATEM** (GA/DERIVED, L6, ord:1092, q:0)
+              - Topic: Sports
+              - Subtopic: Football & Hockey
+              - Micro: Variations & distractors
+              - Domain: Sports
+        - **G-M-FOOTBALL-H-TERM-ANCHORE** (GA/RECALL, L4, ord:344, q:2)
+          - Topic: Sports
+          - Subtopic: Football & Hockey
+          - Micro: Term-anchored
+          - Domain: Sports
+          - **G-A-FOOTBALL-TERM-ANC-FILL-UP** (GA/PROCEDURAL, L5, ord:672, q:2)
+            - Topic: Sports
+            - Subtopic: Football & Hockey
+            - Micro: Term-anchored
+            - Domain: Sports
+            - **G-V-FOOTBALL-TERM-A-FILL-U** (GA/DERIVED, L6, ord:1090, q:0)
+              - Topic: Sports
+              - Subtopic: Football & Hockey
+              - Micro: Variations & distractors
+              - Domain: Sports
+        - **G-M-FOOTBALL-H-OTHER-FOOTBA** (GA/RECALL, L4, ord:414, q:1)
+          - Topic: Sports
+          - Subtopic: Football & Hockey
+          - Micro: Other Football & Hockey facts
+          - Domain: Sports
+          - **G-A-FOOTBALL-OTHER-FO-DIRECT-F** (GA/PROCEDURAL, L5, ord:813, q:1)
+            - Topic: Sports
+            - Subtopic: Football & Hockey
+            - Micro: Other Football & Hockey facts
+            - Domain: Sports
+            - **G-V-FOOTBALL-OTHER--DIRECT** (GA/DERIVED, L6, ord:1089, q:0)
+              - Topic: Sports
+              - Subtopic: Football & Hockey
+              - Micro: Variations & distractors
+              - Domain: Sports
+      - **G-S-SPORTS-COMBAT-OTHER** (GA/DERIVED, L3, ord:104, q:6)
+        - Topic: Sports
+        - Subtopic: Combat & Other Sports
+        - Domain: Sports
+        - **G-M-COMBAT-OTH-GENERAL-FACT** (GA/RECALL, L4, ord:328, q:2)
+          - Topic: Sports
+          - Subtopic: Combat & Other Sports
+          - Micro: General-factual
+          - Domain: Sports
+          - **G-A-COMBAT-O-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:657, q:2)
+            - Topic: Sports
+            - Subtopic: Combat & Other Sports
+            - Micro: General-factual
+            - Domain: Sports
+            - **G-V-COMBAT-O-GENERA-DIRECT** (GA/DERIVED, L6, ord:1014, q:0)
+              - Topic: Sports
+              - Subtopic: Combat & Other Sports
+              - Micro: Variations & distractors
+              - Domain: Sports
+        - **G-M-COMBAT-OTH-QUANTITY-ANC** (GA/RECALL, L4, ord:329, q:2)
+          - Topic: Sports
+          - Subtopic: Combat & Other Sports
+          - Micro: Quantity-anchored
+          - Domain: Sports
+          - **G-A-COMBAT-O-QUANTITY-DIRECT-F** (GA/PROCEDURAL, L5, ord:658, q:2)
+            - Topic: Sports
+            - Subtopic: Combat & Other Sports
+            - Micro: Quantity-anchored
+            - Domain: Sports
+            - **G-V-COMBAT-O-QUANTI-DIRECT** (GA/DERIVED, L6, ord:1015, q:0)
+              - Topic: Sports
+              - Subtopic: Combat & Other Sports
+              - Micro: Variations & distractors
+              - Domain: Sports
+        - **G-M-COMBAT-OTH-YEAR-ANCHORE** (GA/RECALL, L4, ord:330, q:2)
+          - Topic: Sports
+          - Subtopic: Combat & Other Sports
+          - Micro: Year-anchored
+          - Domain: Sports
+          - **G-A-COMBAT-O-YEAR-ANC-DIRECT-F** (GA/PROCEDURAL, L5, ord:659, q:2)
+            - Topic: Sports
+            - Subtopic: Combat & Other Sports
+            - Micro: Year-anchored
+            - Domain: Sports
+            - **G-V-COMBAT-O-YEAR-A-DIRECT** (GA/DERIVED, L6, ord:1016, q:0)
+              - Topic: Sports
+              - Subtopic: Combat & Other Sports
+              - Micro: Variations & distractors
+              - Domain: Sports
+      - **G-S-SPORTS-ATHLETICS** (GA/DERIVED, L3, ord:114, q:5)
+        - Topic: Sports
+        - Subtopic: Athletics
+        - Domain: Sports
+        - **G-M-ATHLETICS-GENERAL-FACT** (GA/RECALL, L4, ord:279, q:3)
+          - Topic: Sports
+          - Subtopic: Athletics
+          - Micro: General-factual
+          - Domain: Sports
+          - **G-A-ATHLETIC-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:593, q:3)
+            - Topic: Sports
+            - Subtopic: Athletics
+            - Micro: General-factual
+            - Domain: Sports
+            - **G-V-ATHLETIC-GENERA-DIRECT** (GA/DERIVED, L6, ord:967, q:0)
+              - Topic: Sports
+              - Subtopic: Athletics
+              - Micro: Variations & distractors
+              - Domain: Sports
+        - **G-M-ATHLETICS-OTHER-ATHLET** (GA/RECALL, L4, ord:318, q:2)
+          - Topic: Sports
+          - Subtopic: Athletics
+          - Micro: Other Athletics facts
+          - Domain: Sports
+          - **G-A-ATHLETIC-OTHER-AT-DIRECT-F** (GA/PROCEDURAL, L5, ord:648, q:2)
+            - Topic: Sports
+            - Subtopic: Athletics
+            - Micro: Other Athletics facts
+            - Domain: Sports
+            - **G-V-ATHLETIC-OTHER--DIRECT** (GA/DERIVED, L6, ord:968, q:0)
+              - Topic: Sports
+              - Subtopic: Athletics
+              - Micro: Variations & distractors
+              - Domain: Sports
+  - **G-EXT-MAP** (GA/FOUNDATIONAL, L1, ord:15, q:0)
+    - Micro: Map literacy
+    - Domain: Foundational Prerequisites
+  - **G-D-GEOGRAPHY** (GA/DERIVED, L1, ord:16, q:0)
+    - Domain: Geography
+    - **G-T-GEOGRAPHY** (GA/DERIVED, L2, ord:25, q:174)
+      - Topic: Geography
+      - Domain: Geography
+      - **G-S-GEOGRAPHY-STATES-CAPIT** (GA/DERIVED, L3, ord:44, q:46)
+        - Topic: Geography
+        - Subtopic: States, Capitals & Census
+        - Domain: Geography
+        - **G-M-STATES-CAP-GENERAL-FACT** (GA/RECALL, L4, ord:148, q:24)
+          - Topic: Geography
+          - Subtopic: States, Capitals & Census
+          - Micro: General-factual
+          - Domain: Geography
+          - **G-A-STATES-C-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:461, q:15)
+            - Topic: Geography
+            - Subtopic: States, Capitals & Census
+            - Micro: General-factual
+            - Domain: Geography
+            - **G-V-STATES-C-GENERA-DIRECT** (GA/DERIVED, L6, ord:1438, q:0)
+              - Topic: Geography
+              - Subtopic: States, Capitals & Census
+              - Micro: Variations & distractors
+              - Domain: Geography
+          - **G-A-STATES-C-GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:512, q:7)
+            - Topic: Geography
+            - Subtopic: States, Capitals & Census
+            - Micro: General-factual
+            - Domain: Geography
+            - **G-V-STATES-C-GENERA-STATEM** (GA/DERIVED, L6, ord:1440, q:0)
+              - Topic: Geography
+              - Subtopic: States, Capitals & Census
+              - Micro: Variations & distractors
+              - Domain: Geography
+          - **G-A-STATES-C-GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:752, q:2)
+            - Topic: Geography
+            - Subtopic: States, Capitals & Census
+            - Micro: General-factual
+            - Domain: Geography
+            - **G-V-STATES-C-GENERA-FILL-U** (GA/DERIVED, L6, ord:1439, q:0)
+              - Topic: Geography
+              - Subtopic: States, Capitals & Census
+              - Micro: Variations & distractors
+              - Domain: Geography
+        - **G-M-STATES-CAP-SUPERLATIVE-** (GA/RECALL, L4, ord:210, q:7)
+          - Topic: Geography
+          - Subtopic: States, Capitals & Census
+          - Micro: Superlative/First-record
+          - Domain: Geography
+          - **G-A-STATES-C-SUPERLAT-DIRECT-F** (GA/PROCEDURAL, L5, ord:513, q:7)
+            - Topic: Geography
+            - Subtopic: States, Capitals & Census
+            - Micro: Superlative/First-record
+            - Domain: Geography
+            - **G-V-STATES-C-SUPERL-DIRECT** (GA/DERIVED, L6, ord:1443, q:0)
+              - Topic: Geography
+              - Subtopic: States, Capitals & Census
+              - Micro: Variations & distractors
+              - Domain: Geography
+        - **G-M-STATES-CAP-OTHER-STATES** (GA/RECALL, L4, ord:275, q:4)
+          - Topic: Geography
+          - Subtopic: States, Capitals & Census
+          - Micro: Other States, Capitals & Census facts
+          - Domain: Geography
+          - **G-A-STATES-C-OTHER-ST-DIRECT-F** (GA/PROCEDURAL, L5, ord:589, q:4)
+            - Topic: Geography
+            - Subtopic: States, Capitals & Census
+            - Micro: Other States, Capitals & Census facts
+            - Domain: Geography
+            - **G-V-STATES-C-OTHER--DIRECT** (GA/DERIVED, L6, ord:1441, q:0)
+              - Topic: Geography
+              - Subtopic: States, Capitals & Census
+              - Micro: Variations & distractors
+              - Domain: Geography
+        - **G-M-STATES-CAP-TERM-ANCHORE** (GA/RECALL, L4, ord:276, q:4)
+          - Topic: Geography
+          - Subtopic: States, Capitals & Census
+          - Micro: Term-anchored
+          - Domain: Geography
+          - **G-A-STATES-C-TERM-ANC-DIRECT-F** (GA/PROCEDURAL, L5, ord:590, q:4)
+            - Topic: Geography
+            - Subtopic: States, Capitals & Census
+            - Micro: Term-anchored
+            - Domain: Geography
+            - **G-V-STATES-C-TERM-A-DIRECT** (GA/DERIVED, L6, ord:1444, q:0)
+              - Topic: Geography
+              - Subtopic: States, Capitals & Census
+              - Micro: Variations & distractors
+              - Domain: Geography
+        - **G-M-STATES-CAP-YEAR-ANCHORE** (GA/RECALL, L4, ord:277, q:4)
+          - Topic: Geography
+          - Subtopic: States, Capitals & Census
+          - Micro: Year-anchored
+          - Domain: Geography
+          - **G-A-STATES-C-YEAR-ANC-DIRECT-F** (GA/PROCEDURAL, L5, ord:591, q:4)
+            - Topic: Geography
+            - Subtopic: States, Capitals & Census
+            - Micro: Year-anchored
+            - Domain: Geography
+            - **G-V-STATES-C-YEAR-A-DIRECT** (GA/DERIVED, L6, ord:1445, q:0)
+              - Topic: Geography
+              - Subtopic: States, Capitals & Census
+              - Micro: Variations & distractors
+              - Domain: Geography
+        - **G-M-STATES-CAP-QUANTITY-ANC** (GA/RECALL, L4, ord:314, q:3)
+          - Topic: Geography
+          - Subtopic: States, Capitals & Census
+          - Micro: Quantity-anchored
+          - Domain: Geography
+          - **G-A-STATES-C-QUANTITY-DIRECT-F** (GA/PROCEDURAL, L5, ord:639, q:3)
+            - Topic: Geography
+            - Subtopic: States, Capitals & Census
+            - Micro: Quantity-anchored
+            - Domain: Geography
+            - **G-V-STATES-C-QUANTI-DIRECT** (GA/DERIVED, L6, ord:1442, q:0)
+              - Topic: Geography
+              - Subtopic: States, Capitals & Census
+              - Micro: Variations & distractors
+              - Domain: Geography
+      - **G-S-GEOGRAPHY-MOUNTAINS-PH** (GA/DERIVED, L3, ord:50, q:34)
+        - Topic: Geography
+        - Subtopic: Mountains & Physiography
+        - Domain: Geography
+        - **G-M-MOUNTAINS--GENERAL-FACT** (GA/RECALL, L4, ord:147, q:24)
+          - Topic: Geography
+          - Subtopic: Mountains & Physiography
+          - Micro: General-factual
+          - Domain: Geography
+          - **G-A-MOUNTAIN-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:454, q:18)
+            - Topic: Geography
+            - Subtopic: Mountains & Physiography
+            - Micro: General-factual
+            - Domain: Geography
+            - **G-V-MOUNTAIN-GENERA-DIRECT** (GA/DERIVED, L6, ord:1323, q:0)
+              - Topic: Geography
+              - Subtopic: Mountains & Physiography
+              - Micro: Variations & distractors
+              - Domain: Geography
+          - **G-A-MOUNTAIN-GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:543, q:5)
+            - Topic: Geography
+            - Subtopic: Mountains & Physiography
+            - Micro: General-factual
+            - Domain: Geography
+            - **G-V-MOUNTAIN-GENERA-STATEM** (GA/DERIVED, L6, ord:1325, q:0)
+              - Topic: Geography
+              - Subtopic: Mountains & Physiography
+              - Micro: Variations & distractors
+              - Domain: Geography
+          - **G-A-MOUNTAIN-GENERAL--MATCHING** (GA/PROCEDURAL, L5, ord:898, q:1)
+            - Topic: Geography
+            - Subtopic: Mountains & Physiography
+            - Micro: General-factual
+            - Domain: Geography
+            - **G-V-MOUNTAIN-GENERA-MATCHI** (GA/DERIVED, L6, ord:1324, q:0)
+              - Topic: Geography
+              - Subtopic: Mountains & Physiography
+              - Micro: Variations & distractors
+              - Domain: Geography
+        - **G-M-MOUNTAINS--PLACE-ANCHOR** (GA/RECALL, L4, ord:266, q:4)
+          - Topic: Geography
+          - Subtopic: Mountains & Physiography
+          - Micro: Place-anchored
+          - Domain: Geography
+          - **G-A-MOUNTAIN-PLACE-AN-DIRECT-F** (GA/PROCEDURAL, L5, ord:581, q:4)
+            - Topic: Geography
+            - Subtopic: Mountains & Physiography
+            - Micro: Place-anchored
+            - Domain: Geography
+            - **G-V-MOUNTAIN-PLACE--DIRECT** (GA/DERIVED, L6, ord:1328, q:0)
+              - Topic: Geography
+              - Subtopic: Mountains & Physiography
+              - Micro: Variations & distractors
+              - Domain: Geography
+        - **G-M-MOUNTAINS--SUPERLATIVE-** (GA/RECALL, L4, ord:267, q:4)
+          - Topic: Geography
+          - Subtopic: Mountains & Physiography
+          - Micro: Superlative/First-record
+          - Domain: Geography
+          - **G-A-MOUNTAIN-SUPERLAT-DIRECT-F** (GA/PROCEDURAL, L5, ord:628, q:3)
+            - Topic: Geography
+            - Subtopic: Mountains & Physiography
+            - Micro: Superlative/First-record
+            - Domain: Geography
+            - **G-V-MOUNTAIN-SUPERL-DIRECT** (GA/DERIVED, L6, ord:1329, q:0)
+              - Topic: Geography
+              - Subtopic: Mountains & Physiography
+              - Micro: Variations & distractors
+              - Domain: Geography
+          - **G-A-MOUNTAIN-SUPERLAT-STATEMEN** (GA/PROCEDURAL, L5, ord:901, q:1)
+            - Topic: Geography
+            - Subtopic: Mountains & Physiography
+            - Micro: Superlative/First-record
+            - Domain: Geography
+            - **G-V-MOUNTAIN-SUPERL-STATEM** (GA/DERIVED, L6, ord:1330, q:0)
+              - Topic: Geography
+              - Subtopic: Mountains & Physiography
+              - Micro: Variations & distractors
+              - Domain: Geography
+        - **G-M-MOUNTAINS--OTHER-MOUNTA** (GA/RECALL, L4, ord:382, q:2)
+          - Topic: Geography
+          - Subtopic: Mountains & Physiography
+          - Micro: Other Mountains & Physiography facts
+          - Domain: Geography
+          - **G-A-MOUNTAIN-OTHER-MO-DIRECT-F** (GA/PROCEDURAL, L5, ord:899, q:1)
+            - Topic: Geography
+            - Subtopic: Mountains & Physiography
+            - Micro: Other Mountains & Physiography facts
+            - Domain: Geography
+            - **G-V-MOUNTAIN-OTHER--DIRECT** (GA/DERIVED, L6, ord:1326, q:0)
+              - Topic: Geography
+              - Subtopic: Mountains & Physiography
+              - Micro: Variations & distractors
+              - Domain: Geography
+          - **G-A-MOUNTAIN-OTHER-MO-FILL-UP** (GA/PROCEDURAL, L5, ord:900, q:1)
+            - Topic: Geography
+            - Subtopic: Mountains & Physiography
+            - Micro: Other Mountains & Physiography facts
+            - Domain: Geography
+            - **G-V-MOUNTAIN-OTHER--FILL-U** (GA/DERIVED, L6, ord:1327, q:0)
+              - Topic: Geography
+              - Subtopic: Mountains & Physiography
+              - Micro: Variations & distractors
+              - Domain: Geography
+      - **G-S-GEOGRAPHY-GENERAL-GEOG** (GA/DERIVED, L3, ord:58, q:30)
+        - Topic: Geography
+        - Subtopic: General Geography
+        - Domain: Geography
+        - **G-M-GENERAL-GE-GENERAL-FACT** (GA/RECALL, L4, ord:158, q:18)
+          - Topic: Geography
+          - Subtopic: General Geography
+          - Micro: General-factual
+          - Domain: Geography
+          - **G-A-GENERAL--GENERAL--DIRECT-F-6** (GA/PROCEDURAL, L5, ord:463, q:14)
+            - Topic: Geography
+            - Subtopic: General Geography
+            - Micro: General-factual
+            - Domain: Geography
+            - **G-V-GENERAL--GENERA-DIRECT-6** (GA/DERIVED, L6, ord:1140, q:0)
+              - Topic: Geography
+              - Subtopic: General Geography
+              - Micro: Variations & distractors
+              - Domain: Geography
+          - **G-A-GENERAL--GENERAL--STATEMEN-6** (GA/PROCEDURAL, L5, ord:564, q:4)
+            - Topic: Geography
+            - Subtopic: General Geography
+            - Micro: General-factual
+            - Domain: Geography
+            - **G-V-GENERAL--GENERA-STATEM-6** (GA/DERIVED, L6, ord:1166, q:0)
+              - Topic: Geography
+              - Subtopic: General Geography
+              - Micro: Variations & distractors
+              - Domain: Geography
+        - **G-M-GENERAL-GE-SUPERLATIVE-** (GA/RECALL, L4, ord:293, q:3)
+          - Topic: Geography
+          - Subtopic: General Geography
+          - Micro: Superlative/First-record
+          - Domain: Geography
+          - **G-A-GENERAL--SUPERLAT-DIRECT-F-4** (GA/PROCEDURAL, L5, ord:698, q:2)
+            - Topic: Geography
+            - Subtopic: General Geography
+            - Micro: Superlative/First-record
+            - Domain: Geography
+            - **G-V-GENERAL--SUPERL-DIRECT-4** (GA/DERIVED, L6, ord:1209, q:0)
+              - Topic: Geography
+              - Subtopic: General Geography
+              - Micro: Variations & distractors
+              - Domain: Geography
+          - **G-A-GENERAL--SUPERLAT-STATEMEN** (GA/PROCEDURAL, L5, ord:857, q:1)
+            - Topic: Geography
+            - Subtopic: General Geography
+            - Micro: Superlative/First-record
+            - Domain: Geography
+            - **G-V-GENERAL--SUPERL-STATEM** (GA/DERIVED, L6, ord:1213, q:0)
+              - Topic: Geography
+              - Subtopic: General Geography
+              - Micro: Variations & distractors
+              - Domain: Geography
+        - **G-M-GENERAL-GE-TERM-ANCHORE** (GA/RECALL, L4, ord:294, q:3)
+          - Topic: Geography
+          - Subtopic: General Geography
+          - Micro: Term-anchored
+          - Domain: Geography
+          - **G-A-GENERAL--TERM-ANC-DIRECT-F-3** (GA/PROCEDURAL, L5, ord:616, q:3)
+            - Topic: Geography
+            - Subtopic: General Geography
+            - Micro: Term-anchored
+            - Domain: Geography
+            - **G-V-GENERAL--TERM-A-DIRECT-3** (GA/DERIVED, L6, ord:1217, q:0)
+              - Topic: Geography
+              - Subtopic: General Geography
+              - Micro: Variations & distractors
+              - Domain: Geography
+        - **G-M-GENERAL-GE-YEAR-ANCHORE** (GA/RECALL, L4, ord:295, q:3)
+          - Topic: Geography
+          - Subtopic: General Geography
+          - Micro: Year-anchored
+          - Domain: Geography
+          - **G-A-GENERAL--YEAR-ANC-DIRECT-F-5** (GA/PROCEDURAL, L5, ord:701, q:2)
+            - Topic: Geography
+            - Subtopic: General Geography
+            - Micro: Year-anchored
+            - Domain: Geography
+            - **G-V-GENERAL--YEAR-A-DIRECT-5** (GA/DERIVED, L6, ord:1225, q:0)
+              - Topic: Geography
+              - Subtopic: General Geography
+              - Micro: Variations & distractors
+              - Domain: Geography
+          - **G-A-GENERAL--YEAR-ANC-MATCHING** (GA/PROCEDURAL, L5, ord:863, q:1)
+            - Topic: Geography
+            - Subtopic: General Geography
+            - Micro: Year-anchored
+            - Domain: Geography
+            - **G-V-GENERAL--YEAR-A-MATCHI** (GA/DERIVED, L6, ord:1233, q:0)
+              - Topic: Geography
+              - Subtopic: General Geography
+              - Micro: Variations & distractors
+              - Domain: Geography
+        - **G-M-GENERAL-GE-PERSON-ANCHO** (GA/RECALL, L4, ord:355, q:2)
+          - Topic: Geography
+          - Subtopic: General Geography
+          - Micro: Person-anchored
+          - Domain: Geography
+          - **G-A-GENERAL--PERSON-A-DIRECT-F-6** (GA/PROCEDURAL, L5, ord:696, q:2)
+            - Topic: Geography
+            - Subtopic: General Geography
+            - Micro: Person-anchored
+            - Domain: Geography
+            - **G-V-GENERAL--PERSON-DIRECT-6** (GA/DERIVED, L6, ord:1195, q:0)
+              - Topic: Geography
+              - Subtopic: General Geography
+              - Micro: Variations & distractors
+              - Domain: Geography
+        - **G-M-GENERAL-GE-OTHER-GENERA** (GA/RECALL, L4, ord:419, q:1)
+          - Topic: Geography
+          - Subtopic: General Geography
+          - Micro: Other General Geography facts
+          - Domain: Geography
+          - **G-A-GENERAL--OTHER-GE-DIRECT-F-8** (GA/PROCEDURAL, L5, ord:847, q:1)
+            - Topic: Geography
+            - Subtopic: General Geography
+            - Micro: Other General Geography facts
+            - Domain: Geography
+            - **G-V-GENERAL--OTHER--DIRECT-8** (GA/DERIVED, L6, ord:1185, q:0)
+              - Topic: Geography
+              - Subtopic: General Geography
+              - Micro: Variations & distractors
+              - Domain: Geography
+      - **G-S-GEOGRAPHY-RIVERS-DRAIN** (GA/DERIVED, L3, ord:61, q:27)
+        - Topic: Geography
+        - Subtopic: Rivers & Drainage
+        - Domain: Geography
+        - **G-M-RIVERS-DRA-GENERAL-FACT** (GA/RECALL, L4, ord:167, q:15)
+          - Topic: Geography
+          - Subtopic: Rivers & Drainage
+          - Micro: General-factual
+          - Domain: Geography
+          - **G-A-RIVERS-D-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:475, q:12)
+            - Topic: Geography
+            - Subtopic: Rivers & Drainage
+            - Micro: General-factual
+            - Domain: Geography
+            - **G-V-RIVERS-D-GENERA-DIRECT** (GA/DERIVED, L6, ord:1421, q:0)
+              - Topic: Geography
+              - Subtopic: Rivers & Drainage
+              - Micro: Variations & distractors
+              - Domain: Geography
+          - **G-A-RIVERS-D-GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:748, q:2)
+            - Topic: Geography
+            - Subtopic: Rivers & Drainage
+            - Micro: General-factual
+            - Domain: Geography
+            - **G-V-RIVERS-D-GENERA-STATEM** (GA/DERIVED, L6, ord:1423, q:0)
+              - Topic: Geography
+              - Subtopic: Rivers & Drainage
+              - Micro: Variations & distractors
+              - Domain: Geography
+          - **G-A-RIVERS-D-GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:930, q:1)
+            - Topic: Geography
+            - Subtopic: Rivers & Drainage
+            - Micro: General-factual
+            - Domain: Geography
+            - **G-V-RIVERS-D-GENERA-FILL-U** (GA/DERIVED, L6, ord:1422, q:0)
+              - Topic: Geography
+              - Subtopic: Rivers & Drainage
+              - Micro: Variations & distractors
+              - Domain: Geography
+        - **G-M-RIVERS-DRA-PLACE-ANCHOR** (GA/RECALL, L4, ord:183, q:11)
+          - Topic: Geography
+          - Subtopic: Rivers & Drainage
+          - Micro: Place-anchored
+          - Domain: Geography
+          - **G-A-RIVERS-D-PLACE-AN-DIRECT-F** (GA/PROCEDURAL, L5, ord:483, q:11)
+            - Topic: Geography
+            - Subtopic: Rivers & Drainage
+            - Micro: Place-anchored
+            - Domain: Geography
+            - **G-V-RIVERS-D-PLACE--DIRECT** (GA/DERIVED, L6, ord:1425, q:0)
+              - Topic: Geography
+              - Subtopic: Rivers & Drainage
+              - Micro: Variations & distractors
+              - Domain: Geography
+        - **G-M-RIVERS-DRA-OTHER-RIVERS** (GA/RECALL, L4, ord:431, q:1)
+          - Topic: Geography
+          - Subtopic: Rivers & Drainage
+          - Micro: Other Rivers & Drainage facts
+          - Domain: Geography
+          - **G-A-RIVERS-D-OTHER-RI-DIRECT-F** (GA/PROCEDURAL, L5, ord:931, q:1)
+            - Topic: Geography
+            - Subtopic: Rivers & Drainage
+            - Micro: Other Rivers & Drainage facts
+            - Domain: Geography
+            - **G-V-RIVERS-D-OTHER--DIRECT** (GA/DERIVED, L6, ord:1424, q:0)
+              - Topic: Geography
+              - Subtopic: Rivers & Drainage
+              - Micro: Variations & distractors
+              - Domain: Geography
+      - **G-S-GEOGRAPHY-SOILS-CLIMAT** (GA/DERIVED, L3, ord:68, q:24)
+        - Topic: Geography
+        - Subtopic: Soils, Climate & Vegetation
+        - Domain: Geography
+        - **G-M-SOILS-CLIM-GENERAL-FACT** (GA/RECALL, L4, ord:157, q:19)
+          - Topic: Geography
+          - Subtopic: Soils, Climate & Vegetation
+          - Micro: General-factual
+          - Domain: Geography
+          - **G-A-SOILS-CL-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:455, q:18)
+            - Topic: Geography
+            - Subtopic: Soils, Climate & Vegetation
+            - Micro: General-factual
+            - Domain: Geography
+            - **G-V-SOILS-CL-GENERA-DIRECT** (GA/DERIVED, L6, ord:1429, q:0)
+              - Topic: Geography
+              - Subtopic: Soils, Climate & Vegetation
+              - Micro: Variations & distractors
+              - Domain: Geography
+          - **G-A-SOILS-CL-GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:934, q:1)
+            - Topic: Geography
+            - Subtopic: Soils, Climate & Vegetation
+            - Micro: General-factual
+            - Domain: Geography
+            - **G-V-SOILS-CL-GENERA-STATEM** (GA/DERIVED, L6, ord:1430, q:0)
+              - Topic: Geography
+              - Subtopic: Soils, Climate & Vegetation
+              - Micro: Variations & distractors
+              - Domain: Geography
+        - **G-M-SOILS-CLIM-PERSON-ANCHO** (GA/RECALL, L4, ord:400, q:2)
+          - Topic: Geography
+          - Subtopic: Soils, Climate & Vegetation
+          - Micro: Person-anchored
+          - Domain: Geography
+          - **G-A-SOILS-CL-PERSON-A-DIRECT-F** (GA/PROCEDURAL, L5, ord:750, q:2)
+            - Topic: Geography
+            - Subtopic: Soils, Climate & Vegetation
+            - Micro: Person-anchored
+            - Domain: Geography
+            - **G-V-SOILS-CL-PERSON-DIRECT** (GA/DERIVED, L6, ord:1432, q:0)
+              - Topic: Geography
+              - Subtopic: Soils, Climate & Vegetation
+              - Micro: Variations & distractors
+              - Domain: Geography
+        - **G-M-SOILS-CLIM-TERM-ANCHORE** (GA/RECALL, L4, ord:401, q:2)
+          - Topic: Geography
+          - Subtopic: Soils, Climate & Vegetation
+          - Micro: Term-anchored
+          - Domain: Geography
+          - **G-A-SOILS-CL-TERM-ANC-DIRECT-F** (GA/PROCEDURAL, L5, ord:936, q:1)
+            - Topic: Geography
+            - Subtopic: Soils, Climate & Vegetation
+            - Micro: Term-anchored
+            - Domain: Geography
+            - **G-V-SOILS-CL-TERM-A-DIRECT** (GA/DERIVED, L6, ord:1433, q:0)
+              - Topic: Geography
+              - Subtopic: Soils, Climate & Vegetation
+              - Micro: Variations & distractors
+              - Domain: Geography
+          - **G-A-SOILS-CL-TERM-ANC-FILL-UP** (GA/PROCEDURAL, L5, ord:937, q:1)
+            - Topic: Geography
+            - Subtopic: Soils, Climate & Vegetation
+            - Micro: Term-anchored
+            - Domain: Geography
+            - **G-V-SOILS-CL-TERM-A-FILL-U** (GA/DERIVED, L6, ord:1434, q:0)
+              - Topic: Geography
+              - Subtopic: Soils, Climate & Vegetation
+              - Micro: Variations & distractors
+              - Domain: Geography
+        - **G-M-SOILS-CLIM-OTHER-SOILS-** (GA/RECALL, L4, ord:433, q:1)
+          - Topic: Geography
+          - Subtopic: Soils, Climate & Vegetation
+          - Micro: Other Soils, Climate & Vegetation facts
+          - Domain: Geography
+          - **G-A-SOILS-CL-OTHER-SO-DIRECT-F** (GA/PROCEDURAL, L5, ord:935, q:1)
+            - Topic: Geography
+            - Subtopic: Soils, Climate & Vegetation
+            - Micro: Other Soils, Climate & Vegetation facts
+            - Domain: Geography
+            - **G-V-SOILS-CL-OTHER--DIRECT** (GA/DERIVED, L6, ord:1431, q:0)
+              - Topic: Geography
+              - Subtopic: Soils, Climate & Vegetation
+              - Micro: Variations & distractors
+              - Domain: Geography
+      - **G-S-GEOGRAPHY-LAKES-WATER-** (GA/DERIVED, L3, ord:77, q:13)
+        - Topic: Geography
+        - Subtopic: Lakes & Water Bodies
+        - Domain: Geography
+        - **G-M-LAKES-WATE-GENERAL-FACT** (GA/RECALL, L4, ord:208, q:7)
+          - Topic: Geography
+          - Subtopic: Lakes & Water Bodies
+          - Micro: General-factual
+          - Domain: Geography
+          - **G-A-LAKES-WA-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:542, q:5)
+            - Topic: Geography
+            - Subtopic: Lakes & Water Bodies
+            - Micro: General-factual
+            - Domain: Geography
+            - **G-V-LAKES-WA-GENERA-DIRECT** (GA/DERIVED, L6, ord:1300, q:0)
+              - Topic: Geography
+              - Subtopic: Lakes & Water Bodies
+              - Micro: Variations & distractors
+              - Domain: Geography
+          - **G-A-LAKES-WA-GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:723, q:2)
+            - Topic: Geography
+            - Subtopic: Lakes & Water Bodies
+            - Micro: General-factual
+            - Domain: Geography
+            - **G-V-LAKES-WA-GENERA-STATEM** (GA/DERIVED, L6, ord:1301, q:0)
+              - Topic: Geography
+              - Subtopic: Lakes & Water Bodies
+              - Micro: Variations & distractors
+              - Domain: Geography
+        - **G-M-LAKES-WATE-SUPERLATIVE-** (GA/RECALL, L4, ord:265, q:4)
+          - Topic: Geography
+          - Subtopic: Lakes & Water Bodies
+          - Micro: Superlative/First-record
+          - Domain: Geography
+          - **G-A-LAKES-WA-SUPERLAT-DIRECT-F** (GA/PROCEDURAL, L5, ord:578, q:4)
+            - Topic: Geography
+            - Subtopic: Lakes & Water Bodies
+            - Micro: Superlative/First-record
+            - Domain: Geography
+            - **G-V-LAKES-WA-SUPERL-DIRECT** (GA/DERIVED, L6, ord:1303, q:0)
+              - Topic: Geography
+              - Subtopic: Lakes & Water Bodies
+              - Micro: Variations & distractors
+              - Domain: Geography
+        - **G-M-LAKES-WATE-OTHER-LAKES-** (GA/RECALL, L4, ord:379, q:2)
+          - Topic: Geography
+          - Subtopic: Lakes & Water Bodies
+          - Micro: Other Lakes & Water Bodies facts
+          - Domain: Geography
+          - **G-A-LAKES-WA-OTHER-LA-DIRECT-F** (GA/PROCEDURAL, L5, ord:724, q:2)
+            - Topic: Geography
+            - Subtopic: Lakes & Water Bodies
+            - Micro: Other Lakes & Water Bodies facts
+            - Domain: Geography
+            - **G-V-LAKES-WA-OTHER--DIRECT** (GA/DERIVED, L6, ord:1302, q:0)
+              - Topic: Geography
+              - Subtopic: Lakes & Water Bodies
+              - Micro: Variations & distractors
+              - Domain: Geography
+  - **G-EXT-TIMELINE** (GA/FOUNDATIONAL, L1, ord:17, q:0)
+    - Micro: Timeline literacy
+    - Domain: Foundational Prerequisites
+  - **G-D-HISTORY-ANCIEN** (GA/DERIVED, L1, ord:18, q:0)
+    - Domain: History-Ancient
+    - **G-T-ANCIENT-HISTOR** (GA/DERIVED, L2, ord:26, q:130)
+      - Topic: Ancient History
+      - Domain: History-Ancient
+      - **G-S-ANCIENT-HI-INDUS-VALLEY** (GA/DERIVED, L3, ord:39, q:61)
+        - Topic: Ancient History
+        - Subtopic: Indus Valley
+        - Domain: History-Ancient
+        - **G-M-INDUS-VALL-GENERAL-FACT** (GA/RECALL, L4, ord:137, q:44)
+          - Topic: Ancient History
+          - Subtopic: Indus Valley
+          - Micro: General-factual
+          - Domain: History-Ancient
+          - **G-A-INDUS-VA-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:440, q:37)
+            - Topic: Ancient History
+            - Subtopic: Indus Valley
+            - Micro: General-factual
+            - Domain: History-Ancient
+            - **G-V-INDUS-VA-GENERA-DIRECT** (GA/DERIVED, L6, ord:1265, q:0)
+              - Topic: Ancient History
+              - Subtopic: Indus Valley
+              - Micro: Variations & distractors
+              - Domain: History-Ancient
+          - **G-A-INDUS-VA-GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:574, q:4)
+            - Topic: Ancient History
+            - Subtopic: Indus Valley
+            - Micro: General-factual
+            - Domain: History-Ancient
+            - **G-V-INDUS-VA-GENERA-FILL-U** (GA/DERIVED, L6, ord:1266, q:0)
+              - Topic: Ancient History
+              - Subtopic: Indus Valley
+              - Micro: Variations & distractors
+              - Domain: History-Ancient
+          - **G-A-INDUS-VA-GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:620, q:3)
+            - Topic: Ancient History
+            - Subtopic: Indus Valley
+            - Micro: General-factual
+            - Domain: History-Ancient
+            - **G-V-INDUS-VA-GENERA-STATEM** (GA/DERIVED, L6, ord:1267, q:0)
+              - Topic: Ancient History
+              - Subtopic: Indus Valley
+              - Micro: Variations & distractors
+              - Domain: History-Ancient
+        - **G-M-INDUS-VALL-OBJECTIVE-AN** (GA/RECALL, L4, ord:237, q:5)
+          - Topic: Ancient History
+          - Subtopic: Indus Valley
+          - Micro: Objective-anchored
+          - Domain: History-Ancient
+          - **G-A-INDUS-VA-OBJECTIV-DIRECT-F** (GA/PROCEDURAL, L5, ord:575, q:4)
+            - Topic: Ancient History
+            - Subtopic: Indus Valley
+            - Micro: Objective-anchored
+            - Domain: History-Ancient
+            - **G-V-INDUS-VA-OBJECT-DIRECT** (GA/DERIVED, L6, ord:1268, q:0)
+              - Topic: Ancient History
+              - Subtopic: Indus Valley
+              - Micro: Variations & distractors
+              - Domain: History-Ancient
+          - **G-A-INDUS-VA-OBJECTIV-FILL-UP** (GA/PROCEDURAL, L5, ord:876, q:1)
+            - Topic: Ancient History
+            - Subtopic: Indus Valley
+            - Micro: Objective-anchored
+            - Domain: History-Ancient
+            - **G-V-INDUS-VA-OBJECT-FILL-U** (GA/DERIVED, L6, ord:1269, q:0)
+              - Topic: Ancient History
+              - Subtopic: Indus Valley
+              - Micro: Variations & distractors
+              - Domain: History-Ancient
+        - **G-M-INDUS-VALL-OTHER-INDUS-** (GA/RECALL, L4, ord:264, q:4)
+          - Topic: Ancient History
+          - Subtopic: Indus Valley
+          - Micro: Other Indus Valley facts
+          - Domain: History-Ancient
+          - **G-A-INDUS-VA-OTHER-IN-DIRECT-F** (GA/PROCEDURAL, L5, ord:576, q:4)
+            - Topic: Ancient History
+            - Subtopic: Indus Valley
+            - Micro: Other Indus Valley facts
+            - Domain: History-Ancient
+            - **G-V-INDUS-VA-OTHER--DIRECT** (GA/DERIVED, L6, ord:1270, q:0)
+              - Topic: Ancient History
+              - Subtopic: Indus Valley
+              - Micro: Variations & distractors
+              - Domain: History-Ancient
+        - **G-M-INDUS-VALL-TERM-ANCHORE** (GA/RECALL, L4, ord:303, q:3)
+          - Topic: Ancient History
+          - Subtopic: Indus Valley
+          - Micro: Term-anchored
+          - Domain: History-Ancient
+          - **G-A-INDUS-VA-TERM-ANC-DIRECT-F** (GA/PROCEDURAL, L5, ord:715, q:2)
+            - Topic: Ancient History
+            - Subtopic: Indus Valley
+            - Micro: Term-anchored
+            - Domain: History-Ancient
+            - **G-V-INDUS-VA-TERM-A-DIRECT** (GA/DERIVED, L6, ord:1272, q:0)
+              - Topic: Ancient History
+              - Subtopic: Indus Valley
+              - Micro: Variations & distractors
+              - Domain: History-Ancient
+          - **G-A-INDUS-VA-TERM-ANC-STATEMEN** (GA/PROCEDURAL, L5, ord:877, q:1)
+            - Topic: Ancient History
+            - Subtopic: Indus Valley
+            - Micro: Term-anchored
+            - Domain: History-Ancient
+            - **G-V-INDUS-VA-TERM-A-STATEM** (GA/DERIVED, L6, ord:1273, q:0)
+              - Topic: Ancient History
+              - Subtopic: Indus Valley
+              - Micro: Variations & distractors
+              - Domain: History-Ancient
+        - **G-M-INDUS-VALL-YEAR-ANCHORE** (GA/RECALL, L4, ord:304, q:3)
+          - Topic: Ancient History
+          - Subtopic: Indus Valley
+          - Micro: Year-anchored
+          - Domain: History-Ancient
+          - **G-A-INDUS-VA-YEAR-ANC-DIRECT-F** (GA/PROCEDURAL, L5, ord:621, q:3)
+            - Topic: Ancient History
+            - Subtopic: Indus Valley
+            - Micro: Year-anchored
+            - Domain: History-Ancient
+            - **G-V-INDUS-VA-YEAR-A-DIRECT** (GA/DERIVED, L6, ord:1274, q:0)
+              - Topic: Ancient History
+              - Subtopic: Indus Valley
+              - Micro: Variations & distractors
+              - Domain: History-Ancient
+        - **G-M-INDUS-VALL-PLACE-ANCHOR** (GA/RECALL, L4, ord:370, q:2)
+          - Topic: Ancient History
+          - Subtopic: Indus Valley
+          - Micro: Place-anchored
+          - Domain: History-Ancient
+          - **G-A-INDUS-VA-PLACE-AN-DIRECT-F** (GA/PROCEDURAL, L5, ord:714, q:2)
+            - Topic: Ancient History
+            - Subtopic: Indus Valley
+            - Micro: Place-anchored
+            - Domain: History-Ancient
+            - **G-V-INDUS-VA-PLACE--DIRECT** (GA/DERIVED, L6, ord:1271, q:0)
+              - Topic: Ancient History
+              - Subtopic: Indus Valley
+              - Micro: Variations & distractors
+              - Domain: History-Ancient
+      - **G-S-ANCIENT-HI-GUPTA-POST-G** (GA/DERIVED, L3, ord:55, q:31)
+        - Topic: Ancient History
+        - Subtopic: Gupta & Post-Gupta Kingdoms
+        - Domain: History-Ancient
+        - **G-M-GUPTA-POST-GENERAL-FACT** (GA/RECALL, L4, ord:145, q:25)
+          - Topic: Ancient History
+          - Subtopic: Gupta & Post-Gupta Kingdoms
+          - Micro: General-factual
+          - Domain: History-Ancient
+          - **G-A-GUPTA-PO-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:470, q:13)
+            - Topic: Ancient History
+            - Subtopic: Gupta & Post-Gupta Kingdoms
+            - Micro: General-factual
+            - Domain: History-Ancient
+            - **G-V-GUPTA-PO-GENERA-DIRECT** (GA/DERIVED, L6, ord:1247, q:0)
+              - Topic: Ancient History
+              - Subtopic: Gupta & Post-Gupta Kingdoms
+              - Micro: Variations & distractors
+              - Domain: History-Ancient
+          - **G-A-GUPTA-PO-GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:508, q:7)
+            - Topic: Ancient History
+            - Subtopic: Gupta & Post-Gupta Kingdoms
+            - Micro: General-factual
+            - Domain: History-Ancient
+            - **G-V-GUPTA-PO-GENERA-STATEM** (GA/DERIVED, L6, ord:1250, q:0)
+              - Topic: Ancient History
+              - Subtopic: Gupta & Post-Gupta Kingdoms
+              - Micro: Variations & distractors
+              - Domain: History-Ancient
+          - **G-A-GUPTA-PO-GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:619, q:3)
+            - Topic: Ancient History
+            - Subtopic: Gupta & Post-Gupta Kingdoms
+            - Micro: General-factual
+            - Domain: History-Ancient
+            - **G-V-GUPTA-PO-GENERA-FILL-U** (GA/DERIVED, L6, ord:1248, q:0)
+              - Topic: Ancient History
+              - Subtopic: Gupta & Post-Gupta Kingdoms
+              - Micro: Variations & distractors
+              - Domain: History-Ancient
+          - **G-A-GUPTA-PO-GENERAL--MATCHING** (GA/PROCEDURAL, L5, ord:709, q:2)
+            - Topic: Ancient History
+            - Subtopic: Gupta & Post-Gupta Kingdoms
+            - Micro: General-factual
+            - Domain: History-Ancient
+            - **G-V-GUPTA-PO-GENERA-MATCHI** (GA/DERIVED, L6, ord:1249, q:0)
+              - Topic: Ancient History
+              - Subtopic: Gupta & Post-Gupta Kingdoms
+              - Micro: Variations & distractors
+              - Domain: History-Ancient
+        - **G-M-GUPTA-POST-BOOK-ANCHORE** (GA/RECALL, L4, ord:363, q:2)
+          - Topic: Ancient History
+          - Subtopic: Gupta & Post-Gupta Kingdoms
+          - Micro: Book-anchored
+          - Domain: History-Ancient
+          - **G-A-GUPTA-PO-BOOK-ANC-DIRECT-F** (GA/PROCEDURAL, L5, ord:708, q:2)
+            - Topic: Ancient History
+            - Subtopic: Gupta & Post-Gupta Kingdoms
+            - Micro: Book-anchored
+            - Domain: History-Ancient
+            - **G-V-GUPTA-PO-BOOK-A-DIRECT** (GA/DERIVED, L6, ord:1246, q:0)
+              - Topic: Ancient History
+              - Subtopic: Gupta & Post-Gupta Kingdoms
+              - Micro: Variations & distractors
+              - Domain: History-Ancient
+        - **G-M-GUPTA-POST-OTHER-GUPTA-** (GA/RECALL, L4, ord:364, q:2)
+          - Topic: Ancient History
+          - Subtopic: Gupta & Post-Gupta Kingdoms
+          - Micro: Other Gupta & Post-Gupta Kingdoms facts
+          - Domain: History-Ancient
+          - **G-A-GUPTA-PO-OTHER-GU-FILL-UP** (GA/PROCEDURAL, L5, ord:868, q:1)
+            - Topic: Ancient History
+            - Subtopic: Gupta & Post-Gupta Kingdoms
+            - Micro: Other Gupta & Post-Gupta Kingdoms facts
+            - Domain: History-Ancient
+            - **G-V-GUPTA-PO-OTHER--FILL-U** (GA/DERIVED, L6, ord:1251, q:0)
+              - Topic: Ancient History
+              - Subtopic: Gupta & Post-Gupta Kingdoms
+              - Micro: Variations & distractors
+              - Domain: History-Ancient
+          - **G-A-GUPTA-PO-OTHER-GU-STATEMEN** (GA/PROCEDURAL, L5, ord:869, q:1)
+            - Topic: Ancient History
+            - Subtopic: Gupta & Post-Gupta Kingdoms
+            - Micro: Other Gupta & Post-Gupta Kingdoms facts
+            - Domain: History-Ancient
+            - **G-V-GUPTA-PO-OTHER--STATEM** (GA/DERIVED, L6, ord:1252, q:0)
+              - Topic: Ancient History
+              - Subtopic: Gupta & Post-Gupta Kingdoms
+              - Micro: Variations & distractors
+              - Domain: History-Ancient
+        - **G-M-GUPTA-POST-PERSON-ANCHO** (GA/RECALL, L4, ord:365, q:2)
+          - Topic: Ancient History
+          - Subtopic: Gupta & Post-Gupta Kingdoms
+          - Micro: Person-anchored
+          - Domain: History-Ancient
+          - **G-A-GUPTA-PO-PERSON-A-DIRECT-F** (GA/PROCEDURAL, L5, ord:710, q:2)
+            - Topic: Ancient History
+            - Subtopic: Gupta & Post-Gupta Kingdoms
+            - Micro: Person-anchored
+            - Domain: History-Ancient
+            - **G-V-GUPTA-PO-PERSON-DIRECT** (GA/DERIVED, L6, ord:1253, q:0)
+              - Topic: Ancient History
+              - Subtopic: Gupta & Post-Gupta Kingdoms
+              - Micro: Variations & distractors
+              - Domain: History-Ancient
+      - **G-S-ANCIENT-HI-GENERAL-ANCI** (GA/DERIVED, L3, ord:87, q:9)
+        - Topic: Ancient History
+        - Subtopic: General Ancient History
+        - Domain: History-Ancient
+        - **G-M-GENERAL-AN-GENERAL-FACT** (GA/RECALL, L4, ord:206, q:7)
+          - Topic: Ancient History
+          - Subtopic: General Ancient History
+          - Micro: General-factual
+          - Domain: History-Ancient
+          - **G-A-GENERAL--GENERAL--DIRECT-F-7** (GA/PROCEDURAL, L5, ord:561, q:4)
+            - Topic: Ancient History
+            - Subtopic: General Ancient History
+            - Micro: General-factual
+            - Domain: History-Ancient
+            - **G-V-GENERAL--GENERA-DIRECT-7** (GA/DERIVED, L6, ord:1141, q:0)
+              - Topic: Ancient History
+              - Subtopic: General Ancient History
+              - Micro: Variations & distractors
+              - Domain: History-Ancient
+          - **G-A-GENERAL--GENERAL--STATEMEN-7** (GA/PROCEDURAL, L5, ord:689, q:2)
+            - Topic: Ancient History
+            - Subtopic: General Ancient History
+            - Micro: General-factual
+            - Domain: History-Ancient
+            - **G-V-GENERAL--GENERA-STATEM-7** (GA/DERIVED, L6, ord:1167, q:0)
+              - Topic: Ancient History
+              - Subtopic: General Ancient History
+              - Micro: Variations & distractors
+              - Domain: History-Ancient
+          - **G-A-GENERAL--GENERAL--FILL-UP-6** (GA/PROCEDURAL, L5, ord:835, q:1)
+            - Topic: Ancient History
+            - Subtopic: General Ancient History
+            - Micro: General-factual
+            - Domain: History-Ancient
+            - **G-V-GENERAL--GENERA-FILL-U-6** (GA/DERIVED, L6, ord:1150, q:0)
+              - Topic: Ancient History
+              - Subtopic: General Ancient History
+              - Micro: Variations & distractors
+              - Domain: History-Ancient
+        - **G-M-GENERAL-AN-OTHER-GENERA** (GA/RECALL, L4, ord:350, q:2)
+          - Topic: Ancient History
+          - Subtopic: General Ancient History
+          - Micro: Other General Ancient History facts
+          - Domain: History-Ancient
+          - **G-A-GENERAL--OTHER-GE-DIRECT-F-9** (GA/PROCEDURAL, L5, ord:693, q:2)
+            - Topic: Ancient History
+            - Subtopic: General Ancient History
+            - Micro: Other General Ancient History facts
+            - Domain: History-Ancient
+            - **G-V-GENERAL--OTHER--DIRECT-9** (GA/DERIVED, L6, ord:1186, q:0)
+              - Topic: Ancient History
+              - Subtopic: General Ancient History
+              - Micro: Variations & distractors
+              - Domain: History-Ancient
+      - **G-S-ANCIENT-HI-BUDDHISM-JAI** (GA/DERIVED, L3, ord:93, q:8)
+        - Topic: Ancient History
+        - Subtopic: Buddhism & Jainism
+        - Domain: History-Ancient
+        - **G-M-BUDDHISM-J-GENERAL-FACT** (GA/RECALL, L4, ord:221, q:5)
+          - Topic: Ancient History
+          - Subtopic: Buddhism & Jainism
+          - Micro: General-factual
+          - Domain: History-Ancient
+          - **G-A-BUDDHISM-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:528, q:5)
+            - Topic: Ancient History
+            - Subtopic: Buddhism & Jainism
+            - Micro: General-factual
+            - Domain: History-Ancient
+            - **G-V-BUDDHISM-GENERA-DIRECT** (GA/DERIVED, L6, ord:993, q:0)
+              - Topic: Ancient History
+              - Subtopic: Buddhism & Jainism
+              - Micro: Variations & distractors
+              - Domain: History-Ancient
+        - **G-M-BUDDHISM-J-PERSON-ANCHO** (GA/RECALL, L4, ord:323, q:2)
+          - Topic: Ancient History
+          - Subtopic: Buddhism & Jainism
+          - Micro: Person-anchored
+          - Domain: History-Ancient
+          - **G-A-BUDDHISM-PERSON-A-DIRECT-F** (GA/PROCEDURAL, L5, ord:653, q:2)
+            - Topic: Ancient History
+            - Subtopic: Buddhism & Jainism
+            - Micro: Person-anchored
+            - Domain: History-Ancient
+            - **G-V-BUDDHISM-PERSON-DIRECT** (GA/DERIVED, L6, ord:995, q:0)
+              - Topic: Ancient History
+              - Subtopic: Buddhism & Jainism
+              - Micro: Variations & distractors
+              - Domain: History-Ancient
+        - **G-M-BUDDHISM-J-OTHER-BUDDHI** (GA/RECALL, L4, ord:408, q:1)
+          - Topic: Ancient History
+          - Subtopic: Buddhism & Jainism
+          - Micro: Other Buddhism & Jainism facts
+          - Domain: History-Ancient
+          - **G-A-BUDDHISM-OTHER-BU-STATEMEN** (GA/PROCEDURAL, L5, ord:770, q:1)
+            - Topic: Ancient History
+            - Subtopic: Buddhism & Jainism
+            - Micro: Other Buddhism & Jainism facts
+            - Domain: History-Ancient
+            - **G-V-BUDDHISM-OTHER--STATEM** (GA/DERIVED, L6, ord:994, q:0)
+              - Topic: Ancient History
+              - Subtopic: Buddhism & Jainism
+              - Micro: Variations & distractors
+              - Domain: History-Ancient
+      - **G-S-ANCIENT-HI-VEDIC-MAHAJA** (GA/DERIVED, L3, ord:105, q:5)
+        - Topic: Ancient History
+        - Subtopic: Vedic & Mahajanapadas
+        - Domain: History-Ancient
+        - **G-M-VEDIC-MAHA-GENERAL-FACT** (GA/RECALL, L4, ord:315, q:3)
+          - Topic: Ancient History
+          - Subtopic: Vedic & Mahajanapadas
+          - Micro: General-factual
+          - Domain: History-Ancient
+          - **G-A-VEDIC-MA-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:641, q:3)
+            - Topic: Ancient History
+            - Subtopic: Vedic & Mahajanapadas
+            - Micro: General-factual
+            - Domain: History-Ancient
+            - **G-V-VEDIC-MA-GENERA-DIRECT** (GA/DERIVED, L6, ord:1454, q:0)
+              - Topic: Ancient History
+              - Subtopic: Vedic & Mahajanapadas
+              - Micro: Variations & distractors
+              - Domain: History-Ancient
+        - **G-M-VEDIC-MAHA-TERM-ANCHORE** (GA/RECALL, L4, ord:406, q:2)
+          - Topic: Ancient History
+          - Subtopic: Vedic & Mahajanapadas
+          - Micro: Term-anchored
+          - Domain: History-Ancient
+          - **G-A-VEDIC-MA-TERM-ANC-DIRECT-F** (GA/PROCEDURAL, L5, ord:945, q:1)
+            - Topic: Ancient History
+            - Subtopic: Vedic & Mahajanapadas
+            - Micro: Term-anchored
+            - Domain: History-Ancient
+            - **G-V-VEDIC-MA-TERM-A-DIRECT** (GA/DERIVED, L6, ord:1455, q:0)
+              - Topic: Ancient History
+              - Subtopic: Vedic & Mahajanapadas
+              - Micro: Variations & distractors
+              - Domain: History-Ancient
+          - **G-A-VEDIC-MA-TERM-ANC-FILL-UP** (GA/PROCEDURAL, L5, ord:946, q:1)
+            - Topic: Ancient History
+            - Subtopic: Vedic & Mahajanapadas
+            - Micro: Term-anchored
+            - Domain: History-Ancient
+            - **G-V-VEDIC-MA-TERM-A-FILL-U** (GA/DERIVED, L6, ord:1456, q:0)
+              - Topic: Ancient History
+              - Subtopic: Vedic & Mahajanapadas
+              - Micro: Variations & distractors
+              - Domain: History-Ancient
+      - **G-S-ANCIENT-HI-MAURYAN-AGE** (GA/DERIVED, L3, ord:106, q:16)
+        - Topic: Ancient History
+        - Subtopic: Mauryan Age
+        - Domain: History-Ancient
+        - **G-M-MAURYAN-AG-GENERAL-FACT** (GA/RECALL, L4, ord:178, q:12)
+          - Topic: Ancient History
+          - Subtopic: Mauryan Age
+          - Micro: General-factual
+          - Domain: History-Ancient
+          - **G-A-MAURYAN--GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:499, q:8)
+            - Topic: Ancient History
+            - Subtopic: Mauryan Age
+            - Micro: General-factual
+            - Domain: History-Ancient
+            - **G-V-MAURYAN--GENERA-DIRECT** (GA/DERIVED, L6, ord:1312, q:0)
+              - Topic: Ancient History
+              - Subtopic: Mauryan Age
+              - Micro: Variations & distractors
+              - Domain: History-Ancient
+          - **G-A-MAURYAN--GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:627, q:3)
+            - Topic: Ancient History
+            - Subtopic: Mauryan Age
+            - Micro: General-factual
+            - Domain: History-Ancient
+            - **G-V-MAURYAN--GENERA-STATEM** (GA/DERIVED, L6, ord:1314, q:0)
+              - Topic: Ancient History
+              - Subtopic: Mauryan Age
+              - Micro: Variations & distractors
+              - Domain: History-Ancient
+          - **G-A-MAURYAN--GENERAL--MATCHING** (GA/PROCEDURAL, L5, ord:891, q:1)
+            - Topic: Ancient History
+            - Subtopic: Mauryan Age
+            - Micro: General-factual
+            - Domain: History-Ancient
+            - **G-V-MAURYAN--GENERA-MATCHI** (GA/DERIVED, L6, ord:1313, q:0)
+              - Topic: Ancient History
+              - Subtopic: Mauryan Age
+              - Micro: Variations & distractors
+              - Domain: History-Ancient
+        - **G-M-MAURYAN-AG-PERSON-ANCHO** (GA/RECALL, L4, ord:309, q:3)
+          - Topic: Ancient History
+          - Subtopic: Mauryan Age
+          - Micro: Person-anchored
+          - Domain: History-Ancient
+          - **G-A-MAURYAN--PERSON-A-DIRECT-F** (GA/PROCEDURAL, L5, ord:726, q:2)
+            - Topic: Ancient History
+            - Subtopic: Mauryan Age
+            - Micro: Person-anchored
+            - Domain: History-Ancient
+            - **G-V-MAURYAN--PERSON-DIRECT** (GA/DERIVED, L6, ord:1316, q:0)
+              - Topic: Ancient History
+              - Subtopic: Mauryan Age
+              - Micro: Variations & distractors
+              - Domain: History-Ancient
+          - **G-A-MAURYAN--PERSON-A-FILL-UP** (GA/PROCEDURAL, L5, ord:893, q:1)
+            - Topic: Ancient History
+            - Subtopic: Mauryan Age
+            - Micro: Person-anchored
+            - Domain: History-Ancient
+            - **G-V-MAURYAN--PERSON-FILL-U** (GA/DERIVED, L6, ord:1317, q:0)
+              - Topic: Ancient History
+              - Subtopic: Mauryan Age
+              - Micro: Variations & distractors
+              - Domain: History-Ancient
+        - **G-M-MAURYAN-AG-OTHER-MAURYA** (GA/RECALL, L4, ord:424, q:1)
+          - Topic: Ancient History
+          - Subtopic: Mauryan Age
+          - Micro: Other Mauryan Age facts
+          - Domain: History-Ancient
+          - **G-A-MAURYAN--OTHER-MA-DIRECT-F** (GA/PROCEDURAL, L5, ord:892, q:1)
+            - Topic: Ancient History
+            - Subtopic: Mauryan Age
+            - Micro: Other Mauryan Age facts
+            - Domain: History-Ancient
+            - **G-V-MAURYAN--OTHER--DIRECT** (GA/DERIVED, L6, ord:1315, q:0)
+              - Topic: Ancient History
+              - Subtopic: Mauryan Age
+              - Micro: Variations & distractors
+              - Domain: History-Ancient
+  - **G-D-HISTORY-MODERN** (GA/DERIVED, L1, ord:19, q:0)
+    - Domain: History-Modern
+    - **G-T-MODERN-HISTORY** (GA/DERIVED, L2, ord:27, q:121)
+      - Topic: Modern History
+      - Domain: History-Modern
+      - **G-S-MODERN-HIS-GENERAL-MODE** (GA/DERIVED, L3, ord:38, q:62)
+        - Topic: Modern History
+        - Subtopic: General Modern History
+        - Domain: History-Modern
+        - **G-M-GENERAL-MO-GENERAL-FACT** (GA/RECALL, L4, ord:138, q:42)
+          - Topic: Modern History
+          - Subtopic: General Modern History
+          - Micro: General-factual
+          - Domain: History-Modern
+          - **G-A-GENERAL--GENERAL--DIRECT-F-8** (GA/PROCEDURAL, L5, ord:442, q:35)
+            - Topic: Modern History
+            - Subtopic: General Modern History
+            - Micro: General-factual
+            - Domain: History-Modern
+            - **G-V-GENERAL--GENERA-DIRECT-8** (GA/DERIVED, L6, ord:1142, q:0)
+              - Topic: Modern History
+              - Subtopic: General Modern History
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+          - **G-A-GENERAL--GENERAL--STATEMEN-8** (GA/PROCEDURAL, L5, ord:565, q:4)
+            - Topic: Modern History
+            - Subtopic: General Modern History
+            - Micro: General-factual
+            - Domain: History-Modern
+            - **G-V-GENERAL--GENERA-STATEM-8** (GA/DERIVED, L6, ord:1168, q:0)
+              - Topic: Modern History
+              - Subtopic: General Modern History
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+          - **G-A-GENERAL--GENERAL--FILL-UP-7** (GA/PROCEDURAL, L5, ord:609, q:3)
+            - Topic: Modern History
+            - Subtopic: General Modern History
+            - Micro: General-factual
+            - Domain: History-Modern
+            - **G-V-GENERAL--GENERA-FILL-U-7** (GA/DERIVED, L6, ord:1151, q:0)
+              - Topic: Modern History
+              - Subtopic: General Modern History
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+        - **G-M-GENERAL-MO-OTHER-GENERA** (GA/RECALL, L4, ord:232, q:5)
+          - Topic: Modern History
+          - Subtopic: General Modern History
+          - Micro: Other General Modern History facts
+          - Domain: History-Modern
+          - **G-A-GENERAL--OTHER-GE-DIRECT-F-11** (GA/PROCEDURAL, L5, ord:535, q:5)
+            - Topic: Modern History
+            - Subtopic: General Modern History
+            - Micro: Other General Modern History facts
+            - Domain: History-Modern
+            - **G-V-GENERAL--OTHER--DIRECT-11** (GA/DERIVED, L6, ord:1174, q:0)
+              - Topic: Modern History
+              - Subtopic: General Modern History
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+        - **G-M-GENERAL-MO-PERSON-ANCHO** (GA/RECALL, L4, ord:233, q:5)
+          - Topic: Modern History
+          - Subtopic: General Modern History
+          - Micro: Person-anchored
+          - Domain: History-Modern
+          - **G-A-GENERAL--PERSON-A-DIRECT-F-7** (GA/PROCEDURAL, L5, ord:569, q:4)
+            - Topic: Modern History
+            - Subtopic: General Modern History
+            - Micro: Person-anchored
+            - Domain: History-Modern
+            - **G-V-GENERAL--PERSON-DIRECT-7** (GA/DERIVED, L6, ord:1196, q:0)
+              - Topic: Modern History
+              - Subtopic: General Modern History
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+          - **G-A-GENERAL--PERSON-A-FILL-UP-3** (GA/PROCEDURAL, L5, ord:852, q:1)
+            - Topic: Modern History
+            - Subtopic: General Modern History
+            - Micro: Person-anchored
+            - Domain: History-Modern
+            - **G-V-GENERAL--PERSON-FILL-U-3** (GA/DERIVED, L6, ord:1201, q:0)
+              - Topic: Modern History
+              - Subtopic: General Modern History
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+        - **G-M-GENERAL-MO-YEAR-ANCHORE** (GA/RECALL, L4, ord:234, q:5)
+          - Topic: Modern History
+          - Subtopic: General Modern History
+          - Micro: Year-anchored
+          - Domain: History-Modern
+          - **G-A-GENERAL--YEAR-ANC-DIRECT-F-6** (GA/PROCEDURAL, L5, ord:572, q:4)
+            - Topic: Modern History
+            - Subtopic: General Modern History
+            - Micro: Year-anchored
+            - Domain: History-Modern
+            - **G-V-GENERAL--YEAR-A-DIRECT-6** (GA/DERIVED, L6, ord:1226, q:0)
+              - Topic: Modern History
+              - Subtopic: General Modern History
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+          - **G-A-GENERAL--YEAR-ANC-FILL-UP-3** (GA/PROCEDURAL, L5, ord:862, q:1)
+            - Topic: Modern History
+            - Subtopic: General Modern History
+            - Micro: Year-anchored
+            - Domain: History-Modern
+            - **G-V-GENERAL--YEAR-A-FILL-U-3** (GA/DERIVED, L6, ord:1232, q:0)
+              - Topic: Modern History
+              - Subtopic: General Modern History
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+        - **G-M-GENERAL-MO-BOOK-ANCHORE** (GA/RECALL, L4, ord:296, q:3)
+          - Topic: Modern History
+          - Subtopic: General Modern History
+          - Micro: Book-anchored
+          - Domain: History-Modern
+          - **G-A-GENERAL--BOOK-ANC-DIRECT-F-2** (GA/PROCEDURAL, L5, ord:681, q:2)
+            - Topic: Modern History
+            - Subtopic: General Modern History
+            - Micro: Book-anchored
+            - Domain: History-Modern
+            - **G-V-GENERAL--BOOK-A-DIRECT-2** (GA/DERIVED, L6, ord:1124, q:0)
+              - Topic: Modern History
+              - Subtopic: General Modern History
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+          - **G-A-GENERAL--BOOK-ANC-FILL-UP-2** (GA/PROCEDURAL, L5, ord:828, q:1)
+            - Topic: Modern History
+            - Subtopic: General Modern History
+            - Micro: Book-anchored
+            - Domain: History-Modern
+            - **G-V-GENERAL--BOOK-A-FILL-U-2** (GA/DERIVED, L6, ord:1127, q:0)
+              - Topic: Modern History
+              - Subtopic: General Modern History
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+        - **G-M-GENERAL-MO-TERM-ANCHORE** (GA/RECALL, L4, ord:357, q:2)
+          - Topic: Modern History
+          - Subtopic: General Modern History
+          - Micro: Term-anchored
+          - Domain: History-Modern
+          - **G-A-GENERAL--TERM-ANC-DIRECT-F-4** (GA/PROCEDURAL, L5, ord:699, q:2)
+            - Topic: Modern History
+            - Subtopic: General Modern History
+            - Micro: Term-anchored
+            - Domain: History-Modern
+            - **G-V-GENERAL--TERM-A-DIRECT-4** (GA/DERIVED, L6, ord:1218, q:0)
+              - Topic: Modern History
+              - Subtopic: General Modern History
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+      - **G-S-MODERN-HIS-BRITISH-ACTS** (GA/DERIVED, L3, ord:80, q:12)
+        - Topic: Modern History
+        - Subtopic: British Acts & Land Revenue
+        - Domain: History-Modern
+        - **G-M-BRITISH-AC-GENERAL-FACT** (GA/RECALL, L4, ord:184, q:10)
+          - Topic: Modern History
+          - Subtopic: British Acts & Land Revenue
+          - Micro: General-factual
+          - Domain: History-Modern
+          - **G-A-BRITISH--GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:515, q:6)
+            - Topic: Modern History
+            - Subtopic: British Acts & Land Revenue
+            - Micro: General-factual
+            - Domain: History-Modern
+            - **G-V-BRITISH--GENERA-DIRECT** (GA/DERIVED, L6, ord:988, q:0)
+              - Topic: Modern History
+              - Subtopic: British Acts & Land Revenue
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+          - **G-A-BRITISH--GENERAL--STATEMEN** (GA/PROCEDURAL, L5, ord:596, q:3)
+            - Topic: Modern History
+            - Subtopic: British Acts & Land Revenue
+            - Micro: General-factual
+            - Domain: History-Modern
+            - **G-V-BRITISH--GENERA-STATEM** (GA/DERIVED, L6, ord:990, q:0)
+              - Topic: Modern History
+              - Subtopic: British Acts & Land Revenue
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+          - **G-A-BRITISH--GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:767, q:1)
+            - Topic: Modern History
+            - Subtopic: British Acts & Land Revenue
+            - Micro: General-factual
+            - Domain: History-Modern
+            - **G-V-BRITISH--GENERA-FILL-U** (GA/DERIVED, L6, ord:989, q:0)
+              - Topic: Modern History
+              - Subtopic: British Acts & Land Revenue
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+        - **G-M-BRITISH-AC-OTHER-BRITIS** (GA/RECALL, L4, ord:322, q:2)
+          - Topic: Modern History
+          - Subtopic: British Acts & Land Revenue
+          - Micro: Other British Acts & Land Revenue facts
+          - Domain: History-Modern
+          - **G-A-BRITISH--OTHER-BR-DIRECT-F** (GA/PROCEDURAL, L5, ord:768, q:1)
+            - Topic: Modern History
+            - Subtopic: British Acts & Land Revenue
+            - Micro: Other British Acts & Land Revenue facts
+            - Domain: History-Modern
+            - **G-V-BRITISH--OTHER--DIRECT** (GA/DERIVED, L6, ord:991, q:0)
+              - Topic: Modern History
+              - Subtopic: British Acts & Land Revenue
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+          - **G-A-BRITISH--OTHER-BR-STATEMEN** (GA/PROCEDURAL, L5, ord:769, q:1)
+            - Topic: Modern History
+            - Subtopic: British Acts & Land Revenue
+            - Micro: Other British Acts & Land Revenue facts
+            - Domain: History-Modern
+            - **G-V-BRITISH--OTHER--STATEM** (GA/DERIVED, L6, ord:992, q:0)
+              - Topic: Modern History
+              - Subtopic: British Acts & Land Revenue
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+      - **G-S-MODERN-HIS-REVOLT-OF-18** (GA/DERIVED, L3, ord:110, q:5)
+        - Topic: Modern History
+        - Subtopic: Revolt of 1857
+        - Domain: History-Modern
+        - **G-M-REVOLT-OF--PERSON-ANCHO** (GA/RECALL, L4, ord:312, q:3)
+          - Topic: Modern History
+          - Subtopic: Revolt of 1857
+          - Micro: Person-anchored
+          - Domain: History-Modern
+          - **G-A-REVOLT-O-PERSON-A-DIRECT-F** (GA/PROCEDURAL, L5, ord:638, q:3)
+            - Topic: Modern History
+            - Subtopic: Revolt of 1857
+            - Micro: Person-anchored
+            - Domain: History-Modern
+            - **G-V-REVOLT-O-PERSON-DIRECT** (GA/DERIVED, L6, ord:1416, q:0)
+              - Topic: Modern History
+              - Subtopic: Revolt of 1857
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+        - **G-M-REVOLT-OF--GENERAL-FACT** (GA/RECALL, L4, ord:397, q:2)
+          - Topic: Modern History
+          - Subtopic: Revolt of 1857
+          - Micro: General-factual
+          - Domain: History-Modern
+          - **G-A-REVOLT-O-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:746, q:2)
+            - Topic: Modern History
+            - Subtopic: Revolt of 1857
+            - Micro: General-factual
+            - Domain: History-Modern
+            - **G-V-REVOLT-O-GENERA-DIRECT** (GA/DERIVED, L6, ord:1415, q:0)
+              - Topic: Modern History
+              - Subtopic: Revolt of 1857
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+      - **G-S-MODERN-HIS-FREEDOM-STRU** (GA/DERIVED, L3, ord:111, q:21)
+        - Topic: Modern History
+        - Subtopic: Freedom Struggle & Leaders
+        - Domain: History-Modern
+        - **G-M-FREEDOM-ST-GENERAL-FACT** (GA/RECALL, L4, ord:204, q:7)
+          - Topic: Modern History
+          - Subtopic: Freedom Struggle & Leaders
+          - Micro: General-factual
+          - Domain: History-Modern
+          - **G-A-FREEDOM--GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:518, q:6)
+            - Topic: Modern History
+            - Subtopic: Freedom Struggle & Leaders
+            - Micro: General-factual
+            - Domain: History-Modern
+            - **G-V-FREEDOM--GENERA-DIRECT** (GA/DERIVED, L6, ord:1094, q:0)
+              - Topic: Modern History
+              - Subtopic: Freedom Struggle & Leaders
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+          - **G-A-FREEDOM--GENERAL--FILL-UP** (GA/PROCEDURAL, L5, ord:815, q:1)
+            - Topic: Modern History
+            - Subtopic: Freedom Struggle & Leaders
+            - Micro: General-factual
+            - Domain: History-Modern
+            - **G-V-FREEDOM--GENERA-FILL-U** (GA/DERIVED, L6, ord:1095, q:0)
+              - Topic: Modern History
+              - Subtopic: Freedom Struggle & Leaders
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+        - **G-M-FREEDOM-ST-PERSON-ANCHO** (GA/RECALL, L4, ord:227, q:5)
+          - Topic: Modern History
+          - Subtopic: Freedom Struggle & Leaders
+          - Micro: Person-anchored
+          - Domain: History-Modern
+          - **G-A-FREEDOM--PERSON-A-DIRECT-F** (GA/PROCEDURAL, L5, ord:532, q:5)
+            - Topic: Modern History
+            - Subtopic: Freedom Struggle & Leaders
+            - Micro: Person-anchored
+            - Domain: History-Modern
+            - **G-V-FREEDOM--PERSON-DIRECT** (GA/DERIVED, L6, ord:1097, q:0)
+              - Topic: Modern History
+              - Subtopic: Freedom Struggle & Leaders
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+        - **G-M-FREEDOM-ST-YEAR-ANCHORE** (GA/RECALL, L4, ord:254, q:4)
+          - Topic: Modern History
+          - Subtopic: Freedom Struggle & Leaders
+          - Micro: Year-anchored
+          - Domain: History-Modern
+          - **G-A-FREEDOM--YEAR-ANC-DIRECT-F** (GA/PROCEDURAL, L5, ord:608, q:3)
+            - Topic: Modern History
+            - Subtopic: Freedom Struggle & Leaders
+            - Micro: Year-anchored
+            - Domain: History-Modern
+            - **G-V-FREEDOM--YEAR-A-DIRECT** (GA/DERIVED, L6, ord:1099, q:0)
+              - Topic: Modern History
+              - Subtopic: Freedom Struggle & Leaders
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+          - **G-A-FREEDOM--YEAR-ANC-STATEMEN** (GA/PROCEDURAL, L5, ord:817, q:1)
+            - Topic: Modern History
+            - Subtopic: Freedom Struggle & Leaders
+            - Micro: Year-anchored
+            - Domain: History-Modern
+            - **G-V-FREEDOM--YEAR-A-STATEM** (GA/DERIVED, L6, ord:1100, q:0)
+              - Topic: Modern History
+              - Subtopic: Freedom Struggle & Leaders
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+        - **G-M-FREEDOM-ST-BOOK-ANCHORE** (GA/RECALL, L4, ord:345, q:2)
+          - Topic: Modern History
+          - Subtopic: Freedom Struggle & Leaders
+          - Micro: Book-anchored
+          - Domain: History-Modern
+          - **G-A-FREEDOM--BOOK-ANC-DIRECT-F** (GA/PROCEDURAL, L5, ord:673, q:2)
+            - Topic: Modern History
+            - Subtopic: Freedom Struggle & Leaders
+            - Micro: Book-anchored
+            - Domain: History-Modern
+            - **G-V-FREEDOM--BOOK-A-DIRECT** (GA/DERIVED, L6, ord:1093, q:0)
+              - Topic: Modern History
+              - Subtopic: Freedom Struggle & Leaders
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+        - **G-M-FREEDOM-ST-PLACE-ANCHOR** (GA/RECALL, L4, ord:346, q:2)
+          - Topic: Modern History
+          - Subtopic: Freedom Struggle & Leaders
+          - Micro: Place-anchored
+          - Domain: History-Modern
+          - **G-A-FREEDOM--PLACE-AN-DIRECT-F** (GA/PROCEDURAL, L5, ord:674, q:2)
+            - Topic: Modern History
+            - Subtopic: Freedom Struggle & Leaders
+            - Micro: Place-anchored
+            - Domain: History-Modern
+            - **G-V-FREEDOM--PLACE--DIRECT** (GA/DERIVED, L6, ord:1098, q:0)
+              - Topic: Modern History
+              - Subtopic: Freedom Struggle & Leaders
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+        - **G-M-FREEDOM-ST-OTHER-FREEDO** (GA/RECALL, L4, ord:415, q:1)
+          - Topic: Modern History
+          - Subtopic: Freedom Struggle & Leaders
+          - Micro: Other Freedom Struggle & Leaders facts
+          - Domain: History-Modern
+          - **G-A-FREEDOM--OTHER-FR-DIRECT-F** (GA/PROCEDURAL, L5, ord:816, q:1)
+            - Topic: Modern History
+            - Subtopic: Freedom Struggle & Leaders
+            - Micro: Other Freedom Struggle & Leaders facts
+            - Domain: History-Modern
+            - **G-V-FREEDOM--OTHER--DIRECT** (GA/DERIVED, L6, ord:1096, q:0)
+              - Topic: Modern History
+              - Subtopic: Freedom Struggle & Leaders
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+      - **G-S-MODERN-HIS-GANDHIAN-MOV** (GA/DERIVED, L3, ord:112, q:16)
+        - Topic: Modern History
+        - Subtopic: Gandhian Movements
+        - Domain: History-Modern
+        - **G-M-GANDHIAN-M-GENERAL-FACT** (GA/RECALL, L4, ord:205, q:7)
+          - Topic: Modern History
+          - Subtopic: Gandhian Movements
+          - Micro: General-factual
+          - Domain: History-Modern
+          - **G-A-GANDHIAN-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:506, q:7)
+            - Topic: Modern History
+            - Subtopic: Gandhian Movements
+            - Micro: General-factual
+            - Domain: History-Modern
+            - **G-V-GANDHIAN-GENERA-DIRECT** (GA/DERIVED, L6, ord:1106, q:0)
+              - Topic: Modern History
+              - Subtopic: Gandhian Movements
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+        - **G-M-GANDHIAN-M-PERSON-ANCHO** (GA/RECALL, L4, ord:255, q:4)
+          - Topic: Modern History
+          - Subtopic: Gandhian Movements
+          - Micro: Person-anchored
+          - Domain: History-Modern
+          - **G-A-GANDHIAN-PERSON-A-DIRECT-F** (GA/PROCEDURAL, L5, ord:557, q:4)
+            - Topic: Modern History
+            - Subtopic: Gandhian Movements
+            - Micro: Person-anchored
+            - Domain: History-Modern
+            - **G-V-GANDHIAN-PERSON-DIRECT** (GA/DERIVED, L6, ord:1108, q:0)
+              - Topic: Modern History
+              - Subtopic: Gandhian Movements
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+        - **G-M-GANDHIAN-M-AWARD-ANCHOR** (GA/RECALL, L4, ord:348, q:2)
+          - Topic: Modern History
+          - Subtopic: Gandhian Movements
+          - Micro: Award-anchored
+          - Domain: History-Modern
+          - **G-A-GANDHIAN-AWARD-AN-DIRECT-F** (GA/PROCEDURAL, L5, ord:678, q:2)
+            - Topic: Modern History
+            - Subtopic: Gandhian Movements
+            - Micro: Award-anchored
+            - Domain: History-Modern
+            - **G-V-GANDHIAN-AWARD--DIRECT** (GA/DERIVED, L6, ord:1105, q:0)
+              - Topic: Modern History
+              - Subtopic: Gandhian Movements
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+        - **G-M-GANDHIAN-M-YEAR-ANCHORE** (GA/RECALL, L4, ord:349, q:2)
+          - Topic: Modern History
+          - Subtopic: Gandhian Movements
+          - Micro: Year-anchored
+          - Domain: History-Modern
+          - **G-A-GANDHIAN-YEAR-ANC-DIRECT-F** (GA/PROCEDURAL, L5, ord:820, q:1)
+            - Topic: Modern History
+            - Subtopic: Gandhian Movements
+            - Micro: Year-anchored
+            - Domain: History-Modern
+            - **G-V-GANDHIAN-YEAR-A-DIRECT** (GA/DERIVED, L6, ord:1109, q:0)
+              - Topic: Modern History
+              - Subtopic: Gandhian Movements
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+          - **G-A-GANDHIAN-YEAR-ANC-STATEMEN** (GA/PROCEDURAL, L5, ord:821, q:1)
+            - Topic: Modern History
+            - Subtopic: Gandhian Movements
+            - Micro: Year-anchored
+            - Domain: History-Modern
+            - **G-V-GANDHIAN-YEAR-A-STATEM** (GA/DERIVED, L6, ord:1110, q:0)
+              - Topic: Modern History
+              - Subtopic: Gandhian Movements
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+        - **G-M-GANDHIAN-M-OTHER-GANDHI** (GA/RECALL, L4, ord:416, q:1)
+          - Topic: Modern History
+          - Subtopic: Gandhian Movements
+          - Micro: Other Gandhian Movements facts
+          - Domain: History-Modern
+          - **G-A-GANDHIAN-OTHER-GA-DIRECT-F** (GA/PROCEDURAL, L5, ord:819, q:1)
+            - Topic: Modern History
+            - Subtopic: Gandhian Movements
+            - Micro: Other Gandhian Movements facts
+            - Domain: History-Modern
+            - **G-V-GANDHIAN-OTHER--DIRECT** (GA/DERIVED, L6, ord:1107, q:0)
+              - Topic: Modern History
+              - Subtopic: Gandhian Movements
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+      - **G-S-MODERN-HIS-REVOLUTIONAR** (GA/DERIVED, L3, ord:113, q:5)
+        - Topic: Modern History
+        - Subtopic: Revolutionaries & Extremists
+        - Domain: History-Modern
+        - **G-M-REVOLUTION-BOOK-ANCHORE** (GA/RECALL, L4, ord:398, q:2)
+          - Topic: Modern History
+          - Subtopic: Revolutionaries & Extremists
+          - Micro: Book-anchored
+          - Domain: History-Modern
+          - **G-A-REVOLUTI-BOOK-ANC-DIRECT-F** (GA/PROCEDURAL, L5, ord:927, q:1)
+            - Topic: Modern History
+            - Subtopic: Revolutionaries & Extremists
+            - Micro: Book-anchored
+            - Domain: History-Modern
+            - **G-V-REVOLUTI-BOOK-A-DIRECT** (GA/DERIVED, L6, ord:1417, q:0)
+              - Topic: Modern History
+              - Subtopic: Revolutionaries & Extremists
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+          - **G-A-REVOLUTI-BOOK-ANC-STATEMEN** (GA/PROCEDURAL, L5, ord:928, q:1)
+            - Topic: Modern History
+            - Subtopic: Revolutionaries & Extremists
+            - Micro: Book-anchored
+            - Domain: History-Modern
+            - **G-V-REVOLUTI-BOOK-A-STATEM** (GA/DERIVED, L6, ord:1418, q:0)
+              - Topic: Modern History
+              - Subtopic: Revolutionaries & Extremists
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+        - **G-M-REVOLUTION-GENERAL-FACT** (GA/RECALL, L4, ord:399, q:2)
+          - Topic: Modern History
+          - Subtopic: Revolutionaries & Extremists
+          - Micro: General-factual
+          - Domain: History-Modern
+          - **G-A-REVOLUTI-GENERAL--DIRECT-F** (GA/PROCEDURAL, L5, ord:747, q:2)
+            - Topic: Modern History
+            - Subtopic: Revolutionaries & Extremists
+            - Micro: General-factual
+            - Domain: History-Modern
+            - **G-V-REVOLUTI-GENERA-DIRECT** (GA/DERIVED, L6, ord:1419, q:0)
+              - Topic: Modern History
+              - Subtopic: Revolutionaries & Extremists
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+        - **G-M-REVOLUTION-OTHER-REVOLU** (GA/RECALL, L4, ord:430, q:1)
+          - Topic: Modern History
+          - Subtopic: Revolutionaries & Extremists
+          - Micro: Other Revolutionaries & Extremists facts
+          - Domain: History-Modern
+          - **G-A-REVOLUTI-OTHER-RE-STATEMEN** (GA/PROCEDURAL, L5, ord:929, q:1)
+            - Topic: Modern History
+            - Subtopic: Revolutionaries & Extremists
+            - Micro: Other Revolutionaries & Extremists facts
+            - Domain: History-Modern
+            - **G-V-REVOLUTI-OTHER--STATEM** (GA/DERIVED, L6, ord:1420, q:0)
+              - Topic: Modern History
+              - Subtopic: Revolutionaries & Extremists
+              - Micro: Variations & distractors
+              - Domain: History-Modern
+## Q (Quant)
+
+  - **Q-D-ALGEBRA** (Quant/DERIVED, L1, ord:2, q:0)
+    - Domain: Algebra
+    - **Q-T-ALGEBRA-EQUATI** (Quant/DERIVED, L2, ord:27, q:156)
+      - Topic: Algebra & Equations
+      - Domain: Algebra
+      - **Q-S-ALGEBRA-EQ-EXPRESSION-S** (Quant/DERIVED, L3, ord:125, q:77)
+        - Topic: Algebra & Equations
+        - Subtopic: Expression simplification / linear solve
+        - **Q-M-ALGEBRA--EXPRESSION-DIRECT-EVA** (Quant/DERIVED, L4, ord:238, q:77)
+          - Topic: Algebra & Equations
+          - Subtopic: Expression simplification / linear solve
+          - Micro: direct evaluation
+          - **Q-A-EXPRESSION-SIMPL** (Quant/PROCEDURAL, L5, ord:435, q:77)
+            - Topic: Algebra & Equations
+            - Subtopic: Expression simplification / linear solve
+            - Micro: direct evaluation
+            - **Q-V-EXPRESSION-S-T0** (Quant/DERIVED, L6, ord:631, q:77)
+              - Topic: Algebra & Equations
+              - Subtopic: Expression simplification / linear solve
+              - Micro: Trap: Sign/decimal slip
+            - **Q-V-EXPRESSION-S-M** (Quant/DERIVED, L6, ord:900, q:0)
+              - Topic: Algebra & Equations
+              - Subtopic: Expression simplification / linear solve
+              - Micro: Method route
+      - **Q-S-ALGEBRA-EQ-SURDS-ODD-ON** (Quant/DERIVED, L3, ord:126, q:45)
+        - Topic: Algebra & Equations
+        - Subtopic: Surds & odd-one-out values
+        - **Q-M-ALGEBRA--SURDS-ODD--SQUARE-COM** (Quant/DERIVED, L4, ord:243, q:45)
+          - Topic: Algebra & Equations
+          - Subtopic: Surds & odd-one-out values
+          - Micro: square & compare
+          - **Q-A-SURDS-ODD-ONE-OU** (Quant/PROCEDURAL, L5, ord:441, q:45)
+            - Topic: Algebra & Equations
+            - Subtopic: Surds & odd-one-out values
+            - Micro: square & compare
+            - **Q-V-SURDS-ODD-ON-T0** (Quant/DERIVED, L6, ord:637, q:45)
+              - Topic: Algebra & Equations
+              - Subtopic: Surds & odd-one-out values
+              - Micro: Trap: Comparing without squaring
+            - **Q-V-SURDS-ODD-ON-M** (Quant/DERIVED, L6, ord:996, q:0)
+              - Topic: Algebra & Equations
+              - Subtopic: Surds & odd-one-out values
+              - Micro: Method route
+      - **Q-S-ALGEBRA-EQ-X-1-X-IDENTI** (Quant/DERIVED, L3, ord:127, q:7)
+        - Topic: Algebra & Equations
+        - Subtopic: x + 1/x identities & powers
+        - **Q-M-ALGEBRA--X-1-X-IDEN-RECIPROCAL** (Quant/DERIVED, L4, ord:299, q:7)
+          - Topic: Algebra & Equations
+          - Subtopic: x + 1/x identities & powers
+          - Micro: reciprocal identities
+          - **Q-A-X-1-X-IDENTITIES** (Quant/PROCEDURAL, L5, ord:502, q:7)
+            - Topic: Algebra & Equations
+            - Subtopic: x + 1/x identities & powers
+            - Micro: reciprocal identities
+            - **Q-V-X-1-X-IDENTI-T0** (Quant/DERIVED, L6, ord:698, q:7)
+              - Topic: Algebra & Equations
+              - Subtopic: x + 1/x identities & powers
+              - Micro: Trap: Sign error in −2/−3k
+            - **Q-V-X-1-X-IDENTI-M** (Quant/DERIVED, L6, ord:1022, q:0)
+              - Topic: Algebra & Equations
+              - Subtopic: x + 1/x identities & powers
+              - Micro: Method route
+      - **Q-S-ALGEBRA-EQ-CUBE-IDENTIT** (Quant/DERIVED, L3, ord:128, q:6)
+        - Topic: Algebra & Equations
+        - Subtopic: Cube identity a³+b³+c³−3abc
+        - **Q-M-ALGEBRA--CUBE-IDENT-ZERO-SUM-C** (Quant/DERIVED, L4, ord:306, q:6)
+          - Topic: Algebra & Equations
+          - Subtopic: Cube identity a³+b³+c³−3abc
+          - Micro: zero-sum cubes
+          - **Q-A-CUBE-IDENTITY-A3** (Quant/PROCEDURAL, L5, ord:503, q:6)
+            - Topic: Algebra & Equations
+            - Subtopic: Cube identity a³+b³+c³−3abc
+            - Micro: zero-sum cubes
+            - **Q-V-CUBE-IDENTIT-T0** (Quant/DERIVED, L6, ord:699, q:6)
+              - Topic: Algebra & Equations
+              - Subtopic: Cube identity a³+b³+c³−3abc
+              - Micro: Trap: Expanding cubes
+            - **Q-V-CUBE-IDENTIT-M** (Quant/DERIVED, L6, ord:873, q:0)
+              - Topic: Algebra & Equations
+              - Subtopic: Cube identity a³+b³+c³−3abc
+              - Micro: Method route
+      - **Q-S-ALGEBRA-EQ-COORDINATE-G** (Quant/DERIVED, L3, ord:129, q:5)
+        - Topic: Algebra & Equations
+        - Subtopic: Coordinate geometry: line slope / equation
+        - **Q-M-ALGEBRA--COORDINATE-Y-MX-C** (Quant/DERIVED, L4, ord:314, q:5)
+          - Topic: Algebra & Equations
+          - Subtopic: Coordinate geometry: line slope / equation
+          - Micro: y = mx + c
+          - **Q-A-COORDINATE-GEOME** (Quant/PROCEDURAL, L5, ord:512, q:5)
+            - Topic: Algebra & Equations
+            - Subtopic: Coordinate geometry: line slope / equation
+            - Micro: y = mx + c
+            - **Q-V-COORDINATE-G-T0** (Quant/DERIVED, L6, ord:708, q:5)
+              - Topic: Algebra & Equations
+              - Subtopic: Coordinate geometry: line slope / equation
+              - Micro: Trap: Intercept-swap
+            - **Q-V-COORDINATE-G-M** (Quant/DERIVED, L6, ord:868, q:0)
+              - Topic: Algebra & Equations
+              - Subtopic: Coordinate geometry: line slope / equation
+              - Micro: Method route
+      - **Q-S-ALGEBRA-EQ-LINEAR-SYSTE** (Quant/DERIVED, L3, ord:130, q:4)
+        - Topic: Algebra & Equations
+        - Subtopic: Linear system: parallel / infinite / no solution
+        - **Q-M-ALGEBRA--LINEAR-SYS-COEFFICIEN** (Quant/DERIVED, L4, ord:322, q:4)
+          - Topic: Algebra & Equations
+          - Subtopic: Linear system: parallel / infinite / no solution
+          - Micro: coefficient ratios
+          - **Q-A-LINEAR-SYSTEM-PA** (Quant/PROCEDURAL, L5, ord:529, q:4)
+            - Topic: Algebra & Equations
+            - Subtopic: Linear system: parallel / infinite / no solution
+            - Micro: coefficient ratios
+            - **Q-V-LINEAR-SYSTE-T0** (Quant/DERIVED, L6, ord:725, q:4)
+              - Topic: Algebra & Equations
+              - Subtopic: Linear system: parallel / infinite / no solution
+              - Micro: Trap: Mixing = and ≠ cases
+            - **Q-V-LINEAR-SYSTE-M** (Quant/DERIVED, L6, ord:930, q:0)
+              - Topic: Algebra & Equations
+              - Subtopic: Linear system: parallel / infinite / no solution
+              - Micro: Method route
+      - **Q-S-ALGEBRA-EQ-SIMULTANEOUS** (Quant/DERIVED, L3, ord:155, q:1)
+        - Topic: Algebra & Equations
+        - Subtopic: Simultaneous linear equations
+        - **Q-M-ALGEBRA--SIMULTANEO-ELIMINATIO** (Quant/DERIVED, L4, ord:377, q:1)
+          - Topic: Algebra & Equations
+          - Subtopic: Simultaneous linear equations
+          - Micro: elimination
+          - **Q-A-SIMULTANEOUS-LIN** (Quant/PROCEDURAL, L5, ord:615, q:1)
+            - Topic: Algebra & Equations
+            - Subtopic: Simultaneous linear equations
+            - Micro: elimination
+            - **Q-V-SIMULTANEOUS-T0** (Quant/DERIVED, L6, ord:811, q:1)
+              - Topic: Algebra & Equations
+              - Subtopic: Simultaneous linear equations
+              - Micro: Trap: Using only two equations
+            - **Q-V-SIMULTANEOUS-M** (Quant/DERIVED, L6, ord:983, q:0)
+              - Topic: Algebra & Equations
+              - Subtopic: Simultaneous linear equations
+              - Micro: Method route
+      - **Q-S-ALGEBRA-EQ-WORD-PROBLEM** (Quant/DERIVED, L3, ord:156, q:11)
+        - Topic: Algebra & Equations
+        - Subtopic: Word problem
+        - **Q-M-ALGEBRA--WORD-PROBL-TRANSLATE-** (Quant/DERIVED, L4, ord:283, q:11)
+          - Topic: Algebra & Equations
+          - Subtopic: Word problem
+          - Micro: translate to equations
+          - **Q-A-WORD-PROBLEM-EQU** (Quant/PROCEDURAL, L5, ord:484, q:11)
+            - Topic: Algebra & Equations
+            - Subtopic: Word problem
+            - Micro: translate to equations
+            - **Q-V-WORD-PROBLEM-T0** (Quant/DERIVED, L6, ord:680, q:11)
+              - Topic: Algebra & Equations
+              - Subtopic: Word problem
+              - Micro: Trap: One equation short
+            - **Q-V-WORD-PROBLEM-M** (Quant/DERIVED, L6, ord:1019, q:0)
+              - Topic: Algebra & Equations
+              - Subtopic: Word problem
+              - Micro: Method route
+  - **Q-D-DATA-FIGURES-U** (Quant/DERIVED, L1, ord:3, q:0)
+    - Domain: Data, Figures & Unclassified
+    - **Q-T-FIGURE-BASED-I** (Quant/DERIVED, L2, ord:22, q:334)
+      - Topic: Figure-Based (Image)
+      - Domain: Data, Figures & Unclassified
+      - **Q-S-FIGURE-BAS-FIGURE-BASED** (Quant/DERIVED, L3, ord:39, q:334)
+        - Topic: Figure-Based (Image)
+        - Subtopic: Figure-based
+        - **Q-M-FIGURE-B-FIGURE-BAS-VISUAL-REA** (Quant/DERIVED, L4, ord:236, q:334)
+          - Topic: Figure-Based (Image)
+          - Subtopic: Figure-based
+          - Micro: visual reasoning
+          - **Q-A-FIGURE-BASED-NEE** (Quant/PROCEDURAL, L5, ord:433, q:334)
+            - Topic: Figure-Based (Image)
+            - Subtopic: Figure-based
+            - Micro: visual reasoning
+            - **Q-V-FIGURE-BASED-M** (Quant/DERIVED, L6, ord:903, q:0)
+              - Topic: Figure-Based (Image)
+              - Subtopic: Figure-based
+              - Micro: Method route
+    - **Q-T-DATA-INTERPRET** (Quant/DERIVED, L2, ord:33, q:74)
+      - Topic: Data Interpretation
+      - Domain: Data, Figures & Unclassified
+      - **Q-S-DATA-INTER-READ-CHART-T** (Quant/DERIVED, L3, ord:40, q:73)
+        - Topic: Data Interpretation
+        - Subtopic: Read chart/table + compute
+        - **Q-M-DATA-INT-READ-CHART-MEAN-MAX-S** (Quant/APPLICATION, L4, ord:239, q:73)
+          - Topic: Data Interpretation
+          - Subtopic: Read chart/table + compute
+          - Micro: mean/max/share
+          - **Q-A-READ-CHART-TABLE** (Quant/APPLICATION, L5, ord:436, q:73)
+            - Topic: Data Interpretation
+            - Subtopic: Read chart/table + compute
+            - Micro: mean/max/share
+            - **Q-V-READ-CHART-T-T0** (Quant/DERIVED, L6, ord:632, q:73)
+              - Topic: Data Interpretation
+              - Subtopic: Read chart/table + compute
+              - Micro: Trap: Wrong row/column
+            - **Q-V-READ-CHART-T-M** (Quant/DERIVED, L6, ord:965, q:0)
+              - Topic: Data Interpretation
+              - Subtopic: Read chart/table + compute
+              - Micro: Method route
+      - **Q-S-DATA-INTER-GENERAL-CHAR** (Quant/DERIVED, L3, ord:176, q:1)
+        - Topic: Data Interpretation
+        - Subtopic: General chart reading
+        - **Q-M-DATA-INT-GENERAL-CH-EXTRACT-CO** (Quant/APPLICATION, L4, ord:382, q:1)
+          - Topic: Data Interpretation
+          - Subtopic: General chart reading
+          - Micro: extract + compute
+          - **Q-A-GENERAL-CHART-RE** (Quant/APPLICATION, L5, ord:593, q:1)
+            - Topic: Data Interpretation
+            - Subtopic: General chart reading
+            - Micro: extract + compute
+            - **Q-V-GENERAL-CHAR-T0** (Quant/DERIVED, L6, ord:789, q:1)
+              - Topic: Data Interpretation
+              - Subtopic: General chart reading
+              - Micro: Trap: Wrong series
+            - **Q-V-GENERAL-CHAR-M** (Quant/DERIVED, L6, ord:910, q:0)
+              - Topic: Data Interpretation
+              - Subtopic: General chart reading
+              - Micro: Method route
+    - **Q-T-MISCELLANEOUS-** (Quant/DERIVED, L2, ord:35, q:50)
+      - Topic: Miscellaneous (Quant)
+      - Domain: Data, Figures & Unclassified
+      - **Q-S-MISCELLANE-UNCLASSIFIED** (Quant/DERIVED, L3, ord:42, q:50)
+        - Topic: Miscellaneous (Quant)
+        - Subtopic: Unclassified quant problem
+        - **Q-M-MISCELLA-UNCLASSIFI-MIXED-SKIL** (Quant/DERIVED, L4, ord:241, q:50)
+          - Topic: Miscellaneous (Quant)
+          - Subtopic: Unclassified quant problem
+          - Micro: mixed skill
+          - **Q-A-UNCLASSIFIED-QUA** (Quant/DERIVED, L5, ord:438, q:50)
+            - Topic: Miscellaneous (Quant)
+            - Subtopic: Unclassified quant problem
+            - Micro: mixed skill
+            - **Q-V-UNCLASSIFIED-T0** (Quant/DERIVED, L6, ord:634, q:50)
+              - Topic: Miscellaneous (Quant)
+              - Subtopic: Unclassified quant problem
+              - Micro: Trap: Misclassification
+            - **Q-V-UNCLASSIFIED-M** (Quant/DERIVED, L6, ord:1014, q:0)
+              - Topic: Miscellaneous (Quant)
+              - Subtopic: Unclassified quant problem
+              - Micro: Method route
+  - **Q-D-FOUNDATIONS-OF** (Quant/DERIVED, L1, ord:4, q:0)
+    - Domain: Foundations of Number
+    - **Q-T-NUMBER-SYSTEM** (Quant/DERIVED, L2, ord:36, q:49)
+      - Topic: Number System
+      - Domain: Foundations of Number
+      - **Q-S-NUMBER-SYS-DIVISIBILITY** (Quant/DERIVED, L3, ord:48, q:28)
+        - Topic: Number System
+        - Subtopic: Divisibility by 8/9/11/99 + digit find
+        - **Q-M-NUMBER-S-DIVISIBILI-DIVISIBILI** (Quant/DERIVED, L4, ord:254, q:28)
+          - Topic: Number System
+          - Subtopic: Divisibility by 8/9/11/99 + digit find
+          - Micro: divisibility tests
+          - **Q-A-DIVISIBILITY-BY-** (Quant/PROCEDURAL, L5, ord:452, q:28)
+            - Topic: Number System
+            - Subtopic: Divisibility by 8/9/11/99 + digit find
+            - Micro: divisibility tests
+            - **Q-V-DIVISIBILITY-T0** (Quant/DERIVED, L6, ord:648, q:28)
+              - Topic: Number System
+              - Subtopic: Divisibility by 8/9/11/99 + digit find
+              - Micro: Trap: Wrong test (e.g. sum for 11)
+            - **Q-V-DIVISIBILITY-M** (Quant/DERIVED, L6, ord:887, q:0)
+              - Topic: Number System
+              - Subtopic: Divisibility by 8/9/11/99 + digit find
+              - Micro: Method route
+      - **Q-S-NUMBER-SYS-DIGIT-PUZZLE** (Quant/DERIVED, L3, ord:188, q:1)
+        - Topic: Number System
+        - Subtopic: Digit puzzle
+        - **Q-M-NUMBER-S-DIGIT-PUZZ-POSITIONAL** (Quant/DERIVED, L4, ord:394, q:1)
+          - Topic: Number System
+          - Subtopic: Digit puzzle
+          - Micro: positional constraints
+          - **Q-A-DIGIT-PUZZLE-PLA** (Quant/PROCEDURAL, L5, ord:584, q:1)
+            - Topic: Number System
+            - Subtopic: Digit puzzle
+            - Micro: positional constraints
+            - **Q-V-DIGIT-PUZZLE-T0** (Quant/DERIVED, L6, ord:780, q:1)
+              - Topic: Number System
+              - Subtopic: Digit puzzle
+              - Micro: Trap: Ignoring a<b style bounds
+            - **Q-V-DIGIT-PUZZLE-M** (Quant/DERIVED, L6, ord:878, q:0)
+              - Topic: Number System
+              - Subtopic: Digit puzzle
+              - Micro: Method route
+      - **Q-S-NUMBER-SYS-DIVISION-ALG** (Quant/DERIVED, L3, ord:189, q:1)
+        - Topic: Number System
+        - Subtopic: Division algorithm
+        - **Q-M-NUMBER-S-DIVISION-A-DDQR-RELAT** (Quant/DERIVED, L4, ord:395, q:1)
+          - Topic: Number System
+          - Subtopic: Division algorithm
+          - Micro: D–d–q–r relation
+          - **Q-A-DIVISION-ALGORIT** (Quant/PROCEDURAL, L5, ord:585, q:1)
+            - Topic: Number System
+            - Subtopic: Division algorithm
+            - Micro: D–d–q–r relation
+            - **Q-V-DIVISION-ALG-T0** (Quant/DERIVED, L6, ord:781, q:1)
+              - Topic: Number System
+              - Subtopic: Division algorithm
+              - Micro: Trap: Mixing multiplier direction
+            - **Q-V-DIVISION-ALG-M** (Quant/DERIVED, L6, ord:888, q:0)
+              - Topic: Number System
+              - Subtopic: Division algorithm
+              - Micro: Method route
+      - **Q-S-NUMBER-SYS-REMAINDER-MO** (Quant/DERIVED, L3, ord:190, q:12)
+        - Topic: Number System
+        - Subtopic: Remainder / modular
+        - **Q-M-NUMBER-S-REMAINDER--MOD-ARITHM** (Quant/DERIVED, L4, ord:282, q:12)
+          - Topic: Number System
+          - Subtopic: Remainder / modular
+          - Micro: mod arithmetic
+          - **Q-A-REMAINDER-MODULA** (Quant/PROCEDURAL, L5, ord:479, q:12)
+            - Topic: Number System
+            - Subtopic: Remainder / modular
+            - Micro: mod arithmetic
+            - **Q-V-REMAINDER-MO-T0** (Quant/DERIVED, L6, ord:675, q:12)
+              - Topic: Number System
+              - Subtopic: Remainder / modular
+              - Micro: Trap: Full division attempt
+            - **Q-V-REMAINDER-MO-M** (Quant/DERIVED, L6, ord:966, q:0)
+              - Topic: Number System
+              - Subtopic: Remainder / modular
+              - Micro: Method route
+      - **Q-S-NUMBER-SYS-PERFECT-SQUA** (Quant/DERIVED, L3, ord:191, q:5)
+        - Topic: Number System
+        - Subtopic: Perfect-square / divisibility-complement
+        - **Q-M-NUMBER-S-PERFECT-SQ-SQUARE-SQU** (Quant/DERIVED, L4, ord:317, q:5)
+          - Topic: Number System
+          - Subtopic: Perfect-square / divisibility-complement
+          - Micro: square squeeze; remainder gap
+          - **Q-A-PERFECT-SQUARE-D** (Quant/PROCEDURAL, L5, ord:516, q:5)
+            - Topic: Number System
+            - Subtopic: Perfect-square / divisibility-complement
+            - Micro: square squeeze; remainder gap
+            - **Q-V-PERFECT-SQUA-T0** (Quant/DERIVED, L6, ord:712, q:5)
+              - Topic: Number System
+              - Subtopic: Perfect-square / divisibility-complement
+              - Micro: Trap: Off-by-one bounds
+            - **Q-V-PERFECT-SQUA-M** (Quant/DERIVED, L6, ord:950, q:0)
+              - Topic: Number System
+              - Subtopic: Perfect-square / divisibility-complement
+              - Micro: Method route
+      - **Q-S-NUMBER-SYS-HCF-LCM-NUMB** (Quant/DERIVED, L3, ord:192, q:2)
+        - Topic: Number System
+        - Subtopic: HCF/LCM / number facts
+        - **Q-M-NUMBER-S-HCF-LCM-NU-GCDLCM-SER** (Quant/DERIVED, L4, ord:362, q:2)
+          - Topic: Number System
+          - Subtopic: HCF/LCM / number facts
+          - Micro: gcd–lcm / series
+          - **Q-A-HCF-LCM-NUMBER-F** (Quant/PROCEDURAL, L5, ord:562, q:2)
+            - Topic: Number System
+            - Subtopic: HCF/LCM / number facts
+            - Micro: gcd–lcm / series
+            - **Q-V-HCF-LCM-NUMB-T0** (Quant/DERIVED, L6, ord:758, q:2)
+              - Topic: Number System
+              - Subtopic: HCF/LCM / number facts
+              - Micro: Trap: LCM↔HCF swap
+            - **Q-V-HCF-LCM-NUMB-M** (Quant/DERIVED, L6, ord:922, q:0)
+              - Topic: Number System
+              - Subtopic: HCF/LCM / number facts
+              - Micro: Method route
+    - **Q-T-SIMPLIFICATION** (Quant/DERIVED, L2, ord:38, q:17)
+      - Topic: Simplification & Approximation
+      - Domain: Foundations of Number
+      - **Q-S-SIMPLIFICA-DECIMAL-ROUN** (Quant/DERIVED, L3, ord:68, q:11)
+        - Topic: Simplification & Approximation
+        - Subtopic: Decimal/rounding/number-facts
+        - **Q-M-SIMPLIFI-DECIMAL-RO-PLACE-VALU** (Quant/DERIVED, L4, ord:286, q:11)
+          - Topic: Simplification & Approximation
+          - Subtopic: Decimal/rounding/number-facts
+          - Micro: place-value care
+          - **Q-A-DECIMAL-ROUNDING** (Quant/PROCEDURAL, L5, ord:480, q:11)
+            - Topic: Simplification & Approximation
+            - Subtopic: Decimal/rounding/number-facts
+            - Micro: place-value care
+            - **Q-V-DECIMAL-ROUN-T0** (Quant/DERIVED, L6, ord:676, q:11)
+              - Topic: Simplification & Approximation
+              - Subtopic: Decimal/rounding/number-facts
+              - Micro: Trap: Early rounding
+            - **Q-V-DECIMAL-ROUN-M** (Quant/DERIVED, L6, ord:875, q:0)
+              - Topic: Simplification & Approximation
+              - Subtopic: Decimal/rounding/number-facts
+              - Micro: Method route
+      - **Q-S-SIMPLIFICA-BRACKET** (Quant/DERIVED, L3, ord:124, q:3)
+        - Topic: Simplification & Approximation
+        - Subtopic: Bracket
+        - **Q-M-SIMPLIFI-BRACKET-INNERMOST-** (Quant/DERIVED, L4, ord:344, q:3)
+          - Topic: Simplification & Approximation
+          - Subtopic: Bracket
+          - Micro: innermost-first
+          - **Q-A-BRACKET-BODMAS-S** (Quant/PROCEDURAL, L5, ord:533, q:3)
+            - Topic: Simplification & Approximation
+            - Subtopic: Bracket
+            - Micro: innermost-first
+            - **Q-V-BRACKET-BODM-T0** (Quant/DERIVED, L6, ord:729, q:3)
+              - Topic: Simplification & Approximation
+              - Subtopic: Bracket
+              - Micro: Trap: 'of' before ÷×
+            - **Q-V-BRACKET-BODM-M** (Quant/DERIVED, L6, ord:840, q:0)
+              - Topic: Simplification & Approximation
+              - Subtopic: Bracket
+              - Micro: Method route
+      - **Q-S-SIMPLIFICA-COMPARE-ORDE** (Quant/DERIVED, L3, ord:197, q:3)
+        - Topic: Simplification & Approximation
+        - Subtopic: Compare/order fractions
+        - **Q-M-SIMPLIFI-COMPARE-OR-CROSS-MULT** (Quant/DERIVED, L4, ord:345, q:3)
+          - Topic: Simplification & Approximation
+          - Subtopic: Compare/order fractions
+          - Micro: cross-multiply
+          - **Q-A-COMPARE-ORDER-FR** (Quant/PROCEDURAL, L5, ord:535, q:3)
+            - Topic: Simplification & Approximation
+            - Subtopic: Compare/order fractions
+            - Micro: cross-multiply
+            - **Q-V-COMPARE-ORDE-T0** (Quant/DERIVED, L6, ord:731, q:3)
+              - Topic: Simplification & Approximation
+              - Subtopic: Compare/order fractions
+              - Micro: Trap: Comparing numerators
+            - **Q-V-COMPARE-ORDE-M** (Quant/DERIVED, L6, ord:860, q:0)
+              - Topic: Simplification & Approximation
+              - Subtopic: Compare/order fractions
+              - Micro: Method route
+  - **Q-D-GEOMETRY-MENSU** (Quant/DERIVED, L1, ord:5, q:0)
+    - Domain: Geometry, Mensuration & Trigonometry
+    - **Q-T-MENSURATION** (Quant/DERIVED, L2, ord:23, q:264)
+      - Topic: Mensuration
+      - Domain: Geometry, Mensuration & Trigonometry
+      - **Q-S-MENSURATIO-GENERAL-MENS** (Quant/DERIVED, L3, ord:56, q:20)
+        - Topic: Mensuration
+        - Subtopic: General mensuration computation
+        - **Q-M-MENSURAT-GENERAL-ME-AREA-VOLUM** (Quant/DERIVED, L4, ord:265, q:20)
+          - Topic: Mensuration
+          - Subtopic: General mensuration computation
+          - Micro: area/volume formula
+          - **Q-A-GENERAL-MENSURAT** (Quant/DERIVED, L5, ord:462, q:20)
+            - Topic: Mensuration
+            - Subtopic: General mensuration computation
+            - Micro: area/volume formula
+            - **Q-V-GENERAL-MENS-T0** (Quant/DERIVED, L6, ord:658, q:20)
+              - Topic: Mensuration
+              - Subtopic: General mensuration computation
+              - Micro: Trap: r↔d swap
+            - **Q-V-GENERAL-MENS-M** (Quant/DERIVED, L6, ord:913, q:0)
+              - Topic: Mensuration
+              - Subtopic: General mensuration computation
+              - Micro: Method route
+      - **Q-S-MENSURATIO-DIRECT-FORMU** (Quant/DERIVED, L3, ord:89, q:5)
+        - Topic: Mensuration
+        - Subtopic: Direct formula plug-in
+        - **Q-M-MENSURAT-DIRECT-FOR-STANDARD-2** (Quant/DERIVED, L4, ord:316, q:5)
+          - Topic: Mensuration
+          - Subtopic: Direct formula plug-in
+          - Micro: standard 2D/3D forms
+          - **Q-A-DIRECT-FORMULA-P** (Quant/PROCEDURAL, L5, ord:513, q:5)
+            - Topic: Mensuration
+            - Subtopic: Direct formula plug-in
+            - Micro: standard 2D/3D forms
+            - **Q-V-DIRECT-FORMU-T0** (Quant/DERIVED, L6, ord:709, q:5)
+              - Topic: Mensuration
+              - Subtopic: Direct formula plug-in
+              - Micro: Trap: Perimeter formula
+            - **Q-V-DIRECT-FORMU-M** (Quant/DERIVED, L6, ord:881, q:0)
+              - Topic: Mensuration
+              - Subtopic: Direct formula plug-in
+              - Micro: Method route
+      - **Q-S-MENSURATIO-CYLINDER-CSA** (Quant/DERIVED, L3, ord:90, q:96)
+        - Topic: Mensuration
+        - Subtopic: Cylinder CSA/volume + rolling paper
+        - **Q-M-MENSURAT-CYLINDER-C-2RH-R2H** (Quant/DERIVED, L4, ord:237, q:96)
+          - Topic: Mensuration
+          - Subtopic: Cylinder CSA/volume + rolling paper
+          - Micro: 2πrh / πr²h
+          - **Q-A-CYLINDER-CSA-VOL** (Quant/PROCEDURAL, L5, ord:434, q:96)
+            - Topic: Mensuration
+            - Subtopic: Cylinder CSA/volume + rolling paper
+            - Micro: 2πrh / πr²h
+            - **Q-V-CYLINDER-CSA-T0** (Quant/DERIVED, L6, ord:630, q:96)
+              - Topic: Mensuration
+              - Subtopic: Cylinder CSA/volume + rolling paper
+              - Micro: Trap: Using diameter as r
+            - **Q-V-CYLINDER-CSA-M** (Quant/DERIVED, L6, ord:874, q:0)
+              - Topic: Mensuration
+              - Subtopic: Cylinder CSA/volume + rolling paper
+              - Micro: Method route
+      - **Q-S-MENSURATIO-CUBE-CUBOID-** (Quant/DERIVED, L3, ord:91, q:35)
+        - Topic: Mensuration
+        - Subtopic: Cube/cuboid TSA/volume + melt-recast + space diagonal
+        - **Q-M-MENSURAT-CUBE-CUBOI-VOLUME-CON** (Quant/DERIVED, L4, ord:250, q:35)
+          - Topic: Mensuration
+          - Subtopic: Cube/cuboid TSA/volume + melt-recast + space diagonal
+          - Micro: volume conserved; diagonal = a√3
+          - **Q-A-CUBE-CUBOID-TSA-** (Quant/PROCEDURAL, L5, ord:447, q:35)
+            - Topic: Mensuration
+            - Subtopic: Cube/cuboid TSA/volume + melt-recast + space diagonal
+            - Micro: volume conserved; diagonal = a√3
+            - **Q-V-CUBE-CUBOID--T0** (Quant/DERIVED, L6, ord:643, q:35)
+              - Topic: Mensuration
+              - Subtopic: Cube/cuboid TSA/volume + melt-recast + space diagonal
+              - Micro: Trap: Surface-area conserve error
+            - **Q-V-CUBE-CUBOID--M** (Quant/DERIVED, L6, ord:872, q:0)
+              - Topic: Mensuration
+              - Subtopic: Cube/cuboid TSA/volume + melt-recast + space diagonal
+              - Micro: Method route
+      - **Q-S-MENSURATIO-PYRAMID-PRIS** (Quant/DERIVED, L3, ord:92, q:29)
+        - Topic: Mensuration
+        - Subtopic: Pyramid/prism surface & volume
+        - **Q-M-MENSURAT-PYRAMID-PR-1-3-BH-BH** (Quant/DERIVED, L4, ord:252, q:29)
+          - Topic: Mensuration
+          - Subtopic: Pyramid/prism surface & volume
+          - Micro: (1/3)Bh / Bh
+          - **Q-A-PYRAMID-PRISM-SU** (Quant/PROCEDURAL, L5, ord:449, q:29)
+            - Topic: Mensuration
+            - Subtopic: Pyramid/prism surface & volume
+            - Micro: (1/3)Bh / Bh
+            - **Q-V-PYRAMID-PRIS-T0** (Quant/DERIVED, L6, ord:645, q:29)
+              - Topic: Mensuration
+              - Subtopic: Pyramid/prism surface & volume
+              - Micro: Trap: Forgetting ÷3
+            - **Q-V-PYRAMID-PRIS-M** (Quant/DERIVED, L6, ord:957, q:0)
+              - Topic: Mensuration
+              - Subtopic: Pyramid/prism surface & volume
+              - Micro: Method route
+      - **Q-S-MENSURATIO-SPHERE-CONE-** (Quant/DERIVED, L3, ord:93, q:24)
+        - Topic: Mensuration
+        - Subtopic: Sphere/cone/sector + circular paths
+        - **Q-M-MENSURAT-SPHERE-CON-STANDARD-C** (Quant/APPLICATION, L4, ord:262, q:24)
+          - Topic: Mensuration
+          - Subtopic: Sphere/cone/sector + circular paths
+          - Micro: standard curved formulas
+          - **Q-A-SPHERE-CONE-SECT** (Quant/APPLICATION, L5, ord:459, q:24)
+            - Topic: Mensuration
+            - Subtopic: Sphere/cone/sector + circular paths
+            - Micro: standard curved formulas
+            - **Q-V-SPHERE-CONE--T0** (Quant/DERIVED, L6, ord:655, q:24)
+              - Topic: Mensuration
+              - Subtopic: Sphere/cone/sector + circular paths
+              - Micro: Trap: Arc-only (missing radii)
+            - **Q-V-SPHERE-CONE--M** (Quant/DERIVED, L6, ord:986, q:0)
+              - Topic: Mensuration
+              - Subtopic: Sphere/cone/sector + circular paths
+              - Micro: Method route
+      - **Q-S-MENSURATIO-FIELD-PLOT-S** (Quant/DERIVED, L3, ord:94, q:23)
+        - Topic: Mensuration
+        - Subtopic: Field/plot & side-relation perimeter
+        - **Q-M-MENSURAT-FIELD-PLOT-A-VS-P-REL** (Quant/DERIVED, L4, ord:263, q:23)
+          - Topic: Mensuration
+          - Subtopic: Field/plot & side-relation perimeter
+          - Micro: A vs P relations
+          - **Q-A-FIELD-PLOT-SIDE-** (Quant/PROCEDURAL, L5, ord:460, q:23)
+            - Topic: Mensuration
+            - Subtopic: Field/plot & side-relation perimeter
+            - Micro: A vs P relations
+            - **Q-V-FIELD-PLOT-S-T0** (Quant/DERIVED, L6, ord:656, q:23)
+              - Topic: Mensuration
+              - Subtopic: Field/plot & side-relation perimeter
+              - Micro: Trap: Perimeter–area swap
+            - **Q-V-FIELD-PLOT-S-M** (Quant/DERIVED, L6, ord:902, q:0)
+              - Topic: Mensuration
+              - Subtopic: Field/plot & side-relation perimeter
+              - Micro: Method route
+      - **Q-S-MENSURATIO-ROOM-WHITEWA** (Quant/DERIVED, L3, ord:95, q:7)
+        - Topic: Mensuration
+        - Subtopic: Room whitewash / paint cans
+        - **Q-M-MENSURAT-ROOM-WHITE-4-WALLS-CE** (Quant/APPLICATION, L4, ord:301, q:7)
+          - Topic: Mensuration
+          - Subtopic: Room whitewash / paint cans
+          - Micro: 4 walls + ceiling
+          - **Q-A-ROOM-WHITEWASH-P** (Quant/APPLICATION, L5, ord:501, q:7)
+            - Topic: Mensuration
+            - Subtopic: Room whitewash / paint cans
+            - Micro: 4 walls + ceiling
+            - **Q-V-ROOM-WHITEWA-T0** (Quant/DERIVED, L6, ord:697, q:7)
+              - Topic: Mensuration
+              - Subtopic: Room whitewash / paint cans
+              - Micro: Trap: Including floor
+            - **Q-V-ROOM-WHITEWA-M** (Quant/DERIVED, L6, ord:973, q:0)
+              - Topic: Mensuration
+              - Subtopic: Room whitewash / paint cans
+              - Micro: Method route
+      - **Q-S-MENSURATIO-CIRCULAR-SEG** (Quant/DERIVED, L3, ord:104, q:4)
+        - Topic: Mensuration
+        - Subtopic: Circular segment area
+        - **Q-M-MENSURAT-CIRCULAR-S-SECTOR-MIN** (Quant/APPLICATION, L4, ord:325, q:4)
+          - Topic: Mensuration
+          - Subtopic: Circular segment area
+          - Micro: sector minus triangle
+          - **Q-A-CIRCULAR-SEGMENT** (Quant/APPLICATION, L5, ord:523, q:4)
+            - Topic: Mensuration
+            - Subtopic: Circular segment area
+            - Micro: sector minus triangle
+            - **Q-V-CIRCULAR-SEG-T0** (Quant/DERIVED, L6, ord:719, q:4)
+              - Topic: Mensuration
+              - Subtopic: Circular segment area
+              - Micro: Trap: Sector only
+            - **Q-V-CIRCULAR-SEG-M** (Quant/DERIVED, L6, ord:852, q:0)
+              - Topic: Mensuration
+              - Subtopic: Circular segment area
+              - Micro: Method route
+      - **Q-S-MENSURATIO-PARALLEL-LIN** (Quant/DERIVED, L3, ord:105, q:4)
+        - Topic: Mensuration
+        - Subtopic: Parallel-line area split
+        - **Q-M-MENSURAT-PARALLEL-L-AREA-SCALE** (Quant/COMBINATIONAL, L4, ord:326, q:4)
+          - Topic: Mensuration
+          - Subtopic: Parallel-line area split
+          - Micro: area scale = k2
+          - **Q-A-PARALLEL-LINE-AR** (Quant/COMBINATIONAL, L5, ord:530, q:4)
+            - Topic: Mensuration
+            - Subtopic: Parallel-line area split
+            - Micro: area scale = k2
+            - **Q-V-PARALLEL-LIN-T0** (Quant/DERIVED, L6, ord:726, q:4)
+              - Topic: Mensuration
+              - Subtopic: Parallel-line area split
+              - Micro: Trap: Direct sqrt of 9/40
+            - **Q-V-PARALLEL-LIN-M** (Quant/DERIVED, L6, ord:947, q:0)
+              - Topic: Mensuration
+              - Subtopic: Parallel-line area split
+              - Micro: Method route
+      - **Q-S-MENSURATIO-MID-SEGMENT-** (Quant/DERIVED, L3, ord:117, q:9)
+        - Topic: Mensuration
+        - Subtopic: Mid-segment / midpoint area scaling
+        - **Q-M-MENSURAT-MID-SEGMEN-AREA-1-4** (Quant/DERIVED, L4, ord:292, q:9)
+          - Topic: Mensuration
+          - Subtopic: Mid-segment / midpoint area scaling
+          - Micro: area ×1/4
+          - **Q-A-MID-SEGMENT-MIDP** (Quant/PROCEDURAL, L5, ord:491, q:9)
+            - Topic: Mensuration
+            - Subtopic: Mid-segment / midpoint area scaling
+            - Micro: area ×1/4
+            - **Q-V-MID-SEGMENT--T0** (Quant/DERIVED, L6, ord:687, q:9)
+              - Topic: Mensuration
+              - Subtopic: Mid-segment / midpoint area scaling
+              - Micro: Trap: Halving instead of quartering
+            - **Q-V-MID-SEGMENT--M** (Quant/DERIVED, L6, ord:936, q:0)
+              - Topic: Mensuration
+              - Subtopic: Mid-segment / midpoint area scaling
+              - Micro: Method route
+      - **Q-S-MENSURATIO-SIMILAR-FIGU** (Quant/DERIVED, L3, ord:120, q:3)
+        - Topic: Mensuration
+        - Subtopic: Similar-figure scaling
+        - **Q-M-MENSURAT-SIMILAR-FI-LINEAR-VS-** (Quant/DERIVED, L4, ord:340, q:3)
+          - Topic: Mensuration
+          - Subtopic: Similar-figure scaling
+          - Micro: linear vs square scale
+          - **Q-A-SIMILAR-FIGURE-S** (Quant/PROCEDURAL, L5, ord:542, q:3)
+            - Topic: Mensuration
+            - Subtopic: Similar-figure scaling
+            - Micro: linear vs square scale
+            - **Q-V-SIMILAR-FIGU-T0** (Quant/DERIVED, L6, ord:738, q:3)
+              - Topic: Mensuration
+              - Subtopic: Similar-figure scaling
+              - Micro: Trap: Squaring for sides
+            - **Q-V-SIMILAR-FIGU-M** (Quant/DERIVED, L6, ord:981, q:0)
+              - Topic: Mensuration
+              - Subtopic: Similar-figure scaling
+              - Micro: Method route
+      - **Q-S-MENSURATIO-CENTROID-ARE** (Quant/DERIVED, L3, ord:139, q:2)
+        - Topic: Mensuration
+        - Subtopic: Centroid area shares
+        - **Q-M-MENSURAT-CENTROID-A-SIXTHS-AND** (Quant/DERIVED, L4, ord:357, q:2)
+          - Topic: Mensuration
+          - Subtopic: Centroid area shares
+          - Micro: sixths and thirds
+          - **Q-A-CENTROID-AREA-SH** (Quant/PROCEDURAL, L5, ord:548, q:2)
+            - Topic: Mensuration
+            - Subtopic: Centroid area shares
+            - Micro: sixths and thirds
+            - **Q-V-CENTROID-ARE-T0** (Quant/DERIVED, L6, ord:744, q:2)
+              - Topic: Mensuration
+              - Subtopic: Centroid area shares
+              - Micro: Trap: Halving
+            - **Q-V-CENTROID-ARE-M** (Quant/DERIVED, L6, ord:845, q:0)
+              - Topic: Mensuration
+              - Subtopic: Centroid area shares
+              - Micro: Method route
+      - **Q-S-MENSURATIO-CIRCLE-RATIO** (Quant/DERIVED, L3, ord:140, q:2)
+        - Topic: Mensuration
+        - Subtopic: Circle ratio scaling
+        - **Q-M-MENSURAT-CIRCLE-RAT-C-R-A-R2** (Quant/DERIVED, L4, ord:358, q:2)
+          - Topic: Mensuration
+          - Subtopic: Circle ratio scaling
+          - Micro: C~r, A~r2
+          - **Q-A-CIRCLE-RATIO-SCA** (Quant/PROCEDURAL, L5, ord:549, q:2)
+            - Topic: Mensuration
+            - Subtopic: Circle ratio scaling
+            - Micro: C~r, A~r2
+            - **Q-V-CIRCLE-RATIO-T0** (Quant/DERIVED, L6, ord:745, q:2)
+              - Topic: Mensuration
+              - Subtopic: Circle ratio scaling
+              - Micro: Trap: Linear scaling
+            - **Q-V-CIRCLE-RATIO-M** (Quant/DERIVED, L6, ord:850, q:0)
+              - Topic: Mensuration
+              - Subtopic: Circle ratio scaling
+              - Micro: Method route
+      - **Q-S-MENSURATIO-EQUILATERAL-** (Quant/DERIVED, L3, ord:181, q:1)
+        - Topic: Mensuration
+        - Subtopic: Equilateral perimeter -> side
+        - **Q-M-MENSURAT-EQUILATERA-P-3A** (Quant/DERIVED, L4, ord:387, q:1)
+          - Topic: Mensuration
+          - Subtopic: Equilateral perimeter -> side
+          - Micro: P = 3a
+          - **Q-A-EQUILATERAL-PERI** (Quant/PROCEDURAL, L5, ord:588, q:1)
+            - Topic: Mensuration
+            - Subtopic: Equilateral perimeter -> side
+            - Micro: P = 3a
+            - **Q-V-EQUILATERAL--T0** (Quant/DERIVED, L6, ord:784, q:1)
+              - Topic: Mensuration
+              - Subtopic: Equilateral perimeter -> side
+              - Micro: Trap: Assuming equilateral
+            - **Q-V-EQUILATERAL--M** (Quant/DERIVED, L6, ord:897, q:0)
+              - Topic: Mensuration
+              - Subtopic: Equilateral perimeter -> side
+              - Micro: Method route
+    - **Q-T-GEOMETRY** (Quant/DERIVED, L2, ord:24, q:245)
+      - Topic: Geometry
+      - Domain: Geometry, Mensuration & Trigonometry
+      - **Q-S-GEOMETRY-GENERAL-GEOM** (Quant/DERIVED, L3, ord:44, q:42)
+        - Topic: Geometry
+        - Subtopic: General geometry computation
+        - **Q-M-GEOMETRY-GENERAL-GE-DIAGRAM-TH** (Quant/DERIVED, L4, ord:246, q:42)
+          - Topic: Geometry
+          - Subtopic: General geometry computation
+          - Micro: diagram + theorem
+          - **Q-A-GENERAL-GEOMETRY** (Quant/DERIVED, L5, ord:443, q:42)
+            - Topic: Geometry
+            - Subtopic: General geometry computation
+            - Micro: diagram + theorem
+            - **Q-V-GENERAL-GEOM-T0** (Quant/DERIVED, L6, ord:639, q:42)
+              - Topic: Geometry
+              - Subtopic: General geometry computation
+              - Micro: Trap: Assuming diagram to scale
+            - **Q-V-GENERAL-GEOM-M** (Quant/DERIVED, L6, ord:911, q:0)
+              - Topic: Geometry
+              - Subtopic: General geometry computation
+              - Micro: Method route
+      - **Q-S-GEOMETRY-TANGENTS-COM** (Quant/DERIVED, L3, ord:45, q:42)
+        - Topic: Geometry
+        - Subtopic: Tangents & common tangents
+        - **Q-M-GEOMETRY-TANGENTS-C-TANGENT-RA** (Quant/DERIVED, L4, ord:247, q:42)
+          - Topic: Geometry
+          - Subtopic: Tangents & common tangents
+          - Micro: tangent ⟂ radius
+          - **Q-A-TANGENTS-COMMON-** (Quant/PROCEDURAL, L5, ord:444, q:42)
+            - Topic: Geometry
+            - Subtopic: Tangents & common tangents
+            - Micro: tangent ⟂ radius
+            - **Q-V-TANGENTS-COM-T0** (Quant/DERIVED, L6, ord:640, q:42)
+              - Topic: Geometry
+              - Subtopic: Tangents & common tangents
+              - Micro: Trap: Swapping R−r / R+r
+            - **Q-V-TANGENTS-COM-M** (Quant/DERIVED, L6, ord:998, q:0)
+              - Topic: Geometry
+              - Subtopic: Tangents & common tangents
+              - Micro: Method route
+      - **Q-S-GEOMETRY-PERPENDICULA** (Quant/DERIVED, L3, ord:47, q:36)
+        - Topic: Geometry
+        - Subtopic: Perpendicular from centre to chord
+        - **Q-M-GEOMETRY-PERPENDICU-BISECTED-C** (Quant/DERIVED, L4, ord:249, q:36)
+          - Topic: Geometry
+          - Subtopic: Perpendicular from centre to chord
+          - Micro: bisected chord
+          - **Q-A-PERPENDICULAR-FR** (Quant/PROCEDURAL, L5, ord:446, q:36)
+            - Topic: Geometry
+            - Subtopic: Perpendicular from centre to chord
+            - Micro: bisected chord
+            - **Q-V-PERPENDICULA-T0** (Quant/DERIVED, L6, ord:642, q:36)
+              - Topic: Geometry
+              - Subtopic: Perpendicular from centre to chord
+              - Micro: Trap: Full chord in triangle
+            - **Q-V-PERPENDICULA-M** (Quant/DERIVED, L6, ord:952, q:0)
+              - Topic: Geometry
+              - Subtopic: Perpendicular from centre to chord
+              - Micro: Method route
+      - **Q-S-GEOMETRY-CIRCLE-THEOR** (Quant/DERIVED, L3, ord:49, q:27)
+        - Topic: Geometry
+        - Subtopic: Circle theorems
+        - **Q-M-GEOMETRY-CIRCLE-THE-ANGLE-CHAS** (Quant/DERIVED, L4, ord:256, q:27)
+          - Topic: Geometry
+          - Subtopic: Circle theorems
+          - Micro: angle chasing on circle
+          - **Q-A-CIRCLE-THEOREMS-** (Quant/PROCEDURAL, L5, ord:453, q:27)
+            - Topic: Geometry
+            - Subtopic: Circle theorems
+            - Micro: angle chasing on circle
+            - **Q-V-CIRCLE-THEOR-T0** (Quant/DERIVED, L6, ord:649, q:27)
+              - Topic: Geometry
+              - Subtopic: Circle theorems
+              - Micro: Trap: Chord as diameter
+            - **Q-V-CIRCLE-THEOR-M** (Quant/DERIVED, L6, ord:851, q:0)
+              - Topic: Geometry
+              - Subtopic: Circle theorems
+              - Micro: Method route
+      - **Q-S-GEOMETRY-QUADRILATERA** (Quant/DERIVED, L3, ord:75, q:8)
+        - Topic: Geometry
+        - Subtopic: Quadrilateral angle chase
+        - **Q-M-GEOMETRY-QUADRILATE-DIAGONAL-P** (Quant/APPLICATION, L4, ord:296, q:8)
+          - Topic: Geometry
+          - Subtopic: Quadrilateral angle chase
+          - Micro: diagonal properties
+          - **Q-A-QUADRILATERAL-AN** (Quant/APPLICATION, L5, ord:493, q:8)
+            - Topic: Geometry
+            - Subtopic: Quadrilateral angle chase
+            - Micro: diagonal properties
+            - **Q-V-QUADRILATERA-T0** (Quant/DERIVED, L6, ord:689, q:8)
+              - Topic: Geometry
+              - Subtopic: Quadrilateral angle chase
+              - Micro: Trap: Assuming right angle
+            - **Q-V-QUADRILATERA-M** (Quant/DERIVED, L6, ord:958, q:0)
+              - Topic: Geometry
+              - Subtopic: Quadrilateral angle chase
+              - Micro: Method route
+      - **Q-S-GEOMETRY-INTERSECTING** (Quant/DERIVED, L3, ord:103, q:4)
+        - Topic: Geometry
+        - Subtopic: Intersecting chords theorem
+        - **Q-M-GEOMETRY-INTERSECTI-AB-CD** (Quant/DERIVED, L4, ord:324, q:4)
+          - Topic: Geometry
+          - Subtopic: Intersecting chords theorem
+          - Micro: a×b = c×d
+          - **Q-A-INTERSECTING-CHO** (Quant/PROCEDURAL, L5, ord:528, q:4)
+            - Topic: Geometry
+            - Subtopic: Intersecting chords theorem
+            - Micro: a×b = c×d
+            - **Q-V-INTERSECTING-T0** (Quant/DERIVED, L6, ord:724, q:4)
+              - Topic: Geometry
+              - Subtopic: Intersecting chords theorem
+              - Micro: Trap: Adding segments
+            - **Q-V-INTERSECTING-M** (Quant/DERIVED, L6, ord:927, q:0)
+              - Topic: Geometry
+              - Subtopic: Intersecting chords theorem
+              - Micro: Method route
+      - **Q-S-GEOMETRY-CHORD-OF-LAR** (Quant/DERIVED, L3, ord:112, q:3)
+        - Topic: Geometry
+        - Subtopic: Chord of larger touching smaller circle
+        - **Q-M-GEOMETRY-CHORD-OF-L-TANGENT-CH** (Quant/DERIVED, L4, ord:337, q:3)
+          - Topic: Geometry
+          - Subtopic: Chord of larger touching smaller circle
+          - Micro: tangent-chord ⟂ radius
+          - **Q-A-CHORD-OF-LARGER-** (Quant/PROCEDURAL, L5, ord:534, q:3)
+            - Topic: Geometry
+            - Subtopic: Chord of larger touching smaller circle
+            - Micro: tangent-chord ⟂ radius
+            - **Q-V-CHORD-OF-LAR-T0** (Quant/DERIVED, L6, ord:730, q:3)
+              - Topic: Geometry
+              - Subtopic: Chord of larger touching smaller circle
+              - Micro: Trap: Using diameter as chord
+            - **Q-V-CHORD-OF-LAR-M** (Quant/DERIVED, L6, ord:848, q:0)
+              - Topic: Geometry
+              - Subtopic: Chord of larger touching smaller circle
+              - Micro: Method route
+      - **Q-S-GEOMETRY-TRIANGLE-VAL** (Quant/DERIVED, L3, ord:113, q:3)
+        - Topic: Geometry
+        - Subtopic: Triangle validation
+        - **Q-M-GEOMETRY-TRIANGLE-V-PYTHAGORAS** (Quant/DERIVED, L4, ord:339, q:3)
+          - Topic: Geometry
+          - Subtopic: Triangle validation
+          - Micro: Pythagoras + angle sum
+          - **Q-A-TRIANGLE-VALIDAT** (Quant/PROCEDURAL, L5, ord:543, q:3)
+            - Topic: Geometry
+            - Subtopic: Triangle validation
+            - Micro: Pythagoras + angle sum
+            - **Q-V-TRIANGLE-VAL-T0** (Quant/DERIVED, L6, ord:739, q:3)
+              - Topic: Geometry
+              - Subtopic: Triangle validation
+              - Micro: Trap: Unsorted sides
+            - **Q-V-TRIANGLE-VAL-M** (Quant/DERIVED, L6, ord:1007, q:0)
+              - Topic: Geometry
+              - Subtopic: Triangle validation
+              - Micro: Method route
+      - **Q-S-GEOMETRY-TRIANGLE-CON** (Quant/DERIVED, L3, ord:114, q:32)
+        - Topic: Geometry
+        - Subtopic: Triangle congruence / similarity / angle-ratio
+        - **Q-M-GEOMETRY-TRIANGLE-C-SSS-SAS-AS** (Quant/DERIVED, L4, ord:251, q:32)
+          - Topic: Geometry
+          - Subtopic: Triangle congruence / similarity / angle-ratio
+          - Micro: SSS/SAS/ASA/RHS; angle sum 180
+          - **Q-A-TRIANGLE-CONGRUE** (Quant/PROCEDURAL, L5, ord:448, q:32)
+            - Topic: Geometry
+            - Subtopic: Triangle congruence / similarity / angle-ratio
+            - Micro: SSS/SAS/ASA/RHS; angle sum 180
+            - **Q-V-TRIANGLE-CON-T0** (Quant/DERIVED, L6, ord:644, q:32)
+              - Topic: Geometry
+              - Subtopic: Triangle congruence / similarity / angle-ratio
+              - Micro: Trap: AAA as congruence
+            - **Q-V-TRIANGLE-CON-M** (Quant/DERIVED, L6, ord:1005, q:0)
+              - Topic: Geometry
+              - Subtopic: Triangle congruence / similarity / angle-ratio
+              - Micro: Method route
+      - **Q-S-GEOMETRY-MEDIANS-CENT** (Quant/DERIVED, L3, ord:115, q:14)
+        - Topic: Geometry
+        - Subtopic: Medians/centroid/altitude
+        - **Q-M-GEOMETRY-MEDIANS-CE-2-1-CENTRO** (Quant/DERIVED, L4, ord:275, q:14)
+          - Topic: Geometry
+          - Subtopic: Medians/centroid/altitude
+          - Micro: 2:1 centroid split
+          - **Q-A-MEDIANS-CENTROID** (Quant/PROCEDURAL, L5, ord:473, q:14)
+            - Topic: Geometry
+            - Subtopic: Medians/centroid/altitude
+            - Micro: 2:1 centroid split
+            - **Q-V-MEDIANS-CENT-T0** (Quant/DERIVED, L6, ord:669, q:14)
+              - Topic: Geometry
+              - Subtopic: Medians/centroid/altitude
+              - Micro: Trap: Midpoint = half hypotenuse confusion
+            - **Q-V-MEDIANS-CENT-M** (Quant/DERIVED, L6, ord:933, q:0)
+              - Topic: Geometry
+              - Subtopic: Medians/centroid/altitude
+              - Micro: Method route
+      - **Q-S-GEOMETRY-EXTERIOR-ANG** (Quant/DERIVED, L3, ord:116, q:10)
+        - Topic: Geometry
+        - Subtopic: Exterior-angle theorem
+        - **Q-M-GEOMETRY-EXTERIOR-A-EXT-SUM-OF** (Quant/DERIVED, L4, ord:288, q:10)
+          - Topic: Geometry
+          - Subtopic: Exterior-angle theorem
+          - Micro: ext = sum of opposites
+          - **Q-A-EXTERIOR-ANGLE-T** (Quant/PROCEDURAL, L5, ord:486, q:10)
+            - Topic: Geometry
+            - Subtopic: Exterior-angle theorem
+            - Micro: ext = sum of opposites
+            - **Q-V-EXTERIOR-ANG-T0** (Quant/DERIVED, L6, ord:682, q:10)
+              - Topic: Geometry
+              - Subtopic: Exterior-angle theorem
+              - Micro: Trap: Linear-pair mixup
+            - **Q-V-EXTERIOR-ANG-M** (Quant/DERIVED, L6, ord:901, q:0)
+              - Topic: Geometry
+              - Subtopic: Exterior-angle theorem
+              - Micro: Method route
+      - **Q-S-GEOMETRY-ANGLE-SPLIT-** (Quant/DERIVED, L3, ord:118, q:3)
+        - Topic: Geometry
+        - Subtopic: Angle-split equation
+        - **Q-M-GEOMETRY-ANGLE-SPLI-SUM-TO-180** (Quant/COMBINATIONAL, L4, ord:336, q:3)
+          - Topic: Geometry
+          - Subtopic: Angle-split equation
+          - Micro: sum to 180
+          - **Q-A-ANGLE-SPLIT-EQUA** (Quant/COMBINATIONAL, L5, ord:532, q:3)
+            - Topic: Geometry
+            - Subtopic: Angle-split equation
+            - Micro: sum to 180
+            - **Q-V-ANGLE-SPLIT--T0** (Quant/DERIVED, L6, ord:728, q:3)
+              - Topic: Geometry
+              - Subtopic: Angle-split equation
+              - Micro: Trap: Wrong total
+            - **Q-V-ANGLE-SPLIT--M** (Quant/DERIVED, L6, ord:829, q:0)
+              - Topic: Geometry
+              - Subtopic: Angle-split equation
+              - Micro: Method route
+      - **Q-S-GEOMETRY-ISOSCELES-TR** (Quant/DERIVED, L3, ord:119, q:3)
+        - Topic: Geometry
+        - Subtopic: Isosceles triangle angles
+        - **Q-M-GEOMETRY-ISOSCELES--BASE-ANGLE** (Quant/DERIVED, L4, ord:338, q:3)
+          - Topic: Geometry
+          - Subtopic: Isosceles triangle angles
+          - Micro: base angles equal
+          - **Q-A-ISOSCELES-TRIANG** (Quant/PROCEDURAL, L5, ord:537, q:3)
+            - Topic: Geometry
+            - Subtopic: Isosceles triangle angles
+            - Micro: base angles equal
+            - **Q-V-ISOSCELES-TR-T0** (Quant/DERIVED, L6, ord:733, q:3)
+              - Topic: Geometry
+              - Subtopic: Isosceles triangle angles
+              - Micro: Trap: Equilateral assumption
+            - **Q-V-ISOSCELES-TR-M** (Quant/DERIVED, L6, ord:928, q:0)
+              - Topic: Geometry
+              - Subtopic: Isosceles triangle angles
+              - Micro: Method route
+      - **Q-S-GEOMETRY-CLASSIFY-TRI** (Quant/DERIVED, L3, ord:132, q:2)
+        - Topic: Geometry
+        - Subtopic: Classify triangle by sides
+        - **Q-M-GEOMETRY-CLASSIFY-T-C2-VS-A2-B** (Quant/DERIVED, L4, ord:350, q:2)
+          - Topic: Geometry
+          - Subtopic: Classify triangle by sides
+          - Micro: c² vs a²+b²
+          - **Q-A-CLASSIFY-TRIANGL** (Quant/PROCEDURAL, L5, ord:550, q:2)
+            - Topic: Geometry
+            - Subtopic: Classify triangle by sides
+            - Micro: c² vs a²+b²
+            - **Q-V-CLASSIFY-TRI-T0** (Quant/DERIVED, L6, ord:746, q:2)
+              - Topic: Geometry
+              - Subtopic: Classify triangle by sides
+              - Micro: Trap: Assuming right angle
+            - **Q-V-CLASSIFY-TRI-M** (Quant/DERIVED, L6, ord:854, q:0)
+              - Topic: Geometry
+              - Subtopic: Classify triangle by sides
+              - Micro: Method route
+      - **Q-S-GEOMETRY-CLOCK-ANGLE** (Quant/DERIVED, L3, ord:133, q:2)
+        - Topic: Geometry
+        - Subtopic: Clock angle
+        - **Q-M-GEOMETRY-CLOCK-ANGL-0-5-MIN-6-** (Quant/DERIVED, L4, ord:351, q:2)
+          - Topic: Geometry
+          - Subtopic: Clock angle
+          - Micro: 0.5°/min & 6°/min
+          - **Q-A-CLOCK-ANGLE** (Quant/PROCEDURAL, L5, ord:551, q:2)
+            - Topic: Geometry
+            - Subtopic: Clock angle
+            - Micro: 0.5°/min & 6°/min
+            - **Q-V-CLOCK-ANGLE-T0** (Quant/DERIVED, L6, ord:747, q:2)
+              - Topic: Geometry
+              - Subtopic: Clock angle
+              - Micro: Trap: Hour-hand freeze
+            - **Q-V-CLOCK-ANGLE-M** (Quant/DERIVED, L6, ord:855, q:0)
+              - Topic: Geometry
+              - Subtopic: Clock angle
+              - Micro: Method route
+      - **Q-S-GEOMETRY-COLLINEARITY** (Quant/DERIVED, L3, ord:134, q:2)
+        - Topic: Geometry
+        - Subtopic: Collinearity / degenerate triangle
+        - **Q-M-GEOMETRY-COLLINEARI-SUM-CHECK** (Quant/DERIVED, L4, ord:352, q:2)
+          - Topic: Geometry
+          - Subtopic: Collinearity / degenerate triangle
+          - Micro: sum-check
+          - **Q-A-COLLINEARITY-DEG** (Quant/PROCEDURAL, L5, ord:552, q:2)
+            - Topic: Geometry
+            - Subtopic: Collinearity / degenerate triangle
+            - Micro: sum-check
+            - **Q-V-COLLINEARITY-T0** (Quant/DERIVED, L6, ord:748, q:2)
+              - Topic: Geometry
+              - Subtopic: Collinearity / degenerate triangle
+              - Micro: Trap: Assuming triangle
+            - **Q-V-COLLINEARITY-M** (Quant/DERIVED, L6, ord:858, q:0)
+              - Topic: Geometry
+              - Subtopic: Collinearity / degenerate triangle
+              - Micro: Method route
+      - **Q-S-GEOMETRY-CONCENTRIC-C** (Quant/DERIVED, L3, ord:135, q:2)
+        - Topic: Geometry
+        - Subtopic: Concentric-circle chord relation
+        - **Q-M-GEOMETRY-CONCENTRIC-R2-D2-SHAR** (Quant/DERIVED, L4, ord:353, q:2)
+          - Topic: Geometry
+          - Subtopic: Concentric-circle chord relation
+          - Micro: r2 - d2 shared
+          - **Q-A-CONCENTRIC-CIRCL** (Quant/PROCEDURAL, L5, ord:553, q:2)
+            - Topic: Geometry
+            - Subtopic: Concentric-circle chord relation
+            - Micro: r2 - d2 shared
+            - **Q-V-CONCENTRIC-C-T0** (Quant/DERIVED, L6, ord:749, q:2)
+              - Topic: Geometry
+              - Subtopic: Concentric-circle chord relation
+              - Micro: Trap: Full chord squares
+            - **Q-V-CONCENTRIC-C-M** (Quant/DERIVED, L6, ord:865, q:0)
+              - Topic: Geometry
+              - Subtopic: Concentric-circle chord relation
+              - Micro: Method route
+      - **Q-S-GEOMETRY-CONGRUENCE-S** (Quant/DERIVED, L3, ord:136, q:2)
+        - Topic: Geometry
+        - Subtopic: Congruence -> solve for unknowns
+        - **Q-M-GEOMETRY-CONGRUENCE-CORRESPOND** (Quant/COMBINATIONAL, L4, ord:354, q:2)
+          - Topic: Geometry
+          - Subtopic: Congruence -> solve for unknowns
+          - Micro: corresponding parts equal
+          - **Q-A-CONGRUENCE-SOLVE** (Quant/COMBINATIONAL, L5, ord:554, q:2)
+            - Topic: Geometry
+            - Subtopic: Congruence -> solve for unknowns
+            - Micro: corresponding parts equal
+            - **Q-V-CONGRUENCE-S-T0** (Quant/DERIVED, L6, ord:750, q:2)
+              - Topic: Geometry
+              - Subtopic: Congruence -> solve for unknowns
+              - Micro: Trap: Wrong pairing
+            - **Q-V-CONGRUENCE-S-M** (Quant/DERIVED, L6, ord:866, q:0)
+              - Topic: Geometry
+              - Subtopic: Congruence -> solve for unknowns
+              - Micro: Method route
+      - **Q-S-GEOMETRY-EQUAL-CHORD-** (Quant/DERIVED, L3, ord:137, q:2)
+        - Topic: Geometry
+        - Subtopic: Equal-chord / overlapping-circle geometry
+        - **Q-M-GEOMETRY-EQUAL-CHOR-EQUILATERA** (Quant/DERIVED, L4, ord:355, q:2)
+          - Topic: Geometry
+          - Subtopic: Equal-chord / overlapping-circle geometry
+          - Micro: equilateral triangles
+          - **Q-A-EQUAL-CHORD-OVER** (Quant/PROCEDURAL, L5, ord:557, q:2)
+            - Topic: Geometry
+            - Subtopic: Equal-chord / overlapping-circle geometry
+            - Micro: equilateral triangles
+            - **Q-V-EQUAL-CHORD--T0** (Quant/DERIVED, L6, ord:753, q:2)
+              - Topic: Geometry
+              - Subtopic: Equal-chord / overlapping-circle geometry
+              - Micro: Trap: Radius as chord
+            - **Q-V-EQUAL-CHORD--M** (Quant/DERIVED, L6, ord:895, q:0)
+              - Topic: Geometry
+              - Subtopic: Equal-chord / overlapping-circle geometry
+              - Micro: Method route
+      - **Q-S-GEOMETRY-SEGMENT-LENG** (Quant/DERIVED, L3, ord:138, q:2)
+        - Topic: Geometry
+        - Subtopic: Segment length % change
+        - **Q-M-GEOMETRY-SEGMENT-LE-ON-LENGTHS** (Quant/DERIVED, L4, ord:356, q:2)
+          - Topic: Geometry
+          - Subtopic: Segment length % change
+          - Micro: % on lengths
+          - **Q-A-SEGMENT-LENGTH-C** (Quant/PROCEDURAL, L5, ord:566, q:2)
+            - Topic: Geometry
+            - Subtopic: Segment length % change
+            - Micro: % on lengths
+            - **Q-V-SEGMENT-LENG-T0** (Quant/DERIVED, L6, ord:762, q:2)
+              - Topic: Geometry
+              - Subtopic: Segment length % change
+              - Micro: Trap: Whole-line base
+            - **Q-V-SEGMENT-LENG-M** (Quant/DERIVED, L6, ord:977, q:0)
+              - Topic: Geometry
+              - Subtopic: Segment length % change
+              - Micro: Method route
+      - **Q-S-GEOMETRY-GEOMETRY-DEF** (Quant/DERIVED, L3, ord:177, q:1)
+        - Topic: Geometry
+        - Subtopic: Geometry definition / fact recall
+        - **Q-M-GEOMETRY-GEOMETRY-D-TERMINOLOG** (Quant/RECALL, L4, ord:383, q:1)
+          - Topic: Geometry
+          - Subtopic: Geometry definition / fact recall
+          - Micro: terminology
+          - **Q-A-GEOMETRY-DEFINIT** (Quant/RECALL, L5, ord:594, q:1)
+            - Topic: Geometry
+            - Subtopic: Geometry definition / fact recall
+            - Micro: terminology
+            - **Q-V-GEOMETRY-DEF-T0** (Quant/DERIVED, L6, ord:790, q:1)
+              - Topic: Geometry
+              - Subtopic: Geometry definition / fact recall
+              - Micro: Trap: Overthinking
+            - **Q-V-GEOMETRY-DEF-M** (Quant/DERIVED, L6, ord:920, q:0)
+              - Topic: Geometry
+              - Subtopic: Geometry definition / fact recall
+              - Micro: Method route
+      - **Q-S-GEOMETRY-MUTUALLY-TOU** (Quant/DERIVED, L3, ord:178, q:1)
+        - Topic: Geometry
+        - Subtopic: Mutually touching circles
+        - **Q-M-GEOMETRY-MUTUALLY-T-CENTRES-TR** (Quant/DERIVED, L4, ord:384, q:1)
+          - Topic: Geometry
+          - Subtopic: Mutually touching circles
+          - Micro: centres-triangle / sum-difference
+          - **Q-A-MUTUALLY-TOUCHIN** (Quant/PROCEDURAL, L5, ord:599, q:1)
+            - Topic: Geometry
+            - Subtopic: Mutually touching circles
+            - Micro: centres-triangle / sum-difference
+            - **Q-V-MUTUALLY-TOU-T0** (Quant/DERIVED, L6, ord:795, q:1)
+              - Topic: Geometry
+              - Subtopic: Mutually touching circles
+              - Micro: Trap: Radius vs diameter
+            - **Q-V-MUTUALLY-TOU-M** (Quant/DERIVED, L6, ord:942, q:0)
+              - Topic: Geometry
+              - Subtopic: Mutually touching circles
+              - Micro: Method route
+      - **Q-S-GEOMETRY-STRAIGHT-LIN** (Quant/DERIVED, L3, ord:179, q:1)
+        - Topic: Geometry
+        - Subtopic: Straight-line incidence facts
+        - **Q-M-GEOMETRY-STRAIGHT-L-DEFINITION** (Quant/DERIVED, L4, ord:385, q:1)
+          - Topic: Geometry
+          - Subtopic: Straight-line incidence facts
+          - Micro: definitions
+          - **Q-A-STRAIGHT-LINE-IN** (Quant/PROCEDURAL, L5, ord:618, q:1)
+            - Topic: Geometry
+            - Subtopic: Straight-line incidence facts
+            - Micro: definitions
+            - **Q-V-STRAIGHT-LIN-T0** (Quant/DERIVED, L6, ord:814, q:1)
+              - Topic: Geometry
+              - Subtopic: Straight-line incidence facts
+              - Micro: Trap: One point for all
+            - **Q-V-STRAIGHT-LIN-M** (Quant/DERIVED, L6, ord:990, q:0)
+              - Topic: Geometry
+              - Subtopic: Straight-line incidence facts
+              - Micro: Method route
+      - **Q-S-GEOMETRY-TRIANGLE-INE** (Quant/DERIVED, L3, ord:180, q:1)
+        - Topic: Geometry
+        - Subtopic: Triangle-inequality counting
+        - **Q-M-GEOMETRY-TRIANGLE-I-SUM-OF-TWO** (Quant/DERIVED, L4, ord:386, q:1)
+          - Topic: Geometry
+          - Subtopic: Triangle-inequality counting
+          - Micro: sum of two > third
+          - **Q-A-TRIANGLE-INEQUAL** (Quant/PROCEDURAL, L5, ord:626, q:1)
+            - Topic: Geometry
+            - Subtopic: Triangle-inequality counting
+            - Micro: sum of two > third
+            - **Q-V-TRIANGLE-INE-T0** (Quant/DERIVED, L6, ord:822, q:1)
+              - Topic: Geometry
+              - Subtopic: Triangle-inequality counting
+              - Micro: Trap: Inclusive bounds
+            - **Q-V-TRIANGLE-INE-M** (Quant/DERIVED, L6, ord:1006, q:0)
+              - Topic: Geometry
+              - Subtopic: Triangle-inequality counting
+              - Micro: Method route
+    - **Q-T-TRIGONOMETRY-H** (Quant/DERIVED, L2, ord:28, q:139)
+      - Topic: Trigonometry & Heights
+      - Domain: Geometry, Mensuration & Trigonometry
+      - **Q-S-TRIGONOMET-GENERAL-TRIG** (Quant/DERIVED, L3, ord:41, q:52)
+        - Topic: Trigonometry & Heights
+        - Subtopic: General trig computation
+        - **Q-M-TRIGONOM-GENERAL-TR-IDENTITIES** (Quant/DERIVED, L4, ord:240, q:52)
+          - Topic: Trigonometry & Heights
+          - Subtopic: General trig computation
+          - Micro: identities/values
+          - **Q-A-GENERAL-TRIG-COM** (Quant/DERIVED, L5, ord:437, q:52)
+            - Topic: Trigonometry & Heights
+            - Subtopic: General trig computation
+            - Micro: identities/values
+            - **Q-V-GENERAL-TRIG-T0** (Quant/DERIVED, L6, ord:633, q:52)
+              - Topic: Trigonometry & Heights
+              - Subtopic: General trig computation
+              - Micro: Trap: Radian–degree mix
+            - **Q-V-GENERAL-TRIG-M** (Quant/DERIVED, L6, ord:918, q:0)
+              - Topic: Trigonometry & Heights
+              - Subtopic: General trig computation
+              - Micro: Method route
+      - **Q-S-TRIGONOMET-STANDARD-VAL** (Quant/DERIVED, L3, ord:58, q:15)
+        - Topic: Trigonometry & Heights
+        - Subtopic: Standard-value & single-variable conversion
+        - **Q-M-TRIGONOM-STANDARD-V-SEC2TAN2-1** (Quant/DERIVED, L4, ord:274, q:15)
+          - Topic: Trigonometry & Heights
+          - Subtopic: Standard-value & single-variable conversion
+          - Micro: sec²−tan²=1; std values
+          - **Q-A-STANDARD-VALUE-S** (Quant/PROCEDURAL, L5, ord:471, q:15)
+            - Topic: Trigonometry & Heights
+            - Subtopic: Standard-value & single-variable conversion
+            - Micro: sec²−tan²=1; std values
+            - **Q-V-STANDARD-VAL-T0** (Quant/DERIVED, L6, ord:667, q:15)
+              - Topic: Trigonometry & Heights
+              - Subtopic: Standard-value & single-variable conversion
+              - Micro: Trap: Sign/root slip
+            - **Q-V-STANDARD-VAL-M** (Quant/DERIVED, L6, ord:989, q:0)
+              - Topic: Trigonometry & Heights
+              - Subtopic: Standard-value & single-variable conversion
+              - Micro: Method route
+      - **Q-S-TRIGONOMET-HEIGHTS-DIST** (Quant/DERIVED, L3, ord:59, q:18)
+        - Topic: Trigonometry & Heights
+        - Subtopic: Heights & distances
+        - **Q-M-TRIGONOM-HEIGHTS-DI-TAN-H-D** (Quant/DERIVED, L4, ord:268, q:18)
+          - Topic: Trigonometry & Heights
+          - Subtopic: Heights & distances
+          - Micro: tan = h/d
+          - **Q-A-HEIGHTS-DISTANCE** (Quant/APPLICATION, L5, ord:465, q:18)
+            - Topic: Trigonometry & Heights
+            - Subtopic: Heights & distances
+            - Micro: tan = h/d
+            - **Q-V-HEIGHTS-DIST-T0** (Quant/DERIVED, L6, ord:661, q:18)
+              - Topic: Trigonometry & Heights
+              - Subtopic: Heights & distances
+              - Micro: Trap: Same-side subtraction miss
+            - **Q-V-HEIGHTS-DIST-M** (Quant/DERIVED, L6, ord:923, q:0)
+              - Topic: Trigonometry & Heights
+              - Subtopic: Heights & distances
+              - Micro: Method route
+      - **Q-S-TRIGONOMET-COMPLEMENTAR** (Quant/DERIVED, L3, ord:60, q:16)
+        - Topic: Trigonometry & Heights
+        - Subtopic: Complementary / homogeneous trig
+        - **Q-M-TRIGONOM-COMPLEMENT-SIN-90-COS** (Quant/DERIVED, L4, ord:271, q:16)
+          - Topic: Trigonometry & Heights
+          - Subtopic: Complementary / homogeneous trig
+          - Micro: sin(90−θ)=cosθ; ÷cos
+          - **Q-A-COMPLEMENTARY-HO** (Quant/PROCEDURAL, L5, ord:468, q:16)
+            - Topic: Trigonometry & Heights
+            - Subtopic: Complementary / homogeneous trig
+            - Micro: sin(90−θ)=cosθ; ÷cos
+            - **Q-V-COMPLEMENTAR-T0** (Quant/DERIVED, L6, ord:664, q:16)
+              - Topic: Trigonometry & Heights
+              - Subtopic: Complementary / homogeneous trig
+              - Micro: Trap: Degree arithmetic slip
+            - **Q-V-COMPLEMENTAR-M** (Quant/DERIVED, L6, ord:863, q:0)
+              - Topic: Trigonometry & Heights
+              - Subtopic: Complementary / homogeneous trig
+              - Micro: Method route
+      - **Q-S-TRIGONOMET-CO-TERMINAL-** (Quant/DERIVED, L3, ord:61, q:14)
+        - Topic: Trigonometry & Heights
+        - Subtopic: Co-terminal angles & radian conversion
+        - **Q-M-TRIGONOM-CO-TERMINA-MOD-360-18** (Quant/DERIVED, L4, ord:276, q:14)
+          - Topic: Trigonometry & Heights
+          - Subtopic: Co-terminal angles & radian conversion
+          - Micro: mod 360; π=180°
+          - **Q-A-CO-TERMINAL-ANGL** (Quant/PROCEDURAL, L5, ord:472, q:14)
+            - Topic: Trigonometry & Heights
+            - Subtopic: Co-terminal angles & radian conversion
+            - Micro: mod 360; π=180°
+            - **Q-V-CO-TERMINAL--T0** (Quant/DERIVED, L6, ord:668, q:14)
+              - Topic: Trigonometry & Heights
+              - Subtopic: Co-terminal angles & radian conversion
+              - Micro: Trap: Forgetting sign of angle
+            - **Q-V-CO-TERMINAL--M** (Quant/DERIVED, L6, ord:856, q:0)
+              - Topic: Trigonometry & Heights
+              - Subtopic: Co-terminal angles & radian conversion
+              - Micro: Method route
+      - **Q-S-TRIGONOMET-SECANT-TANGE** (Quant/DERIVED, L3, ord:76, q:8)
+        - Topic: Trigonometry & Heights
+        - Subtopic: Secant-tangent power of a point
+        - **Q-M-TRIGONOM-SECANT-TAN-EXTERNAL-S** (Quant/DERIVED, L4, ord:298, q:8)
+          - Topic: Trigonometry & Heights
+          - Subtopic: Secant-tangent power of a point
+          - Micro: external segments product
+          - **Q-A-SECANT-TANGENT-P** (Quant/PROCEDURAL, L5, ord:494, q:8)
+            - Topic: Trigonometry & Heights
+            - Subtopic: Secant-tangent power of a point
+            - Micro: external segments product
+            - **Q-V-SECANT-TANGE-T0** (Quant/DERIVED, L6, ord:690, q:8)
+              - Topic: Trigonometry & Heights
+              - Subtopic: Secant-tangent power of a point
+              - Micro: Trap: Adding segments
+            - **Q-V-SECANT-TANGE-M** (Quant/DERIVED, L6, ord:976, q:0)
+              - Topic: Trigonometry & Heights
+              - Subtopic: Secant-tangent power of a point
+              - Micro: Method route
+      - **Q-S-TRIGONOMET-SEC-TAN-PAIR** (Quant/DERIVED, L3, ord:87, q:6)
+        - Topic: Trigonometry & Heights
+        - Subtopic: sec-tan pair conversion
+        - **Q-M-TRIGONOM-SEC-TAN-PA-SEC2-TAN2-** (Quant/DERIVED, L4, ord:313, q:6)
+          - Topic: Trigonometry & Heights
+          - Subtopic: sec-tan pair conversion
+          - Micro: sec2-tan2 = 1
+          - **Q-A-SEC-TAN-PAIR-CON** (Quant/PROCEDURAL, L5, ord:508, q:6)
+            - Topic: Trigonometry & Heights
+            - Subtopic: sec-tan pair conversion
+            - Micro: sec2-tan2 = 1
+            - **Q-V-SEC-TAN-PAIR-T0** (Quant/DERIVED, L6, ord:704, q:6)
+              - Topic: Trigonometry & Heights
+              - Subtopic: sec-tan pair conversion
+              - Micro: Trap: Squaring blindly
+            - **Q-V-SEC-TAN-PAIR-M** (Quant/DERIVED, L6, ord:975, q:0)
+              - Topic: Trigonometry & Heights
+              - Subtopic: sec-tan pair conversion
+              - Micro: Method route
+      - **Q-S-TRIGONOMET-DOUBLE-ANGLE** (Quant/DERIVED, L3, ord:152, q:2)
+        - Topic: Trigonometry & Heights
+        - Subtopic: Double-angle chain
+        - **Q-M-TRIGONOM-DOUBLE-ANG-COS2-1-SIN** (Quant/COMBINATIONAL, L4, ord:374, q:2)
+          - Topic: Trigonometry & Heights
+          - Subtopic: Double-angle chain
+          - Micro: cos2 = 1 - sin2
+          - **Q-A-DOUBLE-ANGLE-CHA** (Quant/COMBINATIONAL, L5, ord:555, q:2)
+            - Topic: Trigonometry & Heights
+            - Subtopic: Double-angle chain
+            - Micro: cos2 = 1 - sin2
+            - **Q-V-DOUBLE-ANGLE-T0** (Quant/DERIVED, L6, ord:751, q:2)
+              - Topic: Trigonometry & Heights
+              - Subtopic: Double-angle chain
+              - Micro: Trap: Degree doubling error
+            - **Q-V-DOUBLE-ANGLE-M** (Quant/DERIVED, L6, ord:889, q:0)
+              - Topic: Trigonometry & Heights
+              - Subtopic: Double-angle chain
+              - Micro: Method route
+      - **Q-S-TRIGONOMET-HOMOGENEOUS-** (Quant/DERIVED, L3, ord:153, q:2)
+        - Topic: Trigonometry & Heights
+        - Subtopic: Homogeneous cubic trig identity
+        - **Q-M-TRIGONOM-HOMOGENEOU-DIVIDE-BY-** (Quant/DERIVED, L4, ord:375, q:2)
+          - Topic: Trigonometry & Heights
+          - Subtopic: Homogeneous cubic trig identity
+          - Micro: divide by cos-cubed
+          - **Q-A-HOMOGENEOUS-CUBI** (Quant/PROCEDURAL, L5, ord:563, q:2)
+            - Topic: Trigonometry & Heights
+            - Subtopic: Homogeneous cubic trig identity
+            - Micro: divide by cos-cubed
+            - **Q-V-HOMOGENEOUS--T0** (Quant/DERIVED, L6, ord:759, q:2)
+              - Topic: Trigonometry & Heights
+              - Subtopic: Homogeneous cubic trig identity
+              - Micro: Trap: Degree-radian mix
+            - **Q-V-HOMOGENEOUS--M** (Quant/DERIVED, L6, ord:924, q:0)
+              - Topic: Trigonometry & Heights
+              - Subtopic: Homogeneous cubic trig identity
+              - Micro: Method route
+      - **Q-S-TRIGONOMET-TAN** (Quant/DERIVED, L3, ord:154, q:2)
+        - Topic: Trigonometry & Heights
+        - Subtopic: tan
+        - **Q-M-TRIGONOM-TAN-TAN-DIFFER** (Quant/DERIVED, L4, ord:376, q:2)
+          - Topic: Trigonometry & Heights
+          - Subtopic: tan
+          - Micro: tan difference
+          - **Q-A-TAN-A-B-EXPANSIO** (Quant/PROCEDURAL, L5, ord:568, q:2)
+            - Topic: Trigonometry & Heights
+            - Subtopic: tan
+            - Micro: tan difference
+            - **Q-V-TAN-A-B-EXPA-T0** (Quant/DERIVED, L6, ord:764, q:2)
+              - Topic: Trigonometry & Heights
+              - Subtopic: tan
+              - Micro: Trap: Computing separately
+            - **Q-V-TAN-A-B-EXPA-M** (Quant/DERIVED, L6, ord:997, q:0)
+              - Topic: Trigonometry & Heights
+              - Subtopic: tan
+              - Micro: Method route
+      - **Q-S-TRIGONOMET-ANGLE-WHERE-** (Quant/DERIVED, L3, ord:232, q:1)
+        - Topic: Trigonometry & Heights
+        - Subtopic: Angle where sin = cos
+        - **Q-M-TRIGONOM-ANGLE-WHER-45-DEGREE-** (Quant/DERIVED, L4, ord:429, q:1)
+          - Topic: Trigonometry & Heights
+          - Subtopic: Angle where sin = cos
+          - Micro: 45-degree fact
+          - **Q-A-ANGLE-WHERE-SIN-** (Quant/PROCEDURAL, L5, ord:574, q:1)
+            - Topic: Trigonometry & Heights
+            - Subtopic: Angle where sin = cos
+            - Micro: 45-degree fact
+            - **Q-V-ANGLE-WHERE--T0** (Quant/DERIVED, L6, ord:770, q:1)
+              - Topic: Trigonometry & Heights
+              - Subtopic: Angle where sin = cos
+              - Micro: Trap: 0-degree guess
+            - **Q-V-ANGLE-WHERE--M** (Quant/DERIVED, L6, ord:830, q:0)
+              - Topic: Trigonometry & Heights
+              - Subtopic: Angle where sin = cos
+              - Micro: Method route
+      - **Q-S-TRIGONOMET-COMPLEMENTAR-2** (Quant/DERIVED, L3, ord:233, q:1)
+        - Topic: Trigonometry & Heights
+        - Subtopic: Complementary equation solve
+        - **Q-M-TRIGONOM-COMPLEMENT-SIN-COS-90** (Quant/DERIVED, L4, ord:430, q:1)
+          - Topic: Trigonometry & Heights
+          - Subtopic: Complementary equation solve
+          - Micro: sin = cos(90-.)
+          - **Q-A-COMPLEMENTARY-EQ** (Quant/PROCEDURAL, L5, ord:579, q:1)
+            - Topic: Trigonometry & Heights
+            - Subtopic: Complementary equation solve
+            - Micro: sin = cos(90-.)
+            - **Q-V-COMPLEMENTAR-T0-2** (Quant/DERIVED, L6, ord:775, q:1)
+              - Topic: Trigonometry & Heights
+              - Subtopic: Complementary equation solve
+              - Micro: Trap: Equating angles
+            - **Q-V-COMPLEMENTAR-M-2** (Quant/DERIVED, L6, ord:864, q:0)
+              - Topic: Trigonometry & Heights
+              - Subtopic: Complementary equation solve
+              - Micro: Method route
+      - **Q-S-TRIGONOMET-SPHERICAL-CO** (Quant/DERIVED, L3, ord:234, q:1)
+        - Topic: Trigonometry & Heights
+        - Subtopic: Spherical-coordinate identity
+        - **Q-M-TRIGONOM-SPHERICAL--SUMS-TO-R-** (Quant/DERIVED, L4, ord:431, q:1)
+          - Topic: Trigonometry & Heights
+          - Subtopic: Spherical-coordinate identity
+          - Micro: sums to r-squared
+          - **Q-A-SPHERICAL-COORDI** (Quant/PROCEDURAL, L5, ord:617, q:1)
+            - Topic: Trigonometry & Heights
+            - Subtopic: Spherical-coordinate identity
+            - Micro: sums to r-squared
+            - **Q-V-SPHERICAL-CO-T0** (Quant/DERIVED, L6, ord:813, q:1)
+              - Topic: Trigonometry & Heights
+              - Subtopic: Spherical-coordinate identity
+              - Micro: Trap: Expanding blindly
+            - **Q-V-SPHERICAL-CO-M** (Quant/DERIVED, L6, ord:987, q:0)
+              - Topic: Trigonometry & Heights
+              - Subtopic: Spherical-coordinate identity
+              - Micro: Method route
+      - **Q-S-TRIGONOMET-TRIG-ORDERIN** (Quant/DERIVED, L3, ord:235, q:1)
+        - Topic: Trigonometry & Heights
+        - Subtopic: Trig ordering / bounds in
+        - **Q-M-TRIGONOM-TRIG-ORDER-MONOTONIC-** (Quant/DERIVED, L4, ord:432, q:1)
+          - Topic: Trigonometry & Heights
+          - Subtopic: Trig ordering / bounds in
+          - Micro: monotonic segments
+          - **Q-A-TRIG-ORDERING-BO** (Quant/PROCEDURAL, L5, ord:627, q:1)
+            - Topic: Trigonometry & Heights
+            - Subtopic: Trig ordering / bounds in
+            - Micro: monotonic segments
+            - **Q-V-TRIG-ORDERIN-T0** (Quant/DERIVED, L6, ord:823, q:1)
+              - Topic: Trigonometry & Heights
+              - Subtopic: Trig ordering / bounds in
+              - Micro: Trap: Assuming linearity
+            - **Q-V-TRIG-ORDERIN-M** (Quant/DERIVED, L6, ord:1008, q:0)
+              - Topic: Trigonometry & Heights
+              - Subtopic: Trig ordering / bounds in
+              - Micro: Method route
+  - **Q-D-RATIO-PERCENTA** (Quant/DERIVED, L1, ord:6, q:0)
+    - Domain: Ratio, Percentage & Commercial Math
+    - **Q-T-PERCENTAGES-RA** (Quant/DERIVED, L2, ord:25, q:184)
+      - Topic: Percentages, Ratio & Proportion
+      - Domain: Ratio, Percentage & Commercial Math
+      - **Q-S-PERCENTAGE-GENERAL-RATI** (Quant/DERIVED, L3, ord:43, q:49)
+        - Topic: Percentages, Ratio & Proportion
+        - Subtopic: General %/ratio computation
+        - **Q-M-PERCENTA-GENERAL-RA-BASE-PARTS** (Quant/DERIVED, L4, ord:242, q:49)
+          - Topic: Percentages, Ratio & Proportion
+          - Subtopic: General %/ratio computation
+          - Micro: base & parts
+          - **Q-A-GENERAL-RATIO-CO** (Quant/DERIVED, L5, ord:439, q:49)
+            - Topic: Percentages, Ratio & Proportion
+            - Subtopic: General %/ratio computation
+            - Micro: base & parts
+            - **Q-V-GENERAL-RATI-T0** (Quant/DERIVED, L6, ord:635, q:49)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: General %/ratio computation
+              - Micro: Trap: Wrong base
+            - **Q-V-GENERAL-RATI-M** (Quant/DERIVED, L6, ord:916, q:0)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: General %/ratio computation
+              - Micro: Method route
+      - **Q-S-PERCENTAGE-RATIO-EXPRES** (Quant/DERIVED, L3, ord:46, q:40)
+        - Topic: Percentages, Ratio & Proportion
+        - Subtopic: Ratio expression evaluation
+        - **Q-M-PERCENTA-RATIO-EXPR-HOMOGENEOU** (Quant/DERIVED, L4, ord:248, q:40)
+          - Topic: Percentages, Ratio & Proportion
+          - Subtopic: Ratio expression evaluation
+          - Micro: homogeneous expression
+          - **Q-A-RATIO-EXPRESSION** (Quant/PROCEDURAL, L5, ord:445, q:40)
+            - Topic: Percentages, Ratio & Proportion
+            - Subtopic: Ratio expression evaluation
+            - Micro: homogeneous expression
+            - **Q-V-RATIO-EXPRES-T0** (Quant/DERIVED, L6, ord:641, q:40)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: Ratio expression evaluation
+              - Micro: Trap: Distributing ratio into sum
+            - **Q-V-RATIO-EXPRES-M** (Quant/DERIVED, L6, ord:964, q:0)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: Ratio expression evaluation
+              - Micro: Method route
+      - **Q-S-PERCENTAGE-INCOMEEXPEND** (Quant/DERIVED, L3, ord:55, q:23)
+        - Topic: Percentages, Ratio & Proportion
+        - Subtopic: Income–expenditure–savings / budget split
+        - **Q-M-PERCENTA-INCOMEEXPE-SAVINGS-RE** (Quant/COMBINATIONAL, L4, ord:264, q:23)
+          - Topic: Percentages, Ratio & Proportion
+          - Subtopic: Income–expenditure–savings / budget split
+          - Micro: savings residual
+          - **Q-A-INCOMEEXPENDITUR** (Quant/COMBINATIONAL, L5, ord:461, q:23)
+            - Topic: Percentages, Ratio & Proportion
+            - Subtopic: Income–expenditure–savings / budget split
+            - Micro: savings residual
+            - **Q-V-INCOMEEXPEND-T0** (Quant/DERIVED, L6, ord:657, q:23)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: Income–expenditure–savings / budget split
+              - Micro: Trap: Applying % to wrong base
+            - **Q-V-INCOMEEXPEND-M** (Quant/DERIVED, L6, ord:925, q:0)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: Income–expenditure–savings / budget split
+              - Micro: Method route
+      - **Q-S-PERCENTAGE-ELECTION-WIT** (Quant/DERIVED, L3, ord:66, q:11)
+        - Topic: Percentages, Ratio & Proportion
+        - Subtopic: Election with invalid/unpolled votes
+        - **Q-M-PERCENTA-ELECTION-W-VALID-VOTE** (Quant/DERIVED, L4, ord:284, q:11)
+          - Topic: Percentages, Ratio & Proportion
+          - Subtopic: Election with invalid/unpolled votes
+          - Micro: valid-vote base
+          - **Q-A-ELECTION-WITH-IN** (Quant/PROCEDURAL, L5, ord:481, q:11)
+            - Topic: Percentages, Ratio & Proportion
+            - Subtopic: Election with invalid/unpolled votes
+            - Micro: valid-vote base
+            - **Q-V-ELECTION-WIT-T0** (Quant/DERIVED, L6, ord:677, q:11)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: Election with invalid/unpolled votes
+              - Micro: Trap: Margin on total votes
+            - **Q-V-ELECTION-WIT-M** (Quant/DERIVED, L6, ord:894, q:0)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: Election with invalid/unpolled votes
+              - Micro: Method route
+      - **Q-S-PERCENTAGE-PROPORTION-M** (Quant/DERIVED, L3, ord:70, q:10)
+        - Topic: Percentages, Ratio & Proportion
+        - Subtopic: Proportion / mean proportional
+        - **Q-M-PERCENTA-PROPORTION-PRODUCT-OF** (Quant/DERIVED, L4, ord:289, q:10)
+          - Topic: Percentages, Ratio & Proportion
+          - Subtopic: Proportion / mean proportional
+          - Micro: product of extremes
+          - **Q-A-PROPORTION-MEAN-** (Quant/PROCEDURAL, L5, ord:487, q:10)
+            - Topic: Percentages, Ratio & Proportion
+            - Subtopic: Proportion / mean proportional
+            - Micro: product of extremes
+            - **Q-V-PROPORTION-M-T0** (Quant/DERIVED, L6, ord:683, q:10)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: Proportion / mean proportional
+              - Micro: Trap: Arithmetic mean
+            - **Q-V-PROPORTION-M-M** (Quant/DERIVED, L6, ord:956, q:0)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: Proportion / mean proportional
+              - Micro: Method route
+      - **Q-S-PERCENTAGE-CHAIN-RATIO-** (Quant/DERIVED, L3, ord:73, q:9)
+        - Topic: Percentages, Ratio & Proportion
+        - Subtopic: Chain ratio join
+        - **Q-M-PERCENTA-CHAIN-RATI-LCM-JOIN** (Quant/COMBINATIONAL, L4, ord:293, q:9)
+          - Topic: Percentages, Ratio & Proportion
+          - Subtopic: Chain ratio join
+          - Micro: LCM join
+          - **Q-A-CHAIN-RATIO-JOIN** (Quant/COMBINATIONAL, L5, ord:490, q:9)
+            - Topic: Percentages, Ratio & Proportion
+            - Subtopic: Chain ratio join
+            - Micro: LCM join
+            - **Q-V-CHAIN-RATIO--T0** (Quant/DERIVED, L6, ord:686, q:9)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: Chain ratio join
+              - Micro: Trap: Concatenating without scaling
+            - **Q-V-CHAIN-RATIO--M** (Quant/DERIVED, L6, ord:847, q:0)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: Chain ratio join
+              - Micro: Method route
+      - **Q-S-PERCENTAGE-DIVIDE-SUM-I** (Quant/DERIVED, L3, ord:77, q:7)
+        - Topic: Percentages, Ratio & Proportion
+        - Subtopic: Divide sum in ratio + expression
+        - **Q-M-PERCENTA-DIVIDE-SUM-RATIO-SHAR** (Quant/DERIVED, L4, ord:302, q:7)
+          - Topic: Percentages, Ratio & Proportion
+          - Subtopic: Divide sum in ratio + expression
+          - Micro: ratio shares
+          - **Q-A-DIVIDE-SUM-IN-RA** (Quant/PROCEDURAL, L5, ord:497, q:7)
+            - Topic: Percentages, Ratio & Proportion
+            - Subtopic: Divide sum in ratio + expression
+            - Micro: ratio shares
+            - **Q-V-DIVIDE-SUM-I-T0** (Quant/DERIVED, L6, ord:693, q:7)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: Divide sum in ratio + expression
+              - Micro: Trap: Wrong total parts
+            - **Q-V-DIVIDE-SUM-I-M** (Quant/DERIVED, L6, ord:886, q:0)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: Divide sum in ratio + expression
+              - Micro: Method route
+      - **Q-S-PERCENTAGE-REVERSE-PERC** (Quant/DERIVED, L3, ord:96, q:5)
+        - Topic: Percentages, Ratio & Proportion
+        - Subtopic: Reverse percentage
+        - **Q-M-PERCENTA-REVERSE-PE-BASE-SWITC** (Quant/DERIVED, L4, ord:318, q:5)
+          - Topic: Percentages, Ratio & Proportion
+          - Subtopic: Reverse percentage
+          - Micro: base switching
+          - **Q-A-REVERSE-PERCENTA** (Quant/PROCEDURAL, L5, ord:517, q:5)
+            - Topic: Percentages, Ratio & Proportion
+            - Subtopic: Reverse percentage
+            - Micro: base switching
+            - **Q-V-REVERSE-PERC-T0** (Quant/DERIVED, L6, ord:713, q:5)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: Reverse percentage
+              - Micro: Trap: Answering x% back
+            - **Q-V-REVERSE-PERC-M** (Quant/DERIVED, L6, ord:972, q:0)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: Reverse percentage
+              - Micro: Method route
+      - **Q-S-PERCENTAGE-SUCCESSIVE-I** (Quant/DERIVED, L3, ord:97, q:5)
+        - Topic: Percentages, Ratio & Proportion
+        - Subtopic: Successive % increase-decrease
+        - **Q-M-PERCENTA-SUCCESSIVE-CHAINED-CH** (Quant/COMBINATIONAL, L4, ord:319, q:5)
+          - Topic: Percentages, Ratio & Proportion
+          - Subtopic: Successive % increase-decrease
+          - Micro: chained % change
+          - **Q-A-SUCCESSIVE-INCRE** (Quant/COMBINATIONAL, L5, ord:518, q:5)
+            - Topic: Percentages, Ratio & Proportion
+            - Subtopic: Successive % increase-decrease
+            - Micro: chained % change
+            - **Q-V-SUCCESSIVE-I-T0** (Quant/DERIVED, L6, ord:714, q:5)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: Successive % increase-decrease
+              - Micro: Trap: Adding % points
+            - **Q-V-SUCCESSIVE-I-M** (Quant/DERIVED, L6, ord:994, q:0)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: Successive % increase-decrease
+              - Micro: Method route
+      - **Q-S-PERCENTAGE-BILLING-ORDE** (Quant/DERIVED, L3, ord:106, q:4)
+        - Topic: Percentages, Ratio & Proportion
+        - Subtopic: Billing / order-mix equation
+        - **Q-M-PERCENTA-BILLING-OR-ACTUAL-VS-** (Quant/DERIVED, L4, ord:328, q:4)
+          - Topic: Percentages, Ratio & Proportion
+          - Subtopic: Billing / order-mix equation
+          - Micro: actual vs billed
+          - **Q-A-BILLING-ORDER-MI** (Quant/PROCEDURAL, L5, ord:521, q:4)
+            - Topic: Percentages, Ratio & Proportion
+            - Subtopic: Billing / order-mix equation
+            - Micro: actual vs billed
+            - **Q-V-BILLING-ORDE-T0** (Quant/DERIVED, L6, ord:717, q:4)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: Billing / order-mix equation
+              - Micro: Trap: Swapped prices
+            - **Q-V-BILLING-ORDE-M** (Quant/DERIVED, L6, ord:837, q:0)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: Billing / order-mix equation
+              - Micro: Method route
+      - **Q-S-PERCENTAGE-COIN-COUNT-F** (Quant/DERIVED, L3, ord:107, q:4)
+        - Topic: Percentages, Ratio & Proportion
+        - Subtopic: Coin count from value ratio
+        - **Q-M-PERCENTA-COIN-COUNT-DENOMINATI** (Quant/DERIVED, L4, ord:329, q:4)
+          - Topic: Percentages, Ratio & Proportion
+          - Subtopic: Coin count from value ratio
+          - Micro: denomination weighting
+          - **Q-A-COIN-COUNT-FROM-** (Quant/PROCEDURAL, L5, ord:524, q:4)
+            - Topic: Percentages, Ratio & Proportion
+            - Subtopic: Coin count from value ratio
+            - Micro: denomination weighting
+            - **Q-V-COIN-COUNT-F-T0** (Quant/DERIVED, L6, ord:720, q:4)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: Coin count from value ratio
+              - Micro: Trap: Counting ratio as coins directly
+            - **Q-V-COIN-COUNT-F-M** (Quant/DERIVED, L6, ord:857, q:0)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: Coin count from value ratio
+              - Micro: Method route
+      - **Q-S-PERCENTAGE-COMPARE-VALU** (Quant/DERIVED, L3, ord:108, q:4)
+        - Topic: Percentages, Ratio & Proportion
+        - Subtopic: Compare % values / ratios
+        - **Q-M-PERCENTA-COMPARE-VA-EVALUATE-E** (Quant/DERIVED, L4, ord:330, q:4)
+          - Topic: Percentages, Ratio & Proportion
+          - Subtopic: Compare % values / ratios
+          - Micro: evaluate each
+          - **Q-A-COMPARE-VALUES-R** (Quant/PROCEDURAL, L5, ord:525, q:4)
+            - Topic: Percentages, Ratio & Proportion
+            - Subtopic: Compare % values / ratios
+            - Micro: evaluate each
+            - **Q-V-COMPARE-VALU-T0** (Quant/DERIVED, L6, ord:721, q:4)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: Compare % values / ratios
+              - Micro: Trap: Comparing % ignoring base
+            - **Q-V-COMPARE-VALU-M** (Quant/DERIVED, L6, ord:862, q:0)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: Compare % values / ratios
+              - Micro: Method route
+      - **Q-S-PERCENTAGE-ONE-SIDE-ADD** (Quant/DERIVED, L3, ord:121, q:3)
+        - Topic: Percentages, Ratio & Proportion
+        - Subtopic: One-side addition
+        - **Q-M-PERCENTA-ONE-SIDE-A-RATIO-SHIF** (Quant/DERIVED, L4, ord:341, q:3)
+          - Topic: Percentages, Ratio & Proportion
+          - Subtopic: One-side addition
+          - Micro: ratio shift by count
+          - **Q-A-ONE-SIDE-ADDITIO** (Quant/PROCEDURAL, L5, ord:538, q:3)
+            - Topic: Percentages, Ratio & Proportion
+            - Subtopic: One-side addition
+            - Micro: ratio shift by count
+            - **Q-V-ONE-SIDE-ADD-T0** (Quant/DERIVED, L6, ord:734, q:3)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: One-side addition
+              - Micro: Trap: Adding count to ratio terms
+            - **Q-V-ONE-SIDE-ADD-M** (Quant/DERIVED, L6, ord:944, q:0)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: One-side addition
+              - Micro: Method route
+      - **Q-S-PERCENTAGE-RATIO-DIFFER** (Quant/DERIVED, L3, ord:122, q:3)
+        - Topic: Percentages, Ratio & Proportion
+        - Subtopic: Ratio-difference split
+        - **Q-M-PERCENTA-RATIO-DIFF-PARTS-DIFF** (Quant/COMBINATIONAL, L4, ord:342, q:3)
+          - Topic: Percentages, Ratio & Proportion
+          - Subtopic: Ratio-difference split
+          - Micro: parts difference
+          - **Q-A-RATIO-DIFFERENCE** (Quant/COMBINATIONAL, L5, ord:539, q:3)
+            - Topic: Percentages, Ratio & Proportion
+            - Subtopic: Ratio-difference split
+            - Micro: parts difference
+            - **Q-V-RATIO-DIFFER-T0** (Quant/DERIVED, L6, ord:735, q:3)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: Ratio-difference split
+              - Micro: Trap: Wrong part count
+            - **Q-V-RATIO-DIFFER-M** (Quant/DERIVED, L6, ord:963, q:0)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: Ratio-difference split
+              - Micro: Method route
+      - **Q-S-PERCENTAGE-OF-TWO-UNKNO** (Quant/DERIVED, L3, ord:143, q:2)
+        - Topic: Percentages, Ratio & Proportion
+        - Subtopic: % of two unknowns
+        - **Q-M-PERCENTA-OF-TWO-UNK-WEIGHTED-S** (Quant/COMBINATIONAL, L4, ord:364, q:2)
+          - Topic: Percentages, Ratio & Proportion
+          - Subtopic: % of two unknowns
+          - Micro: %-weighted sum
+          - **Q-A-OF-TWO-UNKNOWNS-** (Quant/COMBINATIONAL, L5, ord:564, q:2)
+            - Topic: Percentages, Ratio & Proportion
+            - Subtopic: % of two unknowns
+            - Micro: %-weighted sum
+            - **Q-V-OF-TWO-UNKNO-T0** (Quant/DERIVED, L6, ord:760, q:2)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: % of two unknowns
+              - Micro: Trap: Adding % as counts
+            - **Q-V-OF-TWO-UNKNO-M** (Quant/DERIVED, L6, ord:943, q:0)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: % of two unknowns
+              - Micro: Method route
+      - **Q-S-PERCENTAGE-CONSTANT-ADD** (Quant/DERIVED, L3, ord:201, q:1)
+        - Topic: Percentages, Ratio & Proportion
+        - Subtopic: Constant addition
+        - **Q-M-PERCENTA-CONSTANT-A-RATIO-SHIF** (Quant/DERIVED, L4, ord:398, q:1)
+          - Topic: Percentages, Ratio & Proportion
+          - Subtopic: Constant addition
+          - Micro: ratio shift
+          - **Q-A-CONSTANT-ADDITIO** (Quant/PROCEDURAL, L5, ord:580, q:1)
+            - Topic: Percentages, Ratio & Proportion
+            - Subtopic: Constant addition
+            - Micro: ratio shift
+            - **Q-V-CONSTANT-ADD-T0** (Quant/DERIVED, L6, ord:776, q:1)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: Constant addition
+              - Micro: Trap: Adding to ratio terms directly
+            - **Q-V-CONSTANT-ADD-M** (Quant/DERIVED, L6, ord:867, q:0)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: Constant addition
+              - Micro: Method route
+      - **Q-S-PERCENTAGE-REQUIRED-REN** (Quant/DERIVED, L3, ord:202, q:1)
+        - Topic: Percentages, Ratio & Proportion
+        - Subtopic: Required rent for target return
+        - **Q-M-PERCENTA-REQUIRED-R-NET-YIELD-** (Quant/DERIVED, L4, ord:399, q:1)
+          - Topic: Percentages, Ratio & Proportion
+          - Subtopic: Required rent for target return
+          - Micro: net yield equation
+          - **Q-A-REQUIRED-RENT-FO** (Quant/PROCEDURAL, L5, ord:611, q:1)
+            - Topic: Percentages, Ratio & Proportion
+            - Subtopic: Required rent for target return
+            - Micro: net yield equation
+            - **Q-V-REQUIRED-REN-T0** (Quant/DERIVED, L6, ord:807, q:1)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: Required rent for target return
+              - Micro: Trap: Ignoring upkeep
+            - **Q-V-REQUIRED-REN-M** (Quant/DERIVED, L6, ord:970, q:0)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: Required rent for target return
+              - Micro: Method route
+      - **Q-S-PERCENTAGE-SUCCESSIVE-C** (Quant/DERIVED, L3, ord:203, q:1)
+        - Topic: Percentages, Ratio & Proportion
+        - Subtopic: Successive % comparison of quantities
+        - **Q-M-PERCENTA-SUCCESSIVE-OVER-RELAT** (Quant/COMBINATIONAL, L4, ord:400, q:1)
+          - Topic: Percentages, Ratio & Proportion
+          - Subtopic: Successive % comparison of quantities
+          - Micro: %-over relation
+          - **Q-A-SUCCESSIVE-COMPA** (Quant/COMBINATIONAL, L5, ord:620, q:1)
+            - Topic: Percentages, Ratio & Proportion
+            - Subtopic: Successive % comparison of quantities
+            - Micro: %-over relation
+            - **Q-V-SUCCESSIVE-C-T0** (Quant/DERIVED, L6, ord:815, q:1)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: Successive % comparison of quantities
+              - Micro: Trap: Reversing more/less
+            - **Q-V-SUCCESSIVE-C-M** (Quant/DERIVED, L6, ord:991, q:0)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: Successive % comparison of quantities
+              - Micro: Method route
+      - **Q-S-PERCENTAGE-TARGET-SHORT** (Quant/DERIVED, L3, ord:204, q:1)
+        - Topic: Percentages, Ratio & Proportion
+        - Subtopic: Target-shortfall %
+        - **Q-M-PERCENTA-TARGET-SHO-REQUIRED-V** (Quant/DERIVED, L4, ord:401, q:1)
+          - Topic: Percentages, Ratio & Proportion
+          - Subtopic: Target-shortfall %
+          - Micro: required vs scored
+          - **Q-A-TARGET-SHORTFALL** (Quant/PROCEDURAL, L5, ord:621, q:1)
+            - Topic: Percentages, Ratio & Proportion
+            - Subtopic: Target-shortfall %
+            - Micro: required vs scored
+            - **Q-V-TARGET-SHORT-T0** (Quant/DERIVED, L6, ord:817, q:1)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: Target-shortfall %
+              - Micro: Trap: Miss on scored base
+            - **Q-V-TARGET-SHORT-M** (Quant/DERIVED, L6, ord:999, q:0)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: Target-shortfall %
+              - Micro: Method route
+      - **Q-S-PERCENTAGE-VARIATION** (Quant/DERIVED, L3, ord:205, q:1)
+        - Topic: Percentages, Ratio & Proportion
+        - Subtopic: Variation
+        - **Q-M-PERCENTA-VARIATION-K-FORM** (Quant/DERIVED, L4, ord:402, q:1)
+          - Topic: Percentages, Ratio & Proportion
+          - Subtopic: Variation
+          - Micro: k-form
+          - **Q-A-VARIATION-DIRECT** (Quant/PROCEDURAL, L5, ord:628, q:1)
+            - Topic: Percentages, Ratio & Proportion
+            - Subtopic: Variation
+            - Micro: k-form
+            - **Q-V-VARIATION-DI-T0** (Quant/DERIVED, L6, ord:824, q:1)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: Variation
+              - Micro: Trap: Linear variation
+            - **Q-V-VARIATION-DI-M** (Quant/DERIVED, L6, ord:1016, q:0)
+              - Topic: Percentages, Ratio & Proportion
+              - Subtopic: Variation
+              - Micro: Method route
+    - **Q-T-PROFIT-LOSS** (Quant/DERIVED, L2, ord:26, q:168)
+      - Topic: Profit & Loss
+      - Domain: Ratio, Percentage & Commercial Math
+      - **Q-S-PROFIT-LOS-GENERAL-P-L-** (Quant/DERIVED, L3, ord:50, q:26)
+        - Topic: Profit & Loss
+        - Subtopic: General P&L computation
+        - **Q-M-PROFIT-L-GENERAL-P--CP-SP-MP-D** (Quant/DERIVED, L4, ord:259, q:26)
+          - Topic: Profit & Loss
+          - Subtopic: General P&L computation
+          - Micro: CP/SP/MP/discount relation
+          - **Q-A-GENERAL-P-L-COMP** (Quant/DERIVED, L5, ord:456, q:26)
+            - Topic: Profit & Loss
+            - Subtopic: General P&L computation
+            - Micro: CP/SP/MP/discount relation
+            - **Q-V-GENERAL-P-L--T0** (Quant/DERIVED, L6, ord:652, q:26)
+              - Topic: Profit & Loss
+              - Subtopic: General P&L computation
+              - Micro: Trap: Wrong base for %
+            - **Q-V-GENERAL-P-L--M** (Quant/DERIVED, L6, ord:915, q:0)
+              - Topic: Profit & Loss
+              - Subtopic: General P&L computation
+              - Micro: Method route
+      - **Q-S-PROFIT-LOS-COST-BUILD-U** (Quant/DERIVED, L3, ord:51, q:28)
+        - Topic: Profit & Loss
+        - Subtopic: Cost build-up then profit%
+        - **Q-M-PROFIT-L-COST-BUILD-OVERHEADS-** (Quant/DERIVED, L4, ord:255, q:28)
+          - Topic: Profit & Loss
+          - Subtopic: Cost build-up then profit%
+          - Micro: overheads added to CP
+          - **Q-A-COST-BUILD-UP-TH** (Quant/PROCEDURAL, L5, ord:451, q:28)
+            - Topic: Profit & Loss
+            - Subtopic: Cost build-up then profit%
+            - Micro: overheads added to CP
+            - **Q-V-COST-BUILD-U-T0** (Quant/DERIVED, L6, ord:647, q:28)
+              - Topic: Profit & Loss
+              - Subtopic: Cost build-up then profit%
+              - Micro: Trap: Forgetting overheads
+            - **Q-V-COST-BUILD-U-M** (Quant/DERIVED, L6, ord:869, q:0)
+              - Topic: Profit & Loss
+              - Subtopic: Cost build-up then profit%
+              - Micro: Method route
+      - **Q-S-PROFIT-LOS-DISCOUNT-ON-** (Quant/DERIVED, L3, ord:52, q:26)
+        - Topic: Profit & Loss
+        - Subtopic: Discount on marked price
+        - **Q-M-PROFIT-L-DISCOUNT-O-MPSP-DISCO** (Quant/DERIVED, L4, ord:258, q:26)
+          - Topic: Profit & Loss
+          - Subtopic: Discount on marked price
+          - Micro: MP→SP discount%
+          - **Q-A-DISCOUNT-ON-MARK** (Quant/PROCEDURAL, L5, ord:455, q:26)
+            - Topic: Profit & Loss
+            - Subtopic: Discount on marked price
+            - Micro: MP→SP discount%
+            - **Q-V-DISCOUNT-ON--T0** (Quant/DERIVED, L6, ord:651, q:26)
+              - Topic: Profit & Loss
+              - Subtopic: Discount on marked price
+              - Micro: Trap: Base = SP instead of MP
+            - **Q-V-DISCOUNT-ON--M** (Quant/DERIVED, L6, ord:884, q:0)
+              - Topic: Profit & Loss
+              - Subtopic: Discount on marked price
+              - Micro: Method route
+      - **Q-S-PROFIT-LOS-BULK-BUY-STA** (Quant/DERIVED, L3, ord:74, q:9)
+        - Topic: Profit & Loss
+        - Subtopic: Bulk buy, staggered sell
+        - **Q-M-PROFIT-L-BULK-BUY-S-LOT-WISE-R** (Quant/COMBINATIONAL, L4, ord:294, q:9)
+          - Topic: Profit & Loss
+          - Subtopic: Bulk buy, staggered sell
+          - Micro: lot-wise revenue
+          - **Q-A-BULK-BUY-STAGGER** (Quant/COMBINATIONAL, L5, ord:489, q:9)
+            - Topic: Profit & Loss
+            - Subtopic: Bulk buy, staggered sell
+            - Micro: lot-wise revenue
+            - **Q-V-BULK-BUY-STA-T0** (Quant/DERIVED, L6, ord:685, q:9)
+              - Topic: Profit & Loss
+              - Subtopic: Bulk buy, staggered sell
+              - Micro: Trap: Leftover lot miscount
+            - **Q-V-BULK-BUY-STA-M** (Quant/DERIVED, L6, ord:841, q:0)
+              - Topic: Profit & Loss
+              - Subtopic: Bulk buy, staggered sell
+              - Micro: Method route
+      - **Q-S-PROFIT-LOS-DISHONEST-DE** (Quant/DERIVED, L3, ord:78, q:7)
+        - Topic: Profit & Loss
+        - Subtopic: Dishonest dealer / faulty weight
+        - **Q-M-PROFIT-L-DISHONEST--FALSE-WEIG** (Quant/DERIVED, L4, ord:303, q:7)
+          - Topic: Profit & Loss
+          - Subtopic: Dishonest dealer / faulty weight
+          - Micro: false-weight profit
+          - **Q-A-DISHONEST-DEALER** (Quant/PROCEDURAL, L5, ord:496, q:7)
+            - Topic: Profit & Loss
+            - Subtopic: Dishonest dealer / faulty weight
+            - Micro: false-weight profit
+            - **Q-V-DISHONEST-DE-T0** (Quant/DERIVED, L6, ord:692, q:7)
+              - Topic: Profit & Loss
+              - Subtopic: Dishonest dealer / faulty weight
+              - Micro: Trap: Adding the two % directly
+            - **Q-V-DISHONEST-DE-M** (Quant/DERIVED, L6, ord:885, q:0)
+              - Topic: Profit & Loss
+              - Subtopic: Dishonest dealer / faulty weight
+              - Micro: Method route
+      - **Q-S-PROFIT-LOS-MPDISCOUNTPR** (Quant/DERIVED, L3, ord:79, q:7)
+        - Topic: Profit & Loss
+        - Subtopic: MP–discount–profit link
+        - **Q-M-PROFIT-L-MPDISCOUNT-SP-CONSTAN** (Quant/COMBINATIONAL, L4, ord:304, q:7)
+          - Topic: Profit & Loss
+          - Subtopic: MP–discount–profit link
+          - Micro: SP constant logic
+          - **Q-A-MPDISCOUNTPROFIT** (Quant/COMBINATIONAL, L5, ord:500, q:7)
+            - Topic: Profit & Loss
+            - Subtopic: MP–discount–profit link
+            - Micro: SP constant logic
+            - **Q-V-MPDISCOUNTPR-T0** (Quant/DERIVED, L6, ord:696, q:7)
+              - Topic: Profit & Loss
+              - Subtopic: MP–discount–profit link
+              - Micro: Trap: Recomputing CP wrongly
+            - **Q-V-MPDISCOUNTPR-M** (Quant/DERIVED, L6, ord:940, q:0)
+              - Topic: Profit & Loss
+              - Subtopic: MP–discount–profit link
+              - Micro: Method route
+      - **Q-S-PROFIT-LOS-SP-DISCOUNT-** (Quant/DERIVED, L3, ord:81, q:6)
+        - Topic: Profit & Loss
+        - Subtopic: SP + discount% back to MP
+        - **Q-M-PROFIT-L-SP-DISCOUN-MP-SP-1-D** (Quant/COMBINATIONAL, L4, ord:309, q:6)
+          - Topic: Profit & Loss
+          - Subtopic: SP + discount% back to MP
+          - Micro: MP = SP/(1-d)
+          - **Q-A-SP-DISCOUNT-BACK** (Quant/COMBINATIONAL, L5, ord:510, q:6)
+            - Topic: Profit & Loss
+            - Subtopic: SP + discount% back to MP
+            - Micro: MP = SP/(1-d)
+            - **Q-V-SP-DISCOUNT--T0** (Quant/DERIVED, L6, ord:706, q:6)
+              - Topic: Profit & Loss
+              - Subtopic: SP + discount% back to MP
+              - Micro: Trap: Discount on SP
+            - **Q-V-SP-DISCOUNT--M** (Quant/DERIVED, L6, ord:984, q:0)
+              - Topic: Profit & Loss
+              - Subtopic: SP + discount% back to MP
+              - Micro: Method route
+      - **Q-S-PROFIT-LOS-SUCCESSIVE-D** (Quant/DERIVED, L3, ord:98, q:29)
+        - Topic: Profit & Loss
+        - Subtopic: Successive discounts
+        - **Q-M-PROFIT-L-SUCCESSIVE-TWO-DISCOU** (Quant/COMBINATIONAL, L4, ord:253, q:29)
+          - Topic: Profit & Loss
+          - Subtopic: Successive discounts
+          - Micro: two discounts back-to-back
+          - **Q-A-SUCCESSIVE-DISCO** (Quant/COMBINATIONAL, L5, ord:450, q:29)
+            - Topic: Profit & Loss
+            - Subtopic: Successive discounts
+            - Micro: two discounts back-to-back
+            - **Q-V-SUCCESSIVE-D-T0** (Quant/DERIVED, L6, ord:646, q:29)
+              - Topic: Profit & Loss
+              - Subtopic: Successive discounts
+              - Micro: Trap: Adding the two % directly
+            - **Q-V-SUCCESSIVE-D-M** (Quant/DERIVED, L6, ord:993, q:0)
+              - Topic: Profit & Loss
+              - Subtopic: Successive discounts
+              - Micro: Method route
+      - **Q-S-PROFIT-LOS-MP-ABOVE-CP-** (Quant/DERIVED, L3, ord:99, q:5)
+        - Topic: Profit & Loss
+        - Subtopic: MP above CP, sell at no-profit-no-loss
+        - **Q-M-PROFIT-L-MP-ABOVE-C-MPCPSP-CHA** (Quant/DERIVED, L4, ord:320, q:5)
+          - Topic: Profit & Loss
+          - Subtopic: MP above CP, sell at no-profit-no-loss
+          - Micro: MP–CP–SP chain
+          - **Q-A-MP-ABOVE-CP-SELL** (Quant/PROCEDURAL, L5, ord:515, q:5)
+            - Topic: Profit & Loss
+            - Subtopic: MP above CP, sell at no-profit-no-loss
+            - Micro: MP–CP–SP chain
+            - **Q-V-MP-ABOVE-CP--T0** (Quant/DERIVED, L6, ord:711, q:5)
+              - Topic: Profit & Loss
+              - Subtopic: MP above CP, sell at no-profit-no-loss
+              - Micro: Trap: Answering x% itself
+            - **Q-V-MP-ABOVE-CP--M** (Quant/DERIVED, L6, ord:939, q:0)
+              - Topic: Profit & Loss
+              - Subtopic: MP above CP, sell at no-profit-no-loss
+              - Micro: Method route
+      - **Q-S-PROFIT-LOS-MARKUP-WITH-** (Quant/DERIVED, L3, ord:100, q:6)
+        - Topic: Profit & Loss
+        - Subtopic: Markup with offer
+        - **Q-M-PROFIT-L-MARKUP-WIT-MP-THEN-DE** (Quant/DERIVED, L4, ord:308, q:6)
+          - Topic: Profit & Loss
+          - Subtopic: Markup with offer
+          - Micro: MP then deal
+          - **Q-A-MARKUP-WITH-OFFE** (Quant/PROCEDURAL, L5, ord:506, q:6)
+            - Topic: Profit & Loss
+            - Subtopic: Markup with offer
+            - Micro: MP then deal
+            - **Q-V-MARKUP-WITH--T0** (Quant/DERIVED, L6, ord:702, q:6)
+              - Topic: Profit & Loss
+              - Subtopic: Markup with offer
+              - Micro: Trap: Markup on SP
+            - **Q-V-MARKUP-WITH--M** (Quant/DERIVED, L6, ord:932, q:0)
+              - Topic: Profit & Loss
+              - Subtopic: Markup with offer
+              - Micro: Method route
+      - **Q-S-PROFIT-LOS-BUY-GET-FREE** (Quant/DERIVED, L3, ord:144, q:2)
+        - Topic: Profit & Loss
+        - Subtopic: Buy-get-free discount scheme
+        - **Q-M-PROFIT-L-BUY-GET-FR-FREE-ARTIC** (Quant/DERIVED, L4, ord:365, q:2)
+          - Topic: Profit & Loss
+          - Subtopic: Buy-get-free discount scheme
+          - Micro: free-article discount
+          - **Q-A-BUY-GET-FREE-DIS** (Quant/PROCEDURAL, L5, ord:546, q:2)
+            - Topic: Profit & Loss
+            - Subtopic: Buy-get-free discount scheme
+            - Micro: free-article discount
+            - **Q-V-BUY-GET-FREE-T0** (Quant/DERIVED, L6, ord:742, q:2)
+              - Topic: Profit & Loss
+              - Subtopic: Buy-get-free discount scheme
+              - Micro: Trap: Using paid articles as base
+            - **Q-V-BUY-GET-FREE-M** (Quant/DERIVED, L6, ord:843, q:0)
+              - Topic: Profit & Loss
+              - Subtopic: Buy-get-free discount scheme
+              - Micro: Method route
+      - **Q-S-PROFIT-LOS-EQUAL-PROFIT** (Quant/DERIVED, L3, ord:145, q:2)
+        - Topic: Profit & Loss
+        - Subtopic: Equal profit and loss at two SPs
+        - **Q-M-PROFIT-L-EQUAL-PROF-CP-IS-THE-** (Quant/DERIVED, L4, ord:366, q:2)
+          - Topic: Profit & Loss
+          - Subtopic: Equal profit and loss at two SPs
+          - Micro: CP is the mean
+          - **Q-A-EQUAL-PROFIT-AND** (Quant/PROCEDURAL, L5, ord:558, q:2)
+            - Topic: Profit & Loss
+            - Subtopic: Equal profit and loss at two SPs
+            - Micro: CP is the mean
+            - **Q-V-EQUAL-PROFIT-T0** (Quant/DERIVED, L6, ord:754, q:2)
+              - Topic: Profit & Loss
+              - Subtopic: Equal profit and loss at two SPs
+              - Micro: Trap: Mean of %
+            - **Q-V-EQUAL-PROFIT-M** (Quant/DERIVED, L6, ord:896, q:0)
+              - Topic: Profit & Loss
+              - Subtopic: Equal profit and loss at two SPs
+              - Micro: Method route
+      - **Q-S-PROFIT-LOS-FIXED-PRICE-** (Quant/DERIVED, L3, ord:146, q:2)
+        - Topic: Profit & Loss
+        - Subtopic: Fixed-price then cut
+        - **Q-M-PROFIT-L-FIXED-PRIC-TWO-STEP-P** (Quant/DERIVED, L4, ord:367, q:2)
+          - Topic: Profit & Loss
+          - Subtopic: Fixed-price then cut
+          - Micro: two-step pricing
+          - **Q-A-FIXED-PRICE-THEN** (Quant/PROCEDURAL, L5, ord:560, q:2)
+            - Topic: Profit & Loss
+            - Subtopic: Fixed-price then cut
+            - Micro: two-step pricing
+            - **Q-V-FIXED-PRICE--T0** (Quant/DERIVED, L6, ord:756, q:2)
+              - Topic: Profit & Loss
+              - Subtopic: Fixed-price then cut
+              - Micro: Trap: Discount on CP
+            - **Q-V-FIXED-PRICE--M** (Quant/DERIVED, L6, ord:905, q:0)
+              - Topic: Profit & Loss
+              - Subtopic: Fixed-price then cut
+              - Micro: Method route
+      - **Q-S-PROFIT-LOS-GAIN-ON-ONE-** (Quant/DERIVED, L3, ord:147, q:2)
+        - Topic: Profit & Loss
+        - Subtopic: Gain on one, loss on other
+        - **Q-M-PROFIT-L-GAIN-ON-ON-TWO-ARTICL** (Quant/DERIVED, L4, ord:368, q:2)
+          - Topic: Profit & Loss
+          - Subtopic: Gain on one, loss on other
+          - Micro: two articles, equal SP
+          - **Q-A-GAIN-ON-ONE-LOSS** (Quant/PROCEDURAL, L5, ord:561, q:2)
+            - Topic: Profit & Loss
+            - Subtopic: Gain on one, loss on other
+            - Micro: two articles, equal SP
+            - **Q-V-GAIN-ON-ONE--T0** (Quant/DERIVED, L6, ord:757, q:2)
+              - Topic: Profit & Loss
+              - Subtopic: Gain on one, loss on other
+              - Micro: Trap: Assuming no loss when % equal
+            - **Q-V-GAIN-ON-ONE--M** (Quant/DERIVED, L6, ord:908, q:0)
+              - Topic: Profit & Loss
+              - Subtopic: Gain on one, loss on other
+              - Micro: Method route
+      - **Q-S-PROFIT-LOS-TWO-LOT-PROF** (Quant/DERIVED, L3, ord:175, q:2)
+        - Topic: Profit & Loss
+        - Subtopic: Two-lot profit split
+        - **Q-M-PROFIT-L-TWO-LOT-PR-PROFIT-ALL** (Quant/COMBINATIONAL, L4, ord:369, q:2)
+          - Topic: Profit & Loss
+          - Subtopic: Two-lot profit split
+          - Micro: profit alligation
+          - **Q-A-TWO-LOT-PROFIT-S** (Quant/COMBINATIONAL, L5, ord:570, q:2)
+            - Topic: Profit & Loss
+            - Subtopic: Two-lot profit split
+            - Micro: profit alligation
+            - **Q-V-TWO-LOT-PROF-T0** (Quant/DERIVED, L6, ord:766, q:2)
+              - Topic: Profit & Loss
+              - Subtopic: Two-lot profit split
+              - Micro: Trap: Mean of the %
+            - **Q-V-TWO-LOT-PROF-M** (Quant/DERIVED, L6, ord:1012, q:0)
+              - Topic: Profit & Loss
+              - Subtopic: Two-lot profit split
+              - Micro: Method route
+      - **Q-S-PROFIT-LOS-CHAIN-PROFIT** (Quant/DERIVED, L3, ord:206, q:1)
+        - Topic: Profit & Loss
+        - Subtopic: Chain profit through dealers
+        - **Q-M-PROFIT-L-CHAIN-PROF-SUCCESSIVE** (Quant/COMBINATIONAL, L4, ord:403, q:1)
+          - Topic: Profit & Loss
+          - Subtopic: Chain profit through dealers
+          - Micro: successive margins
+          - **Q-A-CHAIN-PROFIT-THR** (Quant/COMBINATIONAL, L5, ord:577, q:1)
+            - Topic: Profit & Loss
+            - Subtopic: Chain profit through dealers
+            - Micro: successive margins
+            - **Q-V-CHAIN-PROFIT-T0** (Quant/DERIVED, L6, ord:773, q:1)
+              - Topic: Profit & Loss
+              - Subtopic: Chain profit through dealers
+              - Micro: Trap: Adding margins
+            - **Q-V-CHAIN-PROFIT-M** (Quant/DERIVED, L6, ord:846, q:0)
+              - Topic: Profit & Loss
+              - Subtopic: Chain profit through dealers
+              - Micro: Method route
+      - **Q-S-PROFIT-LOS-COST-RISES-S** (Quant/DERIVED, L3, ord:207, q:1)
+        - Topic: Profit & Loss
+        - Subtopic: Cost rises, SP fixed
+        - **Q-M-PROFIT-L-COST-RISES-RE-BASED-M** (Quant/DERIVED, L4, ord:404, q:1)
+          - Topic: Profit & Loss
+          - Subtopic: Cost rises, SP fixed
+          - Micro: re-based margin
+          - **Q-A-COST-RISES-SP-FI** (Quant/PROCEDURAL, L5, ord:581, q:1)
+            - Topic: Profit & Loss
+            - Subtopic: Cost rises, SP fixed
+            - Micro: re-based margin
+            - **Q-V-COST-RISES-S-T0** (Quant/DERIVED, L6, ord:777, q:1)
+              - Topic: Profit & Loss
+              - Subtopic: Cost rises, SP fixed
+              - Micro: Trap: Old cost base
+            - **Q-V-COST-RISES-S-M** (Quant/DERIVED, L6, ord:870, q:0)
+              - Topic: Profit & Loss
+              - Subtopic: Cost rises, SP fixed
+              - Micro: Method route
+      - **Q-S-PROFIT-LOS-CP-MP-DISCOU** (Quant/DERIVED, L3, ord:208, q:1)
+        - Topic: Profit & Loss
+        - Subtopic: CP-MP-discount-profit link
+        - **Q-M-PROFIT-L-CP-MP-DISC-SP-BRIDGE** (Quant/COMBINATIONAL, L4, ord:405, q:1)
+          - Topic: Profit & Loss
+          - Subtopic: CP-MP-discount-profit link
+          - Micro: SP bridge
+          - **Q-A-CP-MP-DISCOUNT-P** (Quant/COMBINATIONAL, L5, ord:582, q:1)
+            - Topic: Profit & Loss
+            - Subtopic: CP-MP-discount-profit link
+            - Micro: SP bridge
+            - **Q-V-CP-MP-DISCOU-T0** (Quant/DERIVED, L6, ord:778, q:1)
+              - Topic: Profit & Loss
+              - Subtopic: CP-MP-discount-profit link
+              - Micro: Trap: Discount on CP
+            - **Q-V-CP-MP-DISCOU-M** (Quant/DERIVED, L6, ord:871, q:0)
+              - Topic: Profit & Loss
+              - Subtopic: CP-MP-discount-profit link
+              - Micro: Method route
+      - **Q-S-PROFIT-LOS-PRICE-DROP-B** (Quant/DERIVED, L3, ord:209, q:1)
+        - Topic: Profit & Loss
+        - Subtopic: Price-drop buys extra quantity
+        - **Q-M-PROFIT-L-PRICE-DROP-CONSTANT-B** (Quant/DERIVED, L4, ord:406, q:1)
+          - Topic: Profit & Loss
+          - Subtopic: Price-drop buys extra quantity
+          - Micro: constant budget
+          - **Q-A-PRICE-DROP-BUYS-** (Quant/PROCEDURAL, L5, ord:604, q:1)
+            - Topic: Profit & Loss
+            - Subtopic: Price-drop buys extra quantity
+            - Micro: constant budget
+            - **Q-V-PRICE-DROP-B-T0** (Quant/DERIVED, L6, ord:800, q:1)
+              - Topic: Profit & Loss
+              - Subtopic: Price-drop buys extra quantity
+              - Micro: Trap: Adding instead of solving
+            - **Q-V-PRICE-DROP-B-M** (Quant/DERIVED, L6, ord:954, q:0)
+              - Topic: Profit & Loss
+              - Subtopic: Price-drop buys extra quantity
+              - Micro: Method route
+      - **Q-S-PROFIT-LOS-PROFIT-TO-CP** (Quant/DERIVED, L3, ord:210, q:1)
+        - Topic: Profit & Loss
+        - Subtopic: Profit% to CP:SP ratio
+        - **Q-M-PROFIT-L-PROFIT-TO--CP-SP-FROM** (Quant/DERIVED, L4, ord:407, q:1)
+          - Topic: Profit & Loss
+          - Subtopic: Profit% to CP:SP ratio
+          - Micro: CP:SP from margin
+          - **Q-A-PROFIT-TO-CP-SP-** (Quant/PROCEDURAL, L5, ord:605, q:1)
+            - Topic: Profit & Loss
+            - Subtopic: Profit% to CP:SP ratio
+            - Micro: CP:SP from margin
+            - **Q-V-PROFIT-TO-CP-T0** (Quant/DERIVED, L6, ord:801, q:1)
+              - Topic: Profit & Loss
+              - Subtopic: Profit% to CP:SP ratio
+              - Micro: Trap: Inverted ratio
+            - **Q-V-PROFIT-TO-CP-M** (Quant/DERIVED, L6, ord:955, q:0)
+              - Topic: Profit & Loss
+              - Subtopic: Profit% to CP:SP ratio
+              - Micro: Method route
+      - **Q-S-PROFIT-LOS-RANGE-PROFIT** (Quant/DERIVED, L3, ord:211, q:1)
+        - Topic: Profit & Loss
+        - Subtopic: Range profit
+        - **Q-M-PROFIT-L-RANGE-PROF-EXTREMES** (Quant/COMBINATIONAL, L4, ord:408, q:1)
+          - Topic: Profit & Loss
+          - Subtopic: Range profit
+          - Micro: extremes
+          - **Q-A-RANGE-PROFIT-MIN** (Quant/COMBINATIONAL, L5, ord:607, q:1)
+            - Topic: Profit & Loss
+            - Subtopic: Range profit
+            - Micro: extremes
+            - **Q-V-RANGE-PROFIT-T0** (Quant/DERIVED, L6, ord:803, q:1)
+              - Topic: Profit & Loss
+              - Subtopic: Range profit
+              - Micro: Trap: Mean values
+            - **Q-V-RANGE-PROFIT-M** (Quant/DERIVED, L6, ord:960, q:0)
+              - Topic: Profit & Loss
+              - Subtopic: Range profit
+              - Micro: Method route
+      - **Q-S-PROFIT-LOS-REPEATED-HIK** (Quant/DERIVED, L3, ord:212, q:1)
+        - Topic: Profit & Loss
+        - Subtopic: Repeated % hike on salary
+        - **Q-M-PROFIT-L-REPEATED-H-SUCCESSIVE** (Quant/DERIVED, L4, ord:409, q:1)
+          - Topic: Profit & Loss
+          - Subtopic: Repeated % hike on salary
+          - Micro: successive factors
+          - **Q-A-REPEATED-HIKE-ON** (Quant/PROCEDURAL, L5, ord:610, q:1)
+            - Topic: Profit & Loss
+            - Subtopic: Repeated % hike on salary
+            - Micro: successive factors
+            - **Q-V-REPEATED-HIK-T0** (Quant/DERIVED, L6, ord:806, q:1)
+              - Topic: Profit & Loss
+              - Subtopic: Repeated % hike on salary
+              - Micro: Trap: Adding % points
+            - **Q-V-REPEATED-HIK-M** (Quant/DERIVED, L6, ord:968, q:0)
+              - Topic: Profit & Loss
+              - Subtopic: Repeated % hike on salary
+              - Micro: Method route
+      - **Q-S-PROFIT-LOS-SEQUENTIAL-S** (Quant/DERIVED, L3, ord:213, q:1)
+        - Topic: Profit & Loss
+        - Subtopic: Sequential spending of remainder
+        - **Q-M-PROFIT-L-SEQUENTIAL-SHRINKING-** (Quant/DERIVED, L4, ord:410, q:1)
+          - Topic: Profit & Loss
+          - Subtopic: Sequential spending of remainder
+          - Micro: shrinking base
+          - **Q-A-SEQUENTIAL-SPEND** (Quant/PROCEDURAL, L5, ord:613, q:1)
+            - Topic: Profit & Loss
+            - Subtopic: Sequential spending of remainder
+            - Micro: shrinking base
+            - **Q-V-SEQUENTIAL-S-T0** (Quant/DERIVED, L6, ord:809, q:1)
+              - Topic: Profit & Loss
+              - Subtopic: Sequential spending of remainder
+              - Micro: Trap: All on original
+            - **Q-V-SEQUENTIAL-S-M** (Quant/DERIVED, L6, ord:978, q:0)
+              - Topic: Profit & Loss
+              - Subtopic: Sequential spending of remainder
+              - Micro: Method route
+      - **Q-S-PROFIT-LOS-SUCCESSIVE-C** (Quant/DERIVED, L3, ord:214, q:1)
+        - Topic: Profit & Loss
+        - Subtopic: Successive % change on price
+        - **Q-M-PROFIT-L-SUCCESSIVE-COMPOUNDED** (Quant/COMBINATIONAL, L4, ord:411, q:1)
+          - Topic: Profit & Loss
+          - Subtopic: Successive % change on price
+          - Micro: compounded change
+          - **Q-A-SUCCESSIVE-CHANG** (Quant/COMBINATIONAL, L5, ord:619, q:1)
+            - Topic: Profit & Loss
+            - Subtopic: Successive % change on price
+            - Micro: compounded change
+            - **Q-V-SUCCESSIVE-C-T0-2** (Quant/DERIVED, L6, ord:816, q:1)
+              - Topic: Profit & Loss
+              - Subtopic: Successive % change on price
+              - Micro: Trap: Net = b−a
+            - **Q-V-SUCCESSIVE-C-M-2** (Quant/DERIVED, L6, ord:992, q:0)
+              - Topic: Profit & Loss
+              - Subtopic: Successive % change on price
+              - Micro: Method route
+    - **Q-T-MIXTURE-ALLIGA** (Quant/DERIVED, L2, ord:34, q:74)
+      - Topic: Mixture & Alligation
+      - Domain: Ratio, Percentage & Commercial Math
+      - **Q-S-MIXTURE-AL-TWO-CONTAINE** (Quant/DERIVED, L3, ord:62, q:13)
+        - Topic: Mixture & Alligation
+        - Subtopic: Two-container ratio combine
+        - **Q-M-MIXTURE--TWO-CONTAI-CROSS-TOTA** (Quant/COMBINATIONAL, L4, ord:278, q:13)
+          - Topic: Mixture & Alligation
+          - Subtopic: Two-container ratio combine
+          - Micro: cross-total method
+          - **Q-A-TWO-CONTAINER-RA** (Quant/COMBINATIONAL, L5, ord:476, q:13)
+            - Topic: Mixture & Alligation
+            - Subtopic: Two-container ratio combine
+            - Micro: cross-total method
+            - **Q-V-TWO-CONTAINE-T0** (Quant/DERIVED, L6, ord:672, q:13)
+              - Topic: Mixture & Alligation
+              - Subtopic: Two-container ratio combine
+              - Micro: Trap: Adding ratios directly
+            - **Q-V-TWO-CONTAINE-M** (Quant/DERIVED, L6, ord:1011, q:0)
+              - Topic: Mixture & Alligation
+              - Subtopic: Two-container ratio combine
+              - Micro: Method route
+      - **Q-S-MIXTURE-AL-GENERAL-MIXT** (Quant/DERIVED, L3, ord:65, q:12)
+        - Topic: Mixture & Alligation
+        - Subtopic: General mixture computation
+        - **Q-M-MIXTURE--GENERAL-MI-WEIGHTED-M** (Quant/DERIVED, L4, ord:281, q:12)
+          - Topic: Mixture & Alligation
+          - Subtopic: General mixture computation
+          - Micro: weighted mean
+          - **Q-A-GENERAL-MIXTURE-** (Quant/DERIVED, L5, ord:478, q:12)
+            - Topic: Mixture & Alligation
+            - Subtopic: General mixture computation
+            - Micro: weighted mean
+            - **Q-V-GENERAL-MIXT-T0** (Quant/DERIVED, L6, ord:674, q:12)
+              - Topic: Mixture & Alligation
+              - Subtopic: General mixture computation
+              - Micro: Trap: Unweighted mean
+            - **Q-V-GENERAL-MIXT-M** (Quant/DERIVED, L6, ord:914, q:0)
+              - Topic: Mixture & Alligation
+              - Subtopic: General mixture computation
+              - Micro: Method route
+      - **Q-S-MIXTURE-AL-REPLACE-WITH** (Quant/DERIVED, L3, ord:141, q:2)
+        - Topic: Mixture & Alligation
+        - Subtopic: Replace-with-pure to target ratio
+        - **Q-M-MIXTURE--REPLACE-WI-SOLUTE-INV** (Quant/DERIVED, L4, ord:360, q:2)
+          - Topic: Mixture & Alligation
+          - Subtopic: Replace-with-pure to target ratio
+          - Micro: solute invariance
+          - **Q-A-REPLACE-WITH-PUR** (Quant/PROCEDURAL, L5, ord:565, q:2)
+            - Topic: Mixture & Alligation
+            - Subtopic: Replace-with-pure to target ratio
+            - Micro: solute invariance
+            - **Q-V-REPLACE-WITH-T0** (Quant/DERIVED, L6, ord:761, q:2)
+              - Topic: Mixture & Alligation
+              - Subtopic: Replace-with-pure to target ratio
+              - Micro: Trap: Fixed total
+            - **Q-V-REPLACE-WITH-M** (Quant/DERIVED, L6, ord:969, q:0)
+              - Topic: Mixture & Alligation
+              - Subtopic: Replace-with-pure to target ratio
+              - Micro: Method route
+      - **Q-S-MIXTURE-AL-WEIGHTED-MEA** (Quant/DERIVED, L3, ord:165, q:8)
+        - Topic: Mixture & Alligation
+        - Subtopic: Weighted mean price of mixture
+        - **Q-M-MIXTURE--WEIGHTED-M-TOTAL-VALU** (Quant/DERIVED, L4, ord:297, q:8)
+          - Topic: Mixture & Alligation
+          - Subtopic: Weighted mean price of mixture
+          - Micro: total value / total qty
+          - **Q-A-WEIGHTED-MEAN-PR** (Quant/PROCEDURAL, L5, ord:495, q:8)
+            - Topic: Mixture & Alligation
+            - Subtopic: Weighted mean price of mixture
+            - Micro: total value / total qty
+            - **Q-V-WEIGHTED-MEA-T0** (Quant/DERIVED, L6, ord:691, q:8)
+              - Topic: Mixture & Alligation
+              - Subtopic: Weighted mean price of mixture
+              - Micro: Trap: Simple mean of prices
+            - **Q-V-WEIGHTED-MEA-M** (Quant/DERIVED, L6, ord:1018, q:0)
+              - Topic: Mixture & Alligation
+              - Subtopic: Weighted mean price of mixture
+              - Micro: Method route
+      - **Q-S-MIXTURE-AL-MIXING-RATIO** (Quant/DERIVED, L3, ord:166, q:19)
+        - Topic: Mixture & Alligation
+        - Subtopic: Mixing ratio for target price
+        - **Q-M-MIXTURE--MIXING-RAT-ALLIGATION** (Quant/DERIVED, L4, ord:266, q:19)
+          - Topic: Mixture & Alligation
+          - Subtopic: Mixing ratio for target price
+          - Micro: alligation
+          - **Q-A-MIXING-RATIO-FOR** (Quant/PROCEDURAL, L5, ord:463, q:19)
+            - Topic: Mixture & Alligation
+            - Subtopic: Mixing ratio for target price
+            - Micro: alligation
+            - **Q-V-MIXING-RATIO-T0** (Quant/DERIVED, L6, ord:659, q:19)
+              - Topic: Mixture & Alligation
+              - Subtopic: Mixing ratio for target price
+              - Micro: Trap: Reversed ratio order
+            - **Q-V-MIXING-RATIO-M** (Quant/DERIVED, L6, ord:937, q:0)
+              - Topic: Mixture & Alligation
+              - Subtopic: Mixing ratio for target price
+              - Micro: Method route
+      - **Q-S-MIXTURE-AL-DILUTION-TO-** (Quant/DERIVED, L3, ord:168, q:6)
+        - Topic: Mixture & Alligation
+        - Subtopic: Dilution to a target ratio
+        - **Q-M-MIXTURE--DILUTION-T-SOLUTE-CON** (Quant/DERIVED, L4, ord:307, q:6)
+          - Topic: Mixture & Alligation
+          - Subtopic: Dilution to a target ratio
+          - Micro: solute constant
+          - **Q-A-DILUTION-TO-A-TA** (Quant/PROCEDURAL, L5, ord:504, q:6)
+            - Topic: Mixture & Alligation
+            - Subtopic: Dilution to a target ratio
+            - Micro: solute constant
+            - **Q-V-DILUTION-TO--T0** (Quant/DERIVED, L6, ord:700, q:6)
+              - Topic: Mixture & Alligation
+              - Subtopic: Dilution to a target ratio
+              - Micro: Trap: Adding to both parts
+            - **Q-V-DILUTION-TO--M** (Quant/DERIVED, L6, ord:880, q:0)
+              - Topic: Mixture & Alligation
+              - Subtopic: Dilution to a target ratio
+              - Micro: Method route
+      - **Q-S-MIXTURE-AL-DILUTION-REP** (Quant/DERIVED, L3, ord:169, q:4)
+        - Topic: Mixture & Alligation
+        - Subtopic: Dilution / replacement %
+        - **Q-M-MIXTURE--DILUTION-R-SUCCESSIVE** (Quant/DERIVED, L4, ord:327, q:4)
+          - Topic: Mixture & Alligation
+          - Subtopic: Dilution / replacement %
+          - Micro: successive dilution
+          - **Q-A-DILUTION-REPLACE** (Quant/PROCEDURAL, L5, ord:526, q:4)
+            - Topic: Mixture & Alligation
+            - Subtopic: Dilution / replacement %
+            - Micro: successive dilution
+            - **Q-V-DILUTION-REP-T0** (Quant/DERIVED, L6, ord:722, q:4)
+              - Topic: Mixture & Alligation
+              - Subtopic: Dilution / replacement %
+              - Micro: Trap: Linear subtraction
+            - **Q-V-DILUTION-REP-M** (Quant/DERIVED, L6, ord:879, q:0)
+              - Topic: Mixture & Alligation
+              - Subtopic: Dilution / replacement %
+              - Micro: Method route
+      - **Q-S-MIXTURE-AL-BULK-LOTS-BL** (Quant/DERIVED, L3, ord:173, q:2)
+        - Topic: Mixture & Alligation
+        - Subtopic: Bulk lots blended: mean price
+        - **Q-M-MIXTURE--BULK-LOTS--TOTAL-VALU** (Quant/COMBINATIONAL, L4, ord:359, q:2)
+          - Topic: Mixture & Alligation
+          - Subtopic: Bulk lots blended: mean price
+          - Micro: total value / total qty
+          - **Q-A-BULK-LOTS-BLENDE** (Quant/COMBINATIONAL, L5, ord:545, q:2)
+            - Topic: Mixture & Alligation
+            - Subtopic: Bulk lots blended: mean price
+            - Micro: total value / total qty
+            - **Q-V-BULK-LOTS-BL-T0** (Quant/DERIVED, L6, ord:741, q:2)
+              - Topic: Mixture & Alligation
+              - Subtopic: Bulk lots blended: mean price
+              - Micro: Trap: Simple mean
+            - **Q-V-BULK-LOTS-BL-M** (Quant/DERIVED, L6, ord:842, q:0)
+              - Topic: Mixture & Alligation
+              - Subtopic: Bulk lots blended: mean price
+              - Micro: Method route
+      - **Q-S-MIXTURE-AL-TWO-WAY-MIX-** (Quant/DERIVED, L3, ord:174, q:2)
+        - Topic: Mixture & Alligation
+        - Subtopic: Two-way mix: find unknown component price
+        - **Q-M-MIXTURE--TWO-WAY-MI-MEAN-EQUAT** (Quant/COMBINATIONAL, L4, ord:361, q:2)
+          - Topic: Mixture & Alligation
+          - Subtopic: Two-way mix: find unknown component price
+          - Micro: mean equation
+          - **Q-A-TWO-WAY-MIX-FIND** (Quant/COMBINATIONAL, L5, ord:571, q:2)
+            - Topic: Mixture & Alligation
+            - Subtopic: Two-way mix: find unknown component price
+            - Micro: mean equation
+            - **Q-V-TWO-WAY-MIX--T0** (Quant/DERIVED, L6, ord:767, q:2)
+              - Topic: Mixture & Alligation
+              - Subtopic: Two-way mix: find unknown component price
+              - Micro: Trap: Mean of prices
+            - **Q-V-TWO-WAY-MIX--M** (Quant/DERIVED, L6, ord:1013, q:0)
+              - Topic: Mixture & Alligation
+              - Subtopic: Two-way mix: find unknown component price
+              - Micro: Method route
+      - **Q-S-MIXTURE-AL-COMPARE-TWO-** (Quant/DERIVED, L3, ord:182, q:1)
+        - Topic: Mixture & Alligation
+        - Subtopic: Compare two mixtures
+        - **Q-M-MIXTURE--COMPARE-TW-MILK-FRACT** (Quant/DERIVED, L4, ord:388, q:1)
+          - Topic: Mixture & Alligation
+          - Subtopic: Compare two mixtures
+          - Micro: milk-fraction compare
+          - **Q-A-COMPARE-TWO-MIXT** (Quant/PROCEDURAL, L5, ord:578, q:1)
+            - Topic: Mixture & Alligation
+            - Subtopic: Compare two mixtures
+            - Micro: milk-fraction compare
+            - **Q-V-COMPARE-TWO--T0** (Quant/DERIVED, L6, ord:774, q:1)
+              - Topic: Mixture & Alligation
+              - Subtopic: Compare two mixtures
+              - Micro: Trap: Comparing water instead
+            - **Q-V-COMPARE-TWO--M** (Quant/DERIVED, L6, ord:861, q:0)
+              - Topic: Mixture & Alligation
+              - Subtopic: Compare two mixtures
+              - Micro: Method route
+      - **Q-S-MIXTURE-AL-DRAIN-THEN-A** (Quant/DERIVED, L3, ord:183, q:1)
+        - Topic: Mixture & Alligation
+        - Subtopic: Drain then add components
+        - **Q-M-MIXTURE--DRAIN-THEN-MIXTURE-UP** (Quant/DERIVED, L4, ord:389, q:1)
+          - Topic: Mixture & Alligation
+          - Subtopic: Drain then add components
+          - Micro: mixture update
+          - **Q-A-DRAIN-THEN-ADD-C** (Quant/PROCEDURAL, L5, ord:586, q:1)
+            - Topic: Mixture & Alligation
+            - Subtopic: Drain then add components
+            - Micro: mixture update
+            - **Q-V-DRAIN-THEN-A-T0** (Quant/DERIVED, L6, ord:782, q:1)
+              - Topic: Mixture & Alligation
+              - Subtopic: Drain then add components
+              - Micro: Trap: Adding before draining
+            - **Q-V-DRAIN-THEN-A-M** (Quant/DERIVED, L6, ord:890, q:0)
+              - Topic: Mixture & Alligation
+              - Subtopic: Drain then add components
+              - Micro: Method route
+      - **Q-S-MIXTURE-AL-FIND-QTY-FOR** (Quant/DERIVED, L3, ord:184, q:1)
+        - Topic: Mixture & Alligation
+        - Subtopic: Find qty for target gain on mix
+        - **Q-M-MIXTURE--FIND-QTY-F-MEAN-WITH-** (Quant/DERIVED, L4, ord:390, q:1)
+          - Topic: Mixture & Alligation
+          - Subtopic: Find qty for target gain on mix
+          - Micro: mean with margin
+          - **Q-A-FIND-QTY-FOR-TAR** (Quant/PROCEDURAL, L5, ord:590, q:1)
+            - Topic: Mixture & Alligation
+            - Subtopic: Find qty for target gain on mix
+            - Micro: mean with margin
+            - **Q-V-FIND-QTY-FOR-T0** (Quant/DERIVED, L6, ord:786, q:1)
+              - Topic: Mixture & Alligation
+              - Subtopic: Find qty for target gain on mix
+              - Micro: Trap: Gain on SP
+            - **Q-V-FIND-QTY-FOR-M** (Quant/DERIVED, L6, ord:904, q:0)
+              - Topic: Mixture & Alligation
+              - Subtopic: Find qty for target gain on mix
+              - Micro: Method route
+      - **Q-S-MIXTURE-AL-LOSS-BASED-M** (Quant/DERIVED, L3, ord:185, q:1)
+        - Topic: Mixture & Alligation
+        - Subtopic: Loss-based mix ratio
+        - **Q-M-MIXTURE--LOSS-BASED-CP-BACK-OU** (Quant/DERIVED, L4, ord:391, q:1)
+          - Topic: Mixture & Alligation
+          - Subtopic: Loss-based mix ratio
+          - Micro: CP back-out
+          - **Q-A-LOSS-BASED-MIX-R** (Quant/PROCEDURAL, L5, ord:596, q:1)
+            - Topic: Mixture & Alligation
+            - Subtopic: Loss-based mix ratio
+            - Micro: CP back-out
+            - **Q-V-LOSS-BASED-M-T0** (Quant/DERIVED, L6, ord:792, q:1)
+              - Topic: Mixture & Alligation
+              - Subtopic: Loss-based mix ratio
+              - Micro: Trap: Mixing SPs directly
+            - **Q-V-LOSS-BASED-M-M** (Quant/DERIVED, L6, ord:931, q:0)
+              - Topic: Mixture & Alligation
+              - Subtopic: Loss-based mix ratio
+              - Micro: Method route
+      - **Q-S-MIXTURE-AL-MIXTURE-BLEN** (Quant/DERIVED, L3, ord:186, q:1)
+        - Topic: Mixture & Alligation
+        - Subtopic: Mixture blended then sold at profit
+        - **Q-M-MIXTURE--MIXTURE-BL-MEAN-THEN-** (Quant/COMBINATIONAL, L4, ord:392, q:1)
+          - Topic: Mixture & Alligation
+          - Subtopic: Mixture blended then sold at profit
+          - Micro: mean then margin
+          - **Q-A-MIXTURE-BLENDED-** (Quant/COMBINATIONAL, L5, ord:597, q:1)
+            - Topic: Mixture & Alligation
+            - Subtopic: Mixture blended then sold at profit
+            - Micro: mean then margin
+            - **Q-V-MIXTURE-BLEN-T0** (Quant/DERIVED, L6, ord:793, q:1)
+              - Topic: Mixture & Alligation
+              - Subtopic: Mixture blended then sold at profit
+              - Micro: Trap: Margin on SP
+            - **Q-V-MIXTURE-BLEN-M** (Quant/DERIVED, L6, ord:938, q:0)
+              - Topic: Mixture & Alligation
+              - Subtopic: Mixture blended then sold at profit
+              - Micro: Method route
+      - **Q-S-MIXTURE-AL-THREE-WAY-MI** (Quant/DERIVED, L3, ord:187, q:1)
+        - Topic: Mixture & Alligation
+        - Subtopic: Three-way mixture
+        - **Q-M-MIXTURE--THREE-WAY--MULTI-COMP** (Quant/DERIVED, L4, ord:393, q:1)
+          - Topic: Mixture & Alligation
+          - Subtopic: Three-way mixture
+          - Micro: multi-component mean
+          - **Q-A-THREE-WAY-MIXTUR** (Quant/COMBINATIONAL, L5, ord:622, q:1)
+            - Topic: Mixture & Alligation
+            - Subtopic: Three-way mixture
+            - Micro: multi-component mean
+            - **Q-V-THREE-WAY-MI-T0** (Quant/DERIVED, L6, ord:818, q:1)
+              - Topic: Mixture & Alligation
+              - Subtopic: Three-way mixture
+              - Micro: Trap: Ignoring third component
+            - **Q-V-THREE-WAY-MI-M** (Quant/DERIVED, L6, ord:1000, q:0)
+              - Topic: Mixture & Alligation
+              - Subtopic: Three-way mixture
+              - Micro: Method route
+    - **Q-T-PARTNERSHIP-SH** (Quant/DERIVED, L2, ord:37, q:21)
+      - Topic: Partnership & Share
+      - Domain: Ratio, Percentage & Commercial Math
+      - **Q-S-PARTNERSHI-RENTAL-PROFI** (Quant/DERIVED, L3, ord:57, q:17)
+        - Topic: Partnership & Share
+        - Subtopic: Rental/profit share by usage×time
+        - **Q-M-PARTNERS-RENTAL-PRO-SHARE-USAG** (Quant/DERIVED, L4, ord:269, q:17)
+          - Topic: Partnership & Share
+          - Subtopic: Rental/profit share by usage×time
+          - Micro: share ∝ usage·time
+          - **Q-A-RENTAL-PROFIT-SH** (Quant/PROCEDURAL, L5, ord:466, q:17)
+            - Topic: Partnership & Share
+            - Subtopic: Rental/profit share by usage×time
+            - Micro: share ∝ usage·time
+            - **Q-V-RENTAL-PROFI-T0** (Quant/DERIVED, L6, ord:662, q:17)
+              - Topic: Partnership & Share
+              - Subtopic: Rental/profit share by usage×time
+              - Micro: Trap: Adding months across units
+            - **Q-V-RENTAL-PROFI-M** (Quant/DERIVED, L6, ord:967, q:0)
+              - Topic: Partnership & Share
+              - Subtopic: Rental/profit share by usage×time
+              - Micro: Method route
+      - **Q-S-PARTNERSHI-STAGGERED-EN** (Quant/DERIVED, L3, ord:142, q:2)
+        - Topic: Partnership & Share
+        - Subtopic: Staggered entry/exit capital share
+        - **Q-M-PARTNERS-STAGGERED--CAPITAL-X-** (Quant/COMBINATIONAL, L4, ord:363, q:2)
+          - Topic: Partnership & Share
+          - Subtopic: Staggered entry/exit capital share
+          - Micro: capital x time
+          - **Q-A-STAGGERED-ENTRY-** (Quant/COMBINATIONAL, L5, ord:567, q:2)
+            - Topic: Partnership & Share
+            - Subtopic: Staggered entry/exit capital share
+            - Micro: capital x time
+            - **Q-V-STAGGERED-EN-T0** (Quant/DERIVED, L6, ord:763, q:2)
+              - Topic: Partnership & Share
+              - Subtopic: Staggered entry/exit capital share
+              - Micro: Trap: Full-period capital
+            - **Q-V-STAGGERED-EN-M** (Quant/DERIVED, L6, ord:988, q:0)
+              - Topic: Partnership & Share
+              - Subtopic: Staggered entry/exit capital share
+              - Micro: Method route
+      - **Q-S-PARTNERSHI-MULTI-PARTNE** (Quant/DERIVED, L3, ord:199, q:1)
+        - Topic: Partnership & Share
+        - Subtopic: Multi-partner firm with mid-term entry
+        - **Q-M-PARTNERS-MULTI-PART-CAPITAL-X-** (Quant/COMBINATIONAL, L4, ord:396, q:1)
+          - Topic: Partnership & Share
+          - Subtopic: Multi-partner firm with mid-term entry
+          - Micro: capital x time with entry
+          - **Q-A-MULTI-PARTNER-FI** (Quant/COMBINATIONAL, L5, ord:598, q:1)
+            - Topic: Partnership & Share
+            - Subtopic: Multi-partner firm with mid-term entry
+            - Micro: capital x time with entry
+            - **Q-V-MULTI-PARTNE-T0** (Quant/DERIVED, L6, ord:794, q:1)
+              - Topic: Partnership & Share
+              - Subtopic: Multi-partner firm with mid-term entry
+              - Micro: Trap: Full-period all
+            - **Q-V-MULTI-PARTNE-M** (Quant/DERIVED, L6, ord:941, q:0)
+              - Topic: Partnership & Share
+              - Subtopic: Multi-partner firm with mid-term entry
+              - Micro: Method route
+      - **Q-S-PARTNERSHI-TIME-EXTRACT** (Quant/DERIVED, L3, ord:200, q:1)
+        - Topic: Partnership & Share
+        - Subtopic: Time extraction from capital-profit ratios
+        - **Q-M-PARTNERS-TIME-EXTRA-P-C-X-T-IN** (Quant/DERIVED, L4, ord:397, q:1)
+          - Topic: Partnership & Share
+          - Subtopic: Time extraction from capital-profit ratios
+          - Micro: P = C x T inversion
+          - **Q-A-TIME-EXTRACTION-** (Quant/PROCEDURAL, L5, ord:624, q:1)
+            - Topic: Partnership & Share
+            - Subtopic: Time extraction from capital-profit ratios
+            - Micro: P = C x T inversion
+            - **Q-V-TIME-EXTRACT-T0** (Quant/DERIVED, L6, ord:820, q:1)
+              - Topic: Partnership & Share
+              - Subtopic: Time extraction from capital-profit ratios
+              - Micro: Trap: Capital-only split
+            - **Q-V-TIME-EXTRACT-M** (Quant/DERIVED, L6, ord:1002, q:0)
+              - Topic: Partnership & Share
+              - Subtopic: Time extraction from capital-profit ratios
+              - Micro: Method route
+  - **Q-D-TIME-WORK-SPEE** (Quant/DERIVED, L1, ord:7, q:0)
+    - Domain: Time, Work, Speed & Interest
+    - **Q-T-TIME-SPEED-DIS** (Quant/DERIVED, L2, ord:29, q:117)
+      - Topic: Time, Speed & Distance
+      - Domain: Time, Work, Speed & Interest
+      - **Q-S-TIME-SPEED-GENERAL-SPEE** (Quant/DERIVED, L3, ord:83, q:6)
+        - Topic: Time, Speed & Distance
+        - Subtopic: General speed–distance computation
+        - **Q-M-TIME-SPE-GENERAL-SP-V-D-T** (Quant/DERIVED, L4, ord:311, q:6)
+          - Topic: Time, Speed & Distance
+          - Subtopic: General speed–distance computation
+          - Micro: v = d/t
+          - **Q-A-GENERAL-SPEEDDIS** (Quant/DERIVED, L5, ord:505, q:6)
+            - Topic: Time, Speed & Distance
+            - Subtopic: General speed–distance computation
+            - Micro: v = d/t
+            - **Q-V-GENERAL-SPEE-T0** (Quant/DERIVED, L6, ord:701, q:6)
+              - Topic: Time, Speed & Distance
+              - Subtopic: General speed–distance computation
+              - Micro: Trap: km/h vs m/s mix
+            - **Q-V-GENERAL-SPEE-M** (Quant/DERIVED, L6, ord:917, q:0)
+              - Topic: Time, Speed & Distance
+              - Subtopic: General speed–distance computation
+              - Micro: Method route
+      - **Q-S-TIME-SPEED-DELAYED-STAR** (Quant/DERIVED, L3, ord:84, q:45)
+        - Topic: Time, Speed & Distance
+        - Subtopic: Delayed-start chase
+        - **Q-M-TIME-SPE-DELAYED-ST-HEAD-START** (Quant/APPLICATION, L4, ord:244, q:45)
+          - Topic: Time, Speed & Distance
+          - Subtopic: Delayed-start chase
+          - Micro: head-start pursuit
+          - **Q-A-DELAYED-START-CH** (Quant/APPLICATION, L5, ord:440, q:45)
+            - Topic: Time, Speed & Distance
+            - Subtopic: Delayed-start chase
+            - Micro: head-start pursuit
+            - **Q-V-DELAYED-STAR-T0** (Quant/DERIVED, L6, ord:636, q:45)
+              - Topic: Time, Speed & Distance
+              - Subtopic: Delayed-start chase
+              - Micro: Trap: Using absolute speed
+            - **Q-V-DELAYED-STAR-M** (Quant/DERIVED, L6, ord:876, q:0)
+              - Topic: Time, Speed & Distance
+              - Subtopic: Delayed-start chase
+              - Micro: Method route
+      - **Q-S-TIME-SPEED-CIRCULAR-TRA** (Quant/DERIVED, L3, ord:85, q:16)
+        - Topic: Time, Speed & Distance
+        - Subtopic: Circular track meeting
+        - **Q-M-TIME-SPE-CIRCULAR-T-RELATIVE-S** (Quant/APPLICATION, L4, ord:270, q:16)
+          - Topic: Time, Speed & Distance
+          - Subtopic: Circular track meeting
+          - Micro: relative speed on loop
+          - **Q-A-CIRCULAR-TRACK-M** (Quant/APPLICATION, L5, ord:467, q:16)
+            - Topic: Time, Speed & Distance
+            - Subtopic: Circular track meeting
+            - Micro: relative speed on loop
+            - **Q-V-CIRCULAR-TRA-T0** (Quant/DERIVED, L6, ord:663, q:16)
+              - Topic: Time, Speed & Distance
+              - Subtopic: Circular track meeting
+              - Micro: Trap: Wrong relative-speed sign
+            - **Q-V-CIRCULAR-TRA-M** (Quant/DERIVED, L6, ord:853, q:0)
+              - Topic: Time, Speed & Distance
+              - Subtopic: Circular track meeting
+              - Micro: Method route
+      - **Q-S-TIME-SPEED-BOAT-UPSTREA** (Quant/DERIVED, L3, ord:86, q:15)
+        - Topic: Time, Speed & Distance
+        - Subtopic: Boat upstream–downstream
+        - **Q-M-TIME-SPE-BOAT-UPSTR-STILL-CURR** (Quant/APPLICATION, L4, ord:273, q:15)
+          - Topic: Time, Speed & Distance
+          - Subtopic: Boat upstream–downstream
+          - Micro: still ± current
+          - **Q-A-BOAT-UPSTREAMDOW** (Quant/APPLICATION, L5, ord:470, q:15)
+            - Topic: Time, Speed & Distance
+            - Subtopic: Boat upstream–downstream
+            - Micro: still ± current
+            - **Q-V-BOAT-UPSTREA-T0** (Quant/DERIVED, L6, ord:666, q:15)
+              - Topic: Time, Speed & Distance
+              - Subtopic: Boat upstream–downstream
+              - Micro: Trap: Adding instead of subtracting
+            - **Q-V-BOAT-UPSTREA-M** (Quant/DERIVED, L6, ord:838, q:0)
+              - Topic: Time, Speed & Distance
+              - Subtopic: Boat upstream–downstream
+              - Micro: Method route
+      - **Q-S-TIME-SPEED-KM-H-TO-M-S-** (Quant/DERIVED, L3, ord:101, q:5)
+        - Topic: Time, Speed & Distance
+        - Subtopic: km/h to m/s conversion drill
+        - **Q-M-TIME-SPE-KM-H-TO-M--X5-18** (Quant/DERIVED, L4, ord:321, q:5)
+          - Topic: Time, Speed & Distance
+          - Subtopic: km/h to m/s conversion drill
+          - Micro: x5/18
+          - **Q-A-KM-H-TO-M-S-CONV** (Quant/PROCEDURAL, L5, ord:514, q:5)
+            - Topic: Time, Speed & Distance
+            - Subtopic: km/h to m/s conversion drill
+            - Micro: x5/18
+            - **Q-V-KM-H-TO-M-S--T0** (Quant/DERIVED, L6, ord:710, q:5)
+              - Topic: Time, Speed & Distance
+              - Subtopic: km/h to m/s conversion drill
+              - Micro: Trap: Hour carryover
+            - **Q-V-KM-H-TO-M-S--M** (Quant/DERIVED, L6, ord:929, q:0)
+              - Topic: Time, Speed & Distance
+              - Subtopic: km/h to m/s conversion drill
+              - Micro: Method route
+      - **Q-S-TIME-SPEED-TWO-BODY-MEE** (Quant/DERIVED, L3, ord:111, q:4)
+        - Topic: Time, Speed & Distance
+        - Subtopic: Two-body meet / overtake
+        - **Q-M-TIME-SPE-TWO-BODY-M-RELATIVE-S** (Quant/DERIVED, L4, ord:333, q:4)
+          - Topic: Time, Speed & Distance
+          - Subtopic: Two-body meet / overtake
+          - Micro: relative speed
+          - **Q-A-TWO-BODY-MEET-OV** (Quant/PROCEDURAL, L5, ord:531, q:4)
+            - Topic: Time, Speed & Distance
+            - Subtopic: Two-body meet / overtake
+            - Micro: relative speed
+            - **Q-V-TWO-BODY-MEE-T0** (Quant/DERIVED, L6, ord:727, q:4)
+              - Topic: Time, Speed & Distance
+              - Subtopic: Two-body meet / overtake
+              - Micro: Trap: Wrong relative sign
+            - **Q-V-TWO-BODY-MEE-M** (Quant/DERIVED, L6, ord:1010, q:0)
+              - Topic: Time, Speed & Distance
+              - Subtopic: Two-body meet / overtake
+              - Micro: Method route
+      - **Q-S-TIME-SPEED-EARLY-LATE-A** (Quant/DERIVED, L3, ord:149, q:2)
+        - Topic: Time, Speed & Distance
+        - Subtopic: Early-late arrival speed-distance
+        - **Q-M-TIME-SPE-EARLY-LATE-TIME-GAP-E** (Quant/DERIVED, L4, ord:371, q:2)
+          - Topic: Time, Speed & Distance
+          - Subtopic: Early-late arrival speed-distance
+          - Micro: time-gap equation
+          - **Q-A-EARLY-LATE-ARRIV** (Quant/PROCEDURAL, L5, ord:556, q:2)
+            - Topic: Time, Speed & Distance
+            - Subtopic: Early-late arrival speed-distance
+            - Micro: time-gap equation
+            - **Q-V-EARLY-LATE-A-T0** (Quant/DERIVED, L6, ord:752, q:2)
+              - Topic: Time, Speed & Distance
+              - Subtopic: Early-late arrival speed-distance
+              - Micro: Trap: Adding gaps wrongly
+            - **Q-V-EARLY-LATE-A-M** (Quant/DERIVED, L6, ord:891, q:0)
+              - Topic: Time, Speed & Distance
+              - Subtopic: Early-late arrival speed-distance
+              - Micro: Method route
+      - **Q-S-TIME-SPEED-TO-AND-FRO-M** (Quant/DERIVED, L3, ord:150, q:2)
+        - Topic: Time, Speed & Distance
+        - Subtopic: To-and-fro meeting point
+        - **Q-M-TIME-SPE-TO-AND-FRO-COMBINED-D** (Quant/COMBINATIONAL, L4, ord:372, q:2)
+          - Topic: Time, Speed & Distance
+          - Subtopic: To-and-fro meeting point
+          - Micro: combined distance = 2D
+          - **Q-A-TO-AND-FRO-MEETI** (Quant/COMBINATIONAL, L5, ord:569, q:2)
+            - Topic: Time, Speed & Distance
+            - Subtopic: To-and-fro meeting point
+            - Micro: combined distance = 2D
+            - **Q-V-TO-AND-FRO-M-T0** (Quant/DERIVED, L6, ord:765, q:2)
+              - Topic: Time, Speed & Distance
+              - Subtopic: To-and-fro meeting point
+              - Micro: Trap: Single-trip logic
+            - **Q-V-TO-AND-FRO-M-M** (Quant/DERIVED, L6, ord:1003, q:0)
+              - Topic: Time, Speed & Distance
+              - Subtopic: To-and-fro meeting point
+              - Micro: Method route
+      - **Q-S-TIME-SPEED-UNIT-RATE-SC** (Quant/DERIVED, L3, ord:151, q:2)
+        - Topic: Time, Speed & Distance
+        - Subtopic: Unit-rate scaling
+        - **Q-M-TIME-SPE-UNIT-RATE--D-V-X-T** (Quant/DERIVED, L4, ord:373, q:2)
+          - Topic: Time, Speed & Distance
+          - Subtopic: Unit-rate scaling
+          - Micro: d = v x t
+          - **Q-A-UNIT-RATE-SCALIN** (Quant/PROCEDURAL, L5, ord:572, q:2)
+            - Topic: Time, Speed & Distance
+            - Subtopic: Unit-rate scaling
+            - Micro: d = v x t
+            - **Q-V-UNIT-RATE-SC-T0** (Quant/DERIVED, L6, ord:768, q:2)
+              - Topic: Time, Speed & Distance
+              - Subtopic: Unit-rate scaling
+              - Micro: Trap: Wrong unit carry
+            - **Q-V-UNIT-RATE-SC-M** (Quant/DERIVED, L6, ord:1015, q:0)
+              - Topic: Time, Speed & Distance
+              - Subtopic: Unit-rate scaling
+              - Micro: Method route
+      - **Q-S-TIME-SPEED-AVERAGE-SPEE** (Quant/DERIVED, L3, ord:163, q:15)
+        - Topic: Time, Speed & Distance
+        - Subtopic: Average speed multi-leg journey
+        - **Q-M-TIME-SPE-AVERAGE-SP-HARMONIC-N** (Quant/COMBINATIONAL, L4, ord:272, q:15)
+          - Topic: Time, Speed & Distance
+          - Subtopic: Average speed multi-leg journey
+          - Micro: harmonic, not arithmetic
+          - **Q-A-AVERAGE-SPEED-MU** (Quant/COMBINATIONAL, L5, ord:469, q:15)
+            - Topic: Time, Speed & Distance
+            - Subtopic: Average speed multi-leg journey
+            - Micro: harmonic, not arithmetic
+            - **Q-V-AVERAGE-SPEE-T0** (Quant/DERIVED, L6, ord:665, q:15)
+              - Topic: Time, Speed & Distance
+              - Subtopic: Average speed multi-leg journey
+              - Micro: Trap: Simple mean of speeds
+            - **Q-V-AVERAGE-SPEE-M** (Quant/DERIVED, L6, ord:836, q:0)
+              - Topic: Time, Speed & Distance
+              - Subtopic: Average speed multi-leg journey
+              - Micro: Method route
+      - **Q-S-TIME-SPEED-FRACTION-OF-** (Quant/DERIVED, L3, ord:222, q:1)
+        - Topic: Time, Speed & Distance
+        - Subtopic: Fraction-of-journey timing
+        - **Q-M-TIME-SPE-FRACTION-O-ELAPSED-VS** (Quant/DERIVED, L4, ord:419, q:1)
+          - Topic: Time, Speed & Distance
+          - Subtopic: Fraction-of-journey timing
+          - Micro: elapsed vs total
+          - **Q-A-FRACTION-OF-JOUR** (Quant/PROCEDURAL, L5, ord:591, q:1)
+            - Topic: Time, Speed & Distance
+            - Subtopic: Fraction-of-journey timing
+            - Micro: elapsed vs total
+            - **Q-V-FRACTION-OF--T0** (Quant/DERIVED, L6, ord:787, q:1)
+              - Topic: Time, Speed & Distance
+              - Subtopic: Fraction-of-journey timing
+              - Micro: Trap: Full time as elapsed
+            - **Q-V-FRACTION-OF--M** (Quant/DERIVED, L6, ord:906, q:0)
+              - Topic: Time, Speed & Distance
+              - Subtopic: Fraction-of-journey timing
+              - Micro: Method route
+      - **Q-S-TIME-SPEED-RACE-HEAD-ST** (Quant/DERIVED, L3, ord:223, q:1)
+        - Topic: Time, Speed & Distance
+        - Subtopic: Race head-start / beaten-by distance
+        - **Q-M-TIME-SPE-RACE-HEAD--EFFECTIVE-** (Quant/APPLICATION, L4, ord:420, q:1)
+          - Topic: Time, Speed & Distance
+          - Subtopic: Race head-start / beaten-by distance
+          - Micro: effective race length
+          - **Q-A-RACE-HEAD-START-** (Quant/APPLICATION, L5, ord:606, q:1)
+            - Topic: Time, Speed & Distance
+            - Subtopic: Race head-start / beaten-by distance
+            - Micro: effective race length
+            - **Q-V-RACE-HEAD-ST-T0** (Quant/DERIVED, L6, ord:802, q:1)
+              - Topic: Time, Speed & Distance
+              - Subtopic: Race head-start / beaten-by distance
+              - Micro: Trap: Full-length for both
+            - **Q-V-RACE-HEAD-ST-M** (Quant/DERIVED, L6, ord:959, q:0)
+              - Topic: Time, Speed & Distance
+              - Subtopic: Race head-start / beaten-by distance
+              - Micro: Method route
+      - **Q-S-TIME-SPEED-REQUIRED-SPE** (Quant/DERIVED, L3, ord:224, q:1)
+        - Topic: Time, Speed & Distance
+        - Subtopic: Required speed for a target time
+        - **Q-M-TIME-SPE-REQUIRED-S-V-D-T** (Quant/DERIVED, L4, ord:421, q:1)
+          - Topic: Time, Speed & Distance
+          - Subtopic: Required speed for a target time
+          - Micro: v = D/T
+          - **Q-A-REQUIRED-SPEED-F** (Quant/PROCEDURAL, L5, ord:612, q:1)
+            - Topic: Time, Speed & Distance
+            - Subtopic: Required speed for a target time
+            - Micro: v = D/T
+            - **Q-V-REQUIRED-SPE-T0** (Quant/DERIVED, L6, ord:808, q:1)
+              - Topic: Time, Speed & Distance
+              - Subtopic: Required speed for a target time
+              - Micro: Trap: Averaging speeds
+            - **Q-V-REQUIRED-SPE-M** (Quant/DERIVED, L6, ord:971, q:0)
+              - Topic: Time, Speed & Distance
+              - Subtopic: Required speed for a target time
+              - Micro: Method route
+      - **Q-S-TIME-SPEED-SPEED-RATIO-** (Quant/DERIVED, L3, ord:225, q:1)
+        - Topic: Time, Speed & Distance
+        - Subtopic: Speed ratio with one absolute
+        - **Q-M-TIME-SPE-SPEED-RATI-RATIO-SCAL** (Quant/DERIVED, L4, ord:422, q:1)
+          - Topic: Time, Speed & Distance
+          - Subtopic: Speed ratio with one absolute
+          - Micro: ratio scaling
+          - **Q-A-SPEED-RATIO-WITH** (Quant/PROCEDURAL, L5, ord:616, q:1)
+            - Topic: Time, Speed & Distance
+            - Subtopic: Speed ratio with one absolute
+            - Micro: ratio scaling
+            - **Q-V-SPEED-RATIO--T0** (Quant/DERIVED, L6, ord:812, q:1)
+              - Topic: Time, Speed & Distance
+              - Subtopic: Speed ratio with one absolute
+              - Micro: Trap: Swapped ratio
+            - **Q-V-SPEED-RATIO--M** (Quant/DERIVED, L6, ord:985, q:0)
+              - Topic: Time, Speed & Distance
+              - Subtopic: Speed ratio with one absolute
+              - Micro: Method route
+      - **Q-S-TIME-SPEED-TRAIN-CROSSI** (Quant/DERIVED, L3, ord:226, q:1)
+        - Topic: Time, Speed & Distance
+        - Subtopic: Train crossing platform
+        - **Q-M-TIME-SPE-TRAIN-CROS-LENGTHS-AD** (Quant/APPLICATION, L4, ord:423, q:1)
+          - Topic: Time, Speed & Distance
+          - Subtopic: Train crossing platform
+          - Micro: lengths add up
+          - **Q-A-TRAIN-CROSSING-P** (Quant/APPLICATION, L5, ord:625, q:1)
+            - Topic: Time, Speed & Distance
+            - Subtopic: Train crossing platform
+            - Micro: lengths add up
+            - **Q-V-TRAIN-CROSSI-T0** (Quant/DERIVED, L6, ord:821, q:1)
+              - Topic: Time, Speed & Distance
+              - Subtopic: Train crossing platform
+              - Micro: Trap: Using train length only; missing ×5/18
+            - **Q-V-TRAIN-CROSSI-M** (Quant/DERIVED, L6, ord:1004, q:0)
+              - Topic: Time, Speed & Distance
+              - Subtopic: Train crossing platform
+              - Micro: Method route
+    - **Q-T-SIMPLE-COMPOUN** (Quant/DERIVED, L2, ord:30, q:111)
+      - Topic: Simple & Compound Interest
+      - Domain: Time, Work, Speed & Interest
+      - **Q-S-SIMPLE-COM-DIRECT-SI-UN-2** (Quant/DERIVED, L3, ord:53, q:26)
+        - Topic: Simple & Compound Interest
+        - Subtopic: Direct SI unknowns
+        - **Q-M-SIMPLE-C-DIRECT-SI--SINGLE-POI** (Quant/COMBINATIONAL, L4, ord:260, q:26)
+          - Topic: Simple & Compound Interest
+          - Subtopic: Direct SI unknowns
+          - Micro: single-point rate
+          - **Q-A-DIRECT-SI-UNKNOW-2** (Quant/COMBINATIONAL, L5, ord:454, q:26)
+            - Topic: Simple & Compound Interest
+            - Subtopic: Direct SI unknowns
+            - Micro: single-point rate
+            - **Q-V-DIRECT-SI-UN-T0-2** (Quant/DERIVED, L6, ord:650, q:26)
+              - Topic: Simple & Compound Interest
+              - Subtopic: Direct SI unknowns
+              - Micro: Trap: Using amount as interest
+            - **Q-V-DIRECT-SI-UN-M-2** (Quant/DERIVED, L6, ord:883, q:0)
+              - Topic: Simple & Compound Interest
+              - Subtopic: Direct SI unknowns
+              - Micro: Method route
+      - **Q-S-SIMPLE-COM-CI-AMOUNT-RA** (Quant/DERIVED, L3, ord:54, q:25)
+        - Topic: Simple & Compound Interest
+        - Subtopic: CI amount/rate/time
+        - **Q-M-SIMPLE-C-CI-AMOUNT--CI-GROWTH** (Quant/DERIVED, L4, ord:261, q:25)
+          - Topic: Simple & Compound Interest
+          - Subtopic: CI amount/rate/time
+          - Micro: CI growth
+          - **Q-A-CI-AMOUNT-RATE-T** (Quant/PROCEDURAL, L5, ord:458, q:25)
+            - Topic: Simple & Compound Interest
+            - Subtopic: CI amount/rate/time
+            - Micro: CI growth
+            - **Q-V-CI-AMOUNT-RA-T0** (Quant/DERIVED, L6, ord:654, q:25)
+              - Topic: Simple & Compound Interest
+              - Subtopic: CI amount/rate/time
+              - Micro: Trap: Using SI formula
+            - **Q-V-CI-AMOUNT-RA-M** (Quant/DERIVED, L6, ord:849, q:0)
+              - Topic: Simple & Compound Interest
+              - Subtopic: CI amount/rate/time
+              - Micro: Method route
+      - **Q-S-SIMPLE-COM-GENERAL-INTE** (Quant/DERIVED, L3, ord:63, q:13)
+        - Topic: Simple & Compound Interest
+        - Subtopic: General interest computation
+        - **Q-M-SIMPLE-C-GENERAL-IN-SI-CI-RELA** (Quant/DERIVED, L4, ord:279, q:13)
+          - Topic: Simple & Compound Interest
+          - Subtopic: General interest computation
+          - Micro: SI/CI relation
+          - **Q-A-GENERAL-INTEREST** (Quant/DERIVED, L5, ord:475, q:13)
+            - Topic: Simple & Compound Interest
+            - Subtopic: General interest computation
+            - Micro: SI/CI relation
+            - **Q-V-GENERAL-INTE-T0** (Quant/DERIVED, L6, ord:671, q:13)
+              - Topic: Simple & Compound Interest
+              - Subtopic: General interest computation
+              - Micro: Trap: CI treated as SI
+            - **Q-V-GENERAL-INTE-M** (Quant/DERIVED, L6, ord:912, q:0)
+              - Topic: Simple & Compound Interest
+              - Subtopic: General interest computation
+              - Micro: Method route
+      - **Q-S-SIMPLE-COM-SUM-SPLIT-AT** (Quant/DERIVED, L3, ord:67, q:11)
+        - Topic: Simple & Compound Interest
+        - Subtopic: Sum split at two rates
+        - **Q-M-SIMPLE-C-SUM-SPLIT--SPLIT-PRIN** (Quant/COMBINATIONAL, L4, ord:285, q:11)
+          - Topic: Simple & Compound Interest
+          - Subtopic: Sum split at two rates
+          - Micro: split-principal SI
+          - **Q-A-SUM-SPLIT-AT-TWO** (Quant/COMBINATIONAL, L5, ord:483, q:11)
+            - Topic: Simple & Compound Interest
+            - Subtopic: Sum split at two rates
+            - Micro: split-principal SI
+            - **Q-V-SUM-SPLIT-AT-T0** (Quant/DERIVED, L6, ord:679, q:11)
+              - Topic: Simple & Compound Interest
+              - Subtopic: Sum split at two rates
+              - Micro: Trap: Applying rate to full sum
+            - **Q-V-SUM-SPLIT-AT-M** (Quant/DERIVED, L6, ord:995, q:0)
+              - Topic: Simple & Compound Interest
+              - Subtopic: Sum split at two rates
+              - Micro: Method route
+      - **Q-S-SIMPLE-COM-AMOUNT-K-PRI** (Quant/DERIVED, L3, ord:71, q:10)
+        - Topic: Simple & Compound Interest
+        - Subtopic: Amount = k× principal in n years
+        - **Q-M-SIMPLE-C-AMOUNT-K-P-SI-MULTIPL** (Quant/DERIVED, L4, ord:290, q:10)
+          - Topic: Simple & Compound Interest
+          - Subtopic: Amount = k× principal in n years
+          - Micro: SI multiplier form
+          - **Q-A-AMOUNT-K-PRINCIP** (Quant/PROCEDURAL, L5, ord:485, q:10)
+            - Topic: Simple & Compound Interest
+            - Subtopic: Amount = k× principal in n years
+            - Micro: SI multiplier form
+            - **Q-V-AMOUNT-K-PRI-T0** (Quant/DERIVED, L6, ord:681, q:10)
+              - Topic: Simple & Compound Interest
+              - Subtopic: Amount = k× principal in n years
+              - Micro: Trap: Using k instead of (k−1)
+            - **Q-V-AMOUNT-K-PRI-M** (Quant/DERIVED, L6, ord:828, q:0)
+              - Topic: Simple & Compound Interest
+              - Subtopic: Amount = k× principal in n years
+              - Micro: Method route
+      - **Q-S-SIMPLE-COM-SI-AS-FRACTI** (Quant/DERIVED, L3, ord:82, q:6)
+        - Topic: Simple & Compound Interest
+        - Subtopic: SI as fraction of / compared with principal
+        - **Q-M-SIMPLE-C-SI-AS-FRAC-SIP-RELATI** (Quant/DERIVED, L4, ord:310, q:6)
+          - Topic: Simple & Compound Interest
+          - Subtopic: SI as fraction of / compared with principal
+          - Micro: SI–P relation
+          - **Q-A-SI-AS-FRACTION-O** (Quant/PROCEDURAL, L5, ord:509, q:6)
+            - Topic: Simple & Compound Interest
+            - Subtopic: SI as fraction of / compared with principal
+            - Micro: SI–P relation
+            - **Q-V-SI-AS-FRACTI-T0** (Quant/DERIVED, L6, ord:705, q:6)
+              - Topic: Simple & Compound Interest
+              - Subtopic: SI as fraction of / compared with principal
+              - Micro: Trap: Confusing amount with principal
+            - **Q-V-SI-AS-FRACTI-M** (Quant/DERIVED, L6, ord:980, q:0)
+              - Topic: Simple & Compound Interest
+              - Subtopic: SI as fraction of / compared with principal
+              - Micro: Method route
+      - **Q-S-SIMPLE-COM-BORROW-INVES** (Quant/DERIVED, L3, ord:109, q:4)
+        - Topic: Simple & Compound Interest
+        - Subtopic: Borrow-invest spread / partial repayment
+        - **Q-M-SIMPLE-C-BORROW-INV-NET-POSITI** (Quant/COMBINATIONAL, L4, ord:331, q:4)
+          - Topic: Simple & Compound Interest
+          - Subtopic: Borrow-invest spread / partial repayment
+          - Micro: net position
+          - **Q-A-BORROW-INVEST-SP** (Quant/COMBINATIONAL, L5, ord:522, q:4)
+            - Topic: Simple & Compound Interest
+            - Subtopic: Borrow-invest spread / partial repayment
+            - Micro: net position
+            - **Q-V-BORROW-INVES-T0** (Quant/DERIVED, L6, ord:718, q:4)
+              - Topic: Simple & Compound Interest
+              - Subtopic: Borrow-invest spread / partial repayment
+              - Micro: Trap: Interest on original
+            - **Q-V-BORROW-INVES-M** (Quant/DERIVED, L6, ord:839, q:0)
+              - Topic: Simple & Compound Interest
+              - Subtopic: Borrow-invest spread / partial repayment
+              - Micro: Method route
+      - **Q-S-SIMPLE-COM-DIRECT-SI-UN** (Quant/DERIVED, L3, ord:110, q:4)
+        - Topic: Simple & Compound Interest
+        - Subtopic: Direct SI unknown
+        - **Q-M-SIMPLE-C-DIRECT-SI--SI-PRT-100** (Quant/COMBINATIONAL, L4, ord:332, q:4)
+          - Topic: Simple & Compound Interest
+          - Subtopic: Direct SI unknown
+          - Micro: SI = PRT/100
+          - **Q-A-DIRECT-SI-UNKNOW** (Quant/COMBINATIONAL, L5, ord:527, q:4)
+            - Topic: Simple & Compound Interest
+            - Subtopic: Direct SI unknown
+            - Micro: SI = PRT/100
+            - **Q-V-DIRECT-SI-UN-T0** (Quant/DERIVED, L6, ord:723, q:4)
+              - Topic: Simple & Compound Interest
+              - Subtopic: Direct SI unknown
+              - Micro: Trap: Using amount as interest
+            - **Q-V-DIRECT-SI-UN-M** (Quant/DERIVED, L6, ord:882, q:0)
+              - Topic: Simple & Compound Interest
+              - Subtopic: Direct SI unknown
+              - Micro: Method route
+      - **Q-S-SIMPLE-COM-TWO-AMOUNTS-** (Quant/DERIVED, L3, ord:123, q:3)
+        - Topic: Simple & Compound Interest
+        - Subtopic: Two amounts, two times
+        - **Q-M-SIMPLE-C-TWO-AMOUNT-SI-TWO-POI** (Quant/DERIVED, L4, ord:343, q:3)
+          - Topic: Simple & Compound Interest
+          - Subtopic: Two amounts, two times
+          - Micro: SI two-point data
+          - **Q-A-TWO-AMOUNTS-TWO-** (Quant/PROCEDURAL, L5, ord:544, q:3)
+            - Topic: Simple & Compound Interest
+            - Subtopic: Two amounts, two times
+            - Micro: SI two-point data
+            - **Q-V-TWO-AMOUNTS--T0** (Quant/DERIVED, L6, ord:740, q:3)
+              - Topic: Simple & Compound Interest
+              - Subtopic: Two amounts, two times
+              - Micro: Trap: Treating as CI
+            - **Q-V-TWO-AMOUNTS--M** (Quant/DERIVED, L6, ord:1009, q:0)
+              - Topic: Simple & Compound Interest
+              - Subtopic: Two amounts, two times
+              - Micro: Method route
+      - **Q-S-SIMPLE-COM-CAPITAL-SI-P** (Quant/DERIVED, L3, ord:148, q:2)
+        - Topic: Simple & Compound Interest
+        - Subtopic: Capital + SI profit share
+        - **Q-M-SIMPLE-C-CAPITAL-SI-SHARE-ON-C** (Quant/DERIVED, L4, ord:370, q:2)
+          - Topic: Simple & Compound Interest
+          - Subtopic: Capital + SI profit share
+          - Micro: share on capital+interest
+          - **Q-A-CAPITAL-SI-PROFI** (Quant/PROCEDURAL, L5, ord:547, q:2)
+            - Topic: Simple & Compound Interest
+            - Subtopic: Capital + SI profit share
+            - Micro: share on capital+interest
+            - **Q-V-CAPITAL-SI-P-T0** (Quant/DERIVED, L6, ord:743, q:2)
+              - Topic: Simple & Compound Interest
+              - Subtopic: Capital + SI profit share
+              - Micro: Trap: Equal split
+            - **Q-V-CAPITAL-SI-P-M** (Quant/DERIVED, L6, ord:844, q:0)
+              - Topic: Simple & Compound Interest
+              - Subtopic: Capital + SI profit share
+              - Micro: Method route
+      - **Q-S-SIMPLE-COM-ANNUAL-INSTA** (Quant/DERIVED, L3, ord:215, q:1)
+        - Topic: Simple & Compound Interest
+        - Subtopic: Annual instalment to clear debt
+        - **Q-M-SIMPLE-C-ANNUAL-INS-INSTALMENT** (Quant/APPLICATION, L4, ord:412, q:1)
+          - Topic: Simple & Compound Interest
+          - Subtopic: Annual instalment to clear debt
+          - Micro: instalment formula
+          - **Q-A-ANNUAL-INSTALMEN** (Quant/APPLICATION, L5, ord:575, q:1)
+            - Topic: Simple & Compound Interest
+            - Subtopic: Annual instalment to clear debt
+            - Micro: instalment formula
+            - **Q-V-ANNUAL-INSTA-T0** (Quant/DERIVED, L6, ord:771, q:1)
+              - Topic: Simple & Compound Interest
+              - Subtopic: Annual instalment to clear debt
+              - Micro: Trap: Equal split A/T
+            - **Q-V-ANNUAL-INSTA-M** (Quant/DERIVED, L6, ord:831, q:0)
+              - Topic: Simple & Compound Interest
+              - Subtopic: Annual instalment to clear debt
+              - Micro: Method route
+      - **Q-S-SIMPLE-COM-DEPOSIT-INVE** (Quant/DERIVED, L3, ord:216, q:1)
+        - Topic: Simple & Compound Interest
+        - Subtopic: Deposit-invest spread return
+        - **Q-M-SIMPLE-C-DEPOSIT-IN-RATE-ARBIT** (Quant/COMBINATIONAL, L4, ord:413, q:1)
+          - Topic: Simple & Compound Interest
+          - Subtopic: Deposit-invest spread return
+          - Micro: rate arbitrage
+          - **Q-A-DEPOSIT-INVEST-S** (Quant/COMBINATIONAL, L5, ord:583, q:1)
+            - Topic: Simple & Compound Interest
+            - Subtopic: Deposit-invest spread return
+            - Micro: rate arbitrage
+            - **Q-V-DEPOSIT-INVE-T0** (Quant/DERIVED, L6, ord:779, q:1)
+              - Topic: Simple & Compound Interest
+              - Subtopic: Deposit-invest spread return
+              - Micro: Trap: Adding rates
+            - **Q-V-DEPOSIT-INVE-M** (Quant/DERIVED, L6, ord:877, q:0)
+              - Topic: Simple & Compound Interest
+              - Subtopic: Deposit-invest spread return
+              - Micro: Method route
+      - **Q-S-SIMPLE-COM-EARLY-SETTLE** (Quant/DERIVED, L3, ord:217, q:1)
+        - Topic: Simple & Compound Interest
+        - Subtopic: Early settlement / present worth
+        - **Q-M-SIMPLE-C-EARLY-SETT-DISCOUNT-O** (Quant/DERIVED, L4, ord:414, q:1)
+          - Topic: Simple & Compound Interest
+          - Subtopic: Early settlement / present worth
+          - Micro: discount on debt
+          - **Q-A-EARLY-SETTLEMENT** (Quant/PROCEDURAL, L5, ord:587, q:1)
+            - Topic: Simple & Compound Interest
+            - Subtopic: Early settlement / present worth
+            - Micro: discount on debt
+            - **Q-V-EARLY-SETTLE-T0** (Quant/DERIVED, L6, ord:783, q:1)
+              - Topic: Simple & Compound Interest
+              - Subtopic: Early settlement / present worth
+              - Micro: Trap: Full amount
+            - **Q-V-EARLY-SETTLE-M** (Quant/DERIVED, L6, ord:892, q:0)
+              - Topic: Simple & Compound Interest
+              - Subtopic: Early settlement / present worth
+              - Micro: Method route
+      - **Q-S-SIMPLE-COM-EQUIVALENT-I** (Quant/DERIVED, L3, ord:218, q:1)
+        - Topic: Simple & Compound Interest
+        - Subtopic: Equivalent-interest equation
+        - **Q-M-SIMPLE-C-EQUIVALENT-TWO-SCENAR** (Quant/COMBINATIONAL, L4, ord:415, q:1)
+          - Topic: Simple & Compound Interest
+          - Subtopic: Equivalent-interest equation
+          - Micro: two-scenario equality
+          - **Q-A-EQUIVALENT-INTER** (Quant/COMBINATIONAL, L5, ord:589, q:1)
+            - Topic: Simple & Compound Interest
+            - Subtopic: Equivalent-interest equation
+            - Micro: two-scenario equality
+            - **Q-V-EQUIVALENT-I-T0** (Quant/DERIVED, L6, ord:785, q:1)
+              - Topic: Simple & Compound Interest
+              - Subtopic: Equivalent-interest equation
+              - Micro: Trap: Equating amounts not interest
+            - **Q-V-EQUIVALENT-I-M** (Quant/DERIVED, L6, ord:898, q:0)
+              - Topic: Simple & Compound Interest
+              - Subtopic: Equivalent-interest equation
+              - Micro: Method route
+      - **Q-S-SIMPLE-COM-INTEREST-ON-** (Quant/DERIVED, L3, ord:219, q:1)
+        - Topic: Simple & Compound Interest
+        - Subtopic: Interest-on-interest chain
+        - **Q-M-SIMPLE-C-INTEREST-O-SI-REINVES** (Quant/COMBINATIONAL, L4, ord:416, q:1)
+          - Topic: Simple & Compound Interest
+          - Subtopic: Interest-on-interest chain
+          - Micro: SI reinvested
+          - **Q-A-INTEREST-ON-INTE** (Quant/COMBINATIONAL, L5, ord:595, q:1)
+            - Topic: Simple & Compound Interest
+            - Subtopic: Interest-on-interest chain
+            - Micro: SI reinvested
+            - **Q-V-INTEREST-ON--T0** (Quant/DERIVED, L6, ord:791, q:1)
+              - Topic: Simple & Compound Interest
+              - Subtopic: Interest-on-interest chain
+              - Micro: Trap: Compounding instead of SI
+            - **Q-V-INTEREST-ON--M** (Quant/DERIVED, L6, ord:926, q:0)
+              - Topic: Simple & Compound Interest
+              - Subtopic: Interest-on-interest chain
+              - Micro: Method route
+      - **Q-S-SIMPLE-COM-RATE-GAP-TO-** (Quant/DERIVED, L3, ord:220, q:1)
+        - Topic: Simple & Compound Interest
+        - Subtopic: Rate gap to interest gap
+        - **Q-M-SIMPLE-C-RATE-GAP-T-DELTA-R-FO** (Quant/DERIVED, L4, ord:417, q:1)
+          - Topic: Simple & Compound Interest
+          - Subtopic: Rate gap to interest gap
+          - Micro: delta-R form
+          - **Q-A-RATE-GAP-TO-INTE** (Quant/PROCEDURAL, L5, ord:608, q:1)
+            - Topic: Simple & Compound Interest
+            - Subtopic: Rate gap to interest gap
+            - Micro: delta-R form
+            - **Q-V-RATE-GAP-TO--T0** (Quant/DERIVED, L6, ord:804, q:1)
+              - Topic: Simple & Compound Interest
+              - Subtopic: Rate gap to interest gap
+              - Micro: Trap: Gap as total
+            - **Q-V-RATE-GAP-TO--M** (Quant/DERIVED, L6, ord:961, q:0)
+              - Topic: Simple & Compound Interest
+              - Subtopic: Rate gap to interest gap
+              - Micro: Method route
+      - **Q-S-SIMPLE-COM-RATE-SCALED-** (Quant/DERIVED, L3, ord:221, q:1)
+        - Topic: Simple & Compound Interest
+        - Subtopic: Rate scaled, recompute amount
+        - **Q-M-SIMPLE-C-RATE-SCALE-RATE-MULTI** (Quant/COMBINATIONAL, L4, ord:418, q:1)
+          - Topic: Simple & Compound Interest
+          - Subtopic: Rate scaled, recompute amount
+          - Micro: rate multiplier
+          - **Q-A-RATE-SCALED-RECO** (Quant/COMBINATIONAL, L5, ord:609, q:1)
+            - Topic: Simple & Compound Interest
+            - Subtopic: Rate scaled, recompute amount
+            - Micro: rate multiplier
+            - **Q-V-RATE-SCALED--T0** (Quant/DERIVED, L6, ord:805, q:1)
+              - Topic: Simple & Compound Interest
+              - Subtopic: Rate scaled, recompute amount
+              - Micro: Trap: Scaling the amount directly
+            - **Q-V-RATE-SCALED--M** (Quant/DERIVED, L6, ord:962, q:0)
+              - Topic: Simple & Compound Interest
+              - Subtopic: Rate scaled, recompute amount
+              - Micro: Method route
+    - **Q-T-TIME-WORK** (Quant/DERIVED, L2, ord:31, q:111)
+      - Topic: Time & Work
+      - Domain: Time, Work, Speed & Interest
+      - **Q-S-TIME-WORK-MENWOMENBOYS** (Quant/DERIVED, L3, ord:69, q:11)
+        - Topic: Time & Work
+        - Subtopic: Men–women–boys equivalence groups
+        - **Q-M-TIME-WOR-MENWOMENBO-GROUP-EFFI** (Quant/DERIVED, L4, ord:287, q:11)
+          - Topic: Time & Work
+          - Subtopic: Men–women–boys equivalence groups
+          - Micro: group efficiency
+          - **Q-A-MENWOMENBOYS-EQU** (Quant/PROCEDURAL, L5, ord:482, q:11)
+            - Topic: Time & Work
+            - Subtopic: Men–women–boys equivalence groups
+            - Micro: group efficiency
+            - **Q-V-MENWOMENBOYS-T0** (Quant/DERIVED, L6, ord:678, q:11)
+              - Topic: Time & Work
+              - Subtopic: Men–women–boys equivalence groups
+              - Micro: Trap: Adding days instead of rates
+            - **Q-V-MENWOMENBOYS-M** (Quant/DERIVED, L6, ord:935, q:0)
+              - Topic: Time & Work
+              - Subtopic: Men–women–boys equivalence groups
+              - Micro: Method route
+      - **Q-S-TIME-WORK-WAGE-SHARING** (Quant/DERIVED, L3, ord:72, q:10)
+        - Topic: Time & Work
+        - Subtopic: Wage sharing by work done
+        - **Q-M-TIME-WOR-WAGE-SHARI-PAY-WORK-S** (Quant/DERIVED, L4, ord:291, q:10)
+          - Topic: Time & Work
+          - Subtopic: Wage sharing by work done
+          - Micro: pay ∝ work share
+          - **Q-A-WAGE-SHARING-BY-** (Quant/PROCEDURAL, L5, ord:488, q:10)
+            - Topic: Time & Work
+            - Subtopic: Wage sharing by work done
+            - Micro: pay ∝ work share
+            - **Q-V-WAGE-SHARING-T0** (Quant/DERIVED, L6, ord:684, q:10)
+              - Topic: Time & Work
+              - Subtopic: Wage sharing by work done
+              - Micro: Trap: Equal split
+            - **Q-V-WAGE-SHARING-M** (Quant/DERIVED, L6, ord:1017, q:0)
+              - Topic: Time & Work
+              - Subtopic: Wage sharing by work done
+              - Micro: Method route
+      - **Q-S-TIME-WORK-EFFICIENCY-R** (Quant/DERIVED, L3, ord:80, q:7)
+        - Topic: Time & Work
+        - Subtopic: Efficiency ratio
+        - **Q-M-TIME-WOR-EFFICIENCY-EFFICIENCY** (Quant/DERIVED, L4, ord:305, q:7)
+          - Topic: Time & Work
+          - Subtopic: Efficiency ratio
+          - Micro: efficiency↔time inverse
+          - **Q-A-EFFICIENCY-RATIO** (Quant/PROCEDURAL, L5, ord:498, q:7)
+            - Topic: Time & Work
+            - Subtopic: Efficiency ratio
+            - Micro: efficiency↔time inverse
+            - **Q-V-EFFICIENCY-R-T0** (Quant/DERIVED, L6, ord:694, q:7)
+              - Topic: Time & Work
+              - Subtopic: Efficiency ratio
+              - Micro: Trap: Direct (not inverse) ratio
+            - **Q-V-EFFICIENCY-R-M** (Quant/DERIVED, L6, ord:893, q:0)
+              - Topic: Time & Work
+              - Subtopic: Efficiency ratio
+              - Micro: Method route
+      - **Q-S-TIME-WORK-GENERAL-WORK** (Quant/DERIVED, L3, ord:131, q:3)
+        - Topic: Time & Work
+        - Subtopic: General work computation
+        - **Q-M-TIME-WOR-GENERAL-WO-RATE-TIME** (Quant/DERIVED, L4, ord:346, q:3)
+          - Topic: Time & Work
+          - Subtopic: General work computation
+          - Micro: rate × time
+          - **Q-A-GENERAL-WORK-COM** (Quant/DERIVED, L5, ord:536, q:3)
+            - Topic: Time & Work
+            - Subtopic: General work computation
+            - Micro: rate × time
+            - **Q-V-GENERAL-WORK-T0** (Quant/DERIVED, L6, ord:732, q:3)
+              - Topic: Time & Work
+              - Subtopic: General work computation
+              - Micro: Trap: Adding days
+            - **Q-V-GENERAL-WORK-M** (Quant/DERIVED, L6, ord:919, q:0)
+              - Topic: Time & Work
+              - Subtopic: General work computation
+              - Micro: Method route
+      - **Q-S-TIME-WORK-COMBINED-WOR** (Quant/DERIVED, L3, ord:193, q:18)
+        - Topic: Time & Work
+        - Subtopic: Combined work
+        - **Q-M-TIME-WOR-COMBINED-W-HARMONIC-C** (Quant/COMBINATIONAL, L4, ord:267, q:18)
+          - Topic: Time & Work
+          - Subtopic: Combined work
+          - Micro: harmonic combine
+          - **Q-A-COMBINED-WORK-IN** (Quant/COMBINATIONAL, L5, ord:464, q:18)
+            - Topic: Time & Work
+            - Subtopic: Combined work
+            - Micro: harmonic combine
+            - **Q-V-COMBINED-WOR-T0** (Quant/DERIVED, L6, ord:660, q:18)
+              - Topic: Time & Work
+              - Subtopic: Combined work
+              - Micro: Trap: Subtracting days
+            - **Q-V-COMBINED-WOR-M** (Quant/DERIVED, L6, ord:859, q:0)
+              - Topic: Time & Work
+              - Subtopic: Combined work
+              - Micro: Method route
+      - **Q-S-TIME-WORK-PIPES-FILL-E** (Quant/DERIVED, L3, ord:194, q:44)
+        - Topic: Time & Work
+        - Subtopic: Pipes fill/empty tank
+        - **Q-M-TIME-WOR-PIPES-FILL-INLET-OUTL** (Quant/DERIVED, L4, ord:245, q:44)
+          - Topic: Time & Work
+          - Subtopic: Pipes fill/empty tank
+          - Micro: inlet/outlet rates
+          - **Q-A-PIPES-FILL-EMPTY** (Quant/PROCEDURAL, L5, ord:442, q:44)
+            - Topic: Time & Work
+            - Subtopic: Pipes fill/empty tank
+            - Micro: inlet/outlet rates
+            - **Q-V-PIPES-FILL-E-T0** (Quant/DERIVED, L6, ord:638, q:44)
+              - Topic: Time & Work
+              - Subtopic: Pipes fill/empty tank
+              - Micro: Trap: Adding times
+            - **Q-V-PIPES-FILL-E-M** (Quant/DERIVED, L6, ord:953, q:0)
+              - Topic: Time & Work
+              - Subtopic: Pipes fill/empty tank
+              - Micro: Method route
+      - **Q-S-TIME-WORK-PARTNER-LEAV** (Quant/DERIVED, L3, ord:195, q:6)
+        - Topic: Time & Work
+        - Subtopic: Partner leaves/works-part-then-rest
+        - **Q-M-TIME-WOR-PARTNER-LE-MID-WAY-EX** (Quant/DERIVED, L4, ord:312, q:6)
+          - Topic: Time & Work
+          - Subtopic: Partner leaves/works-part-then-rest
+          - Micro: mid-way exit / partial work
+          - **Q-A-PARTNER-LEAVES-W** (Quant/PROCEDURAL, L5, ord:507, q:6)
+            - Topic: Time & Work
+            - Subtopic: Partner leaves/works-part-then-rest
+            - Micro: mid-way exit / partial work
+            - **Q-V-PARTNER-LEAV-T0** (Quant/DERIVED, L6, ord:703, q:6)
+              - Topic: Time & Work
+              - Subtopic: Partner leaves/works-part-then-rest
+              - Micro: Trap: Full combined days
+            - **Q-V-PARTNER-LEAV-M** (Quant/DERIVED, L6, ord:949, q:0)
+              - Topic: Time & Work
+              - Subtopic: Partner leaves/works-part-then-rest
+              - Micro: Method route
+      - **Q-S-TIME-WORK-ALTERNATE-DA** (Quant/DERIVED, L3, ord:196, q:4)
+        - Topic: Time & Work
+        - Subtopic: Alternate-day working
+        - **Q-M-TIME-WOR-ALTERNATE--A-B-ALTERN** (Quant/DERIVED, L4, ord:334, q:4)
+          - Topic: Time & Work
+          - Subtopic: Alternate-day working
+          - Micro: A/B alternate shifts
+          - **Q-A-ALTERNATE-DAY-WO** (Quant/PROCEDURAL, L5, ord:519, q:4)
+            - Topic: Time & Work
+            - Subtopic: Alternate-day working
+            - Micro: A/B alternate shifts
+            - **Q-V-ALTERNATE-DA-T0** (Quant/DERIVED, L6, ord:715, q:4)
+              - Topic: Time & Work
+              - Subtopic: Alternate-day working
+              - Micro: Trap: Assuming equal days each
+            - **Q-V-ALTERNATE-DA-M** (Quant/DERIVED, L6, ord:827, q:0)
+              - Topic: Time & Work
+              - Subtopic: Alternate-day working
+              - Micro: Method route
+      - **Q-S-TIME-WORK-SHRINKING-EX** (Quant/DERIVED, L3, ord:198, q:3)
+        - Topic: Time & Work
+        - Subtopic: Shrinking/expanding workforce
+        - **Q-M-TIME-WOR-SHRINKING--DAILY-DROP** (Quant/DERIVED, L4, ord:347, q:3)
+          - Topic: Time & Work
+          - Subtopic: Shrinking/expanding workforce
+          - Micro: daily dropout schedule
+          - **Q-A-SHRINKING-EXPAND** (Quant/PROCEDURAL, L5, ord:541, q:3)
+            - Topic: Time & Work
+            - Subtopic: Shrinking/expanding workforce
+            - Micro: daily dropout schedule
+            - **Q-V-SHRINKING-EX-T0** (Quant/DERIVED, L6, ord:737, q:3)
+              - Topic: Time & Work
+              - Subtopic: Shrinking/expanding workforce
+              - Micro: Trap: Fixed workforce assumption
+            - **Q-V-SHRINKING-EX-M** (Quant/DERIVED, L6, ord:979, q:0)
+              - Topic: Time & Work
+              - Subtopic: Shrinking/expanding workforce
+              - Micro: Method route
+      - **Q-S-TIME-WORK-FRACTIONAL-W** (Quant/DERIVED, L3, ord:227, q:1)
+        - Topic: Time & Work
+        - Subtopic: Fractional work completion %
+        - **Q-M-TIME-WOR-FRACTIONAL-MAN-DAYS-R** (Quant/DERIVED, L4, ord:424, q:1)
+          - Topic: Time & Work
+          - Subtopic: Fractional work completion %
+          - Micro: man-days ratio
+          - **Q-A-FRACTIONAL-WORK-** (Quant/PROCEDURAL, L5, ord:592, q:1)
+            - Topic: Time & Work
+            - Subtopic: Fractional work completion %
+            - Micro: man-days ratio
+            - **Q-V-FRACTIONAL-W-T0** (Quant/DERIVED, L6, ord:788, q:1)
+              - Topic: Time & Work
+              - Subtopic: Fractional work completion %
+              - Micro: Trap: Day count only
+            - **Q-V-FRACTIONAL-W-M** (Quant/DERIVED, L6, ord:907, q:0)
+              - Topic: Time & Work
+              - Subtopic: Fractional work completion %
+              - Micro: Method route
+      - **Q-S-TIME-WORK-PARTIAL-DAYS** (Quant/DERIVED, L3, ord:228, q:1)
+        - Topic: Time & Work
+        - Subtopic: Partial-days team system
+        - **Q-M-TIME-WOR-PARTIAL-DA-RATE-X-DAY** (Quant/DERIVED, L4, ord:425, q:1)
+          - Topic: Time & Work
+          - Subtopic: Partial-days team system
+          - Micro: rate x days ledger
+          - **Q-A-PARTIAL-DAYS-TEA** (Quant/PROCEDURAL, L5, ord:602, q:1)
+            - Topic: Time & Work
+            - Subtopic: Partial-days team system
+            - Micro: rate x days ledger
+            - **Q-V-PARTIAL-DAYS-T0** (Quant/DERIVED, L6, ord:798, q:1)
+              - Topic: Time & Work
+              - Subtopic: Partial-days team system
+              - Micro: Trap: Averaging days
+            - **Q-V-PARTIAL-DAYS-M** (Quant/DERIVED, L6, ord:948, q:0)
+              - Topic: Time & Work
+              - Subtopic: Partial-days team system
+              - Micro: Method route
+      - **Q-S-TIME-WORK-PERIODIC-ASS** (Quant/DERIVED, L3, ord:229, q:1)
+        - Topic: Time & Work
+        - Subtopic: Periodic assistance schedule
+        - **Q-M-TIME-WOR-PERIODIC-A-CYCLE-OUTP** (Quant/DERIVED, L4, ord:426, q:1)
+          - Topic: Time & Work
+          - Subtopic: Periodic assistance schedule
+          - Micro: cycle output
+          - **Q-A-PERIODIC-ASSISTA** (Quant/PROCEDURAL, L5, ord:603, q:1)
+            - Topic: Time & Work
+            - Subtopic: Periodic assistance schedule
+            - Micro: cycle output
+            - **Q-V-PERIODIC-ASS-T0** (Quant/DERIVED, L6, ord:799, q:1)
+              - Topic: Time & Work
+              - Subtopic: Periodic assistance schedule
+              - Micro: Trap: Averaging daily
+            - **Q-V-PERIODIC-ASS-M** (Quant/DERIVED, L6, ord:951, q:0)
+              - Topic: Time & Work
+              - Subtopic: Periodic assistance schedule
+              - Micro: Method route
+      - **Q-S-TIME-WORK-THREE-WORKER** (Quant/DERIVED, L3, ord:230, q:1)
+        - Topic: Time & Work
+        - Subtopic: Three-worker team / assisted work
+        - **Q-M-TIME-WOR-THREE-WORK-COMBINED-R** (Quant/DERIVED, L4, ord:427, q:1)
+          - Topic: Time & Work
+          - Subtopic: Three-worker team / assisted work
+          - Micro: combined rate
+          - **Q-A-THREE-WORKER-TEA** (Quant/PROCEDURAL, L5, ord:623, q:1)
+            - Topic: Time & Work
+            - Subtopic: Three-worker team / assisted work
+            - Micro: combined rate
+            - **Q-V-THREE-WORKER-T0** (Quant/DERIVED, L6, ord:819, q:1)
+              - Topic: Time & Work
+              - Subtopic: Three-worker team / assisted work
+              - Micro: Trap: Full-team whole time
+            - **Q-V-THREE-WORKER-M** (Quant/DERIVED, L6, ord:1001, q:0)
+              - Topic: Time & Work
+              - Subtopic: Three-worker team / assisted work
+              - Micro: Method route
+      - **Q-S-TIME-WORK-WORKFORCE-CU** (Quant/DERIVED, L3, ord:231, q:1)
+        - Topic: Time & Work
+        - Subtopic: Workforce cut mid-work
+        - **Q-M-TIME-WOR-WORKFORCE--DONE-REST-** (Quant/DERIVED, L4, ord:428, q:1)
+          - Topic: Time & Work
+          - Subtopic: Workforce cut mid-work
+          - Micro: done + rest ledger
+          - **Q-A-WORKFORCE-CUT-MI** (Quant/PROCEDURAL, L5, ord:629, q:1)
+            - Topic: Time & Work
+            - Subtopic: Workforce cut mid-work
+            - Micro: done + rest ledger
+            - **Q-V-WORKFORCE-CU-T0** (Quant/DERIVED, L6, ord:825, q:1)
+              - Topic: Time & Work
+              - Subtopic: Workforce cut mid-work
+              - Micro: Trap: Original rate for rest
+            - **Q-V-WORKFORCE-CU-M** (Quant/DERIVED, L6, ord:1020, q:0)
+              - Topic: Time & Work
+              - Subtopic: Workforce cut mid-work
+              - Micro: Method route
+    - **Q-T-AVERAGE-AGE** (Quant/DERIVED, L2, ord:32, q:86)
+      - Topic: Average & Age
+      - Domain: Time, Work, Speed & Interest
+      - **Q-S-AVERAGE-AG-AGE-MULTIPLI** (Quant/DERIVED, L3, ord:64, q:12)
+        - Topic: Average & Age
+        - Subtopic: Age multiplier past/future
+        - **Q-M-AVERAGE--AGE-MULTIP-AGE-EQUATI** (Quant/COMBINATIONAL, L4, ord:280, q:12)
+          - Topic: Average & Age
+          - Subtopic: Age multiplier past/future
+          - Micro: age equations
+          - **Q-A-AGE-MULTIPLIER-P** (Quant/COMBINATIONAL, L5, ord:477, q:12)
+            - Topic: Average & Age
+            - Subtopic: Age multiplier past/future
+            - Micro: age equations
+            - **Q-V-AGE-MULTIPLI-T0** (Quant/DERIVED, L6, ord:673, q:12)
+              - Topic: Average & Age
+              - Subtopic: Age multiplier past/future
+              - Micro: Trap: Shifting one side only
+            - **Q-V-AGE-MULTIPLI-M** (Quant/DERIVED, L6, ord:826, q:0)
+              - Topic: Average & Age
+              - Subtopic: Age multiplier past/future
+              - Micro: Method route
+      - **Q-S-AVERAGE-AG-AVERAGE-OF-S** (Quant/DERIVED, L3, ord:88, q:5)
+        - Topic: Average & Age
+        - Subtopic: Average of squares formula
+        - **Q-M-AVERAGE--AVERAGE-OF-STANDARD-R** (Quant/DERIVED, L4, ord:315, q:5)
+          - Topic: Average & Age
+          - Subtopic: Average of squares formula
+          - Micro: standard result
+          - **Q-A-AVERAGE-OF-SQUAR** (Quant/PROCEDURAL, L5, ord:511, q:5)
+            - Topic: Average & Age
+            - Subtopic: Average of squares formula
+            - Micro: standard result
+            - **Q-V-AVERAGE-OF-S-T0** (Quant/DERIVED, L6, ord:707, q:5)
+              - Topic: Average & Age
+              - Subtopic: Average of squares formula
+              - Micro: Trap: Using sum instead of avg
+            - **Q-V-AVERAGE-OF-S-M** (Quant/DERIVED, L6, ord:835, q:0)
+              - Topic: Average & Age
+              - Subtopic: Average of squares formula
+              - Micro: Method route
+      - **Q-S-AVERAGE-AG-AVERAGE-OF-A** (Quant/DERIVED, L3, ord:102, q:4)
+        - Topic: Average & Age
+        - Subtopic: Average of a divisible-number range
+        - **Q-M-AVERAGE--AVERAGE-OF-AP-MEAN** (Quant/DERIVED, L4, ord:323, q:4)
+          - Topic: Average & Age
+          - Subtopic: Average of a divisible-number range
+          - Micro: AP mean
+          - **Q-A-AVERAGE-OF-A-DIV** (Quant/PROCEDURAL, L5, ord:520, q:4)
+            - Topic: Average & Age
+            - Subtopic: Average of a divisible-number range
+            - Micro: AP mean
+            - **Q-V-AVERAGE-OF-A-T0** (Quant/DERIVED, L6, ord:716, q:4)
+              - Topic: Average & Age
+              - Subtopic: Average of a divisible-number range
+              - Micro: Trap: Listing all
+            - **Q-V-AVERAGE-OF-A-M** (Quant/DERIVED, L6, ord:833, q:0)
+              - Topic: Average & Age
+              - Subtopic: Average of a divisible-number range
+              - Micro: Method route
+      - **Q-S-AVERAGE-AG-AP-SPACED-AG** (Quant/DERIVED, L3, ord:157, q:1)
+        - Topic: Average & Age
+        - Subtopic: AP-spaced ages
+        - **Q-M-AVERAGE--AP-SPACED--ARITHMETIC** (Quant/DERIVED, L4, ord:378, q:1)
+          - Topic: Average & Age
+          - Subtopic: AP-spaced ages
+          - Micro: arithmetic progression
+          - **Q-A-AP-SPACED-AGES** (Quant/PROCEDURAL, L5, ord:576, q:1)
+            - Topic: Average & Age
+            - Subtopic: AP-spaced ages
+            - Micro: arithmetic progression
+            - **Q-V-AP-SPACED-AG-T0** (Quant/DERIVED, L6, ord:772, q:1)
+              - Topic: Average & Age
+              - Subtopic: AP-spaced ages
+              - Micro: Trap: Equal split
+            - **Q-V-AP-SPACED-AG-M** (Quant/DERIVED, L6, ord:832, q:0)
+              - Topic: Average & Age
+              - Subtopic: AP-spaced ages
+              - Micro: Method route
+      - **Q-S-AVERAGE-AG-OUTLIER-VS-G** (Quant/DERIVED, L3, ord:158, q:1)
+        - Topic: Average & Age
+        - Subtopic: Outlier vs group average
+        - **Q-M-AVERAGE--OUTLIER-VS-TOTAL-GAP-** (Quant/DERIVED, L4, ord:379, q:1)
+          - Topic: Average & Age
+          - Subtopic: Outlier vs group average
+          - Micro: total gap method
+          - **Q-A-OUTLIER-VS-GROUP** (Quant/PROCEDURAL, L5, ord:600, q:1)
+            - Topic: Average & Age
+            - Subtopic: Outlier vs group average
+            - Micro: total gap method
+            - **Q-V-OUTLIER-VS-G-T0** (Quant/DERIVED, L6, ord:796, q:1)
+              - Topic: Average & Age
+              - Subtopic: Outlier vs group average
+              - Micro: Trap: Adding gap directly
+            - **Q-V-OUTLIER-VS-G-M** (Quant/DERIVED, L6, ord:945, q:0)
+              - Topic: Average & Age
+              - Subtopic: Outlier vs group average
+              - Micro: Method route
+      - **Q-S-AVERAGE-AG-OVERLAPPING-** (Quant/DERIVED, L3, ord:159, q:1)
+        - Topic: Average & Age
+        - Subtopic: Overlapping-period averages
+        - **Q-M-AVERAGE--OVERLAPPIN-DOUBLE-COU** (Quant/DERIVED, L4, ord:380, q:1)
+          - Topic: Average & Age
+          - Subtopic: Overlapping-period averages
+          - Micro: double-counted days
+          - **Q-A-OVERLAPPING-PERI** (Quant/PROCEDURAL, L5, ord:601, q:1)
+            - Topic: Average & Age
+            - Subtopic: Overlapping-period averages
+            - Micro: double-counted days
+            - **Q-V-OVERLAPPING--T0** (Quant/DERIVED, L6, ord:797, q:1)
+              - Topic: Average & Age
+              - Subtopic: Overlapping-period averages
+              - Micro: Trap: Simple mean of avgs
+            - **Q-V-OVERLAPPING--M** (Quant/DERIVED, L6, ord:946, q:0)
+              - Topic: Average & Age
+              - Subtopic: Overlapping-period averages
+              - Micro: Method route
+      - **Q-S-AVERAGE-AG-SIMPLE-AVERA** (Quant/DERIVED, L3, ord:160, q:1)
+        - Topic: Average & Age
+        - Subtopic: Simple average of a list
+        - **Q-M-AVERAGE--SIMPLE-AVE-SUM-COUNT** (Quant/DERIVED, L4, ord:381, q:1)
+          - Topic: Average & Age
+          - Subtopic: Simple average of a list
+          - Micro: sum / count
+          - **Q-A-SIMPLE-AVERAGE-O** (Quant/PROCEDURAL, L5, ord:614, q:1)
+            - Topic: Average & Age
+            - Subtopic: Simple average of a list
+            - Micro: sum / count
+            - **Q-V-SIMPLE-AVERA-T0** (Quant/DERIVED, L6, ord:810, q:1)
+              - Topic: Average & Age
+              - Subtopic: Simple average of a list
+              - Micro: Trap: Wrong divisor
+            - **Q-V-SIMPLE-AVERA-M** (Quant/DERIVED, L6, ord:982, q:0)
+              - Topic: Average & Age
+              - Subtopic: Simple average of a list
+              - Micro: Method route
+      - **Q-S-AVERAGE-AG-GENERAL-AVER** (Quant/DERIVED, L3, ord:161, q:8)
+        - Topic: Average & Age
+        - Subtopic: General average/age computation
+        - **Q-M-AVERAGE--GENERAL-AV-TOTAL-AVG-** (Quant/DERIVED, L4, ord:295, q:8)
+          - Topic: Average & Age
+          - Subtopic: General average/age computation
+          - Micro: total = avg × n
+          - **Q-A-GENERAL-AVERAGE-** (Quant/DERIVED, L5, ord:492, q:8)
+            - Topic: Average & Age
+            - Subtopic: General average/age computation
+            - Micro: total = avg × n
+            - **Q-V-GENERAL-AVER-T0** (Quant/DERIVED, L6, ord:688, q:8)
+              - Topic: Average & Age
+              - Subtopic: General average/age computation
+              - Micro: Trap: Mean of avgs
+            - **Q-V-GENERAL-AVER-M** (Quant/DERIVED, L6, ord:909, q:0)
+              - Topic: Average & Age
+              - Subtopic: General average/age computation
+              - Micro: Method route
+      - **Q-S-AVERAGE-AG-MEMBER-JOINS** (Quant/DERIVED, L3, ord:162, q:26)
+        - Topic: Average & Age
+        - Subtopic: Member joins/leaves / split-group average
+        - **Q-M-AVERAGE--MEMBER-JOI-ENTRANT-EF** (Quant/COMBINATIONAL, L4, ord:257, q:26)
+          - Topic: Average & Age
+          - Subtopic: Member joins/leaves / split-group average
+          - Micro: entrant effect; subgroup totals
+          - **Q-A-MEMBER-JOINS-LEA** (Quant/COMBINATIONAL, L5, ord:457, q:26)
+            - Topic: Average & Age
+            - Subtopic: Member joins/leaves / split-group average
+            - Micro: entrant effect; subgroup totals
+            - **Q-V-MEMBER-JOINS-T0** (Quant/DERIVED, L6, ord:653, q:26)
+              - Topic: Average & Age
+              - Subtopic: Member joins/leaves / split-group average
+              - Micro: Trap: Mean of subgroup avgs
+            - **Q-V-MEMBER-JOINS-M** (Quant/DERIVED, L6, ord:934, q:0)
+              - Topic: Average & Age
+              - Subtopic: Member joins/leaves / split-group average
+              - Micro: Method route
+      - **Q-S-AVERAGE-AG-AVERAGE-OF-A-2** (Quant/DERIVED, L3, ord:164, q:13)
+        - Topic: Average & Age
+        - Subtopic: Average of a number set
+        - **Q-M-AVERAGE--AVERAGE-OF-LIST-TOTAL** (Quant/DERIVED, L4, ord:277, q:13)
+          - Topic: Average & Age
+          - Subtopic: Average of a number set
+          - Micro: list & total
+          - **Q-A-AVERAGE-OF-A-NUM** (Quant/PROCEDURAL, L5, ord:474, q:13)
+            - Topic: Average & Age
+            - Subtopic: Average of a number set
+            - Micro: list & total
+            - **Q-V-AVERAGE-OF-A-T0-2** (Quant/DERIVED, L6, ord:670, q:13)
+              - Topic: Average & Age
+              - Subtopic: Average of a number set
+              - Micro: Trap: Miscounting terms
+            - **Q-V-AVERAGE-OF-A-M-2** (Quant/DERIVED, L6, ord:834, q:0)
+              - Topic: Average & Age
+              - Subtopic: Average of a number set
+              - Micro: Method route
+      - **Q-S-AVERAGE-AG-GROUP-AVERAG** (Quant/DERIVED, L3, ord:167, q:7)
+        - Topic: Average & Age
+        - Subtopic: Group average / subgroup mix
+        - **Q-M-AVERAGE--GROUP-AVER-WEIGHTED-A** (Quant/DERIVED, L4, ord:300, q:7)
+          - Topic: Average & Age
+          - Subtopic: Group average / subgroup mix
+          - Micro: weighted average
+          - **Q-A-GROUP-AVERAGE-SU** (Quant/PROCEDURAL, L5, ord:499, q:7)
+            - Topic: Average & Age
+            - Subtopic: Group average / subgroup mix
+            - Micro: weighted average
+            - **Q-V-GROUP-AVERAG-T0** (Quant/DERIVED, L6, ord:695, q:7)
+              - Topic: Average & Age
+              - Subtopic: Group average / subgroup mix
+              - Micro: Trap: Simple mean of avgs
+            - **Q-V-GROUP-AVERAG-M** (Quant/DERIVED, L6, ord:921, q:0)
+              - Topic: Average & Age
+              - Subtopic: Group average / subgroup mix
+              - Micro: Method route
+      - **Q-S-AVERAGE-AG-RUNS-NEEDED-** (Quant/DERIVED, L3, ord:170, q:3)
+        - Topic: Average & Age
+        - Subtopic: Runs needed to raise average
+        - **Q-M-AVERAGE--RUNS-NEEDE-NEW-AVERAG** (Quant/DERIVED, L4, ord:335, q:3)
+          - Topic: Average & Age
+          - Subtopic: Runs needed to raise average
+          - Micro: new-average equation
+          - **Q-A-RUNS-NEEDED-TO-R** (Quant/PROCEDURAL, L5, ord:540, q:3)
+            - Topic: Average & Age
+            - Subtopic: Runs needed to raise average
+            - Micro: new-average equation
+            - **Q-V-RUNS-NEEDED--T0** (Quant/DERIVED, L6, ord:736, q:3)
+              - Topic: Average & Age
+              - Subtopic: Runs needed to raise average
+              - Micro: Trap: Need = gap only
+            - **Q-V-RUNS-NEEDED--M** (Quant/DERIVED, L6, ord:974, q:0)
+              - Topic: Average & Age
+              - Subtopic: Runs needed to raise average
+              - Micro: Method route
+      - **Q-S-AVERAGE-AG-EXCLUDED-EXT** (Quant/DERIVED, L3, ord:171, q:2)
+        - Topic: Average & Age
+        - Subtopic: Excluded-extreme average
+        - **Q-M-AVERAGE--EXCLUDED-E-TOTAL-MINU** (Quant/DERIVED, L4, ord:348, q:2)
+          - Topic: Average & Age
+          - Subtopic: Excluded-extreme average
+          - Micro: total minus extreme
+          - **Q-A-EXCLUDED-EXTREME** (Quant/PROCEDURAL, L5, ord:559, q:2)
+            - Topic: Average & Age
+            - Subtopic: Excluded-extreme average
+            - Micro: total minus extreme
+            - **Q-V-EXCLUDED-EXT-T0** (Quant/DERIVED, L6, ord:755, q:2)
+              - Topic: Average & Age
+              - Subtopic: Excluded-extreme average
+              - Micro: Trap: Recounting n
+            - **Q-V-EXCLUDED-EXT-M** (Quant/DERIVED, L6, ord:899, q:0)
+              - Topic: Average & Age
+              - Subtopic: Excluded-extreme average
+              - Micro: Method route
+      - **Q-S-AVERAGE-AG-WRONG-ENTRY-** (Quant/DERIVED, L3, ord:172, q:2)
+        - Topic: Average & Age
+        - Subtopic: Wrong-entry average correction
+        - **Q-M-AVERAGE--WRONG-ENTR-TOTAL-CORR** (Quant/DERIVED, L4, ord:349, q:2)
+          - Topic: Average & Age
+          - Subtopic: Wrong-entry average correction
+          - Micro: total correction
+          - **Q-A-WRONG-ENTRY-AVER** (Quant/PROCEDURAL, L5, ord:573, q:2)
+            - Topic: Average & Age
+            - Subtopic: Wrong-entry average correction
+            - Micro: total correction
+            - **Q-V-WRONG-ENTRY--T0** (Quant/DERIVED, L6, ord:769, q:2)
+              - Topic: Average & Age
+              - Subtopic: Wrong-entry average correction
+              - Micro: Trap: Recomputing full total wrongly
+            - **Q-V-WRONG-ENTRY--M** (Quant/DERIVED, L6, ord:1021, q:0)
+              - Topic: Average & Age
+              - Subtopic: Wrong-entry average correction
+              - Micro: Method route
+  - **Q-EXT-ARITH** (Quant/FOUNDATIONAL, L1, ord:8, q:0)
+    - Micro: Arithmetic operations
+    - Domain: Foundational Prerequisites
+  - **Q-EXT-AP** (Quant/FOUNDATIONAL, L1, ord:9, q:0)
+    - Micro: Arithmetic progression basics
+    - Domain: Foundational Prerequisites
+  - **Q-EXT-BODMAS** (Quant/FOUNDATIONAL, L1, ord:10, q:0)
+    - Micro: BODMAS order of operations
+    - Domain: Foundational Prerequisites
+  - **Q-EXT-FRAC** (Quant/FOUNDATIONAL, L1, ord:11, q:0)
+    - Micro: Fractions & decimals
+    - Domain: Foundational Prerequisites
+  - **Q-EXT-ALGMANIP** (Quant/FOUNDATIONAL, L1, ord:12, q:0)
+    - Micro: Algebraic manipulation
+    - Domain: Foundational Prerequisites
+  - **Q-EXT-EQN** (Quant/FOUNDATIONAL, L1, ord:13, q:0)
+    - Micro: Solving linear equations
+    - Domain: Foundational Prerequisites
+  - **Q-EXT-COORD** (Quant/FOUNDATIONAL, L1, ord:14, q:0)
+    - Micro: Coordinate plane basics
+    - Domain: Foundational Prerequisites
+  - **Q-EXT-GEOBASIC** (Quant/FOUNDATIONAL, L1, ord:15, q:0)
+    - Micro: Basic geometry
+    - Domain: Foundational Prerequisites
+  - **Q-EXT-PLACEVAL** (Quant/FOUNDATIONAL, L1, ord:16, q:0)
+    - Micro: Place value & decimals
+    - Domain: Foundational Prerequisites
+  - **Q-EXT-POW** (Quant/FOUNDATIONAL, L1, ord:17, q:0)
+    - Micro: Squares, cubes & roots table
+    - Domain: Foundational Prerequisites
+  - **Q-EXT-PYTH** (Quant/FOUNDATIONAL, L1, ord:18, q:0)
+    - Micro: Pythagoras theorem
+    - Domain: Foundational Prerequisites
+  - **Q-EXT-READ** (Quant/FOUNDATIONAL, L1, ord:19, q:0)
+    - Micro: Reading tables & charts
+    - Domain: Foundational Prerequisites
+  - **Q-EXT-TRIGRAT** (Quant/FOUNDATIONAL, L1, ord:20, q:0)
+    - Micro: Standard trigonometric ratios & values
+    - Domain: Foundational Prerequisites
+  - **Q-EXT-UNITS** (Quant/FOUNDATIONAL, L1, ord:21, q:0)
+    - Micro: Units & conversions
+    - Domain: Foundational Prerequisites
+## R (Reasoning)
+
+  - **R-D-APPLIED-PROCED** (Reasoning/DERIVED, L1, ord:2, q:0)
+    - Domain: Applied & Procedural Reasoning
+    - **R-T-MATHEMATICAL-O** (Reasoning/DERIVED, L2, ord:19, q:228)
+      - Topic: Mathematical Operators
+      - Domain: Applied & Procedural Reasoning
+      - **R-S-MATHEMATIC-SIGN-SWAP-TO** (Reasoning/DERIVED, L3, ord:41, q:90)
+        - Topic: Mathematical Operators
+        - Subtopic: Sign-swap to balance
+        - **R-M-MATHEMAT-SIGN-SWAP--SWAP-TWO-O** (Reasoning/DERIVED, L4, ord:116, q:90)
+          - Topic: Mathematical Operators
+          - Subtopic: Sign-swap to balance
+          - Micro: swap two operators
+          - **R-A-SIGN-SWAP-TO-BAL** (Reasoning/PROCEDURAL, L5, ord:197, q:90)
+            - Topic: Mathematical Operators
+            - Subtopic: Sign-swap to balance
+            - Micro: swap two operators
+            - **R-V-SIGN-SWAP-TO-T0** (Reasoning/DERIVED, L6, ord:278, q:90)
+              - Topic: Mathematical Operators
+              - Subtopic: Sign-swap to balance
+              - Micro: Trap: No-bracket evaluation
+            - **R-V-SIGN-SWAP-TO-M** (Reasoning/DERIVED, L6, ord:423, q:0)
+              - Topic: Mathematical Operators
+              - Subtopic: Sign-swap to balance
+              - Micro: Method route
+      - **R-S-MATHEMATIC-GENERAL-OPER** (Reasoning/DERIVED, L3, ord:46, q:64)
+        - Topic: Mathematical Operators
+        - Subtopic: General operator fill
+        - **R-M-MATHEMAT-GENERAL-OP-BODMAS-TRI** (Reasoning/DERIVED, L4, ord:125, q:64)
+          - Topic: Mathematical Operators
+          - Subtopic: General operator fill
+          - Micro: BODMAS trial
+          - **R-A-GENERAL-OPERATOR** (Reasoning/DERIVED, L5, ord:206, q:64)
+            - Topic: Mathematical Operators
+            - Subtopic: General operator fill
+            - Micro: BODMAS trial
+            - **R-V-GENERAL-OPER-T0** (Reasoning/DERIVED, L6, ord:287, q:64)
+              - Topic: Mathematical Operators
+              - Subtopic: General operator fill
+              - Micro: Trap: No-bracket math
+            - **R-V-GENERAL-OPER-M** (Reasoning/DERIVED, L6, ord:396, q:0)
+              - Topic: Mathematical Operators
+              - Subtopic: General operator fill
+              - Micro: Method route
+      - **R-S-MATHEMATIC-CUSTOM-OPERA** (Reasoning/DERIVED, L3, ord:52, q:41)
+        - Topic: Mathematical Operators
+        - Subtopic: Custom-operator substitution
+        - **R-M-MATHEMAT-CUSTOM-OPE-SYMBOL-REM** (Reasoning/DERIVED, L4, ord:132, q:41)
+          - Topic: Mathematical Operators
+          - Subtopic: Custom-operator substitution
+          - Micro: symbol remap
+          - **R-A-CUSTOM-OPERATOR-** (Reasoning/PROCEDURAL, L5, ord:213, q:41)
+            - Topic: Mathematical Operators
+            - Subtopic: Custom-operator substitution
+            - Micro: symbol remap
+            - **R-V-CUSTOM-OPERA-T0** (Reasoning/DERIVED, L6, ord:293, q:41)
+              - Topic: Mathematical Operators
+              - Subtopic: Custom-operator substitution
+              - Micro: Trap: Original meaning kept
+            - **R-V-CUSTOM-OPERA-M** (Reasoning/DERIVED, L6, ord:377, q:0)
+              - Topic: Mathematical Operators
+              - Subtopic: Custom-operator substitution
+              - Micro: Method route
+      - **R-S-MATHEMATIC-ODD-OPERATIO** (Reasoning/DERIVED, L3, ord:60, q:24)
+        - Topic: Mathematical Operators
+        - Subtopic: Odd operation-pair out
+        - **R-M-MATHEMAT-ODD-OPERAT-COMMON-OPE** (Reasoning/DERIVED, L4, ord:143, q:24)
+          - Topic: Mathematical Operators
+          - Subtopic: Odd operation-pair out
+          - Micro: common operation
+          - **R-A-ODD-OPERATION-PA** (Reasoning/PROCEDURAL, L5, ord:224, q:24)
+            - Topic: Mathematical Operators
+            - Subtopic: Odd operation-pair out
+            - Micro: common operation
+            - **R-V-ODD-OPERATIO-T0** (Reasoning/DERIVED, L6, ord:304, q:24)
+              - Topic: Mathematical Operators
+              - Subtopic: Odd operation-pair out
+              - Micro: Trap: Single-pair rule
+            - **R-V-ODD-OPERATIO-M** (Reasoning/DERIVED, L6, ord:417, q:0)
+              - Topic: Mathematical Operators
+              - Subtopic: Odd operation-pair out
+              - Micro: Method route
+      - **R-S-MATHEMATIC-FILL-WITH-OP** (Reasoning/DERIVED, L3, ord:96, q:4)
+        - Topic: Mathematical Operators
+        - Subtopic: Fill-*-with-operators
+        - **R-M-MATHEMAT-FILL-WITH--OPERATOR-P** (Reasoning/DERIVED, L4, ord:172, q:4)
+          - Topic: Mathematical Operators
+          - Subtopic: Fill-*-with-operators
+          - Micro: operator placement
+          - **R-A-FILL-WITH-OPERAT** (Reasoning/PROCEDURAL, L5, ord:254, q:4)
+            - Topic: Mathematical Operators
+            - Subtopic: Fill-*-with-operators
+            - Micro: operator placement
+            - **R-V-FILL-WITH-OP-T0** (Reasoning/DERIVED, L6, ord:334, q:4)
+              - Topic: Mathematical Operators
+              - Subtopic: Fill-*-with-operators
+              - Micro: Trap: Left-to-right only
+            - **R-V-FILL-WITH-OP-M** (Reasoning/DERIVED, L6, ord:385, q:0)
+              - Topic: Mathematical Operators
+              - Subtopic: Fill-*-with-operators
+              - Micro: Method route
+      - **R-S-MATHEMATIC-SPECIAL-CHAR** (Reasoning/DERIVED, L3, ord:98, q:3)
+        - Topic: Mathematical Operators
+        - Subtopic: Special-character replacement
+        - **R-M-MATHEMAT-SPECIAL-CH-SYMBOL-REM** (Reasoning/DERIVED, L4, ord:175, q:3)
+          - Topic: Mathematical Operators
+          - Subtopic: Special-character replacement
+          - Micro: symbol remap
+          - **R-A-SPECIAL-CHARACTE** (Reasoning/PROCEDURAL, L5, ord:259, q:3)
+            - Topic: Mathematical Operators
+            - Subtopic: Special-character replacement
+            - Micro: symbol remap
+            - **R-V-SPECIAL-CHAR-T0** (Reasoning/DERIVED, L6, ord:339, q:3)
+              - Topic: Mathematical Operators
+              - Subtopic: Special-character replacement
+              - Micro: Trap: Original meaning kept
+            - **R-V-SPECIAL-CHAR-M** (Reasoning/DERIVED, L6, ord:425, q:0)
+              - Topic: Mathematical Operators
+              - Subtopic: Special-character replacement
+              - Micro: Method route
+      - **R-S-MATHEMATIC-GRID-MATRIX-** (Reasoning/DERIVED, L3, ord:103, q:2)
+        - Topic: Mathematical Operators
+        - Subtopic: Grid/matrix number pattern
+        - **R-M-MATHEMAT-GRID-MATRI-ROW-WISE-R** (Reasoning/DERIVED, L4, ord:181, q:2)
+          - Topic: Mathematical Operators
+          - Subtopic: Grid/matrix number pattern
+          - Micro: row-wise rule
+          - **R-A-GRID-MATRIX-NUMB** (Reasoning/PROCEDURAL, L5, ord:263, q:2)
+            - Topic: Mathematical Operators
+            - Subtopic: Grid/matrix number pattern
+            - Micro: row-wise rule
+            - **R-V-GRID-MATRIX--T0** (Reasoning/DERIVED, L6, ord:343, q:2)
+              - Topic: Mathematical Operators
+              - Subtopic: Grid/matrix number pattern
+              - Micro: Trap: Column-only view
+            - **R-V-GRID-MATRIX--M** (Reasoning/DERIVED, L6, ord:401, q:0)
+              - Topic: Mathematical Operators
+              - Subtopic: Grid/matrix number pattern
+              - Micro: Method route
+    - **R-T-MISCELLANEOUS-** (Reasoning/DERIVED, L2, ord:22, q:207)
+      - Topic: Miscellaneous (Reasoning)
+      - Domain: Applied & Procedural Reasoning
+      - **R-S-MISCELLANE-UNCLASSIFIED** (Reasoning/DERIVED, L3, ord:39, q:207)
+        - Topic: Miscellaneous (Reasoning)
+        - Subtopic: Unclassified reasoning item
+        - **R-M-MISCELLA-UNCLASSIFI-MIXED-SKIL** (Reasoning/DERIVED, L4, ord:113, q:207)
+          - Topic: Miscellaneous (Reasoning)
+          - Subtopic: Unclassified reasoning item
+          - Micro: mixed skill
+          - **R-A-UNCLASSIFIED-REA** (Reasoning/DERIVED, L5, ord:194, q:207)
+            - Topic: Miscellaneous (Reasoning)
+            - Subtopic: Unclassified reasoning item
+            - Micro: mixed skill
+            - **R-V-UNCLASSIFIED-T0** (Reasoning/DERIVED, L6, ord:275, q:207)
+              - Topic: Miscellaneous (Reasoning)
+              - Subtopic: Unclassified reasoning item
+              - Micro: Trap: Misclassification
+            - **R-V-UNCLASSIFIED-M** (Reasoning/DERIVED, L6, ord:432, q:0)
+              - Topic: Miscellaneous (Reasoning)
+              - Subtopic: Unclassified reasoning item
+              - Micro: Method route
+    - **R-T-ATTENTION-TO-D** (Reasoning/DERIVED, L2, ord:31, q:44)
+      - Topic: Attention to Detail
+      - Domain: Applied & Procedural Reasoning
+      - **R-S-ATTENTION--EXACT-STRING** (Reasoning/DERIVED, L3, ord:49, q:44)
+        - Topic: Attention to Detail
+        - Subtopic: Exact string/address match
+        - **R-M-ATTENTIO-EXACT-STRI-CHARACTER-** (Reasoning/DERIVED, L4, ord:129, q:44)
+          - Topic: Attention to Detail
+          - Subtopic: Exact string/address match
+          - Micro: character scan
+          - **R-A-EXACT-STRING-ADD** (Reasoning/PROCEDURAL, L5, ord:210, q:44)
+            - Topic: Attention to Detail
+            - Subtopic: Exact string/address match
+            - Micro: character scan
+            - **R-V-EXACT-STRING-T0** (Reasoning/DERIVED, L6, ord:290, q:44)
+              - Topic: Attention to Detail
+              - Subtopic: Exact string/address match
+              - Micro: Trap: Skim reading
+            - **R-V-EXACT-STRING-M** (Reasoning/DERIVED, L6, ord:381, q:0)
+              - Topic: Attention to Detail
+              - Subtopic: Exact string/address match
+              - Micro: Method route
+    - **R-T-DIRECTION-SENS** (Reasoning/DERIVED, L2, ord:34, q:13)
+      - Topic: Direction Sense
+      - Domain: Applied & Procedural Reasoning
+      - **R-S-DIRECTION--GENERAL-DIRE** (Reasoning/DERIVED, L3, ord:79, q:10)
+        - Topic: Direction Sense
+        - Subtopic: General direction-distance
+        - **R-M-DIRECTIO-GENERAL-DI-PATH-TRACK** (Reasoning/DERIVED, L4, ord:156, q:10)
+          - Topic: Direction Sense
+          - Subtopic: General direction-distance
+          - Micro: path tracking
+          - **R-A-GENERAL-DIRECTIO** (Reasoning/DERIVED, L5, ord:237, q:10)
+            - Topic: Direction Sense
+            - Subtopic: General direction-distance
+            - Micro: path tracking
+            - **R-V-GENERAL-DIRE-T0** (Reasoning/DERIVED, L6, ord:317, q:10)
+              - Topic: Direction Sense
+              - Subtopic: General direction-distance
+              - Micro: Trap: Sign error
+            - **R-V-GENERAL-DIRE-M** (Reasoning/DERIVED, L6, ord:392, q:0)
+              - Topic: Direction Sense
+              - Subtopic: General direction-distance
+              - Micro: Method route
+      - **R-S-DIRECTION--TURN-AND-DIS** (Reasoning/DERIVED, L3, ord:102, q:2)
+        - Topic: Direction Sense
+        - Subtopic: Turn-and-distance path
+        - **R-M-DIRECTIO-TURN-AND-D-CARDINAL-T** (Reasoning/DERIVED, L4, ord:180, q:2)
+          - Topic: Direction Sense
+          - Subtopic: Turn-and-distance path
+          - Micro: cardinal tracking
+          - **R-A-TURN-AND-DISTANC** (Reasoning/PROCEDURAL, L5, ord:265, q:2)
+            - Topic: Direction Sense
+            - Subtopic: Turn-and-distance path
+            - Micro: cardinal tracking
+            - **R-V-TURN-AND-DIS-T0** (Reasoning/DERIVED, L6, ord:345, q:2)
+              - Topic: Direction Sense
+              - Subtopic: Turn-and-distance path
+              - Micro: Trap: Left-right flip
+            - **R-V-TURN-AND-DIS-M** (Reasoning/DERIVED, L6, ord:431, q:0)
+              - Topic: Direction Sense
+              - Subtopic: Turn-and-distance path
+              - Micro: Method route
+      - **R-S-DIRECTION--SHADOW-BASED** (Reasoning/DERIVED, L3, ord:110, q:1)
+        - Topic: Direction Sense
+        - Subtopic: Shadow-based direction
+        - **R-M-DIRECTIO-SHADOW-BAS-SUN-ORIENT** (Reasoning/DERIVED, L4, ord:189, q:1)
+          - Topic: Direction Sense
+          - Subtopic: Shadow-based direction
+          - Micro: sun orientation
+          - **R-A-SHADOW-BASED-DIR** (Reasoning/PROCEDURAL, L5, ord:274, q:1)
+            - Topic: Direction Sense
+            - Subtopic: Shadow-based direction
+            - Micro: sun orientation
+            - **R-V-SHADOW-BASED-T0** (Reasoning/DERIVED, L6, ord:354, q:1)
+              - Topic: Direction Sense
+              - Subtopic: Shadow-based direction
+              - Micro: Trap: Shadow = facing
+            - **R-V-SHADOW-BASED-M** (Reasoning/DERIVED, L6, ord:422, q:0)
+              - Topic: Direction Sense
+              - Subtopic: Shadow-based direction
+              - Micro: Method route
+    - **R-T-CALENDAR-CLOCK** (Reasoning/DERIVED, L2, ord:36, q:7)
+      - Topic: Calendar & Clock
+      - Domain: Applied & Procedural Reasoning
+      - **R-S-CALENDAR-C-CALENDAR-DAY** (Reasoning/DERIVED, L3, ord:100, q:2)
+        - Topic: Calendar & Clock
+        - Subtopic: Calendar / day-date
+        - **R-M-CALENDAR-CALENDAR-D-ODD-DAY-CO** (Reasoning/DERIVED, L4, ord:179, q:2)
+          - Topic: Calendar & Clock
+          - Subtopic: Calendar / day-date
+          - Micro: odd-day counting
+          - **R-A-CALENDAR-DAY-DAT** (Reasoning/PROCEDURAL, L5, ord:260, q:2)
+            - Topic: Calendar & Clock
+            - Subtopic: Calendar / day-date
+            - Micro: odd-day counting
+            - **R-V-CALENDAR-DAY-T0** (Reasoning/DERIVED, L6, ord:340, q:2)
+              - Topic: Calendar & Clock
+              - Subtopic: Calendar / day-date
+              - Micro: Trap: Year-length slip
+            - **R-V-CALENDAR-DAY-M** (Reasoning/DERIVED, L6, ord:363, q:0)
+              - Topic: Calendar & Clock
+              - Subtopic: Calendar / day-date
+              - Micro: Method route
+      - **R-S-CALENDAR-C-CLOCK-HANDS-** (Reasoning/DERIVED, L3, ord:101, q:4)
+        - Topic: Calendar & Clock
+        - Subtopic: Clock hands / angle
+        - **R-M-CALENDAR-CLOCK-HAND-RELATIVE-S** (Reasoning/APPLICATION, L4, ord:170, q:4)
+          - Topic: Calendar & Clock
+          - Subtopic: Clock hands / angle
+          - Micro: relative speed 360/11
+          - **R-A-CLOCK-HANDS-ANGL** (Reasoning/APPLICATION, L5, ord:252, q:4)
+            - Topic: Calendar & Clock
+            - Subtopic: Clock hands / angle
+            - Micro: relative speed 360/11
+            - **R-V-CLOCK-HANDS--T0** (Reasoning/DERIVED, L6, ord:332, q:4)
+              - Topic: Calendar & Clock
+              - Subtopic: Clock hands / angle
+              - Micro: Trap: Hour freeze
+            - **R-V-CLOCK-HANDS--M** (Reasoning/DERIVED, L6, ord:366, q:0)
+              - Topic: Calendar & Clock
+              - Subtopic: Clock hands / angle
+              - Micro: Method route
+      - **R-S-CALENDAR-C-GENERAL-CALE** (Reasoning/DERIVED, L3, ord:105, q:1)
+        - Topic: Calendar & Clock
+        - Subtopic: General calendar/clock
+        - **R-M-CALENDAR-GENERAL-CA-CYCLE-MATH** (Reasoning/DERIVED, L4, ord:185, q:1)
+          - Topic: Calendar & Clock
+          - Subtopic: General calendar/clock
+          - Micro: cycle math
+          - **R-A-GENERAL-CALENDAR** (Reasoning/DERIVED, L5, ord:271, q:1)
+            - Topic: Calendar & Clock
+            - Subtopic: General calendar/clock
+            - Micro: cycle math
+            - **R-V-GENERAL-CALE-T0** (Reasoning/DERIVED, L6, ord:351, q:1)
+              - Topic: Calendar & Clock
+              - Subtopic: General calendar/clock
+              - Micro: Trap: Cycle slip
+            - **R-V-GENERAL-CALE-M** (Reasoning/DERIVED, L6, ord:389, q:0)
+              - Topic: Calendar & Clock
+              - Subtopic: General calendar/clock
+              - Micro: Method route
+    - **R-T-SEATING-ARRANG** (Reasoning/DERIVED, L2, ord:37, q:7)
+      - Topic: Seating Arrangement
+      - Domain: Applied & Procedural Reasoning
+      - **R-S-SEATING-AR-GENERAL-ARRA** (Reasoning/DERIVED, L3, ord:87, q:6)
+        - Topic: Seating Arrangement
+        - Subtopic: General arrangement
+        - **R-M-SEATING--GENERAL-AR-PLACEMENT-** (Reasoning/DERIVED, L4, ord:165, q:6)
+          - Topic: Seating Arrangement
+          - Subtopic: General arrangement
+          - Micro: placement logic
+          - **R-A-GENERAL-ARRANGEM** (Reasoning/DERIVED, L5, ord:246, q:6)
+            - Topic: Seating Arrangement
+            - Subtopic: General arrangement
+            - Micro: placement logic
+            - **R-V-GENERAL-ARRA-T0** (Reasoning/DERIVED, L6, ord:326, q:6)
+              - Topic: Seating Arrangement
+              - Subtopic: General arrangement
+              - Micro: Trap: Floating start
+            - **R-V-GENERAL-ARRA-M** (Reasoning/DERIVED, L6, ord:388, q:0)
+              - Topic: Seating Arrangement
+              - Subtopic: General arrangement
+              - Micro: Method route
+      - **R-S-SEATING-AR-CIRCULAR-ARR** (Reasoning/DERIVED, L3, ord:112, q:1)
+        - Topic: Seating Arrangement
+        - Subtopic: Circular arrangement
+        - **R-M-SEATING--CIRCULAR-A-AROUND-TAB** (Reasoning/APPLICATION, L4, ord:193, q:1)
+          - Topic: Seating Arrangement
+          - Subtopic: Circular arrangement
+          - Micro: around-table order
+          - **R-A-CIRCULAR-ARRANGE** (Reasoning/APPLICATION, L5, ord:268, q:1)
+            - Topic: Seating Arrangement
+            - Subtopic: Circular arrangement
+            - Micro: around-table order
+            - **R-V-CIRCULAR-ARR-T0** (Reasoning/DERIVED, L6, ord:348, q:1)
+              - Topic: Seating Arrangement
+              - Subtopic: Circular arrangement
+              - Micro: Trap: Mirror orientation
+            - **R-V-CIRCULAR-ARR-M** (Reasoning/DERIVED, L6, ord:365, q:0)
+              - Topic: Seating Arrangement
+              - Subtopic: Circular arrangement
+              - Micro: Method route
+    - **R-T-VENN-DIAGRAM** (Reasoning/DERIVED, L2, ord:38, q:6)
+      - Topic: Venn Diagram
+      - Domain: Applied & Procedural Reasoning
+      - **R-S-VENN-DIAGR-VENN-CLASS-D** (Reasoning/DERIVED, L3, ord:88, q:6)
+        - Topic: Venn Diagram
+        - Subtopic: Venn class diagram
+        - **R-M-VENN-DIA-VENN-CLASS-SET-INCLUS** (Reasoning/DERIVED, L4, ord:166, q:6)
+          - Topic: Venn Diagram
+          - Subtopic: Venn class diagram
+          - Micro: set inclusion
+          - **R-A-VENN-CLASS-DIAGR** (Reasoning/PROCEDURAL, L5, ord:247, q:6)
+            - Topic: Venn Diagram
+            - Subtopic: Venn class diagram
+            - Micro: set inclusion
+            - **R-V-VENN-CLASS-D-T0** (Reasoning/DERIVED, L6, ord:327, q:6)
+              - Topic: Venn Diagram
+              - Subtopic: Venn class diagram
+              - Micro: Trap: Partial overlap default
+            - **R-V-VENN-CLASS-D-M** (Reasoning/DERIVED, L6, ord:433, q:0)
+              - Topic: Venn Diagram
+              - Subtopic: Venn class diagram
+              - Micro: Method route
+  - **R-D-LANGUAGE-BASED** (Reasoning/DERIVED, L1, ord:3, q:0)
+    - Domain: Language-Based Logic
+    - **R-T-CODING-DECODIN** (Reasoning/DERIVED, L2, ord:21, q:207)
+      - Topic: Coding-Decoding
+      - Domain: Language-Based Logic
+      - **R-S-CODING-DEC-GENERAL-CODE** (Reasoning/DERIVED, L3, ord:43, q:86)
+        - Topic: Coding-Decoding
+        - Subtopic: General code transform
+        - **R-M-CODING-D-GENERAL-CO-ENCODE-DEC** (Reasoning/DERIVED, L4, ord:118, q:86)
+          - Topic: Coding-Decoding
+          - Subtopic: General code transform
+          - Micro: encode/decode map
+          - **R-A-GENERAL-CODE-TRA** (Reasoning/DERIVED, L5, ord:200, q:86)
+            - Topic: Coding-Decoding
+            - Subtopic: General code transform
+            - Micro: encode/decode map
+            - **R-V-GENERAL-CODE-T0** (Reasoning/DERIVED, L6, ord:281, q:86)
+              - Topic: Coding-Decoding
+              - Subtopic: General code transform
+              - Micro: Trap: Assuming shift
+            - **R-V-GENERAL-CODE-M** (Reasoning/DERIVED, L6, ord:390, q:0)
+              - Topic: Coding-Decoding
+              - Subtopic: General code transform
+              - Micro: Method route
+      - **R-S-CODING-DEC-LETTER-SHIFT** (Reasoning/DERIVED, L3, ord:66, q:16)
+        - Topic: Coding-Decoding
+        - Subtopic: Letter-shift transform
+        - **R-M-CODING-D-LETTER-SHI-UNIFORM-SH** (Reasoning/DERIVED, L4, ord:151, q:16)
+          - Topic: Coding-Decoding
+          - Subtopic: Letter-shift transform
+          - Micro: uniform shift value
+          - **R-A-LETTER-SHIFT-TRA** (Reasoning/PROCEDURAL, L5, ord:233, q:16)
+            - Topic: Coding-Decoding
+            - Subtopic: Letter-shift transform
+            - Micro: uniform shift value
+            - **R-V-LETTER-SHIFT-T0** (Reasoning/DERIVED, L6, ord:313, q:16)
+              - Topic: Coding-Decoding
+              - Subtopic: Letter-shift transform
+              - Micro: Trap: First-letter only
+            - **R-V-LETTER-SHIFT-M** (Reasoning/DERIVED, L6, ord:406, q:0)
+              - Topic: Coding-Decoding
+              - Subtopic: Letter-shift transform
+              - Micro: Method route
+      - **R-S-CODING-DEC-ALPHANUMERIC** (Reasoning/DERIVED, L3, ord:67, q:73)
+        - Topic: Coding-Decoding
+        - Subtopic: Alphanumeric / position-sum coding
+        - **R-M-CODING-D-ALPHANUMER-LETTERS-NU** (Reasoning/DERIVED, L4, ord:122, q:73)
+          - Topic: Coding-Decoding
+          - Subtopic: Alphanumeric / position-sum coding
+          - Micro: letters ↔ numbers
+          - **R-A-ALPHANUMERIC-POS** (Reasoning/PROCEDURAL, L5, ord:203, q:73)
+            - Topic: Coding-Decoding
+            - Subtopic: Alphanumeric / position-sum coding
+            - Micro: letters ↔ numbers
+            - **R-V-ALPHANUMERIC-T0** (Reasoning/DERIVED, L6, ord:284, q:73)
+              - Topic: Coding-Decoding
+              - Subtopic: Alphanumeric / position-sum coding
+              - Micro: Trap: A=0 indexing
+            - **R-V-ALPHANUMERIC-M** (Reasoning/DERIVED, L6, ord:358, q:0)
+              - Topic: Coding-Decoding
+              - Subtopic: Alphanumeric / position-sum coding
+              - Micro: Method route
+      - **R-S-CODING-DEC-LETTER-TRANS** (Reasoning/DERIVED, L3, ord:69, q:26)
+        - Topic: Coding-Decoding
+        - Subtopic: Letter transform
+        - **R-M-CODING-D-LETTER-TRA-PER-POSITI** (Reasoning/DERIVED, L4, ord:142, q:26)
+          - Topic: Coding-Decoding
+          - Subtopic: Letter transform
+          - Micro: per-position mapping
+          - **R-A-LETTER-TRANSFORM** (Reasoning/COMBINATIONAL, L5, ord:223, q:26)
+            - Topic: Coding-Decoding
+            - Subtopic: Letter transform
+            - Micro: per-position mapping
+            - **R-V-LETTER-TRANS-T0** (Reasoning/DERIVED, L6, ord:303, q:26)
+              - Topic: Coding-Decoding
+              - Subtopic: Letter transform
+              - Micro: Trap: Assuming uniform shift
+            - **R-V-LETTER-TRANS-M** (Reasoning/DERIVED, L6, ord:408, q:0)
+              - Topic: Coding-Decoding
+              - Subtopic: Letter transform
+              - Micro: Method route
+      - **R-S-CODING-DEC-MATRIX-CODE-** (Reasoning/DERIVED, L3, ord:94, q:5)
+        - Topic: Coding-Decoding
+        - Subtopic: Matrix / code-table coding
+        - **R-M-CODING-D-MATRIX-COD-LOOKUP-MAP** (Reasoning/APPLICATION, L4, ord:169, q:5)
+          - Topic: Coding-Decoding
+          - Subtopic: Matrix / code-table coding
+          - Micro: lookup mapping
+          - **R-A-MATRIX-CODE-TABL** (Reasoning/APPLICATION, L5, ord:249, q:5)
+            - Topic: Coding-Decoding
+            - Subtopic: Matrix / code-table coding
+            - Micro: lookup mapping
+            - **R-V-MATRIX-CODE--T0** (Reasoning/DERIVED, L6, ord:329, q:5)
+              - Topic: Coding-Decoding
+              - Subtopic: Matrix / code-table coding
+              - Micro: Trap: Row/col swap
+            - **R-V-MATRIX-CODE--M** (Reasoning/DERIVED, L6, ord:409, q:0)
+              - Topic: Coding-Decoding
+              - Subtopic: Matrix / code-table coding
+              - Micro: Method route
+      - **R-S-CODING-DEC-REARRANGEMEN** (Reasoning/DERIVED, L3, ord:108, q:1)
+        - Topic: Coding-Decoding
+        - Subtopic: Rearrangement coding
+        - **R-M-CODING-D-REARRANGEM-POSITION-P** (Reasoning/DERIVED, L4, ord:187, q:1)
+          - Topic: Coding-Decoding
+          - Subtopic: Rearrangement coding
+          - Micro: position permutation
+          - **R-A-REARRANGEMENT-CO** (Reasoning/PROCEDURAL, L5, ord:273, q:1)
+            - Topic: Coding-Decoding
+            - Subtopic: Rearrangement coding
+            - Micro: position permutation
+            - **R-V-REARRANGEMEN-T0** (Reasoning/DERIVED, L6, ord:353, q:1)
+              - Topic: Coding-Decoding
+              - Subtopic: Rearrangement coding
+              - Micro: Trap: Assuming shift
+            - **R-V-REARRANGEMEN-M** (Reasoning/DERIVED, L6, ord:419, q:0)
+              - Topic: Coding-Decoding
+              - Subtopic: Rearrangement coding
+              - Micro: Method route
+    - **R-T-BLOOD-RELATION** (Reasoning/DERIVED, L2, ord:23, q:176)
+      - Topic: Blood Relations
+      - Domain: Language-Based Logic
+      - **R-S-BLOOD-RELA-DIRECT-RELAT** (Reasoning/DERIVED, L3, ord:42, q:89)
+        - Topic: Blood Relations
+        - Subtopic: Direct relation
+        - **R-M-BLOOD-RE-DIRECT-REL-SINGLE-HOP** (Reasoning/DERIVED, L4, ord:117, q:89)
+          - Topic: Blood Relations
+          - Subtopic: Direct relation
+          - Micro: single-hop map
+          - **R-A-DIRECT-RELATION-** (Reasoning/COMBINATIONAL, L5, ord:198, q:89)
+            - Topic: Blood Relations
+            - Subtopic: Direct relation
+            - Micro: single-hop map
+            - **R-V-DIRECT-RELAT-T0** (Reasoning/DERIVED, L6, ord:279, q:89)
+              - Topic: Blood Relations
+              - Subtopic: Direct relation
+              - Micro: Trap: Gender flip
+            - **R-V-DIRECT-RELAT-M** (Reasoning/DERIVED, L6, ord:379, q:0)
+              - Topic: Blood Relations
+              - Subtopic: Direct relation
+              - Micro: Method route
+      - **R-S-BLOOD-RELA-CHAINED-RELA** (Reasoning/DERIVED, L3, ord:65, q:18)
+        - Topic: Blood Relations
+        - Subtopic: Chained relation
+        - **R-M-BLOOD-RE-CHAINED-RE-MULTI-HOP-** (Reasoning/COMBINATIONAL, L4, ord:148, q:18)
+          - Topic: Blood Relations
+          - Subtopic: Chained relation
+          - Micro: multi-hop traversal
+          - **R-A-CHAINED-RELATION** (Reasoning/COMBINATIONAL, L5, ord:229, q:18)
+            - Topic: Blood Relations
+            - Subtopic: Chained relation
+            - Micro: multi-hop traversal
+            - **R-V-CHAINED-RELA-T0** (Reasoning/DERIVED, L6, ord:309, q:18)
+              - Topic: Blood Relations
+              - Subtopic: Chained relation
+              - Micro: Trap: Skipping a hop
+            - **R-V-CHAINED-RELA-M** (Reasoning/DERIVED, L6, ord:364, q:0)
+              - Topic: Blood Relations
+              - Subtopic: Chained relation
+              - Micro: Method route
+      - **R-S-BLOOD-RELA-CODED-RELATI** (Reasoning/DERIVED, L3, ord:68, q:69)
+        - Topic: Blood Relations
+        - Subtopic: Coded relation
+        - **R-M-BLOOD-RE-CODED-RELA-DECODE-THE** (Reasoning/COMBINATIONAL, L4, ord:123, q:69)
+          - Topic: Blood Relations
+          - Subtopic: Coded relation
+          - Micro: decode then traverse
+          - **R-A-CODED-RELATION-S** (Reasoning/COMBINATIONAL, L5, ord:204, q:69)
+            - Topic: Blood Relations
+            - Subtopic: Coded relation
+            - Micro: decode then traverse
+            - **R-V-CODED-RELATI-T0** (Reasoning/DERIVED, L6, ord:285, q:69)
+              - Topic: Blood Relations
+              - Subtopic: Coded relation
+              - Micro: Trap: Gender assumption
+            - **R-V-CODED-RELATI-M** (Reasoning/DERIVED, L6, ord:367, q:0)
+              - Topic: Blood Relations
+              - Subtopic: Coded relation
+              - Micro: Method route
+    - **R-T-SYLLOGISM-CONC** (Reasoning/DERIVED, L2, ord:24, q:161)
+      - Topic: Syllogism & Conclusions
+      - Domain: Language-Based Logic
+      - **R-S-SYLLOGISM--GENERAL-SYLL** (Reasoning/DERIVED, L3, ord:45, q:76)
+        - Topic: Syllogism & Conclusions
+        - Subtopic: General syllogism task
+        - **R-M-SYLLOGIS-GENERAL-SY-VENN-TEST-** (Reasoning/DERIVED, L4, ord:121, q:76)
+          - Topic: Syllogism & Conclusions
+          - Subtopic: General syllogism task
+          - Micro: Venn/test method
+          - **R-A-GENERAL-SYLLOGIS** (Reasoning/DERIVED, L5, ord:202, q:76)
+            - Topic: Syllogism & Conclusions
+            - Subtopic: General syllogism task
+            - Micro: Venn/test method
+            - **R-V-GENERAL-SYLL-T0** (Reasoning/DERIVED, L6, ord:283, q:76)
+              - Topic: Syllogism & Conclusions
+              - Subtopic: General syllogism task
+              - Micro: Trap: Leap of logic
+            - **R-V-GENERAL-SYLL-M** (Reasoning/DERIVED, L6, ord:399, q:0)
+              - Topic: Syllogism & Conclusions
+              - Subtopic: General syllogism task
+              - Micro: Method route
+      - **R-S-SYLLOGISM--ARGUMENT-COU** (Reasoning/DERIVED, L3, ord:83, q:8)
+        - Topic: Syllogism & Conclusions
+        - Subtopic: Argument / course-of-action
+        - **R-M-SYLLOGIS-ARGUMENT-C-STRENGTH-T** (Reasoning/DERIVED, L4, ord:161, q:8)
+          - Topic: Syllogism & Conclusions
+          - Subtopic: Argument / course-of-action
+          - Micro: strength test
+          - **R-A-ARGUMENT-COURSE-** (Reasoning/PROCEDURAL, L5, ord:240, q:8)
+            - Topic: Syllogism & Conclusions
+            - Subtopic: Argument / course-of-action
+            - Micro: strength test
+            - **R-V-ARGUMENT-COU-T0** (Reasoning/DERIVED, L6, ord:320, q:8)
+              - Topic: Syllogism & Conclusions
+              - Subtopic: Argument / course-of-action
+              - Micro: Trap: Emotional appeal
+            - **R-V-ARGUMENT-COU-M** (Reasoning/DERIVED, L6, ord:361, q:0)
+              - Topic: Syllogism & Conclusions
+              - Subtopic: Argument / course-of-action
+              - Micro: Method route
+      - **R-S-SYLLOGISM--STANDARD-SYL** (Reasoning/DERIVED, L3, ord:89, q:17)
+        - Topic: Syllogism & Conclusions
+        - Subtopic: Standard syllogism
+        - **R-M-SYLLOGIS-STANDARD-S-VENN-CHAIN** (Reasoning/DERIVED, L4, ord:150, q:17)
+          - Topic: Syllogism & Conclusions
+          - Subtopic: Standard syllogism
+          - Micro: Venn chains
+          - **R-A-STANDARD-SYLLOGI** (Reasoning/PROCEDURAL, L5, ord:231, q:17)
+            - Topic: Syllogism & Conclusions
+            - Subtopic: Standard syllogism
+            - Micro: Venn chains
+            - **R-V-STANDARD-SYL-T0** (Reasoning/DERIVED, L6, ord:311, q:17)
+              - Topic: Syllogism & Conclusions
+              - Subtopic: Standard syllogism
+              - Micro: Trap: Middle-term leap
+            - **R-V-STANDARD-SYL-M** (Reasoning/DERIVED, L6, ord:428, q:0)
+              - Topic: Syllogism & Conclusions
+              - Subtopic: Standard syllogism
+              - Micro: Method route
+      - **R-S-SYLLOGISM--THREE-STATEM** (Reasoning/DERIVED, L3, ord:90, q:32)
+        - Topic: Syllogism & Conclusions
+        - Subtopic: Three-statement syllogism
+        - **R-M-SYLLOGIS-THREE-STAT-VENN-CHAIN** (Reasoning/DERIVED, L4, ord:137, q:32)
+          - Topic: Syllogism & Conclusions
+          - Subtopic: Three-statement syllogism
+          - Micro: Venn chains
+          - **R-A-THREE-STATEMENT-** (Reasoning/PROCEDURAL, L5, ord:218, q:32)
+            - Topic: Syllogism & Conclusions
+            - Subtopic: Three-statement syllogism
+            - Micro: Venn chains
+            - **R-V-THREE-STATEM-T0** (Reasoning/DERIVED, L6, ord:298, q:32)
+              - Topic: Syllogism & Conclusions
+              - Subtopic: Three-statement syllogism
+              - Micro: Trap: Middle-term leap
+            - **R-V-THREE-STATEM-M** (Reasoning/DERIVED, L6, ord:430, q:0)
+              - Topic: Syllogism & Conclusions
+              - Subtopic: Three-statement syllogism
+              - Micro: Method route
+      - **R-S-SYLLOGISM--STATEMENT** (Reasoning/DERIVED, L3, ord:91, q:18)
+        - Topic: Syllogism & Conclusions
+        - Subtopic: Statement
+        - **R-M-SYLLOGIS-STATEMENT-IMPLICIT-P** (Reasoning/DERIVED, L4, ord:149, q:18)
+          - Topic: Syllogism & Conclusions
+          - Subtopic: Statement
+          - Micro: implicit premise
+          - **R-A-STATEMENTASSUMPT** (Reasoning/PROCEDURAL, L5, ord:230, q:18)
+            - Topic: Syllogism & Conclusions
+            - Subtopic: Statement
+            - Micro: implicit premise
+            - **R-V-STATEMENTASS-T0** (Reasoning/DERIVED, L6, ord:310, q:18)
+              - Topic: Syllogism & Conclusions
+              - Subtopic: Statement
+              - Micro: Trap: Stated-as-assumed
+            - **R-V-STATEMENTASS-M** (Reasoning/DERIVED, L6, ord:429, q:0)
+              - Topic: Syllogism & Conclusions
+              - Subtopic: Statement
+              - Micro: Method route
+      - **R-S-SYLLOGISM--SINGLE-STATE** (Reasoning/DERIVED, L3, ord:92, q:10)
+        - Topic: Syllogism & Conclusions
+        - Subtopic: Single-statement conclusion
+        - **R-M-SYLLOGIS-SINGLE-STA-DIRECT-INF** (Reasoning/DERIVED, L4, ord:157, q:10)
+          - Topic: Syllogism & Conclusions
+          - Subtopic: Single-statement conclusion
+          - Micro: direct inference
+          - **R-A-SINGLE-STATEMENT** (Reasoning/PROCEDURAL, L5, ord:238, q:10)
+            - Topic: Syllogism & Conclusions
+            - Subtopic: Single-statement conclusion
+            - Micro: direct inference
+            - **R-V-SINGLE-STATE-T0** (Reasoning/DERIVED, L6, ord:318, q:10)
+              - Topic: Syllogism & Conclusions
+              - Subtopic: Single-statement conclusion
+              - Micro: Trap: Outside info
+            - **R-V-SINGLE-STATE-M** (Reasoning/DERIVED, L6, ord:424, q:0)
+              - Topic: Syllogism & Conclusions
+              - Subtopic: Single-statement conclusion
+              - Micro: Method route
+    - **R-T-DICTIONARY-WOR** (Reasoning/DERIVED, L2, ord:26, q:108)
+      - Topic: Dictionary & Word Formation
+      - Domain: Language-Based Logic
+      - **R-S-DICTIONARY-DICTIONARY-O** (Reasoning/DERIVED, L3, ord:44, q:86)
+        - Topic: Dictionary & Word Formation
+        - Subtopic: Dictionary order
+        - **R-M-DICTIONA-DICTIONARY-LETTER-BY-** (Reasoning/DERIVED, L4, ord:119, q:86)
+          - Topic: Dictionary & Word Formation
+          - Subtopic: Dictionary order
+          - Micro: letter-by-letter compare
+          - **R-A-DICTIONARY-ORDER** (Reasoning/PROCEDURAL, L5, ord:199, q:86)
+            - Topic: Dictionary & Word Formation
+            - Subtopic: Dictionary order
+            - Micro: letter-by-letter compare
+            - **R-V-DICTIONARY-O-T0** (Reasoning/DERIVED, L6, ord:280, q:86)
+              - Topic: Dictionary & Word Formation
+              - Subtopic: Dictionary order
+              - Micro: Trap: Whole-word guess
+            - **R-V-DICTIONARY-O-M** (Reasoning/DERIVED, L6, ord:378, q:0)
+              - Topic: Dictionary & Word Formation
+              - Subtopic: Dictionary order
+              - Micro: Method route
+      - **R-S-DICTIONARY-MEANINGFUL-W** (Reasoning/DERIVED, L3, ord:76, q:14)
+        - Topic: Dictionary & Word Formation
+        - Subtopic: Meaningful-word formation
+        - **R-M-DICTIONA-MEANINGFUL-ANAGRAM-SE** (Reasoning/DERIVED, L4, ord:153, q:14)
+          - Topic: Dictionary & Word Formation
+          - Subtopic: Meaningful-word formation
+          - Micro: anagram search
+          - **R-A-MEANINGFUL-WORD-** (Reasoning/PROCEDURAL, L5, ord:234, q:14)
+            - Topic: Dictionary & Word Formation
+            - Subtopic: Meaningful-word formation
+            - Micro: anagram search
+            - **R-V-MEANINGFUL-W-T0** (Reasoning/DERIVED, L6, ord:314, q:14)
+              - Topic: Dictionary & Word Formation
+              - Subtopic: Meaningful-word formation
+              - Micro: Trap: Non-word acceptance
+            - **R-V-MEANINGFUL-W-M** (Reasoning/DERIVED, L6, ord:410, q:0)
+              - Topic: Dictionary & Word Formation
+              - Subtopic: Meaningful-word formation
+              - Micro: Method route
+      - **R-S-DICTIONARY-GENERAL-ORDE** (Reasoning/DERIVED, L3, ord:85, q:7)
+        - Topic: Dictionary & Word Formation
+        - Subtopic: General order/formation
+        - **R-M-DICTIONA-GENERAL-OR-LEXICOGRAP** (Reasoning/DERIVED, L4, ord:163, q:7)
+          - Topic: Dictionary & Word Formation
+          - Subtopic: General order/formation
+          - Micro: lexicographic/anagram
+          - **R-A-GENERAL-ORDER-FO** (Reasoning/DERIVED, L5, ord:244, q:7)
+            - Topic: Dictionary & Word Formation
+            - Subtopic: General order/formation
+            - Micro: lexicographic/anagram
+            - **R-V-GENERAL-ORDE-T0** (Reasoning/DERIVED, L6, ord:324, q:7)
+              - Topic: Dictionary & Word Formation
+              - Subtopic: General order/formation
+              - Micro: Trap: Guessing
+            - **R-V-GENERAL-ORDE-M** (Reasoning/DERIVED, L6, ord:397, q:0)
+              - Topic: Dictionary & Word Formation
+              - Subtopic: General order/formation
+              - Micro: Method route
+      - **R-S-DICTIONARY-ALPHABET-POS** (Reasoning/DERIVED, L3, ord:109, q:1)
+        - Topic: Dictionary & Word Formation
+        - Subtopic: Alphabet-position gap count
+        - **R-M-DICTIONA-ALPHABET-P-A1Z26-SPAN** (Reasoning/DERIVED, L4, ord:188, q:1)
+          - Topic: Dictionary & Word Formation
+          - Subtopic: Alphabet-position gap count
+          - Micro: A1Z26 spans
+          - **R-A-ALPHABET-POSITIO** (Reasoning/PROCEDURAL, L5, ord:267, q:1)
+            - Topic: Dictionary & Word Formation
+            - Subtopic: Alphabet-position gap count
+            - Micro: A1Z26 spans
+            - **R-V-ALPHABET-POS-T0** (Reasoning/DERIVED, L6, ord:347, q:1)
+              - Topic: Dictionary & Word Formation
+              - Subtopic: Alphabet-position gap count
+              - Micro: Trap: Off-by-one
+            - **R-V-ALPHABET-POS-M** (Reasoning/DERIVED, L6, ord:356, q:0)
+              - Topic: Dictionary & Word Formation
+              - Subtopic: Alphabet-position gap count
+              - Micro: Method route
+    - **R-T-RANKING-ORDER** (Reasoning/DERIVED, L2, ord:35, q:8)
+      - Topic: Ranking & Order
+      - Domain: Language-Based Logic
+      - **R-S-RANKING-OR-RANK-POSITIO** (Reasoning/DERIVED, L3, ord:82, q:8)
+        - Topic: Ranking & Order
+        - Subtopic: Rank / position in row
+        - **R-M-RANKING--RANK-POSIT-ENDS-COUNT** (Reasoning/DERIVED, L4, ord:160, q:8)
+          - Topic: Ranking & Order
+          - Subtopic: Rank / position in row
+          - Micro: ends counting
+          - **R-A-RANK-POSITION-IN** (Reasoning/PROCEDURAL, L5, ord:242, q:8)
+            - Topic: Ranking & Order
+            - Subtopic: Rank / position in row
+            - Micro: ends counting
+            - **R-V-RANK-POSITIO-T0** (Reasoning/DERIVED, L6, ord:322, q:8)
+              - Topic: Ranking & Order
+              - Subtopic: Rank / position in row
+              - Micro: Trap: Zero-indexing
+            - **R-V-RANK-POSITIO-M** (Reasoning/DERIVED, L6, ord:418, q:0)
+              - Topic: Ranking & Order
+              - Subtopic: Rank / position in row
+              - Micro: Method route
+  - **R-D-SERIES-ANALOGY** (Reasoning/DERIVED, L1, ord:4, q:0)
+    - Domain: Series, Analogy & Classification
+    - **R-T-NUMBER-ALPHABE** (Reasoning/DERIVED, L2, ord:18, q:382)
+      - Topic: Number / Alphabet Series
+      - Domain: Series, Analogy & Classification
+      - **R-S-NUMBER-ALP-MIXED-OPERAT** (Reasoning/DERIVED, L3, ord:40, q:99)
+        - Topic: Number / Alphabet Series
+        - Subtopic: Mixed-operation series
+        - **R-M-NUMBER-A-MIXED-OPER-COMBINED-R** (Reasoning/COMBINATIONAL, L4, ord:115, q:99)
+          - Topic: Number / Alphabet Series
+          - Subtopic: Mixed-operation series
+          - Micro: combined rules
+          - **R-A-MIXED-OPERATION-** (Reasoning/COMBINATIONAL, L5, ord:196, q:99)
+            - Topic: Number / Alphabet Series
+            - Subtopic: Mixed-operation series
+            - Micro: combined rules
+            - **R-V-MIXED-OPERAT-T0** (Reasoning/DERIVED, L6, ord:277, q:99)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Mixed-operation series
+              - Micro: Trap: Single-rule force
+            - **R-V-MIXED-OPERAT-M** (Reasoning/DERIVED, L6, ord:412, q:0)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Mixed-operation series
+              - Micro: Method route
+      - **R-S-NUMBER-ALP-ALPHABET-POS** (Reasoning/DERIVED, L3, ord:53, q:36)
+        - Topic: Number / Alphabet Series
+        - Subtopic: Alphabet-position series
+        - **R-M-NUMBER-A-ALPHABET-P-A1Z26-LOGI** (Reasoning/DERIVED, L4, ord:134, q:36)
+          - Topic: Number / Alphabet Series
+          - Subtopic: Alphabet-position series
+          - Micro: A1Z26 logic
+          - **R-A-ALPHABET-POSITIO-2** (Reasoning/PROCEDURAL, L5, ord:215, q:36)
+            - Topic: Number / Alphabet Series
+            - Subtopic: Alphabet-position series
+            - Micro: A1Z26 logic
+            - **R-V-ALPHABET-POS-T0-2** (Reasoning/DERIVED, L6, ord:295, q:36)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Alphabet-position series
+              - Micro: Trap: Reading letters
+            - **R-V-ALPHABET-POS-M-2** (Reasoning/DERIVED, L6, ord:357, q:0)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Alphabet-position series
+              - Micro: Method route
+      - **R-S-NUMBER-ALP-CONSTANT-SHI** (Reasoning/DERIVED, L3, ord:54, q:82)
+        - Topic: Number / Alphabet Series
+        - Subtopic: Constant-shift alphabet series
+        - **R-M-NUMBER-A-CONSTANT-S-UNIFORM-SH** (Reasoning/DERIVED, L4, ord:120, q:82)
+          - Topic: Number / Alphabet Series
+          - Subtopic: Constant-shift alphabet series
+          - Micro: uniform shift value
+          - **R-A-CONSTANT-SHIFT-A** (Reasoning/PROCEDURAL, L5, ord:201, q:82)
+            - Topic: Number / Alphabet Series
+            - Subtopic: Constant-shift alphabet series
+            - Micro: uniform shift value
+            - **R-V-CONSTANT-SHI-T0** (Reasoning/DERIVED, L6, ord:282, q:82)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Constant-shift alphabet series
+              - Micro: Trap: Reading as words
+            - **R-V-CONSTANT-SHI-M** (Reasoning/DERIVED, L6, ord:375, q:0)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Constant-shift alphabet series
+              - Micro: Method route
+      - **R-S-NUMBER-ALP-ALTERNATING-** (Reasoning/DERIVED, L3, ord:55, q:38)
+        - Topic: Number / Alphabet Series
+        - Subtopic: Alternating alphabet pattern
+        - **R-M-NUMBER-A-ALTERNATIN-TWO-INTERL** (Reasoning/DERIVED, L4, ord:133, q:38)
+          - Topic: Number / Alphabet Series
+          - Subtopic: Alternating alphabet pattern
+          - Micro: two interleaved rules
+          - **R-A-ALTERNATING-ALPH** (Reasoning/PROCEDURAL, L5, ord:214, q:38)
+            - Topic: Number / Alphabet Series
+            - Subtopic: Alternating alphabet pattern
+            - Micro: two interleaved rules
+            - **R-V-ALTERNATING--T0-2** (Reasoning/DERIVED, L6, ord:294, q:38)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Alternating alphabet pattern
+              - Micro: Trap: Single rule
+            - **R-V-ALTERNATING--M-2** (Reasoning/DERIVED, L6, ord:360, q:0)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Alternating alphabet pattern
+              - Micro: Method route
+      - **R-S-NUMBER-ALP-LETTER-BLANK** (Reasoning/DERIVED, L3, ord:61, q:20)
+        - Topic: Number / Alphabet Series
+        - Subtopic: Letter-blank fill series
+        - **R-M-NUMBER-A-LETTER-BLA-SLOT-COMPL** (Reasoning/DERIVED, L4, ord:145, q:20)
+          - Topic: Number / Alphabet Series
+          - Subtopic: Letter-blank fill series
+          - Micro: slot completion
+          - **R-A-LETTER-BLANK-FIL** (Reasoning/PROCEDURAL, L5, ord:226, q:20)
+            - Topic: Number / Alphabet Series
+            - Subtopic: Letter-blank fill series
+            - Micro: slot completion
+            - **R-V-LETTER-BLANK-T0** (Reasoning/DERIVED, L6, ord:306, q:20)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Letter-blank fill series
+              - Micro: Trap: Left-to-right guess
+            - **R-V-LETTER-BLANK-M** (Reasoning/DERIVED, L6, ord:404, q:0)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Letter-blank fill series
+              - Micro: Method route
+      - **R-S-NUMBER-ALP-GENERAL-SERI** (Reasoning/DERIVED, L3, ord:64, q:19)
+        - Topic: Number / Alphabet Series
+        - Subtopic: General series completion
+        - **R-M-NUMBER-A-GENERAL-SE-PATTERN-EX** (Reasoning/DERIVED, L4, ord:147, q:19)
+          - Topic: Number / Alphabet Series
+          - Subtopic: General series completion
+          - Micro: pattern extension
+          - **R-A-GENERAL-SERIES-C** (Reasoning/DERIVED, L5, ord:227, q:19)
+            - Topic: Number / Alphabet Series
+            - Subtopic: General series completion
+            - Micro: pattern extension
+            - **R-V-GENERAL-SERI-T0** (Reasoning/DERIVED, L6, ord:307, q:19)
+              - Topic: Number / Alphabet Series
+              - Subtopic: General series completion
+              - Micro: Trap: Random guess
+            - **R-V-GENERAL-SERI-M** (Reasoning/DERIVED, L6, ord:398, q:0)
+              - Topic: Number / Alphabet Series
+              - Subtopic: General series completion
+              - Micro: Method route
+      - **R-S-NUMBER-ALP-CONSTANT-DIF** (Reasoning/DERIVED, L3, ord:74, q:16)
+        - Topic: Number / Alphabet Series
+        - Subtopic: Constant-difference series
+        - **R-M-NUMBER-A-CONSTANT-D-AP-WITH-D-** (Reasoning/DERIVED, L4, ord:174, q:4)
+          - Topic: Number / Alphabet Series
+          - Subtopic: Constant-difference series
+          - Micro: AP with d=2
+          - **R-A-CONSTANT-DIFFERE** (Reasoning/PROCEDURAL, L5, ord:253, q:4)
+            - Topic: Number / Alphabet Series
+            - Subtopic: Constant-difference series
+            - Micro: AP with d=2
+            - **R-V-CONSTANT-DIF-T0** (Reasoning/DERIVED, L6, ord:333, q:4)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Constant-difference series
+              - Micro: Trap: Assuming +1
+            - **R-V-CONSTANT-DIF-M** (Reasoning/DERIVED, L6, ord:368, q:0)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Constant-difference series
+              - Micro: Method route
+        - **R-M-NUMBER-A-CONSTANT-D-AP-WITH-D--2** (Reasoning/DERIVED, L4, ord:177, q:3)
+          - Topic: Number / Alphabet Series
+          - Subtopic: Constant-difference series
+          - Micro: AP with d=-3
+          - **R-A-CONSTANT-DIFFERE-2** (Reasoning/PROCEDURAL, L5, ord:256, q:3)
+            - Topic: Number / Alphabet Series
+            - Subtopic: Constant-difference series
+            - Micro: AP with d=-3
+            - **R-V-CONSTANT-DIF-T0-2** (Reasoning/DERIVED, L6, ord:336, q:3)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Constant-difference series
+              - Micro: Trap: Assuming +1
+            - **R-V-CONSTANT-DIF-M-2** (Reasoning/DERIVED, L6, ord:369, q:0)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Constant-difference series
+              - Micro: Method route
+        - **R-M-NUMBER-A-CONSTANT-D-AP-WITH-D--3** (Reasoning/DERIVED, L4, ord:178, q:3)
+          - Topic: Number / Alphabet Series
+          - Subtopic: Constant-difference series
+          - Micro: AP with d=3
+          - **R-A-CONSTANT-DIFFERE-3** (Reasoning/PROCEDURAL, L5, ord:257, q:3)
+            - Topic: Number / Alphabet Series
+            - Subtopic: Constant-difference series
+            - Micro: AP with d=3
+            - **R-V-CONSTANT-DIF-T0-3** (Reasoning/DERIVED, L6, ord:337, q:3)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Constant-difference series
+              - Micro: Trap: Assuming +1
+            - **R-V-CONSTANT-DIF-M-3** (Reasoning/DERIVED, L6, ord:370, q:0)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Constant-difference series
+              - Micro: Method route
+        - **R-M-NUMBER-A-CONSTANT-D-AP-WITH-D--4** (Reasoning/DERIVED, L4, ord:182, q:2)
+          - Topic: Number / Alphabet Series
+          - Subtopic: Constant-difference series
+          - Micro: AP with d=6
+          - **R-A-CONSTANT-DIFFERE-4** (Reasoning/PROCEDURAL, L5, ord:261, q:2)
+            - Topic: Number / Alphabet Series
+            - Subtopic: Constant-difference series
+            - Micro: AP with d=6
+            - **R-V-CONSTANT-DIF-T0-4** (Reasoning/DERIVED, L6, ord:341, q:2)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Constant-difference series
+              - Micro: Trap: Assuming +1
+            - **R-V-CONSTANT-DIF-M-4** (Reasoning/DERIVED, L6, ord:371, q:0)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Constant-difference series
+              - Micro: Method route
+        - **R-M-NUMBER-A-CONSTANT-D-AP-WITH-D--5** (Reasoning/DERIVED, L4, ord:183, q:2)
+          - Topic: Number / Alphabet Series
+          - Subtopic: Constant-difference series
+          - Micro: AP with d=-4
+          - **R-A-CONSTANT-DIFFERE-5** (Reasoning/PROCEDURAL, L5, ord:262, q:2)
+            - Topic: Number / Alphabet Series
+            - Subtopic: Constant-difference series
+            - Micro: AP with d=-4
+            - **R-V-CONSTANT-DIF-T0-5** (Reasoning/DERIVED, L6, ord:342, q:2)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Constant-difference series
+              - Micro: Trap: Assuming +1
+            - **R-V-CONSTANT-DIF-M-5** (Reasoning/DERIVED, L6, ord:372, q:0)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Constant-difference series
+              - Micro: Method route
+        - **R-M-NUMBER-A-CONSTANT-D-AP-WITH-D--6** (Reasoning/DERIVED, L4, ord:191, q:1)
+          - Topic: Number / Alphabet Series
+          - Subtopic: Constant-difference series
+          - Micro: AP with d=11
+          - **R-A-CONSTANT-DIFFERE-6** (Reasoning/PROCEDURAL, L5, ord:269, q:1)
+            - Topic: Number / Alphabet Series
+            - Subtopic: Constant-difference series
+            - Micro: AP with d=11
+            - **R-V-CONSTANT-DIF-T0-6** (Reasoning/DERIVED, L6, ord:349, q:1)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Constant-difference series
+              - Micro: Trap: Assuming +1
+            - **R-V-CONSTANT-DIF-M-6** (Reasoning/DERIVED, L6, ord:373, q:0)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Constant-difference series
+              - Micro: Method route
+        - **R-M-NUMBER-A-CONSTANT-D-AP-WITH-D--7** (Reasoning/DERIVED, L4, ord:192, q:1)
+          - Topic: Number / Alphabet Series
+          - Subtopic: Constant-difference series
+          - Micro: AP with d=-10
+          - **R-A-CONSTANT-DIFFERE-7** (Reasoning/PROCEDURAL, L5, ord:270, q:1)
+            - Topic: Number / Alphabet Series
+            - Subtopic: Constant-difference series
+            - Micro: AP with d=-10
+            - **R-V-CONSTANT-DIF-T0-7** (Reasoning/DERIVED, L6, ord:350, q:1)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Constant-difference series
+              - Micro: Trap: Assuming +1
+            - **R-V-CONSTANT-DIF-M-7** (Reasoning/DERIVED, L6, ord:374, q:0)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Constant-difference series
+              - Micro: Method route
+      - **R-S-NUMBER-ALP-SECOND-ORDER** (Reasoning/DERIVED, L3, ord:75, q:27)
+        - Topic: Number / Alphabet Series
+        - Subtopic: Second-order AP
+        - **R-M-NUMBER-A-SECOND-ORD-CONSTANT-S** (Reasoning/DERIVED, L4, ord:140, q:27)
+          - Topic: Number / Alphabet Series
+          - Subtopic: Second-order AP
+          - Micro: constant second difference
+          - **R-A-SECOND-ORDER-AP-** (Reasoning/PROCEDURAL, L5, ord:221, q:27)
+            - Topic: Number / Alphabet Series
+            - Subtopic: Second-order AP
+            - Micro: constant second difference
+            - **R-V-SECOND-ORDER-T0** (Reasoning/DERIVED, L6, ord:301, q:27)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Second-order AP
+              - Micro: Trap: Constant-diff guess
+            - **R-V-SECOND-ORDER-M** (Reasoning/DERIVED, L6, ord:420, q:0)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Second-order AP
+              - Micro: Method route
+      - **R-S-NUMBER-ALP-GEOMETRIC-SE** (Reasoning/DERIVED, L3, ord:77, q:11)
+        - Topic: Number / Alphabet Series
+        - Subtopic: Geometric series
+        - **R-M-NUMBER-A-GEOMETRIC--CONSTANT-R** (Reasoning/DERIVED, L4, ord:155, q:11)
+          - Topic: Number / Alphabet Series
+          - Subtopic: Geometric series
+          - Micro: constant ratio value
+          - **R-A-GEOMETRIC-SERIES** (Reasoning/PROCEDURAL, L5, ord:236, q:11)
+            - Topic: Number / Alphabet Series
+            - Subtopic: Geometric series
+            - Micro: constant ratio value
+            - **R-V-GEOMETRIC-SE-T0** (Reasoning/DERIVED, L6, ord:316, q:11)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Geometric series
+              - Micro: Trap: Adding instead
+            - **R-V-GEOMETRIC-SE-M** (Reasoning/DERIVED, L6, ord:400, q:0)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Geometric series
+              - Micro: Method route
+      - **R-S-NUMBER-ALP-MULTIPLY-ADD** (Reasoning/DERIVED, L3, ord:78, q:12)
+        - Topic: Number / Alphabet Series
+        - Subtopic: Multiply-add
+        - **R-M-NUMBER-A-MULTIPLY-A-FIXED-K-C-** (Reasoning/COMBINATIONAL, L4, ord:154, q:12)
+          - Topic: Number / Alphabet Series
+          - Subtopic: Multiply-add
+          - Micro: fixed k,c parameters
+          - **R-A-MULTIPLY-ADD-KC-** (Reasoning/COMBINATIONAL, L5, ord:235, q:12)
+            - Topic: Number / Alphabet Series
+            - Subtopic: Multiply-add
+            - Micro: fixed k,c parameters
+            - **R-V-MULTIPLY-ADD-T0** (Reasoning/DERIVED, L6, ord:315, q:12)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Multiply-add
+              - Micro: Trap: Pure multiply
+            - **R-V-MULTIPLY-ADD-M** (Reasoning/DERIVED, L6, ord:413, q:0)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Multiply-add
+              - Micro: Method route
+      - **R-S-NUMBER-ALP-INCREASING-S** (Reasoning/DERIVED, L3, ord:81, q:8)
+        - Topic: Number / Alphabet Series
+        - Subtopic: Increasing-shift alphabet series
+        - **R-M-NUMBER-A-INCREASING-SHIFT-GROW** (Reasoning/DERIVED, L4, ord:159, q:8)
+          - Topic: Number / Alphabet Series
+          - Subtopic: Increasing-shift alphabet series
+          - Micro: shift grows each step
+          - **R-A-INCREASING-SHIFT** (Reasoning/PROCEDURAL, L5, ord:241, q:8)
+            - Topic: Number / Alphabet Series
+            - Subtopic: Increasing-shift alphabet series
+            - Micro: shift grows each step
+            - **R-V-INCREASING-S-T0** (Reasoning/DERIVED, L6, ord:321, q:8)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Increasing-shift alphabet series
+              - Micro: Trap: Constant shift
+            - **R-V-INCREASING-S-M** (Reasoning/DERIVED, L6, ord:403, q:0)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Increasing-shift alphabet series
+              - Micro: Method route
+      - **R-S-NUMBER-ALP-SQUARES-CUBE** (Reasoning/DERIVED, L3, ord:86, q:7)
+        - Topic: Number / Alphabet Series
+        - Subtopic: Squares / cubes pattern
+        - **R-M-NUMBER-A-SQUARES-CU-PERFECT-PO** (Reasoning/DERIVED, L4, ord:164, q:7)
+          - Topic: Number / Alphabet Series
+          - Subtopic: Squares / cubes pattern
+          - Micro: perfect powers in order
+          - **R-A-SQUARES-CUBES-PA** (Reasoning/PROCEDURAL, L5, ord:245, q:7)
+            - Topic: Number / Alphabet Series
+            - Subtopic: Squares / cubes pattern
+            - Micro: perfect powers in order
+            - **R-V-SQUARES-CUBE-T0** (Reasoning/DERIVED, L6, ord:325, q:7)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Squares / cubes pattern
+              - Micro: Trap: Linear fit
+            - **R-V-SQUARES-CUBE-M** (Reasoning/DERIVED, L6, ord:426, q:0)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Squares / cubes pattern
+              - Micro: Method route
+      - **R-S-NUMBER-ALP-ALTERNATING** (Reasoning/DERIVED, L3, ord:97, q:4)
+        - Topic: Number / Alphabet Series
+        - Subtopic: Alternating
+        - **R-M-NUMBER-A-ALTERNATIN-EVEN-ODD-P** (Reasoning/DERIVED, L4, ord:173, q:4)
+          - Topic: Number / Alphabet Series
+          - Subtopic: Alternating
+          - Micro: even/odd positions separate APs
+          - **R-A-ALTERNATING-TWO-** (Reasoning/PROCEDURAL, L5, ord:251, q:4)
+            - Topic: Number / Alphabet Series
+            - Subtopic: Alternating
+            - Micro: even/odd positions separate APs
+            - **R-V-ALTERNATING--T0** (Reasoning/DERIVED, L6, ord:331, q:4)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Alternating
+              - Micro: Trap: Single-sequence fit
+            - **R-V-ALTERNATING--M** (Reasoning/DERIVED, L6, ord:359, q:0)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Alternating
+              - Micro: Method route
+      - **R-S-NUMBER-ALP-NUMERIC-ARRA** (Reasoning/DERIVED, L3, ord:104, q:2)
+        - Topic: Number / Alphabet Series
+        - Subtopic: Numeric arrangement / analogy set
+        - **R-M-NUMBER-A-NUMERIC-AR-RELATION-A** (Reasoning/DERIVED, L4, ord:184, q:2)
+          - Topic: Number / Alphabet Series
+          - Subtopic: Numeric arrangement / analogy set
+          - Micro: relation across numbers
+          - **R-A-NUMERIC-ARRANGEM** (Reasoning/PROCEDURAL, L5, ord:264, q:2)
+            - Topic: Number / Alphabet Series
+            - Subtopic: Numeric arrangement / analogy set
+            - Micro: relation across numbers
+            - **R-V-NUMERIC-ARRA-T0** (Reasoning/DERIVED, L6, ord:344, q:2)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Numeric arrangement / analogy set
+              - Micro: Trap: Digit-splitting (banned by SSC)
+            - **R-V-NUMERIC-ARRA-M** (Reasoning/DERIVED, L6, ord:416, q:0)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Numeric arrangement / analogy set
+              - Micro: Method route
+      - **R-S-NUMBER-ALP-ADDITIVE** (Reasoning/DERIVED, L3, ord:111, q:1)
+        - Topic: Number / Alphabet Series
+        - Subtopic: Additive
+        - **R-M-NUMBER-A-ADDITIVE-EACH-SUM-O** (Reasoning/DERIVED, L4, ord:190, q:1)
+          - Topic: Number / Alphabet Series
+          - Subtopic: Additive
+          - Micro: each = sum of previous two
+          - **R-A-ADDITIVE-FIBONAC** (Reasoning/PROCEDURAL, L5, ord:266, q:1)
+            - Topic: Number / Alphabet Series
+            - Subtopic: Additive
+            - Micro: each = sum of previous two
+            - **R-V-ADDITIVE-FIB-T0** (Reasoning/DERIVED, L6, ord:346, q:1)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Additive
+              - Micro: Trap: Difference fit
+            - **R-V-ADDITIVE-FIB-M** (Reasoning/DERIVED, L6, ord:355, q:0)
+              - Topic: Number / Alphabet Series
+              - Subtopic: Additive
+              - Micro: Method route
+    - **R-T-ANALOGY** (Reasoning/DERIVED, L2, ord:20, q:220)
+      - Topic: Analogy
+      - Domain: Series, Analogy & Classification
+      - **R-S-ANALOGY-GENERAL-ANAL** (Reasoning/DERIVED, L3, ord:50, q:43)
+        - Topic: Analogy
+        - Subtopic: General analogy
+        - **R-M-ANALOGY-GENERAL-AN-RELATION-M** (Reasoning/DERIVED, L4, ord:130, q:43)
+          - Topic: Analogy
+          - Subtopic: General analogy
+          - Micro: relation mapping
+          - **R-A-GENERAL-ANALOGY** (Reasoning/DERIVED, L5, ord:211, q:43)
+            - Topic: Analogy
+            - Subtopic: General analogy
+            - Micro: relation mapping
+            - **R-V-GENERAL-ANAL-T0** (Reasoning/DERIVED, L6, ord:291, q:43)
+              - Topic: Analogy
+              - Subtopic: General analogy
+              - Micro: Trap: Vague association
+            - **R-V-GENERAL-ANAL-M** (Reasoning/DERIVED, L6, ord:387, q:0)
+              - Topic: Analogy
+              - Subtopic: General analogy
+              - Micro: Method route
+      - **R-S-ANALOGY-WORD-ANALOGY** (Reasoning/DERIVED, L3, ord:56, q:34)
+        - Topic: Analogy
+        - Subtopic: Word analogy
+        - **R-M-ANALOGY-WORD-ANALO-RELATION-T** (Reasoning/DERIVED, L4, ord:139, q:29)
+          - Topic: Analogy
+          - Subtopic: Word analogy
+          - Micro: relation type
+          - **R-A-WORD-ANALOGY-SEM** (Reasoning/PROCEDURAL, L5, ord:220, q:29)
+            - Topic: Analogy
+            - Subtopic: Word analogy
+            - Micro: relation type
+            - **R-V-WORD-ANALOGY-T0** (Reasoning/DERIVED, L6, ord:300, q:29)
+              - Topic: Analogy
+              - Subtopic: Word analogy
+              - Micro: Trap: Association vagueness
+            - **R-V-WORD-ANALOGY-M** (Reasoning/DERIVED, L6, ord:434, q:0)
+              - Topic: Analogy
+              - Subtopic: Word analogy
+              - Micro: Method route
+        - **R-M-ANALOGY-WORD-ANALO-RELATION-M** (Reasoning/DERIVED, L4, ord:167, q:5)
+          - Topic: Analogy
+          - Subtopic: Word analogy
+          - Micro: relation mapping
+          - **R-A-WORD-ANALOGY-HIN** (Reasoning/PROCEDURAL, L5, ord:250, q:5)
+            - Topic: Analogy
+            - Subtopic: Word analogy
+            - Micro: relation mapping
+            - **R-V-WORD-ANALOGY-T0-2** (Reasoning/DERIVED, L6, ord:330, q:5)
+              - Topic: Analogy
+              - Subtopic: Word analogy
+              - Micro: Trap: Vague association
+            - **R-V-WORD-ANALOGY-M-2** (Reasoning/DERIVED, L6, ord:435, q:0)
+              - Topic: Analogy
+              - Subtopic: Word analogy
+              - Micro: Method route
+      - **R-S-ANALOGY-LETTER-TERM-** (Reasoning/DERIVED, L3, ord:58, q:26)
+        - Topic: Analogy
+        - Subtopic: Letter/term analogy
+        - **R-M-ANALOGY-LETTER-TER-POSITIONAL** (Reasoning/DERIVED, L4, ord:141, q:26)
+          - Topic: Analogy
+          - Subtopic: Letter/term analogy
+          - Micro: positional mapping
+          - **R-A-LETTER-TERM-ANAL** (Reasoning/PROCEDURAL, L5, ord:222, q:26)
+            - Topic: Analogy
+            - Subtopic: Letter/term analogy
+            - Micro: positional mapping
+            - **R-V-LETTER-TERM--T0** (Reasoning/DERIVED, L6, ord:302, q:26)
+              - Topic: Analogy
+              - Subtopic: Letter/term analogy
+              - Micro: Trap: Reading as words
+            - **R-V-LETTER-TERM--M** (Reasoning/DERIVED, L6, ord:407, q:0)
+              - Topic: Analogy
+              - Subtopic: Letter/term analogy
+              - Micro: Method route
+      - **R-S-ANALOGY-NUMBER-ANALO** (Reasoning/DERIVED, L3, ord:59, q:108)
+        - Topic: Analogy
+        - Subtopic: Number analogy
+        - **R-M-ANALOGY-NUMBER-ANA-OPERATION-** (Reasoning/DERIVED, L4, ord:114, q:108)
+          - Topic: Analogy
+          - Subtopic: Number analogy
+          - Micro: operation across pair
+          - **R-A-NUMBER-ANALOGY-A** (Reasoning/PROCEDURAL, L5, ord:195, q:108)
+            - Topic: Analogy
+            - Subtopic: Number analogy
+            - Micro: operation across pair
+            - **R-V-NUMBER-ANALO-T0** (Reasoning/DERIVED, L6, ord:276, q:108)
+              - Topic: Analogy
+              - Subtopic: Number analogy
+              - Micro: Trap: Digit-splitting
+            - **R-V-NUMBER-ANALO-M** (Reasoning/DERIVED, L6, ord:414, q:0)
+              - Topic: Analogy
+              - Subtopic: Number analogy
+              - Micro: Method route
+      - **R-S-ANALOGY-SET-TRIAD-AN** (Reasoning/DERIVED, L3, ord:80, q:9)
+        - Topic: Analogy
+        - Subtopic: Set/triad analogy
+        - **R-M-ANALOGY-SET-TRIAD--COMMON-RUL** (Reasoning/DERIVED, L4, ord:158, q:9)
+          - Topic: Analogy
+          - Subtopic: Set/triad analogy
+          - Micro: common rule across triple
+          - **R-A-SET-TRIAD-ANALOG** (Reasoning/PROCEDURAL, L5, ord:239, q:9)
+            - Topic: Analogy
+            - Subtopic: Set/triad analogy
+            - Micro: common rule across triple
+            - **R-V-SET-TRIAD-AN-T0** (Reasoning/DERIVED, L6, ord:319, q:9)
+              - Topic: Analogy
+              - Subtopic: Set/triad analogy
+              - Micro: Trap: Pairwise only
+            - **R-V-SET-TRIAD-AN-M** (Reasoning/DERIVED, L6, ord:421, q:0)
+              - Topic: Analogy
+              - Subtopic: Set/triad analogy
+              - Micro: Method route
+    - **R-T-CLASSIFICATION** (Reasoning/DERIVED, L2, ord:25, q:121)
+      - Topic: Classification / Odd-One-Out
+      - Domain: Series, Analogy & Classification
+      - **R-S-CLASSIFICA-LETTER-CLUST** (Reasoning/DERIVED, L3, ord:62, q:19)
+        - Topic: Classification / Odd-One-Out
+        - Subtopic: Letter-cluster classification
+        - **R-M-CLASSIFI-LETTER-CLU-POSITIONAL** (Reasoning/DERIVED, L4, ord:146, q:19)
+          - Topic: Classification / Odd-One-Out
+          - Subtopic: Letter-cluster classification
+          - Micro: positional property
+          - **R-A-LETTER-CLUSTER-C** (Reasoning/PROCEDURAL, L5, ord:228, q:19)
+            - Topic: Classification / Odd-One-Out
+            - Subtopic: Letter-cluster classification
+            - Micro: positional property
+            - **R-V-LETTER-CLUST-T0** (Reasoning/DERIVED, L6, ord:308, q:19)
+              - Topic: Classification / Odd-One-Out
+              - Subtopic: Letter-cluster classification
+              - Micro: Trap: Reading as words
+            - **R-V-LETTER-CLUST-M** (Reasoning/DERIVED, L6, ord:405, q:0)
+              - Topic: Classification / Odd-One-Out
+              - Subtopic: Letter-cluster classification
+              - Micro: Method route
+      - **R-S-CLASSIFICA-BARE-ODD-ONE** (Reasoning/DERIVED, L3, ord:63, q:64)
+        - Topic: Classification / Odd-One-Out
+        - Subtopic: Bare odd-one-out
+        - **R-M-CLASSIFI-BARE-ODD-O-OPTION-DRI** (Reasoning/DERIVED, L4, ord:124, q:64)
+          - Topic: Classification / Odd-One-Out
+          - Subtopic: Bare odd-one-out
+          - Micro: option-driven
+          - **R-A-BARE-ODD-ONE-OUT** (Reasoning/PROCEDURAL, L5, ord:205, q:64)
+            - Topic: Classification / Odd-One-Out
+            - Subtopic: Bare odd-one-out
+            - Micro: option-driven
+            - **R-V-BARE-ODD-ONE-T0** (Reasoning/DERIVED, L6, ord:286, q:64)
+              - Topic: Classification / Odd-One-Out
+              - Subtopic: Bare odd-one-out
+              - Micro: Trap: First-option bias
+            - **R-V-BARE-ODD-ONE-M** (Reasoning/DERIVED, L6, ord:362, q:0)
+              - Topic: Classification / Odd-One-Out
+              - Subtopic: Bare odd-one-out
+              - Micro: Method route
+      - **R-S-CLASSIFICA-GENERAL-ODD-** (Reasoning/DERIVED, L3, ord:93, q:5)
+        - Topic: Classification / Odd-One-Out
+        - Subtopic: General odd-one-out
+        - **R-M-CLASSIFI-GENERAL-OD-PROPERTY-B** (Reasoning/DERIVED, L4, ord:168, q:5)
+          - Topic: Classification / Odd-One-Out
+          - Subtopic: General odd-one-out
+          - Micro: property break
+          - **R-A-GENERAL-ODD-ONE-** (Reasoning/DERIVED, L5, ord:248, q:5)
+            - Topic: Classification / Odd-One-Out
+            - Subtopic: General odd-one-out
+            - Micro: property break
+            - **R-V-GENERAL-ODD--T0** (Reasoning/DERIVED, L6, ord:328, q:5)
+              - Topic: Classification / Odd-One-Out
+              - Subtopic: General odd-one-out
+              - Micro: Trap: Single focus
+            - **R-V-GENERAL-ODD--M** (Reasoning/DERIVED, L6, ord:395, q:0)
+              - Topic: Classification / Odd-One-Out
+              - Subtopic: General odd-one-out
+              - Micro: Method route
+      - **R-S-CLASSIFICA-NUMBER-BASED** (Reasoning/DERIVED, L3, ord:106, q:1)
+        - Topic: Classification / Odd-One-Out
+        - Subtopic: Number-based classification
+        - **R-M-CLASSIFI-NUMBER-BAS-ARITHMETIC** (Reasoning/DERIVED, L4, ord:186, q:1)
+          - Topic: Classification / Odd-One-Out
+          - Subtopic: Number-based classification
+          - Micro: arithmetic property
+          - **R-A-NUMBER-BASED-CLA** (Reasoning/PROCEDURAL, L5, ord:272, q:1)
+            - Topic: Classification / Odd-One-Out
+            - Subtopic: Number-based classification
+            - Micro: arithmetic property
+            - **R-V-NUMBER-BASED-T0** (Reasoning/DERIVED, L6, ord:352, q:1)
+              - Topic: Classification / Odd-One-Out
+              - Subtopic: Number-based classification
+              - Micro: Trap: Single-option focus
+            - **R-V-NUMBER-BASED-M** (Reasoning/DERIVED, L6, ord:415, q:0)
+              - Topic: Classification / Odd-One-Out
+              - Subtopic: Number-based classification
+              - Micro: Method route
+      - **R-S-CLASSIFICA-GROUP-OF-FOU** (Reasoning/DERIVED, L3, ord:107, q:32)
+        - Topic: Classification / Odd-One-Out
+        - Subtopic: Group-of-four odd-out
+        - **R-M-CLASSIFI-GROUP-OF-F-ARITHMETIC** (Reasoning/DERIVED, L4, ord:136, q:32)
+          - Topic: Classification / Odd-One-Out
+          - Subtopic: Group-of-four odd-out
+          - Micro: arithmetic property
+          - **R-A-GROUP-OF-FOUR-OD** (Reasoning/PROCEDURAL, L5, ord:217, q:32)
+            - Topic: Classification / Odd-One-Out
+            - Subtopic: Group-of-four odd-out
+            - Micro: arithmetic property
+            - **R-V-GROUP-OF-FOU-T0** (Reasoning/DERIVED, L6, ord:297, q:32)
+              - Topic: Classification / Odd-One-Out
+              - Subtopic: Group-of-four odd-out
+              - Micro: Trap: Single-option focus
+            - **R-V-GROUP-OF-FOU-M** (Reasoning/DERIVED, L6, ord:402, q:0)
+              - Topic: Classification / Odd-One-Out
+              - Subtopic: Group-of-four odd-out
+              - Micro: Method route
+  - **R-D-SPATIAL-VISUAL** (Reasoning/DERIVED, L1, ord:5, q:0)
+    - Domain: Spatial & Visual Reasoning
+    - **R-T-EMBEDDED-COMPL** (Reasoning/DERIVED, L2, ord:27, q:101)
+      - Topic: Embedded / Completion / Counting
+      - Domain: Spatial & Visual Reasoning
+      - **R-S-EMBEDDED-C-EMBEDDED** (Reasoning/DERIVED, L3, ord:70, q:16)
+        - Topic: Embedded / Completion / Counting
+        - Subtopic: Embedded
+        - **R-M-EMBEDDED-EMBEDDED-PART-WHOLE** (Reasoning/DERIVED, L4, ord:152, q:16)
+          - Topic: Embedded / Completion / Counting
+          - Subtopic: Embedded
+          - Micro: part-whole spotting
+          - **R-A-EMBEDDED-HIDDEN-** (Reasoning/PROCEDURAL, L5, ord:232, q:16)
+            - Topic: Embedded / Completion / Counting
+            - Subtopic: Embedded
+            - Micro: part-whole spotting
+            - **R-V-EMBEDDED-HID-T0** (Reasoning/DERIVED, L6, ord:312, q:16)
+              - Topic: Embedded / Completion / Counting
+              - Subtopic: Embedded
+              - Micro: Trap: Rotated blindness
+            - **R-V-EMBEDDED-HID-M** (Reasoning/DERIVED, L6, ord:380, q:0)
+              - Topic: Embedded / Completion / Counting
+              - Subtopic: Embedded
+              - Micro: Method route
+      - **R-S-EMBEDDED-C-FIGURE-COMPL** (Reasoning/DERIVED, L3, ord:71, q:47)
+        - Topic: Embedded / Completion / Counting
+        - Subtopic: Figure completion
+        - **R-M-EMBEDDED-FIGURE-COM-SYMMETRY-F** (Reasoning/DERIVED, L4, ord:128, q:47)
+          - Topic: Embedded / Completion / Counting
+          - Subtopic: Figure completion
+          - Micro: symmetry fill
+          - **R-A-FIGURE-COMPLETIO** (Reasoning/PROCEDURAL, L5, ord:209, q:47)
+            - Topic: Embedded / Completion / Counting
+            - Subtopic: Figure completion
+            - Micro: symmetry fill
+            - **R-V-FIGURE-COMPL-T0** (Reasoning/DERIVED, L6, ord:289, q:47)
+              - Topic: Embedded / Completion / Counting
+              - Subtopic: Figure completion
+              - Micro: Trap: Random fill
+            - **R-V-FIGURE-COMPL-M** (Reasoning/DERIVED, L6, ord:382, q:0)
+              - Topic: Embedded / Completion / Counting
+              - Subtopic: Figure completion
+              - Micro: Method route
+      - **R-S-EMBEDDED-C-COUNT-GEOMET** (Reasoning/DERIVED, L3, ord:72, q:34)
+        - Topic: Embedded / Completion / Counting
+        - Subtopic: Count geometric figures
+        - **R-M-EMBEDDED-COUNT-GEOM-SYSTEMATIC** (Reasoning/DERIVED, L4, ord:135, q:34)
+          - Topic: Embedded / Completion / Counting
+          - Subtopic: Count geometric figures
+          - Micro: systematic enumeration
+          - **R-A-COUNT-GEOMETRIC-** (Reasoning/PROCEDURAL, L5, ord:216, q:34)
+            - Topic: Embedded / Completion / Counting
+            - Subtopic: Count geometric figures
+            - Micro: systematic enumeration
+            - **R-V-COUNT-GEOMET-T0** (Reasoning/DERIVED, L6, ord:296, q:34)
+              - Topic: Embedded / Completion / Counting
+              - Subtopic: Count geometric figures
+              - Micro: Trap: Double counting
+            - **R-V-COUNT-GEOMET-M** (Reasoning/DERIVED, L6, ord:376, q:0)
+              - Topic: Embedded / Completion / Counting
+              - Subtopic: Count geometric figures
+              - Micro: Method route
+      - **R-S-EMBEDDED-C-GENERAL-FIGU** (Reasoning/DERIVED, L3, ord:95, q:4)
+        - Topic: Embedded / Completion / Counting
+        - Subtopic: General figure task
+        - **R-M-EMBEDDED-GENERAL-FI-VISUAL-ANA** (Reasoning/DERIVED, L4, ord:171, q:4)
+          - Topic: Embedded / Completion / Counting
+          - Subtopic: General figure task
+          - Micro: visual analysis
+          - **R-A-GENERAL-FIGURE-T** (Reasoning/DERIVED, L5, ord:255, q:4)
+            - Topic: Embedded / Completion / Counting
+            - Subtopic: General figure task
+            - Micro: visual analysis
+            - **R-V-GENERAL-FIGU-T0** (Reasoning/DERIVED, L6, ord:335, q:4)
+              - Topic: Embedded / Completion / Counting
+              - Subtopic: General figure task
+              - Micro: Trap: Figure blindness
+            - **R-V-GENERAL-FIGU-M** (Reasoning/DERIVED, L6, ord:393, q:0)
+              - Topic: Embedded / Completion / Counting
+              - Subtopic: General figure task
+              - Micro: Method route
+    - **R-T-FIGURE-BASED-I** (Reasoning/DERIVED, L2, ord:28, q:53)
+      - Topic: Figure-Based (Image)
+      - Domain: Spatial & Visual Reasoning
+      - **R-S-FIGURE-BAS-FIGURE-TASK** (Reasoning/DERIVED, L3, ord:47, q:53)
+        - Topic: Figure-Based (Image)
+        - Subtopic: Figure task
+        - **R-M-FIGURE-B-FIGURE-TAS-VISUAL-REA** (Reasoning/DERIVED, L4, ord:126, q:53)
+          - Topic: Figure-Based (Image)
+          - Subtopic: Figure task
+          - Micro: visual reasoning
+          - **R-A-FIGURE-TASK-NEED** (Reasoning/PROCEDURAL, L5, ord:207, q:53)
+            - Topic: Figure-Based (Image)
+            - Subtopic: Figure task
+            - Micro: visual reasoning
+            - **R-V-FIGURE-TASK--M** (Reasoning/DERIVED, L6, ord:384, q:0)
+              - Topic: Figure-Based (Image)
+              - Subtopic: Figure task
+              - Micro: Method route
+    - **R-T-MIRROR-WATER-I** (Reasoning/DERIVED, L2, ord:29, q:52)
+      - Topic: Mirror / Water Images
+      - Domain: Spatial & Visual Reasoning
+      - **R-S-MIRROR-WAT-MIRROR-IMAGE** (Reasoning/DERIVED, L3, ord:48, q:49)
+        - Topic: Mirror / Water Images
+        - Subtopic: Mirror image
+        - **R-M-MIRROR-W-MIRROR-IMA-LEFT-RIGHT** (Reasoning/DERIVED, L4, ord:127, q:49)
+          - Topic: Mirror / Water Images
+          - Subtopic: Mirror image
+          - Micro: left-right flip
+          - **R-A-MIRROR-IMAGE-LAT** (Reasoning/PROCEDURAL, L5, ord:208, q:49)
+            - Topic: Mirror / Water Images
+            - Subtopic: Mirror image
+            - Micro: left-right flip
+            - **R-V-MIRROR-IMAGE-T0** (Reasoning/DERIVED, L6, ord:288, q:49)
+              - Topic: Mirror / Water Images
+              - Subtopic: Mirror image
+              - Micro: Trap: Water-flip confusion
+            - **R-V-MIRROR-IMAGE-M** (Reasoning/DERIVED, L6, ord:411, q:0)
+              - Topic: Mirror / Water Images
+              - Subtopic: Mirror image
+              - Micro: Method route
+      - **R-S-MIRROR-WAT-GENERAL-IMAG** (Reasoning/DERIVED, L3, ord:99, q:3)
+        - Topic: Mirror / Water Images
+        - Subtopic: General image flip
+        - **R-M-MIRROR-W-GENERAL-IM-FLIP-RULE** (Reasoning/DERIVED, L4, ord:176, q:3)
+          - Topic: Mirror / Water Images
+          - Subtopic: General image flip
+          - Micro: flip rule
+          - **R-A-GENERAL-IMAGE-FL** (Reasoning/DERIVED, L5, ord:258, q:3)
+            - Topic: Mirror / Water Images
+            - Subtopic: General image flip
+            - Micro: flip rule
+            - **R-V-GENERAL-IMAG-T0** (Reasoning/DERIVED, L6, ord:338, q:3)
+              - Topic: Mirror / Water Images
+              - Subtopic: General image flip
+              - Micro: Trap: Flip confusion
+            - **R-V-GENERAL-IMAG-M** (Reasoning/DERIVED, L6, ord:394, q:0)
+              - Topic: Mirror / Water Images
+              - Subtopic: General image flip
+              - Micro: Method route
+    - **R-T-DICE-CUBES** (Reasoning/DERIVED, L2, ord:30, q:49)
+      - Topic: Dice & Cubes
+      - Domain: Spatial & Visual Reasoning
+      - **R-S-DICE-CUBES-STANDARD-DIC** (Reasoning/DERIVED, L3, ord:51, q:42)
+        - Topic: Dice & Cubes
+        - Subtopic: Standard dice opposite-face
+        - **R-M-DICE-CUB-STANDARD-D-ADJACENT-N** (Reasoning/DERIVED, L4, ord:131, q:42)
+          - Topic: Dice & Cubes
+          - Subtopic: Standard dice opposite-face
+          - Micro: adjacent-never-opposite
+          - **R-A-STANDARD-DICE-OP** (Reasoning/PROCEDURAL, L5, ord:212, q:42)
+            - Topic: Dice & Cubes
+            - Subtopic: Standard dice opposite-face
+            - Micro: adjacent-never-opposite
+            - **R-V-STANDARD-DIC-T0** (Reasoning/DERIVED, L6, ord:292, q:42)
+              - Topic: Dice & Cubes
+              - Subtopic: Standard dice opposite-face
+              - Micro: Trap: Opposite adjacency
+            - **R-V-STANDARD-DIC-M** (Reasoning/DERIVED, L6, ord:427, q:0)
+              - Topic: Dice & Cubes
+              - Subtopic: Standard dice opposite-face
+              - Micro: Method route
+      - **R-S-DICE-CUBES-GENERAL-DICE** (Reasoning/DERIVED, L3, ord:84, q:7)
+        - Topic: Dice & Cubes
+        - Subtopic: General dice/cube
+        - **R-M-DICE-CUB-GENERAL-DI-SPATIAL-LO** (Reasoning/DERIVED, L4, ord:162, q:7)
+          - Topic: Dice & Cubes
+          - Subtopic: General dice/cube
+          - Micro: spatial logic
+          - **R-A-GENERAL-DICE-CUB** (Reasoning/DERIVED, L5, ord:243, q:7)
+            - Topic: Dice & Cubes
+            - Subtopic: General dice/cube
+            - Micro: spatial logic
+            - **R-V-GENERAL-DICE-T0** (Reasoning/DERIVED, L6, ord:323, q:7)
+              - Topic: Dice & Cubes
+              - Subtopic: General dice/cube
+              - Micro: Trap: Opposite adjacency
+            - **R-V-GENERAL-DICE-M** (Reasoning/DERIVED, L6, ord:391, q:0)
+              - Topic: Dice & Cubes
+              - Subtopic: General dice/cube
+              - Micro: Method route
+    - **R-T-PAPER-FOLDING-** (Reasoning/DERIVED, L2, ord:32, q:30)
+      - Topic: Paper Folding & Cutting
+      - Domain: Spatial & Visual Reasoning
+      - **R-S-PAPER-FOLD-FOLD-PUNCH-U** (Reasoning/DERIVED, L3, ord:57, q:30)
+        - Topic: Paper Folding & Cutting
+        - Subtopic: Fold-punch-unfold trace
+        - **R-M-PAPER-FO-FOLD-PUNCH-SYMMETRIC-** (Reasoning/DERIVED, L4, ord:138, q:30)
+          - Topic: Paper Folding & Cutting
+          - Subtopic: Fold-punch-unfold trace
+          - Micro: symmetric replication
+          - **R-A-FOLD-PUNCH-UNFOL** (Reasoning/PROCEDURAL, L5, ord:219, q:30)
+            - Topic: Paper Folding & Cutting
+            - Subtopic: Fold-punch-unfold trace
+            - Micro: symmetric replication
+            - **R-V-FOLD-PUNCH-U-T0** (Reasoning/DERIVED, L6, ord:299, q:30)
+              - Topic: Paper Folding & Cutting
+              - Subtopic: Fold-punch-unfold trace
+              - Micro: Trap: Single-hole answer
+            - **R-V-FOLD-PUNCH-U-M** (Reasoning/DERIVED, L6, ord:386, q:0)
+              - Topic: Paper Folding & Cutting
+              - Subtopic: Fold-punch-unfold trace
+              - Micro: Method route
+    - **R-T-FIGURE-SERIES** (Reasoning/DERIVED, L2, ord:33, q:20)
+      - Topic: Figure Series
+      - Domain: Spatial & Visual Reasoning
+      - **R-S-FIGURE-SER-FIGURE-SERIE** (Reasoning/DERIVED, L3, ord:73, q:20)
+        - Topic: Figure Series
+        - Subtopic: Figure series completion
+        - **R-M-FIGURE-S-FIGURE-SER-VISUAL-RUL** (Reasoning/DERIVED, L4, ord:144, q:20)
+          - Topic: Figure Series
+          - Subtopic: Figure series completion
+          - Micro: visual rule per step
+          - **R-A-FIGURE-SERIES-CO** (Reasoning/PROCEDURAL, L5, ord:225, q:20)
+            - Topic: Figure Series
+            - Subtopic: Figure series completion
+            - Micro: visual rule per step
+            - **R-V-FIGURE-SERIE-T0** (Reasoning/DERIVED, L6, ord:305, q:20)
+              - Topic: Figure Series
+              - Subtopic: Figure series completion
+              - Micro: Trap: Single-feature lock
+            - **R-V-FIGURE-SERIE-M** (Reasoning/DERIVED, L6, ord:383, q:0)
+              - Topic: Figure Series
+              - Subtopic: Figure series completion
+              - Micro: Method route
+  - **R-EXT-A1Z26** (Reasoning/FOUNDATIONAL, L1, ord:6, q:0)
+    - Micro: Alphabet positions (A1Z26)
+    - Domain: Foundational Prerequisites
+  - **R-EXT-ARITH** (Reasoning/FOUNDATIONAL, L1, ord:7, q:0)
+    - Micro: Arithmetic for reasoning patterns
+    - Domain: Foundational Prerequisites
+  - **R-EXT-BODMAS** (Reasoning/FOUNDATIONAL, L1, ord:8, q:0)
+    - Micro: BODMAS evaluation
+    - Domain: Foundational Prerequisites
+  - **R-EXT-CALBASIC** (Reasoning/FOUNDATIONAL, L1, ord:9, q:0)
+    - Micro: Calendar basics
+    - Domain: Foundational Prerequisites
+  - **R-EXT-CARD** (Reasoning/FOUNDATIONAL, L1, ord:10, q:0)
+    - Micro: Cardinal directions & turns
+    - Domain: Foundational Prerequisites
+  - **R-EXT-CLOCKFACE** (Reasoning/FOUNDATIONAL, L1, ord:11, q:0)
+    - Micro: Clock-face basics
+    - Domain: Foundational Prerequisites
+  - **R-EXT-CUBENET** (Reasoning/FOUNDATIONAL, L1, ord:12, q:0)
+    - Micro: Cube nets
+    - Domain: Foundational Prerequisites
+  - **R-EXT-PARDIV** (Reasoning/FOUNDATIONAL, L1, ord:13, q:0)
+    - Micro: Parity & divisibility basics
+    - Domain: Foundational Prerequisites
+  - **R-EXT-SPAT** (Reasoning/FOUNDATIONAL, L1, ord:14, q:0)
+    - Micro: Spatial visualization
+    - Domain: Foundational Prerequisites
+  - **R-EXT-STMLOG** (Reasoning/FOUNDATIONAL, L1, ord:15, q:0)
+    - Micro: Statement-conclusion logic
+    - Domain: Foundational Prerequisites
+  - **R-EXT-SUNSHAD** (Reasoning/FOUNDATIONAL, L1, ord:16, q:0)
+    - Micro: Sun-shadow orientation
+    - Domain: Foundational Prerequisites
+  - **R-EXT-VOCAB** (Reasoning/FOUNDATIONAL, L1, ord:17, q:0)
+    - Micro: General English vocabulary
+    - Domain: Foundational Prerequisites

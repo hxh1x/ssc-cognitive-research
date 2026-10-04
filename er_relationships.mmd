@@ -1,0 +1,27 @@
+```mermaid
+erDiagram
+    CONCEPT {
+        string node_id PK
+        string parent_id FK "Parent in hierarchy"
+        int level
+        string subject
+        string topic
+        string subtopic
+        string micro_concept
+    }
+    CONCEPT_DEPENDENCY {
+        string prerequisite_node FK
+        string dependent_node FK
+        string dependency_type
+    }
+    QUESTION {
+        string question_id PK
+        string subject
+        string topic
+        string micro_concept
+    }
+    CONCEPT ||--o{ CONCEPT : "parent_of"
+    CONCEPT }|--o{ CONCEPT_DEPENDENCY : "is_prereq_for"
+    CONCEPT }|--o{ CONCEPT_DEPENDENCY : "depends_on"
+    CONCEPT ||--o{ QUESTION : "assessed_by"
+```
